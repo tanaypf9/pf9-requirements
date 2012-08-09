@@ -1,4 +1,5 @@
 Babel>=0.9.6 # precise=0.9.6,oneiric=0.9.6
+Beaker>=1.5.4 # precise=1.5.4-4,oneiric=1.5.4-4
 BeautifulSoup>=3.2,<3.3 # precise=3.2.0,oneiric=3.2.0
 Cheetah>=2.4.4,<2.4.5 # precise=2.4.4,oneiric=2.4.4
 Django>=1.4,<1.5 # needs to be packaged for ubuntu
