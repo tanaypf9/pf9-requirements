@@ -85,6 +85,7 @@ def _copy_requires(req, dest_dir):
             if "pep8" in old_require:
                 new_reqs.write("%s\n" % dest_reqs[old_require])
 
+
 def main(argv):
     for req in ('pip-requires', 'test-requires'):
         _copy_requires(req, argv[0])
