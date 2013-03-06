@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAN3//6Gg\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1812
+      },
+      "writtenOn": "2013-03-06T22:21:38Z",
+      "side": 1,
+      "message": "Handy.\n\nIt might be simpler to avoid the regexp and use set difference like:\n\n    (sed p $GIT_DIR/requirements/tools/pip-requires;\n     concat tools/test-requires ) |\n    sort | uniq -u \u003e $GIT_DIR/requirements/tools/test-requires",
+      "revId": "c499e65ae9720073ccb9f18ac04f15be1089b857",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
