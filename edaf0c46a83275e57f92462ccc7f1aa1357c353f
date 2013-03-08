@@ -88,6 +88,24 @@
       "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//2UI\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2013-03-08T22:17:35Z",
+      "side": 1,
+      "message": "It\u0027s worth noting that our unit test runners aren\u0027t going to distinguish between these--our pypi mirror will be populated with the combination of the two Even if a package has only been approved for addition to openstack/requirements:tools/test-requires a project can still theoretically (wrongly) choose to put that in its own tools/pip-requires instead. The current mirror restrictions alone are insufficient to prevent it (though some specialized tests to compare these might be in the cards?).",
+      "parentUuid": "AAAAN3//2U8\u003d",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
