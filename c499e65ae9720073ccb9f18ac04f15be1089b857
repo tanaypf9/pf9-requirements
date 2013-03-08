@@ -16,6 +16,24 @@
       "revId": "c499e65ae9720073ccb9f18ac04f15be1089b857",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//3RA\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1247
+      },
+      "writtenOn": "2013-03-08T11:44:14Z",
+      "side": 1,
+      "message": "Fancy :)",
+      "parentUuid": "AAAAN3//6Gg\u003d",
+      "revId": "c499e65ae9720073ccb9f18ac04f15be1089b857",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
