@@ -46,6 +46,7 @@ python-gflags>=1.5.1,<1.6 # precise=1.5.1,oneiric=1.5.1
 python-glanceclient
 python-keystoneclient
 python-novaclient
+python-quantumclient>=2.2.0,<3.0.0
 python-swiftclient
 python-warlock # needs to be packaged for ubuntu
 pyyaml>=3.10 # precise=3.10,oneiric=3.10
