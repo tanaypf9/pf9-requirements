@@ -34,6 +34,24 @@
       "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//2Yw\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-03-08T21:35:22Z",
+      "side": 1,
+      "message": "Sure. They can\u0027t really learn that from this central list, though, because where the requirement is used may depend on the project.\n\nIt was my understanding that updates to this list would be handled manually, after the initial list was created. With separate files, we have the opportunity for them to be in conflict. If we maintain one file, that is less likely to happen.\n\nIf we need to know information other than the version specifier, like which projects use a requirement and how, maybe we need a richer \"schema\" for the file?",
+      "parentUuid": "AAAAN3//2Zo\u003d",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
