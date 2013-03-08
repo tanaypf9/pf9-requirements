@@ -16,6 +16,24 @@
       "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//2Zo\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1247
+      },
+      "writtenOn": "2013-03-08T21:25:49Z",
+      "side": 1,
+      "message": "Think about someone proposing the addition of a new dependency\n\nIt makes a big difference to packagers/deployers where that dependency is going to be required at runtime or just for running the unit tests",
+      "parentUuid": "AAAAN3//2hs\u003d",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
