@@ -70,6 +70,24 @@
       "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//2U8\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-03-08T22:03:27Z",
+      "side": 1,
+      "message": "OK, those are all reasonable requirements. If there\u0027s an automated way to make sure the two lists don\u0027t get out of sync at all, then that\u0027s fine, too. We can deal with a schema change if we need to add more information later.",
+      "parentUuid": "AAAAN3//2YA\u003d",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
