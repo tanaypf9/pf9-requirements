@@ -1,0 +1,9 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 08 Mar 2013 21:16:37 +0000
+Reviewed-on: https://review.openstack.org/23748
+Project: openstack/requirements
+Branch: refs/heads/master
