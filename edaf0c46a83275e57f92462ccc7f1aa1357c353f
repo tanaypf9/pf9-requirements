@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAN3//2hs\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-03-08T20:14:51Z",
+      "side": 1,
+      "message": "Why maintain separate lists for test-requires at this level?",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
