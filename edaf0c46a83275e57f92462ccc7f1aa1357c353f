@@ -52,6 +52,24 @@
       "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3//2YA\u003d",
+        "filename": "tools/update.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1247
+      },
+      "writtenOn": "2013-03-08T21:42:36Z",
+      "side": 1,
+      "message": "Richer schema, maybe so\n\nConflicts, we have a gate job to check for that - you can\u0027t have the same dep listed in both files\n\nBut we do need this information in this repo - reviewers on this repo will be the gatekeeper for new deps and they need to be informed whether the dep is proposed for runtime or just testing. And, further, people who later want to add the dep to another project need to know whether it was been approved for runtime or just testing",
+      "parentUuid": "AAAAN3//2Yw\u003d",
+      "revId": "edaf0c46a83275e57f92462ccc7f1aa1357c353f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
