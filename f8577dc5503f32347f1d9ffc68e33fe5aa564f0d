@@ -1,0 +1,9 @@
+Change-Id: If8577dc5503f32347f1d9ffc68e33fe5aa564f0d
+Approved+1: James E. Blair <corvus@inaugust.com>
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 19 Mar 2013 17:58:48 +0000
+Reviewed-on: https://review.openstack.org/24803
+Project: openstack/requirements
+Branch: refs/heads/master
