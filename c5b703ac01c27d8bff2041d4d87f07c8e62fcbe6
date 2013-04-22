@@ -1,0 +1,9 @@
+Approved+1: James E. Blair <corvus@inaugust.com>
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 Apr 2013 21:09:37 +0000
+Reviewed-on: https://review.openstack.org/26775
+Project: openstack/requirements
+Branch: refs/heads/master
