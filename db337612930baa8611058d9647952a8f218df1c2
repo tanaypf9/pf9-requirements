@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOn//wV4\u003d",
+        "filename": "tools/pip-requires",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2013-04-24T18:16:25Z",
+      "side": 1,
+      "message": "Do we want to keep the upper bound on django and simply bump it to 1.6 that way when 1.6 comes out we don\u0027t have to scramble to fix breakage?",
+      "revId": "db337612930baa8611058d9647952a8f218df1c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
