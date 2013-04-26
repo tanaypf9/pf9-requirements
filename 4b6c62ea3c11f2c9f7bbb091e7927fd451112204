@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+2: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Apr 2013 21:45:30 +0000
+Reviewed-on: https://review.openstack.org/27057
+Project: openstack/requirements
+Branch: refs/heads/master
