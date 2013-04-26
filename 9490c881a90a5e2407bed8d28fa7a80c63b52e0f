@@ -1,0 +1,11 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Eric Windisch <eric@cloudscaling.com>
+Code-Review+2: Eric Windisch <eric@cloudscaling.com>
+Code-Review+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Apr 2013 19:46:12 +0000
+Reviewed-on: https://review.openstack.org/27427
+Project: openstack/requirements
+Branch: refs/heads/master
