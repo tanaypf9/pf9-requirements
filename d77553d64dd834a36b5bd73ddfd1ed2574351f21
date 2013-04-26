@@ -1,0 +1,12 @@
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Julien Danjou <julien@danjou.info>
+Code-Review+1: p-draigbrady <P@draigBrady.com>
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Apr 2013 20:06:55 +0000
+Reviewed-on: https://review.openstack.org/27312
+Project: openstack/requirements
+Branch: refs/heads/master
