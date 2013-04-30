@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Approved+1: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+2: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+1: Kieran Spear <kispear@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 30 Apr 2013 09:39:55 +0000
+Reviewed-on: https://review.openstack.org/27407
+Project: openstack/requirements
+Branch: refs/heads/master
