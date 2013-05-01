@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Approved+1: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+2: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+1: p-draigbrady <P@draigBrady.com>
+Code-Review+2: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+1: matthew-wagoner <matthew.wagoner@hp.com>
+Code-Review+1: Jesse Keating <jesse.keating@rackspace.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 01 May 2013 13:42:50 +0000
+Reviewed-on: https://review.openstack.org/27831
+Project: openstack/requirements
+Branch: refs/heads/master
