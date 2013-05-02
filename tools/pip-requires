@@ -53,7 +53,6 @@ qpid-python
 requests>=1.1
 routes>=1.12.3
 rtslib>=2.1.fb27
-setuptools_git>=0.4
 simplejson>=2.0.9
 six
 sqlalchemy>=0.7,<=0.7.99

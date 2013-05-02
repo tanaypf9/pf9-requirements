@@ -40,3 +40,4 @@ testscenarios<0.5
 testtools>=0.9.29
 unittest2
 webtest==1.3.3
+setuptools_git>=0.4
