@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 17 May 2013 02:44:42 +0000
+Reviewed-on: https://review.openstack.org/28884
+Project: openstack/requirements
+Branch: refs/heads/master
