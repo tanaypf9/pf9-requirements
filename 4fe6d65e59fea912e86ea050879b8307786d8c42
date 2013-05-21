@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPH//288\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 24
+      },
+      "writtenOn": "2013-05-21T15:10:27Z",
+      "side": 1,
+      "message": "Can you please add the blueprint where this is required since I cant find any information about it and this is a bit too vague for me.",
+      "revId": "4fe6d65e59fea912e86ea050879b8307786d8c42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
