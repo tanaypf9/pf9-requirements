@@ -1,0 +1,17 @@
+Verified+2: Jenkins
+Code-Review+1: Trey Morris <trey.morris@rackspace.com>
+Code-Review+1: Rick Harris <rconradharris@gmail.com>
+Code-Review+1: Kevin L. Mitchell <kevin.mitchell@rackspace.com>
+Code-Review+1: Chris Behrens <cbehrens@codestud.com>
+Code-Review+1: Russell Bryant <rbryant@redhat.com>
+Code-Review+1: Michael Still <mikal@stillhq.com>
+Code-Review+1: Brian Elliott <bdelliott@gmail.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Approved+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Sergey Skripnick <sskripnick@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 May 2013 18:58:26 +0000
+Reviewed-on: https://review.openstack.org/29850
+Project: openstack/requirements
+Branch: refs/heads/master
