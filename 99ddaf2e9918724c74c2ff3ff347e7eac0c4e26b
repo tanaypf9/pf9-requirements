@@ -1,0 +1,9 @@
+Approved+1: James E. Blair <corvus@inaugust.com>
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 May 2013 16:16:53 +0000
+Reviewed-on: https://review.openstack.org/29834
+Project: openstack/requirements
+Branch: refs/heads/master
