@@ -27,6 +27,7 @@ updated to match the global requirements. Requirements not in the global
 files will be dropped.
 """
 
+import collections
 import os
 import os.path
 import sys
@@ -36,21 +37,40 @@ from pip import req
 
 def _parse_reqs(filename):
 
-    reqs = dict()
+    reqs = collections.OrderedDict()
 
     pip_requires = open(filename, "r").readlines()
+    pip_comment = []
     for pip in pip_requires:
         pip = pip.strip()
-        if pip.startswith("#") or len(pip) == 0:
+        if '#' in pip:
+            pip_comment.append(pip[pip.find('#') + 2:])
+        if not len(pip) or pip.startswith('#'):
             continue
         install_require = req.InstallRequirement.from_line(pip)
+        k = pip
         if install_require.editable:
             reqs[pip] = pip
         elif install_require.url:
             reqs[pip] = pip
         else:
+            k = install_require.req.key
             reqs[install_require.req.key] = pip
+        if pip_comment:
+            reqs["#%s" % (k.lower())] = pip_comment
+        pip_comment = []
+
     return reqs
+
+
+def _commented_pip(comment_reqs, reqs, pip):
+    s = None
+    if pip in reqs:
+        s = reqs[pip]
+        if ("#%s" % pip) in comment_reqs:
+            s = "# " + "\n# ".join(comment_reqs["#%s" % pip]) + "\n" + s
+
+    return s
 
 
 def _copy_requires(req, source_path, dest_dir):
@@ -65,26 +85,31 @@ def _copy_requires(req, source_path, dest_dir):
     source_reqs = _parse_reqs(source_path)
     dest_reqs = _parse_reqs(dest_path)
     dest_keys = [key.lower() for key in dest_reqs.keys()]
-    dest_keys.sort()
 
     print "Syncing %s" % req
+
     with open(dest_path, 'w') as new_reqs:
-        new_reqs.write("# This file is managed by openstack-depends\n")
         for old_require in dest_keys:
+            # ignore comments
+            if old_require[0] == '#':
+                continue
             # Special cases:
             # projects need to align pep8 version on their own time
             if "pep8" in old_require:
                 new_reqs.write("%s\n" % dest_reqs[old_require])
                 continue
-
             # versions of our stuff from tarballs.openstack.org are ok
-            if old_require in source_reqs or \
-                    "http://tarballs.openstack.org" in old_require:
-                new_reqs.write("%s\n" % source_reqs[old_require])
+            if "http://tarballs.openstack.org/" in old_require:
+                new_reqs.write("%s\n" % old_require)
+                continue
+
+            new_req = _commented_pip(dest_reqs, source_reqs, old_require)
+
+            if new_req:
+                new_reqs.write("%s\n" % new_req)
 
 
 def main(argv):
-
     for req in ('tools/pip-requires', 'requirements.txt'):
         _copy_requires(req, 'tools/pip-requires', argv[0])
 
