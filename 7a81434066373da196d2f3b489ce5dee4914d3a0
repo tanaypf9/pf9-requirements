@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+1: matthew wagoner <zxkuqyb@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Jun 2013 19:39:14 +0000
+Reviewed-on: https://review.openstack.org/32598
+Project: openstack/requirements
+Branch: refs/heads/master
