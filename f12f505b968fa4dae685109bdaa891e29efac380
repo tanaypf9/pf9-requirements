@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPX//tIw\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-06-12T12:49:04Z",
+      "side": 1,
+      "message": "If not pip or ...",
+      "revId": "f12f505b968fa4dae685109bdaa891e29efac380",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPX//tIk\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-06-12T12:49:04Z",
+      "side": 1,
+      "message": "I don\u0027t understand this line. Why use lower()?",
+      "revId": "f12f505b968fa4dae685109bdaa891e29efac380",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
