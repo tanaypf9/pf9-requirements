@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAPX//sGY\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-06-12T18:48:59Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAPX//tIw\u003d",
+      "revId": "f12f505b968fa4dae685109bdaa891e29efac380",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAPX//tIk\u003d",
         "filename": "update.py",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2013-06-12T12:49:04Z",
       "side": 1,
       "message": "I don\u0027t understand this line. Why use lower()?",
+      "revId": "f12f505b968fa4dae685109bdaa891e29efac380",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPX//sGg\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-06-12T18:48:59Z",
+      "side": 1,
+      "message": "because the lookup is done on lowercase\u0027d keys as well: \n\ndest_keys \u003d [key.lower() for key in dest_reqs.keys()]\n\n(line 87)",
+      "parentUuid": "AAAAPX//tIk\u003d",
       "revId": "f12f505b968fa4dae685109bdaa891e29efac380",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
