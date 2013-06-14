@@ -15,6 +15,7 @@ eventlet>=0.9.12
 extras
 flask==0.9
 greenlet>=0.3.1
+gevent-socketio>=0.3.5,<0.4.0
 happybase>=0.4
 httplib2
 iso8601>=0.1.4
