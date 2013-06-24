@@ -51,7 +51,7 @@ python-memcached
 python-novaclient>=2.12.0,<3
 python-quantumclient>=2.2.0,<3.0.0
 python-swiftclient>=1.2,<2
-pytz
+pytz>=2013b
 pyudev
 pyyaml>=3.1.0
 qpid-python
