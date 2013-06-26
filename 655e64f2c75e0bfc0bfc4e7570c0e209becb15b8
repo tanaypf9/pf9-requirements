@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//oLM\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1653
+      },
+      "writtenOn": "2013-06-26T13:15:19Z",
+      "side": 1,
+      "message": "typo - instaling",
+      "revId": "655e64f2c75e0bfc0bfc4e7570c0e209becb15b8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
