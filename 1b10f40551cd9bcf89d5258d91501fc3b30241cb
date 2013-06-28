@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Approved+1: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+2: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+1: Adam Gandelman <adam.gandelman@canonical.com>
+Code-Review+1: garyk <gkotton@redhat.com>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Submitted-by: Jenkins
+Submitted-at: Fri, 28 Jun 2013 13:08:34 +0000
+Reviewed-on: https://review.openstack.org/34539
+Project: openstack/requirements
+Branch: refs/heads/master
