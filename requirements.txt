@@ -28,7 +28,7 @@ msgpack-python
 netaddr
 netifaces>=0.5
 oauth2
-oslo.config>=1.1.0
+oslo.config>=1.2.0a3
 pam>=0.1.4
 paramiko>=1.8.0
 passlib
