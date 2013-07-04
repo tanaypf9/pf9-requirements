@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//TtU\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-04T11:30:11Z",
+      "side": 1,
+      "message": "You\u0027re not allowing the use, you\u0027re enforcing the use of oslo.config-1.2.0a3. Could you adjust the wording?",
+      "revId": "fed7671885f97e6c3a9bf2787936347b2869ba24",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
