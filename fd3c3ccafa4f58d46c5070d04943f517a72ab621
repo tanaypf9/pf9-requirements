@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//Tsg\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-04T11:32:26Z",
+      "side": 1,
+      "message": "minor nitpic: it seems we mostly use \"\u003c\" syntax, could you change it to \u003c1.2.4 for consistency?",
+      "revId": "fd3c3ccafa4f58d46c5070d04943f517a72ab621",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
