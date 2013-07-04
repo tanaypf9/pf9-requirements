@@ -16,6 +16,24 @@
       "revId": "90f4841a50f05e9e7ff76ec565fb2cc9fe3675f9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//TYA\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2013-07-04T14:00:37Z",
+      "side": 1,
+      "message": "Originally there was a version 2.2.3.  We had to bump it to make the infra processes do their magic.",
+      "parentUuid": "AAAAPn//Tt4\u003d",
+      "revId": "90f4841a50f05e9e7ff76ec565fb2cc9fe3675f9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
