@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//Tt4\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-04T11:26:28Z",
+      "side": 1,
+      "message": "The version I can see on tarballs.openstack.org is 2.2.4. Whats the point in allowing 2.2.3?",
+      "revId": "90f4841a50f05e9e7ff76ec565fb2cc9fe3675f9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
