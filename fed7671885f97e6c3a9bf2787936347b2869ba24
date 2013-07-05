@@ -16,6 +16,23 @@
       "revId": "fed7671885f97e6c3a9bf2787936347b2869ba24",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAPn//Q3o\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-05T18:10:03Z",
+      "side": 1,
+      "message": "What is this syntax good for? the requirements.txt is only a template for copying lines to the actual projects\u0027 requirements.txt. \n\nother projects however can use http://tarballs.openstack.org/ urls directly without syncing them with requirements.txt first.",
+      "revId": "fed7671885f97e6c3a9bf2787936347b2869ba24",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAPn//Q3k\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-05T18:10:03Z",
+      "side": 0,
+      "message": "The file was sorted alphabetically before. could you preserve sorting?",
+      "revId": "1ea28eb3c6f98e5d0129c9621c57f80a07759421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
