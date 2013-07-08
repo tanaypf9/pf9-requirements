@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3//9/s\u003d",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-08T12:10:52Z",
+      "side": 1,
+      "message": "This skips e.g. httplib2. it should check for http://tarballs.openstack.org/ (at least thats what the old code did)",
+      "revId": "90524cbe260260f731f54b9a9397c0e2e3d26dc7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
