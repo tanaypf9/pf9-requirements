@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Chuck Short <chuck.short@canonical.com>
+Code-Review+2: Chuck Short <chuck.short@canonical.com>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Submitted-by: Jenkins
+Submitted-at: Tue, 09 Jul 2013 20:16:11 +0000
+Reviewed-on: https://review.openstack.org/35003
+Project: openstack/requirements
+Branch: refs/heads/master
