@@ -29,7 +29,6 @@ msgpack-python
 netaddr
 netifaces>=0.5
 oauth2
-oslo.config>=1.1.0
 pam>=0.1.4
 paramiko>=1.8.0
 passlib
@@ -45,16 +44,20 @@ pycrypto>=2.6
 pymongo>=2.2
 pyopenssl
 pyparsing>=1.5.7,<2.0
+# OpenStack clients and Oslo libraries should be
+# always backward compatible within one major version
+# so only cap at the next major version
+oslo.config>=1.1.0,<2
 python-cinderclient>=1.0.4,<2
-python-ceilometerclient>=1.0.1
-python-heatclient>=0.2.2
-python-glanceclient>=0.9.0,<2
-python-keystoneclient>=0.2.1,<0.4
-python-memcached
-python-neutronclient>=2.2.3,<3.0.0
+python-ceilometerclient>=1.0.1,<2
+python-heatclient>=0.2.2<1
+python-glanceclient>=0.9.0,<1
+python-keystoneclient>=0.2.1<1
+python-neutronclient>=2.2.3,<3
 python-novaclient>=2.12.0,<3
-python-quantumclient>=2.2.0,<3.0.0
+python-quantumclient>=2.2.0,<3
 python-swiftclient>=1.2,<2
+python-memcached
 pytz>=2010h
 pyudev
 pyyaml>=3.1.0
