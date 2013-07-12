@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3//u+4\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-12T07:53:43Z",
+      "side": 1,
+      "message": "\u003c 1.2.4, please :-) otherwise the log message and your change don\u0027t match",
+      "revId": "94cad78546e62decfdec6e25b4ce86baac24e3b3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
