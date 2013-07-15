@@ -1,0 +1,9 @@
+Approved+1: Monty Taylor <mordred@inaugust.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 Jul 2013 16:19:16 +0000
+Reviewed-on: https://review.openstack.org/37072
+Project: openstack/requirements
+Branch: refs/heads/master
