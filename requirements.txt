@@ -37,8 +37,8 @@ paste
 pastedeploy>=1.5.0
 pbr>=0.5.16,<0.6
 pecan>=0.2.0
-pip>=1.1
-prettytable>=0.6,<0.8
+pip>=1.0
+PrettyTable>=0.6,<0.8
 psutil<1.0
 pyasn1
 pycrypto>=2.6
