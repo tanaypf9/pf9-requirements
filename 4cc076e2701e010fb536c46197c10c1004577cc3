@@ -16,6 +16,24 @@
       "revId": "4cc076e2701e010fb536c46197c10c1004577cc3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAP3//kTk\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2031
+      },
+      "writtenOn": "2013-07-16T14:03:39Z",
+      "side": 1,
+      "message": "I haven\u0027t tested yet\n\nBut it looks like main api is not changed\nhttp://www.makotemplates.org/CHANGES",
+      "parentUuid": "AAAAP3//kVc\u003d",
+      "revId": "4cc076e2701e010fb536c46197c10c1004577cc3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
