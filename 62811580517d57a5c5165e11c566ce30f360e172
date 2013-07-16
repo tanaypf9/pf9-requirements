@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3//iAk\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-16T21:53:43Z",
+      "side": 1,
+      "message": "That change is unrelated to your commit log.",
+      "revId": "62811580517d57a5c5165e11c566ce30f360e172",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
