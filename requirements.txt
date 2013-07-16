@@ -25,6 +25,7 @@ kazoo>=0.9,<=1.1
 kombu>=2.4.8
 lockfile>=0.8
 lxml>=2.3
+mako
 msgpack-python
 netaddr
 netifaces>=0.5
