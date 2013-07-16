@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3//kVc\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-07-16T13:50:11Z",
+      "side": 1,
+      "message": "Wow, that\u0027s a much longer version spread than I expected. Are you sure such an old version is API-compatible with the newer versions on PyPI?",
+      "revId": "4cc076e2701e010fb536c46197c10c1004577cc3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
