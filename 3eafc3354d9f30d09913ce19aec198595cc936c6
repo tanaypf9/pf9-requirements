@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAP3//iAI\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-07-16T21:55:24Z",
+      "side": 1,
+      "message": "Seems like you had some mixup between rebasing this commit and the other one.",
+      "revId": "3eafc3354d9f30d09913ce19aec198595cc936c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
