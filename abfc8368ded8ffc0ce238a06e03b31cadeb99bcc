@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAP3//kcI\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2031
+      },
+      "writtenOn": "2013-07-16T13:37:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "AAAAP3//khE\u003d",
+      "revId": "abfc8368ded8ffc0ce238a06e03b31cadeb99bcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAP3//khQ\u003d",
         "filename": "requirements.txt",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2013-07-16T13:18:51Z",
       "side": 1,
       "message": "There\u0027s another patch in process to capitalize all of the names properly. The name PyPI uses is \"Mako\", so if you use that name we won\u0027t have to come back later and change the new value.\n\nThere also need to be version constraints for the new requirement. It looks like the current version is 0.8.1 so a good upper bound is probably \u003c0.9. If you can determine the lowest version included in Ubuntu or RedHat, that could be a good lower bound (as long as it is API-compatible with 0.8.1).",
+      "revId": "abfc8368ded8ffc0ce238a06e03b31cadeb99bcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAP3//kaA\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2031
+      },
+      "writtenOn": "2013-07-16T13:37:25Z",
+      "side": 1,
+      "message": "Thanks!\nUbuntu uses 0.5\nRhel patckage is 0.3.4\nso I set 0.3.4 as lower",
+      "parentUuid": "AAAAP3//khQ\u003d",
       "revId": "abfc8368ded8ffc0ce238a06e03b31cadeb99bcc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
