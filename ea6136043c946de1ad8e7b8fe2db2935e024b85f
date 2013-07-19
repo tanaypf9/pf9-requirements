@@ -16,6 +16,24 @@
       "revId": "ea6136043c946de1ad8e7b8fe2db2935e024b85f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQn//55E\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 7502
+      },
+      "writtenOn": "2013-07-19T14:07:21Z",
+      "side": 1,
+      "message": "actually we tested this on this specific version so wanted to be safe. If you think this should not be a concern I can make it \u003e\u003d",
+      "parentUuid": "AAAAQn//57U\u003d",
+      "revId": "ea6136043c946de1ad8e7b8fe2db2935e024b85f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
