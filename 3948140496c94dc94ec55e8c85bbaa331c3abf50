@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQn//wp0\u003d",
+        "filename": "requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1561
+      },
+      "writtenOn": "2013-07-23T18:19:56Z",
+      "side": 1,
+      "message": "why doesn\u0027t the logic apply here, as well?",
+      "revId": "3948140496c94dc94ec55e8c85bbaa331c3abf50",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
