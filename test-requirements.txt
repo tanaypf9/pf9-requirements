@@ -22,6 +22,7 @@ nosexcover
 openstack.nose_plugin>=0.7
 pep8==1.4.5
 psycopg2
+psutil>=0.6.1,<1.0
 pyflakes==0.7.2
 pylint==0.25.2
 pysendfile==2.0.0
