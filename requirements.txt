@@ -26,6 +26,7 @@ kombu>=2.4.8
 lockfile>=0.8
 lxml>=2.3
 msgpack-python
+MySQL-python
 netaddr
 netifaces>=0.5
 oauth2
@@ -63,7 +64,9 @@ python-troveclient
 pytz>=2010h
 pyudev
 PyYAML>=3.1.0
+pyzmq==2.2.0.1
 qpid-python
+redis
 requests>=1.1,<1.2.3
 Routes>=1.12.3
 setuptools_git>=0.4
