@@ -63,7 +63,6 @@ python-troveclient
 pytz>=2010h
 pyudev
 PyYAML>=3.1.0
-qpid-python
 requests>=1.1,<1.2.3
 Routes>=1.12.3
 setuptools_git>=0.4
