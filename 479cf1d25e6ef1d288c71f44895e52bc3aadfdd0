@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Submitted-by: Jenkins
+Submitted-at: Wed, 24 Jul 2013 09:06:43 +0000
+Reviewed-on: https://review.openstack.org/37649
+Project: openstack/requirements
+Branch: refs/heads/master
