@@ -16,6 +16,23 @@
       "revId": "fee1bf4976ccdf86f3c775151b934037c5851f60",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQn//gPM\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2013-07-30T04:53:33Z",
+      "side": 1,
+      "message": "Use the `with open` form here please.",
+      "revId": "fee1bf4976ccdf86f3c775151b934037c5851f60",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
