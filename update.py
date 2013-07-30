@@ -126,8 +126,8 @@ def _copy_requires(source_path, dest_dir):
             old_pip = _parse_pip(old_require.lower())
 
             # Special cases:
-            # projects need to align pep8 version on their own time
-            if "pep8" in old_pip:
+            # projects need to align hacking version on their own time
+            if "hacking" in old_pip or "pbr" in old_pip:
                 new_reqs.write(old_line)
                 continue
 
