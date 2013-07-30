@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQn//gQE\u003d",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2013-07-30T04:49:19Z",
+      "side": 1,
+      "message": "Maybe it\u0027ll be better to use OpenStack copyright here?",
+      "revId": "fee1bf4976ccdf86f3c775151b934037c5851f60",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
