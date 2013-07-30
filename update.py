@@ -61,30 +61,12 @@ def _parse_reqs(filename):
     return reqs
 
 
-def _copy_requires(source_path, dest_dir):
-    """Copy requirements files."""
+def _sync_requirements_file(source_reqs, dest_path):
+    dest_reqs = []
+    with open(dest_path, 'r') as dest_reqs_file:
+        dest_reqs = dest_reqs_file.readlines()
 
-    target_map = {
-        'requirements.txt': ('requirements.txt', 'tools/pip-requires'),
-        'test-requirements.txt': (
-            'test-requirements.txt', 'tools/test-requires'),
-    }
-    for dest in target_map[source_path]:
-        dest_path = os.path.join(dest_dir, dest)
-        if os.path.exists(dest_path):
-            break
-
-    # Catch the fall through
-    if not os.path.exists(dest_path):
-        # This can happen, we try all paths
-        return
-
-    source_reqs = _parse_reqs(source_path)
-    dest_reqs = _parse_reqs(dest_path)
-    dest_keys = [key.lower() for key in dest_reqs.keys()]
-    dest_keys.sort()
-
-    print "Syncing %s" % source_path
+    print "Syncing %s" % dest_path
 
     with open(dest_path, 'w') as new_reqs:
         new_reqs.write("# This file is managed by openstack-depends\n")
@@ -98,9 +80,24 @@ def _copy_requires(source_path, dest_dir):
             if "pep8" in old_require:
                 new_reqs.write("%s\n" % dest_reqs[old_require])
 
+def _copy_requires(source_path, dest_dir):
+    """Copy requirements files."""
+
+    source_reqs = _parse_reqs(source_path)
+
+    target_files = (
+        'requirements.txt', 'tools/pip-requires',
+        'test-requirements.txt', 'tools/test-requires')
+
+    for dest in target_files:
+        dest_path = os.path.join(dest_dir, dest)
+        if os.path.exists(dest_path):
+            print "_sync_requirements_file(%s, %s)" % (source_reqs, dest_path)
+            _sync_requirements_file(source_reqs, dest_path)
+
+
 def main(argv):
-    for req in ('requirements.txt', 'test-requirements.txt'):
-        _copy_requires(req, argv[0])
+    _copy_requires('global-requirements.txt', argv[0])
 
 
 if __name__ == "__main__":
