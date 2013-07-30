@@ -34,6 +34,30 @@ import sys
 from pip import req
 
 
+_setup_py_text = """#!/usr/bin/env python
+# Copyright (c) 2013 Hewlett-Packard Development Company, L.P.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+# implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+import setuptools
+
+setuptools.setup(
+    setup_requires=['pbr>=0.5.20'],
+    pbr=True)
+"""
+
+
 def _parse_pip(pip):
 
     install_require = req.InstallRequirement.from_line(pip)
@@ -89,7 +113,7 @@ def _copy_requires(source_path, dest_dir):
     with open(dest_path, 'r') as dest_reqs_file:
         dest_reqs = dest_reqs_file.readlines()
 
-    print "Syncing %s" % source_path
+    print("Syncing %s" % source_path)
 
     with open(dest_path, 'w') as new_reqs:
         for old_line in dest_reqs:
@@ -111,9 +135,16 @@ def _copy_requires(source_path, dest_dir):
                 new_reqs.write("%s\n" % source_reqs[old_pip])
 
 
+def _write_setup_py(dest_path):
+    print("Syncing setup.py")
+    with open(os.path.join(dest_path, 'setup.py'), 'w') as setup_file:
+        setup_file.write(_setup_py_text)
+
+
 def main(argv):
     for req in ('requirements.txt', 'test-requirements.txt'):
         _copy_requires(req, argv[0])
+    _write_setup_py(argv[0])
 
 
 if __name__ == "__main__":
