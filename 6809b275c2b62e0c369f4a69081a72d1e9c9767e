@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQn//a+Q\u003d",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2013-07-31T13:10:15Z",
+      "side": 1,
+      "message": "Do we need sitepackages for this to work? Why?",
+      "revId": "6809b275c2b62e0c369f4a69081a72d1e9c9767e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
