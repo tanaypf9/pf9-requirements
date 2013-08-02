@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQn//RtI\u003d",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2013-08-02T18:00:07Z",
+      "side": 1,
+      "message": "This license header is meaningless.",
+      "revId": "37c1783af05ba0dfca9075232708e841114b4d5c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
