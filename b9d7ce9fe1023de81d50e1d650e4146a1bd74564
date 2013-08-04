@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAQn//PRY\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2013-08-04T19:13:43Z",
+      "side": 1,
+      "message": "The bit about setuptools_git is no longer accurate.",
+      "revId": "b9d7ce9fe1023de81d50e1d650e4146a1bd74564",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
