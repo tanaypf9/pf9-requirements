@@ -16,6 +16,24 @@
       "revId": "b9d7ce9fe1023de81d50e1d650e4146a1bd74564",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAQn//LSc\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2013-08-05T22:38:03Z",
+      "side": 1,
+      "message": "It\u0027s not? 0.5.21 of pbr does not require setuptools_git anymore.",
+      "parentUuid": "AAAAQn//PRY\u003d",
+      "revId": "b9d7ce9fe1023de81d50e1d650e4146a1bd74564",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
