@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+2: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: David Lyle <david.lyle@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 06 Aug 2013 22:08:27 +0000
+Reviewed-on: https://review.openstack.org/39779
+Project: openstack/requirements
+Branch: refs/heads/master
