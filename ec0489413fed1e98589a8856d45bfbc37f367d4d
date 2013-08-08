@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 08 Aug 2013 21:16:04 +0000
+Reviewed-on: https://review.openstack.org/40002
+Project: openstack/requirements
+Branch: refs/heads/master
