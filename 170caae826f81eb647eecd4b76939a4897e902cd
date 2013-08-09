@@ -1,0 +1,10 @@
+Change-Id: I170caae826f81eb647eecd4b76939a4897e902cd
+Verified+2: Jenkins
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 Aug 2013 17:19:08 +0000
+Reviewed-on: https://review.openstack.org/40730
+Project: openstack/requirements
+Branch: refs/heads/master
