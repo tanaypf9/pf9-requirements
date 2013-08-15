@@ -1,0 +1,12 @@
+Approved+1: Monty Taylor <mordred@inaugust.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+1: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 15 Aug 2013 13:34:19 +0000
+Reviewed-on: https://review.openstack.org/41523
+Project: openstack/requirements
+Branch: refs/heads/master
