@@ -1,0 +1,9 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 16 Aug 2013 23:38:14 +0000
+Reviewed-on: https://review.openstack.org/42229
+Project: openstack/requirements
+Branch: refs/heads/master
