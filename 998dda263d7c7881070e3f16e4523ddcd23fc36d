@@ -1,0 +1,11 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+2: Dave Walker <Dave.Walker@canonical.com>
+Code-Review+1: Aaron Rosen <arosen@nicira.com>
+Code-Review+1: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 19 Aug 2013 15:42:55 +0000
+Reviewed-on: https://review.openstack.org/42493
+Project: openstack/requirements
+Branch: refs/heads/master
