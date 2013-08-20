@@ -14,6 +14,7 @@ dnspython>=1.9.4
 eventlet>=0.13.0
 extras
 Flask==0.9
+gevent # Needed by pymongo >= 2.6
 greenlet>=0.3.2
 happybase>=0.4
 httplib2
