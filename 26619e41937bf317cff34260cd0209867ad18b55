@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Clark Boylan <clark.boylan@gmail.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Sat, 24 Aug 2013 17:07:54 +0000
+Reviewed-on: https://review.openstack.org/43584
+Project: openstack/requirements
+Branch: refs/heads/master
