@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Alan Pevec <apevec@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 28 Aug 2013 10:12:17 +0000
+Reviewed-on: https://review.openstack.org/43564
+Project: openstack/requirements
+Branch: refs/heads/stable/grizzly
