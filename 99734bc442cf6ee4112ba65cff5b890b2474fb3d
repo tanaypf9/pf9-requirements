@@ -16,6 +16,24 @@
       "revId": "99734bc442cf6ee4112ba65cff5b890b2474fb3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//cIY\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 6427
+      },
+      "writtenOn": "2013-09-04T18:24:45Z",
+      "side": 1,
+      "message": "Falcon will be using more granular numbers starting with 0.1.7, and 0.1.6.post3 will be the last of the 0.1.6 series, so if you would like to do the following, it will be fine:\n\nfalcon\u003d\u003d0.1.6.post3",
+      "parentUuid": "AAAASn//ddY\u003d",
+      "revId": "99734bc442cf6ee4112ba65cff5b890b2474fb3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
