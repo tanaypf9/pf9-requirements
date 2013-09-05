@@ -34,6 +34,24 @@
       "revId": "99734bc442cf6ee4112ba65cff5b890b2474fb3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAASn//XAs\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2013-09-05T18:27:44Z",
+      "side": 1,
+      "message": "I think I\u0027d prefer the \u003e\u003d0.1.6,\u003c0.1.7.",
+      "parentUuid": "AAAASn//cIY\u003d",
+      "revId": "99734bc442cf6ee4112ba65cff5b890b2474fb3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
