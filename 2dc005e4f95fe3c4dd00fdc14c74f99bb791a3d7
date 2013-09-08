@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Sun, 08 Sep 2013 12:34:36 +0000
+Reviewed-on: https://review.openstack.org/45556
+Project: openstack/requirements
+Branch: refs/heads/master
