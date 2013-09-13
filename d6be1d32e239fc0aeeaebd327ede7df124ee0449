@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Approved+1: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 Sep 2013 18:39:21 +0000
+Reviewed-on: https://review.openstack.org/46533
+Project: openstack/requirements
+Branch: refs/heads/master
