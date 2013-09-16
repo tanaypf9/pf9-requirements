@@ -1,5 +1,6 @@
 # NOTE: These are requirements for testing the requirements project only
 #       See global-requirements for the actual requirements list
+ddt>=0.4.0
 hacking>=0.5.6,<0.8
 testrepository>=0.0.17
 testscenarios>=0.4
