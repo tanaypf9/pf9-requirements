@@ -31,6 +31,7 @@ lesscpy>=0.9j
 kombu>=2.4.8
 lockfile>=0.8
 lxml>=2.3
+mmh3
 msgpack-python
 netaddr
 netifaces>=0.5
@@ -53,6 +54,7 @@ pyasn1
 pycadf>=0.1.4
 pycrypto>=2.6
 pyghmi
+pylru
 pymongo>=2.4
 pyOpenSSL
 pyparsing>=1.5.7,<2.0
