@@ -75,6 +75,7 @@ python-swiftclient>=1.5
 python-troveclient
 pytz>=2010h
 pyudev
+pywbem
 PyYAML>=3.1.0
 qpid-python
 requests>=1.1
