@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3//YGo\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2013-09-27T20:42:00Z",
+      "side": 1,
+      "message": "This doesn\u0027t really fix the bug, should be using \"Related-Bug: #1231657\"",
+      "revId": "b9112a573cb7d14bccdbe947e760cf088efcc796",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
