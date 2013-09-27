@@ -20,6 +20,8 @@ Flask>=0.10,<1.0
 greenlet>=0.3.2
 happybase>=0.4
 httplib2
+ibm_db>=2.0.4.1
+ibm_db_sa>=0.3.0
 iso8601>=0.1.4
 Jinja2
 jsonpatch>=1.1
