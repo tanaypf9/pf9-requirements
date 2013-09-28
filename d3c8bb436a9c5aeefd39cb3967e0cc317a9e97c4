@@ -1,0 +1,12 @@
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Sat, 28 Sep 2013 23:57:34 +0000
+Reviewed-on: https://review.openstack.org/48474
+Project: openstack/requirements
+Branch: refs/heads/master
