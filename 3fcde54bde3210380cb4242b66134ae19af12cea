@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Submitted-by: Jenkins
+Submitted-at: Sat, 28 Sep 2013 18:52:29 +0000
+Reviewed-on: https://review.openstack.org/48779
+Project: openstack/requirements
+Branch: refs/heads/master
