@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAS3//T9k\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2013-09-30T13:37:44Z",
+      "side": 1,
+      "message": "Jenkins is failing to install the ibm_db package because the DB2 Data Server Driver Package is not installed on the system.  The ibm_db code has a c library which builds against the sql header files in the DB2 data server driver package.\n\nhttps://code.google.com/p/ibm-db/source/browse/IBM_DB/ibm_db/setup.py#38\n\nYou can get the DB2 10.5 data server driver package here:\n\nhttp://www-01.ibm.com/support/docview.wss?uid\u003dswg27016878\n\nIt just needs to be extracted onto the target system and the IBM_DB_HOME environment variable needs to be pointing at it, e.g. IBM_DB_HOME\u003d/opt/ibm/db2/V10.5/clidriver.",
+      "revId": "c2a705baedf3bbc5fbed37dfa233f8c560520beb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
