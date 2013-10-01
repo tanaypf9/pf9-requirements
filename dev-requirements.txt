@@ -10,3 +10,5 @@
 #
 -f http://tarballs.openstack.org/oslo.messaging/oslo.messaging-1.2.0a11.tar.gz#egg=oslo.messaging-1.2.0a11
 oslo.messaging>=1.2.0a11
+-f http://tarballs.openstack.org/python-savannaclient/python-savannaclient-0.3a3.tar.gz#egg=python-savannaclient-0.3a3
+python-savannaclient>=0.3a3
