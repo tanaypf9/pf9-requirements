@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Approved+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+1: Jay Bryant <jsbryant@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Oct 2013 15:41:52 +0000
+Reviewed-on: https://review.openstack.org/48739
+Project: openstack/requirements
+Branch: refs/heads/master
