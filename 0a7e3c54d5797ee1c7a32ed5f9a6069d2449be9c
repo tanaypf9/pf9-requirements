@@ -16,6 +16,24 @@
       "revId": "0a7e3c54d5797ee1c7a32ed5f9a6069d2449be9c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAS3//Jyg\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6773
+      },
+      "writtenOn": "2013-10-03T12:26:31Z",
+      "side": 1,
+      "message": "indeed, will fix! thanks",
+      "parentUuid": "AAAAS3//Jy0\u003d",
+      "revId": "0a7e3c54d5797ee1c7a32ed5f9a6069d2449be9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
