@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Approved+1: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Submitted-by: Jenkins
+Submitted-at: Sat, 05 Oct 2013 00:03:20 +0000
+Reviewed-on: https://review.openstack.org/49225
+Project: openstack/requirements
+Branch: refs/heads/master
