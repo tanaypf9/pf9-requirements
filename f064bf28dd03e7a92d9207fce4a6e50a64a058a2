@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+2: Gabriel Hurley <gabriel.hurley@nebula.com>
+Code-Review+1: lin-hua-cheng <lin-hua.cheng@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 10 Oct 2013 20:24:07 +0000
+Reviewed-on: https://review.openstack.org/50988
+Project: openstack/requirements
+Branch: refs/heads/master
