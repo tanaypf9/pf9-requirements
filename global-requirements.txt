@@ -42,7 +42,7 @@ os-collect-config
 os-refresh-config
 pam>=0.1.4
 paramiko>=1.8.0
-passlib
+passlib>=1.6.1
 Paste
 PasteDeploy>=1.5.0
 pbr>=0.5.21,<1.0
