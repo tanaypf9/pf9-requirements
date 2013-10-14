@@ -151,8 +151,8 @@ def _copy_requires(suffix, dest_dir):
 def _write_setup_py(dest_path):
     print("Syncing setup.py")
     target_setup_py = os.path.join(dest_path, 'setup.py')
-    has_pbr = 'pbr' in open(target_setup_py, 'r').read()
-    if has_pbr:
+    sync_setup = 'GLOBAL REQUIREMENTS' in open(target_setup_py, 'r').read()
+    if sync_setup:
         # We only want to sync things that are up to date with pbr mechanics
         with open(target_setup_py, 'w') as setup_file:
             setup_file.write(_setup_py_text)
