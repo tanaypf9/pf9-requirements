@@ -4,6 +4,7 @@ anyjson>=0.3.3
 argparse
 Babel>=1.3
 boto>=2.4.0,!=2.13.0
+byteformat
 cffi
 cliff>=1.4.3
 ddt>=0.4.0
