@@ -35,7 +35,6 @@ msgpack-python
 netaddr
 netifaces>=0.5
 oauth2
-ordereddict
 oslo.config>=1.2.0
 os-apply-config
 os-collect-config
