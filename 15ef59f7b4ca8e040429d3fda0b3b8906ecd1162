@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+1: p-draigbrady <P@draigBrady.com>
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+1: Lianhao Lu <lianhao.lu@intel.com>
+Code-Review+1: gordon chung <chungg@ca.ibm.com>
+Code-Review+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 17 Oct 2013 15:48:04 +0000
+Reviewed-on: https://review.openstack.org/49696
+Project: openstack/requirements
+Branch: refs/heads/master
