@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATH//XB4\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2013-10-17T08:40:57Z",
+      "side": 1,
+      "message": "I really like the typo",
+      "revId": "06b495e8b4dd610a639fb4c818428b3bb562e801",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
