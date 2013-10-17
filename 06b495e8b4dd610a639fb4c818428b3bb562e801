@@ -16,6 +16,24 @@
       "revId": "06b495e8b4dd610a639fb4c818428b3bb562e801",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATH//UjU\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2903
+      },
+      "writtenOn": "2013-10-17T19:12:35Z",
+      "side": 1,
+      "message": "Thats a good typo!  We should get the whole project renamed to this instead!\n\nUploading a fixed commit message in a couple moments, thanks for the catch!",
+      "parentUuid": "AAAATH//XB4\u003d",
+      "revId": "06b495e8b4dd610a639fb4c818428b3bb562e801",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
