@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Approved+1: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+1: Kui Shi <skuicloud@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 17 Oct 2013 20:52:36 +0000
+Reviewed-on: https://review.openstack.org/49254
+Project: openstack/requirements
+Branch: refs/heads/master
