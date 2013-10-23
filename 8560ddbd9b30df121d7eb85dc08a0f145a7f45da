@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Code-Review+1: Mark Washenberger <mark.washenberger@markwash.net>
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+1: iccha-sethi <iccha.sethi@rackspace.com>
+Code-Review+1: Zhi Yan Liu <lzy.dev@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 23 Oct 2013 14:35:04 +0000
+Reviewed-on: https://review.openstack.org/53156
+Project: openstack/requirements
+Branch: refs/heads/master
