@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 29 Oct 2013 21:29:51 +0000
+Reviewed-on: https://review.openstack.org/54372
+Project: openstack/requirements
+Branch: refs/heads/stable/havana
