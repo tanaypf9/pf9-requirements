@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn//mLc\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 741
+      },
+      "writtenOn": "2013-10-31T17:12:11Z",
+      "side": 1,
+      "message": "We literally just released a 1.0.0, which we\u0027re going to be API stable ..",
+      "revId": "8515cf40d9f28ba3aa8e50579a21f0f09fd6f79e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
