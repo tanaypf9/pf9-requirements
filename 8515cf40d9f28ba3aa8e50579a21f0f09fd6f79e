@@ -16,6 +16,24 @@
       "revId": "8515cf40d9f28ba3aa8e50579a21f0f09fd6f79e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn//mG4\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 5390
+      },
+      "writtenOn": "2013-10-31T17:28:15Z",
+      "side": 1,
+      "message": "Cool. Ill change it to \u003e\u003d1.0.0\nThanks Kiall",
+      "parentUuid": "AAAATn//mLc\u003d",
+      "revId": "8515cf40d9f28ba3aa8e50579a21f0f09fd6f79e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
