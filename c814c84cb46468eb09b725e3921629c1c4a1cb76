@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn//QBI\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T09:03:58Z",
+      "side": 1,
+      "message": "Commandments ?",
+      "revId": "c814c84cb46468eb09b725e3921629c1c4a1cb76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn//QBA\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T09:03:58Z",
+      "side": 1,
+      "message": "repository ?",
+      "revId": "c814c84cb46468eb09b725e3921629c1c4a1cb76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn//QA4\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T09:03:58Z",
+      "side": 1,
+      "message": "compatible",
+      "revId": "c814c84cb46468eb09b725e3921629c1c4a1cb76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn//QAU\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-12T09:03:58Z",
+      "side": 1,
+      "message": "This line looks a bit like duplication from line 62",
+      "revId": "c814c84cb46468eb09b725e3921629c1c4a1cb76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
