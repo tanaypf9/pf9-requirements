@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn//A6w\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2013-11-15T17:25:21Z",
+      "side": 1,
+      "message": "nit: s/SQLAlchemy migrate/sqlalchemy-migrate/",
+      "revId": "1b9db64133820f3b532d43a918b3f432fef6e169",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
