@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+/jc\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2013-11-16T02:21:28Z",
+      "side": 1,
+      "message": "Should also have: Partial-Bug: #1251700",
+      "revId": "f1b53053541391c4d10ff9289d23f62f0c2a8dad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
