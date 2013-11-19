@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+20k\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2013-11-19T10:03:38Z",
+      "side": 1,
+      "message": "Missing period at the end of line.",
+      "revId": "4ee84009976a35fc26aaedc27f006f9489a19e9f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
