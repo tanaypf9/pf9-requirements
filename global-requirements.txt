@@ -152,3 +152,4 @@ testscenarios>=0.4
 testtools>=0.9.32
 unittest2
 WebTest>=2.0
+django-clippy
