@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+T78\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-11-27T14:38:19Z",
+      "side": 1,
+      "message": "nitpick: it\u0027s SUSE, not SuSE :-)",
+      "revId": "cc9e2491b5f137ce4c5950d070a74cc1b61b587c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
