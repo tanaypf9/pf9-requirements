@@ -53,7 +53,15 @@ _setup_py_text = """#!/usr/bin/env python
 # limitations under the License.
 
 # THIS FILE IS MANAGED BY THE GLOBAL REQUIREMENTS REPO - DO NOT EDIT
+import os
 import setuptools
+import sys
+
+
+if (sys.version_info[0] == 3
+    and os.path.exists('requirements-py3.txt')
+    and not os.getenv('PBR_REQUIREMENTS_FILES')):
+    os.environ['PBR_REQUIREMENTS_FILES'] = 'requirements-py3.txt'
 
 setuptools.setup(
     setup_requires=['pbr'],
@@ -138,7 +146,8 @@ def _copy_requires(suffix, dest_dir):
 
     target_files = (
         'requirements.txt', 'tools/pip-requires',
-        'test-requirements.txt', 'tools/test-requires')
+        'test-requirements.txt', 'tools/test-requires',
+        'requirements-py3.txt', 'test-requirements-py3.txt')
 
     for dest in target_files:
         dest_path = os.path.join(dest_dir, dest)
