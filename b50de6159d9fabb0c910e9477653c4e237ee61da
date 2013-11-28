@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+OhY\u003d",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-11-28T16:38:53Z",
+      "side": 1,
+      "message": "We should probably check to make sure the caller hasn\u0027t set PBR_REQUIREMENTS_FILES, and either add to it or skip changing it. I assume that variable is used for distro packagers?",
+      "revId": "b50de6159d9fabb0c910e9477653c4e237ee61da",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
