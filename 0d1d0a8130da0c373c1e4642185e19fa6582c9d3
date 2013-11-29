@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+LEw\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-11-29T20:27:20Z",
+      "side": 1,
+      "message": "The bug referenced in the commit log says that 2.0.1 includes the error, as well. Does this constraint prevent 2.0.1 from being used?",
+      "revId": "0d1d0a8130da0c373c1e4642185e19fa6582c9d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
