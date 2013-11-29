@@ -34,7 +34,9 @@ openstack/savanna-extra
 openstack/swift
 openstack/tempest
 openstack/trove
+openstack-dev/devstack
 openstack-dev/hacking
+openstack-infra/devstack-gate
 stackforge/climate
 stackforge/solum
 stackforge/python-climateclient
