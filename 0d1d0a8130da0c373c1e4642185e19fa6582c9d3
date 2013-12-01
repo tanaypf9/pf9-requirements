@@ -16,6 +16,24 @@
       "revId": "0d1d0a8130da0c373c1e4642185e19fa6582c9d3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/+Jfg\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2013-12-01T21:33:30Z",
+      "side": 1,
+      "message": "I was hoping a core reviewer here would know, but after looking pkg_resources (http://pythonhosted.org/setuptools/pkg_resources.html#requirement-objects)  it looks like I need to add 2.0.1 as well",
+      "parentUuid": "AAAATn/+LEw\u003d",
+      "revId": "0d1d0a8130da0c373c1e4642185e19fa6582c9d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
