@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/+BFo\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6722
+      },
+      "writtenOn": "2013-12-03T13:06:50Z",
+      "side": 1,
+      "message": "Can you explain why make version \u003c\u003d1.0.4 here ?  Is there some reason ? We usually make version \u003e\u003d  $version",
+      "revId": "fcd7334e72d1e957749d37fc5e2a6061da42dce8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
