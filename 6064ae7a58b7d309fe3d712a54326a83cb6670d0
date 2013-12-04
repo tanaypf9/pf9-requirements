@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/94Io\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2013-12-04T23:22:02Z",
+      "side": 1,
+      "message": "Might be slightly better to do keyring\u003e\u003d1.6.1,\u003c2.0,\u003e\u003d2.1 so that any additional 2.0.x releases don\u0027t break. However that is probably overly defensive.",
+      "revId": "6064ae7a58b7d309fe3d712a54326a83cb6670d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
