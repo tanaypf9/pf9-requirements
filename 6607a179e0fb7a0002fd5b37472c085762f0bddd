@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+1: ChangBo Guo <guochbo@cn.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 04 Dec 2013 12:39:36 +0000
+Reviewed-on: https://review.openstack.org/59657
+Project: openstack/requirements
+Branch: refs/heads/master
