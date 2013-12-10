@@ -16,6 +16,24 @@
       "revId": "b48bec13586351f84afba4a2c43a0c2437cc8a7e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/9hxE\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 5805
+      },
+      "writtenOn": "2013-12-10T15:22:35Z",
+      "side": 1,
+      "message": "Correct. Ironic has only released version 0.0.1",
+      "parentUuid": "AAAATn/9kFk\u003d",
+      "revId": "b48bec13586351f84afba4a2c43a0c2437cc8a7e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
