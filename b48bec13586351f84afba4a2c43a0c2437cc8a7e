@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/9kFk\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 6722
+      },
+      "writtenOn": "2013-12-10T07:26:26Z",
+      "side": 1,
+      "message": "Is there only one version of python-ironicclient now right ?",
+      "revId": "b48bec13586351f84afba4a2c43a0c2437cc8a7e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
