@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/9VqM\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-12-12T14:20:28Z",
+      "side": 1,
+      "message": "Open_S_tack, not Openstack",
+      "revId": "437ae323f9c00b9d903d27c826e579fc0ee964f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/9VqI\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-12-12T14:20:28Z",
+      "side": 1,
+      "message": "OpenStack",
+      "revId": "437ae323f9c00b9d903d27c826e579fc0ee964f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/9Vpk\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-12-12T14:20:28Z",
+      "side": 1,
+      "message": "OpenStack. It would be nice to have an alphabetical sorting on the distros enumeration, or do you imply a ordering? If so, be specific, please.",
+      "revId": "437ae323f9c00b9d903d27c826e579fc0ee964f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
