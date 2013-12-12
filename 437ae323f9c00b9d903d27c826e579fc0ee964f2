@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "AAAATn/9VcQ\u003d",
+        "filename": "HACKING.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1812
+      },
+      "writtenOn": "2013-12-12T15:01:32Z",
+      "side": 1,
+      "message": "I\u0027m not sure an upper bound should be added.\nThere was talk about possibly doing that on stable branches,\nbut by default I think we should only add caps where required",
+      "revId": "437ae323f9c00b9d903d27c826e579fc0ee964f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAATn/9VqI\u003d",
         "filename": "HACKING.rst",
         "patchSetId": 4
