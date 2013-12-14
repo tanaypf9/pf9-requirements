@@ -16,6 +16,24 @@
       "revId": "6064ae7a58b7d309fe3d712a54326a83cb6670d0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/9M1s\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2013-12-14T10:41:23Z",
+      "side": 1,
+      "message": "well, keyring is developed in parallel with many different versions, so another 2.0.x release is not too unlikely. I agree with the suggestion.",
+      "parentUuid": "AAAATn/94Io\u003d",
+      "revId": "6064ae7a58b7d309fe3d712a54326a83cb6670d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
