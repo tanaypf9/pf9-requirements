@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/9B3I\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 935
+      },
+      "writtenOn": "2013-12-17T14:41:40Z",
+      "side": 1,
+      "message": "Really should be \u003c 1.4; we don\u0027t want to pickup an incompatible version bump accidentally at some point in the future when webob release 1.4",
+      "revId": "6e210f89e5203a9163af5f98bfe54e5bd8f7fb5b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
