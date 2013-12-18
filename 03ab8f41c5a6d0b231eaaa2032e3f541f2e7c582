@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/87eA\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 7806
+      },
+      "writtenOn": "2013-12-18T17:10:11Z",
+      "side": 1,
+      "message": "1.0.0. looks untidy as a version number\n\nbe consistent\n\nonce version name has ended with ; and other time with a period.\n\ncan you consider removing the last character ; and . from both the lines.",
+      "revId": "03ab8f41c5a6d0b231eaaa2032e3f541f2e7c582",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
