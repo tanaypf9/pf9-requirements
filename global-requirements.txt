@@ -126,7 +126,7 @@ keyring>=1.6.1,<2.0,>=2.1
 mock>=1.0
 mox>=0.5.3
 mox3>=0.7.0
-MySQL-python
+MySQL-python # You will need to have install the library mysqlclient.
 nose
 nose-exclude
 nosehtmloutput>=0.0.3
