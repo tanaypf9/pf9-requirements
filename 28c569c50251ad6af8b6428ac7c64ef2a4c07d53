@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/81mI\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2013-12-19T17:53:56Z",
+      "side": 1,
+      "message": "Not everyone develops on debian, so you may need to either be more specific and include details for other distros or just say \"you\u0027ll have to install system-level dependencies\" -- and if that\u0027s the case I\u0027m not sure a comment here really adds much value.",
+      "revId": "28c569c50251ad6af8b6428ac7c64ef2a4c07d53",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
