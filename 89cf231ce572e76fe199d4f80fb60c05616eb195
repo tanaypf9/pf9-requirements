@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/8r4w\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 6722
+      },
+      "writtenOn": "2013-12-23T08:30:03Z",
+      "side": 1,
+      "message": "s/installe/install",
+      "revId": "89cf231ce572e76fe199d4f80fb60c05616eb195",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
