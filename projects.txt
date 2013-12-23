@@ -1,8 +1,8 @@
 openstack/ceilometer
 openstack/cinder
+openstack/diskimage-builder
 openstack/django_openstack_auth
 openstack/glance
-openstack/diskimage-builder
 openstack/heat
 openstack/horizon
 openstack/ironic
@@ -38,6 +38,6 @@ openstack-dev/devstack
 openstack-dev/hacking
 openstack-infra/devstack-gate
 stackforge/climate
-stackforge/solum
 stackforge/python-climateclient
 stackforge/python-solumclient
+stackforge/solum
