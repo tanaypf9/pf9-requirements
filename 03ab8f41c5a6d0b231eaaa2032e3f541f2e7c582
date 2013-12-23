@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Approved+1: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+2: mark mcclain <mark.mcclain@dreamhost.com>
+Code-Review+1: Craig Vyvial <cp16net@gmail.com>
+Code-Review+1: ChangBo Guo <guochbo@cn.ibm.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 23 Dec 2013 10:58:26 +0000
+Reviewed-on: https://review.openstack.org/60553
+Project: openstack/requirements
+Branch: refs/heads/master
