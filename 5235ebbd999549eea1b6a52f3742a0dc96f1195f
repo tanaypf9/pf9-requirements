@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAATn/8qi0\u003d",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 6722
+      },
+      "writtenOn": "2013-12-23T14:34:07Z",
+      "side": 1,
+      "message": "should move to line 4",
+      "revId": "5235ebbd999549eea1b6a52f3742a0dc96f1195f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAATn/8qiI\u003d",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 6722
+      },
+      "writtenOn": "2013-12-23T14:34:07Z",
+      "side": 1,
+      "message": "should move to line after stackforge/rally",
+      "revId": "5235ebbd999549eea1b6a52f3742a0dc96f1195f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
