@@ -40,4 +40,5 @@ openstack/trove
 stackforge/climate
 stackforge/python-climateclient
 stackforge/python-solumclient
+stackforge/rally
 stackforge/solum
