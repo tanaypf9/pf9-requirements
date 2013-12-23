@@ -41,3 +41,4 @@ stackforge/climate
 stackforge/solum
 stackforge/python-climateclient
 stackforge/python-solumclient
+stackforge/rally
