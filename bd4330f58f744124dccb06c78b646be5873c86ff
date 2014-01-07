@@ -16,6 +16,24 @@
       "revId": "bd4330f58f744124dccb06c78b646be5873c86ff",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//1Nc\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 7389
+      },
+      "writtenOn": "2014-01-07T23:13:34Z",
+      "side": 1,
+      "message": "We want the icehouse release to stay with the hplefthandclient under the 2.0 version in case it is not backward compatible. We learned this lesson with the hp3parclient.  Thanks",
+      "parentUuid": "AAAAUH//4EE\u003d",
+      "revId": "bd4330f58f744124dccb06c78b646be5873c86ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
