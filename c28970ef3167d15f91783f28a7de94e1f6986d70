@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//lH8\u003d",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2014-01-10T20:06:31Z",
+      "side": 1,
+      "message": "typo?",
+      "revId": "c28970ef3167d15f91783f28a7de94e1f6986d70",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
