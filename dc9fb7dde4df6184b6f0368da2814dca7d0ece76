@@ -16,6 +16,24 @@
       "revId": "dc9fb7dde4df6184b6f0368da2814dca7d0ece76",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//L2E\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 8968
+      },
+      "writtenOn": "2014-01-16T16:46:37Z",
+      "side": 1,
+      "message": "I didn\u0027t find any related discussion in https://review.openstack.org/#/c/46603/9 (where they added futures\u003e\u003d2.1.3.) I assume they just specified the version that they used in development to be sure. If you think it\u0027s reasonable I\u0027ll do the same (I used 2.1.5).",
+      "parentUuid": "AAAAUH//MLk\u003d",
+      "revId": "dc9fb7dde4df6184b6f0368da2814dca7d0ece76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
