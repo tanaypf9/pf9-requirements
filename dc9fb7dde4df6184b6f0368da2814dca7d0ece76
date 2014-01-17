@@ -34,6 +34,24 @@
       "revId": "dc9fb7dde4df6184b6f0368da2814dca7d0ece76",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH//F3A\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 8968
+      },
+      "writtenOn": "2014-01-17T14:49:17Z",
+      "side": 1,
+      "message": "@Ghe, I added 2.1.3 because I realized that I used docs for this version during the development. Also I tested the code on 2.1.3 and everything passed. So let\u0027s use 2.1.3 as starting point",
+      "parentUuid": "AAAAUH//L2E\u003d",
+      "revId": "dc9fb7dde4df6184b6f0368da2814dca7d0ece76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
