@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH//FoU\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 4328
+      },
+      "writtenOn": "2014-01-17T15:31:04Z",
+      "side": 1,
+      "message": "I\u0027d like to see a justification for the bump, e.g that it\u0027s required by the heat neutron-metering-resources blueprint implementation",
+      "revId": "9d66b6a87fc00ab3c63b89f560d60133206069ae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
