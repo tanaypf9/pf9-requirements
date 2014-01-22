@@ -19,7 +19,7 @@ extras
 falcon>=0.1.6,<0.2.0
 Flask>=0.10,<1.0
 greenlet>=0.3.2
-happybase>=0.4
+happybase==0.6
 httplib2
 iso8601>=0.1.8
 Jinja2
