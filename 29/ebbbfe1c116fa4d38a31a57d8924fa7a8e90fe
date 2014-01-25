@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+1: Dolph Mathews <dolph.mathews@gmail.com>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Submitted-by: Jenkins
+Submitted-at: Sat, 25 Jan 2014 05:40:16 +0000
+Reviewed-on: https://review.openstack.org/68422
+Project: openstack/requirements
+Branch: refs/heads/master
