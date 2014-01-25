@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Alexander Ignatov <aignatov@mirantis.com>
+Code-Review+1: Vadim Rovachev <vrovachev@mirantis.com>
+Code-Review+1: Matthew Farrellee <matt@redhat.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+1: Trevor McKay <tmckay@redhat.com>
+Code-Review+1: John Speidel <jspeidel@hortonworks.com>
+Code-Review+1: Andrew Lazarev <alazarev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Sat, 25 Jan 2014 05:55:27 +0000
+Reviewed-on: https://review.openstack.org/66723
+Project: openstack/requirements
+Branch: refs/heads/master
