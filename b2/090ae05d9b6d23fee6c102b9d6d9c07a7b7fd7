@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+1: John Griffith <john.griffith@solidfire.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Avishay Traeger <avishay@il.ibm.com>
+Code-Review+1: Kurt Martin <kurt.f.martin@hp.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: ChangBo Guo <guochbo@cn.ibm.com>
+Code-Review+1: Swapnil Kulkarni <swapnilkulkarni2608@gmail.com>
+Approved+1: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 30 Jan 2014 22:19:14 +0000
+Reviewed-on: https://review.openstack.org/65179
+Project: openstack/requirements
+Branch: refs/heads/master
