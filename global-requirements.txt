@@ -32,7 +32,7 @@ jsonpath-rw>=1.2.0,<2.0
 jsonrpclib
 jsonschema>=2.0.0,<3.0.0
 kazoo>=0.9
-lesscpy>=0.9j
+lesscpy>=0.10.1
 kombu>=2.4.8
 lockfile>=0.8
 lxml>=2.3
