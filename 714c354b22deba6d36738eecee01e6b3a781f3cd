@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH/94LE\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2014-02-02T19:07:34Z",
+      "side": 1,
+      "message": "Typo: lesscpy",
+      "revId": "714c354b22deba6d36738eecee01e6b3a781f3cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUH/94LA\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2014-02-02T19:07:34Z",
+      "side": 1,
+      "message": "features",
+      "revId": "714c354b22deba6d36738eecee01e6b3a781f3cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
