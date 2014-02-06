@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Approved+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 06 Feb 2014 20:31:31 +0000
+Reviewed-on: https://review.openstack.org/71612
+Project: openstack/requirements
+Branch: refs/heads/master
