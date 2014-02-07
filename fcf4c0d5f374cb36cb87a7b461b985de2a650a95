@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUH/9USE\u003d",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-02-07T20:18:40Z",
+      "side": 1,
+      "message": "Please, remove trailing spaces.\n\nThe text lgtm.",
+      "revId": "fcf4c0d5f374cb36cb87a7b461b985de2a650a95",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
