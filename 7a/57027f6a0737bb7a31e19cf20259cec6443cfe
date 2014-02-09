@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Hugh Saunders <hugh@wherenow.org>
+Code-Review+1: Pierre Padrixe <pierre.padrixe@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Sun, 09 Feb 2014 17:34:38 +0000
+Reviewed-on: https://review.openstack.org/69364
+Project: openstack/requirements
+Branch: refs/heads/master
