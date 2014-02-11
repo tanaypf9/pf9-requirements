@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Approved+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+1: Changbin Liu <changbin.liu@gmail.com>
+Approved+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Ivan Melnikov <imelnikov@griddynamics.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Feb 2014 12:52:21 +0000
+Reviewed-on: https://review.openstack.org/71699
+Project: openstack/requirements
+Branch: refs/heads/master
