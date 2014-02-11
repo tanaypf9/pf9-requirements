@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 11 Feb 2014 20:21:37 +0000
+Reviewed-on: https://review.openstack.org/69685
+Project: openstack/requirements
+Branch: refs/heads/master
