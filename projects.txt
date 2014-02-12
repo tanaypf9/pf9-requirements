@@ -15,6 +15,7 @@ openstack/identity-api
 openstack/image-api
 openstack/ironic
 openstack/keystone
+openstack/marconi
 openstack/neutron
 openstack/nova
 openstack/object-api
