@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Approved+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 13 Feb 2014 01:19:11 +0000
+Reviewed-on: https://review.openstack.org/71834
+Project: openstack/requirements
+Branch: refs/heads/master
