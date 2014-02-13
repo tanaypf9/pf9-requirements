@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX//VHc\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2014-02-13T22:35:50Z",
+      "side": 1,
+      "message": "Same typo here(and below)",
+      "revId": "6b06a43a1b3178c370e0515e10a9ad56f9bfd35a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
