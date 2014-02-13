@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX//VGw\u003d",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2014-02-13T22:38:12Z",
+      "side": 1,
+      "message": "Please use the `with open(...); ` form, using files like this emits a warning in newer pythons",
+      "revId": "c094a74b302523c268f15d6642ca974ddd68d564",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
