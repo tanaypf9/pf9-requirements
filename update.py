@@ -154,7 +154,9 @@ def _write_setup_py(dest_path):
     # If it doesn't have a setup.py, then we don't want to update it
     if not os.path.exists(target_setup_py):
         return
-    has_pbr = 'pbr' in open(target_setup_py, 'r').read()
+    setup_py_content = open(target_setup_py, 'r').read()
+    has_pbr = ('pbr' in setup_py_content
+               and not 'from pbr import util' in setup_py_content)
     if has_pbr:
         print("Syncing setup.py")
         # We only want to sync things that are up to date with pbr mechanics
