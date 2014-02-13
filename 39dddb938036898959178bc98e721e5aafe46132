@@ -16,6 +16,24 @@
       "revId": "39dddb938036898959178bc98e721e5aafe46132",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX//VIU\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6172
+      },
+      "writtenOn": "2014-02-13T22:33:54Z",
+      "side": 1,
+      "message": "Thanks for catching it!\u003d)",
+      "parentUuid": "AAAAUX//VKs\u003d",
+      "revId": "39dddb938036898959178bc98e721e5aafe46132",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
