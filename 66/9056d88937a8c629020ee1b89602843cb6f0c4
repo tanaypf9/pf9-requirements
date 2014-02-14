@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Approved+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Kurt Martin <kurt.f.martin@hp.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Jim Branen <james.branen@hp.com>
+Code-Review+1: Ramy Asselin <ramy.asselin@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 14 Feb 2014 00:26:04 +0000
+Reviewed-on: https://review.openstack.org/72776
+Project: openstack/requirements
+Branch: refs/heads/master
