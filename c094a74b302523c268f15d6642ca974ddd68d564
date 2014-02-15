@@ -16,6 +16,24 @@
       "revId": "c094a74b302523c268f15d6642ca974ddd68d564",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAUX//Nqs\u003d",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-02-15T13:53:40Z",
+      "side": 1,
+      "message": "Done in the separated change - https://review.openstack.org/#/c/73808/1/update.py",
+      "parentUuid": "AAAAUX//VGw\u003d",
+      "revId": "c094a74b302523c268f15d6642ca974ddd68d564",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
