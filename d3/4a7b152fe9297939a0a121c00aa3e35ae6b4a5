@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: Dina Belova <dbelova@mirantis.com>
+Approved+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Sylvain Bauza <sylvain.bauza@bull.net>
+Code-Review+1: Nikolay Starodubtsev <starodubcevna@gmail.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+1: Pablo Andres Fuente <pablo.a.fuente@intel.com>
+Submitted-by: Jenkins
+Submitted-at: Sat, 15 Feb 2014 06:03:44 +0000
+Reviewed-on: https://review.openstack.org/71221
+Project: openstack/requirements
+Branch: refs/heads/master
