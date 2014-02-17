@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX//CHc\u003d",
+        "filename": "tests/files/gr-base.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2014-02-17T14:40:10Z",
+      "side": 1,
+      "message": "Out of curiosity, why do people keep updating this requirements project test data file? Is it necessary so that the requirements unit tests better reflect the current state of the project, or is it just from grep\u0027ing the Git tree without understanding why this is here and/or blindly copying what they see in other commits?",
+      "revId": "d718f872f9294c0a80a5531b000f433346d3dbb4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
