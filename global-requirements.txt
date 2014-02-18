@@ -63,7 +63,7 @@ psutil>=1.1.1
 pyasn1
 pycadf>=0.1.9
 pycrypto>=2.6
-pyghmi>=0.5.8
+pyghmi>=0.5.8,!=0.5.9.1
 pymongo>=2.4
 pyOpenSSL>=0.11
 pyparsing>=2.0.1
