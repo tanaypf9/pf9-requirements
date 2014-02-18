@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX/+1UY\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 9537
+      },
+      "writtenOn": "2014-02-18T18:16:06Z",
+      "side": 1,
+      "message": "the library name is \"docker-py\" https://pypi.python.org/pypi/docker-py/",
+      "revId": "df662fc96fb764ffd50f44e121ab5261dc0c1f59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
