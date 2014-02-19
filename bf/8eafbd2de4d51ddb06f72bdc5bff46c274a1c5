@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+1: garyk <gkotton@vmware.com>
+Approved+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 19 Feb 2014 17:22:15 +0000
+Reviewed-on: https://review.openstack.org/74569
+Project: openstack/requirements
+Branch: refs/heads/master
