@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAU3//aX8\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2014-02-26T19:34:15Z",
+      "side": 1,
+      "message": "2.1.0",
+      "revId": "3aad3da7714cd499a60101f21da3faf28fa7f8f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
