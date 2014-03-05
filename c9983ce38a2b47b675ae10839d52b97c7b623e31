@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn//kM8\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-03-05T11:00:58Z",
+      "side": 1,
+      "message": "why is this pinned. We need a really explicit reason for that, as this is normally not allowed.",
+      "revId": "c9983ce38a2b47b675ae10839d52b97c7b623e31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//kM4\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-03-05T11:00:58Z",
+      "side": 1,
+      "message": "what are the minimum versions required here.",
+      "revId": "c9983ce38a2b47b675ae10839d52b97c7b623e31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
