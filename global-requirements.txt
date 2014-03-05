@@ -16,6 +16,7 @@ Django>=1.4,<1.6
 django-bootstrap-form
 django_compressor>=1.3
 django_openstack_auth>=1.1.3
+django-floppyforms==1.1
 dnspython>=1.9.4
 dogpile.cache>=0.5.0
 eventlet>=0.13.0
@@ -33,6 +34,9 @@ jsonpatch>=1.1
 jsonpath-rw>=1.2.0,<2.0
 jsonrpclib
 jsonschema>=2.0.0,<3.0.0
+jsonpath
+bunch
+deep
 kazoo>=0.9
 lesscpy>=0.9j
 kombu>=2.4.8
