@@ -74,6 +74,12 @@ pyparsing>=2.0.1
 pysnmp>=4.2.1,<5.0.0
 pystache
 python-seamicroclient>=0.1.0,<2.0
+# setuptools 3.0 removed the Feature class which breaks at least the cffi
+# project. cffi is indirectly needed by nova. Keep setuptools 2.2 until cffi is
+# fixed
+# https://bitbucket.org/pypa/setuptools/issue/65
+# https://bitbucket.org/cffi/cffi/issue/139/
+setuptools<3.0
 # OpenStack clients. None of these should have an upper bound
 # as that has implications for testing in the gate. An exception
 # is currently being made for neutron client because of the need
