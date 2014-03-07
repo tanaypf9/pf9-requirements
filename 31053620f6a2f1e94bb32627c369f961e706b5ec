@@ -16,6 +16,23 @@
       "revId": "31053620f6a2f1e94bb32627c369f961e706b5ec",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn//LJM\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2014-03-07T21:14:56Z",
+      "side": 1,
+      "message": "Is the version number here a typo here, or is this not really required?",
+      "revId": "31053620f6a2f1e94bb32627c369f961e706b5ec",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
