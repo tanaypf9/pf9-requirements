@@ -16,6 +16,24 @@
       "revId": "08ec3e7596769582b409909c9f2623e46c9076e4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAVn/+3jM\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-03-11T16:31:18Z",
+      "side": 1,
+      "message": "Because we know this version is available and works, and this change is only temporary.",
+      "parentUuid": "AAAAVn/+3no\u003d",
+      "revId": "08ec3e7596769582b409909c9f2623e46c9076e4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
