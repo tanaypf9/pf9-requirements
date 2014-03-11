@@ -60,6 +60,7 @@ Paste
 PasteDeploy>=1.5.0
 pbr>=0.6,<1.0
 pecan>=0.4.5
+pexpect>=3.1
 pip>=1.4
 posix_ipc
 PrettyTable>=0.7,<0.8
@@ -139,6 +140,7 @@ hplefthandclient>=1.0.0,<2.0.0
 httpretty>=0.8.0
 keyring>=1.6.1,<2.0,>=2.1
 mock>=1.0
+mockito>=0.5.2
 mox>=0.5.3
 mox3>=0.7.0
 MySQL-python
@@ -174,4 +176,5 @@ testtools>=0.9.34
 trollius>=0.1.4,<0.2
 unittest2
 WebTest>=2.0
+wsgi_intercept>=0.6.1
 zake>=0.0.13
