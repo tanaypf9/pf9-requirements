@@ -139,6 +139,10 @@ hplefthandclient>=1.0.0,<2.0.0
 httpretty>=0.8.0
 keyring>=1.6.1,<2.0,>=2.1
 mock>=1.0
+# mockito is a mocking library used by some of the Trove unit tests.
+# We're working on moving to a standard mocking library, but need to
+# have this in here until we can completely move away.
+mockito>=0.5.1 # MIT License
 mox>=0.5.3
 mox3>=0.7.0
 MySQL-python
