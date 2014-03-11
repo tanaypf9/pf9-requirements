@@ -139,6 +139,7 @@ hplefthandclient>=1.0.0,<2.0.0
 httpretty>=0.8.0
 keyring>=1.6.1,<2.0,>=2.1
 mock>=1.0
+mockito>=0.5.1
 mox>=0.5.3
 mox3>=0.7.0
 MySQL-python
