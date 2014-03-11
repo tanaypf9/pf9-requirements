@@ -142,7 +142,7 @@ mock>=1.0
 mox>=0.5.3
 mox3>=0.7.0
 MySQL-python
-nose
+nose==1.3.0
 nose-exclude
 nosehtmloutput>=0.0.3
 nosexcover
