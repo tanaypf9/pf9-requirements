@@ -115,6 +115,7 @@ stevedore>=0.14
 suds>=0.4
 taskflow>=0.1.3,<0.2
 tripleo-image-elements
+trollius>=0.1.4
 warlock>=1.0.1,<2
 WebOb>=1.2.3
 websockify>=0.5.1,<0.6
@@ -173,7 +174,6 @@ testrepository>=0.0.18
 testresources>=0.2.4
 testscenarios>=0.4
 testtools>=0.9.34
-trollius>=0.1.4,<0.2
 unittest2
 WebTest>=2.0
 wsgi_intercept>=0.6.1 # MIT License
