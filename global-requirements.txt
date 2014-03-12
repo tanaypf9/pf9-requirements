@@ -74,10 +74,13 @@ pyparsing>=2.0.1
 pysnmp>=4.2.1,<5.0.0
 pystache
 python-seamicroclient>=0.1.0,<2.0
+trollius>=0.1.4
+
 # OpenStack clients. None of these should have an upper bound
 # as that has implications for testing in the gate. An exception
 # is currently being made for neutron client because of the need
 # for an incompatible change in their next release.
+
 python-ceilometerclient>=1.0.6
 python-cinderclient>=1.0.6
 python-designateclient>=1.0.0
@@ -102,11 +105,13 @@ rtslib-fb>=2.1.39
 simplejson>=2.0.9
 six>=1.5.2
 sockjs-tornado>=1.0.0,<2.0.0
+
 # The SQLA requirement looks weird, but it's here for a reason.
 # The version of pip shipped with distros treats 0.8beta1 (which is
 # on pypi) as < 0.8 so the "clear" version of this requirement, is
 # actually broken. The fix for this isn't until pip 1.4.1, which is
 # way more current than what most distros have.
+
 SQLAlchemy>=0.7.8,<=0.8.99
 sqlalchemy-migrate>=0.8.2,!=0.8.4
 stevedore>=0.14
@@ -121,6 +126,7 @@ wsgiref>=0.1.2
 WSME>=0.6
 xattr>=0.4
 XenAPI>=1.2
+
 # Testing tools below, which are typically in test-requires.txt
 
 cliff-tablib>=1.0
@@ -171,7 +177,6 @@ testrepository>=0.0.18
 testresources>=0.2.4
 testscenarios>=0.4
 testtools>=0.9.34
-trollius>=0.1.4,<0.2
 unittest2
 WebTest>=2.0
 zake>=0.0.13
