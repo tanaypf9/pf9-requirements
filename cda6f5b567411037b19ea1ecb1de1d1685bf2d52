@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH//8hw\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-03-12T19:06:59Z",
+      "side": 1,
+      "message": "I would think this shouldn\u0027t land in Icehouse at this point in the release.",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH//8hk\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-03-12T19:06:59Z",
+      "side": 1,
+      "message": "I don\u0027t think we want this, at least not in this patch, it\u0027s unrelated.",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH//8jI\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-03-12T19:06:59Z",
+      "side": 1,
+      "message": "Let\u0027s keep the alphabetical ordering please.",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
