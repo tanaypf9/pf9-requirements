@@ -175,3 +175,4 @@ trollius>=0.1.4,<0.2
 unittest2
 WebTest>=2.0
 zake>=0.0.13
+xvfbwrapper>=0.2.4 #license: MIT
