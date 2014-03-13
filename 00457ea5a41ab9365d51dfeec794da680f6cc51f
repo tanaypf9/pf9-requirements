@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH//0ro\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-03-13T15:29:24Z",
+      "side": 1,
+      "message": "t comes after p, but this should come after tripleo-image-elements below :)",
+      "revId": "00457ea5a41ab9365d51dfeec794da680f6cc51f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
