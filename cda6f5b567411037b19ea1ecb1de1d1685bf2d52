@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWH//3Y8\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2014-03-13T09:42:33Z",
+      "side": 1,
+      "message": "I also guess that such large change is too late for Icehouse, but I would like to allow Trollius 0.2 to be able to prepare my patches for the next release.",
+      "parentUuid": "AAAAWH//8hw\u003d",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWH//8hk\u003d",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "AAAAWH//3Yo\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2014-03-13T09:42:33Z",
+      "side": 1,
+      "message": "I expected this reaction :-) And I don\u0027t want to write a separated patch to add newlines, so I just removed newlines in the new patch.",
+      "parentUuid": "AAAAWH//8hk\u003d",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "AAAAWH//8jI\u003d",
         "filename": "global-requirements.txt",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2014-03-12T19:06:59Z",
       "side": 1,
       "message": "Let\u0027s keep the alphabetical ordering please.",
+      "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH//3YE\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2014-03-13T09:42:33Z",
+      "side": 1,
+      "message": "I don\u0027t understand. Why is the right place for the \"trollius\" dependency? T letter doesn\u0027t come after P?\n\nThe dependency is global, it\u0027s not specific to tests nor SQLAchemy, nor clients. Sorry, I didn\u0027t noticed the sections when I added trollius in my previous patch.",
+      "parentUuid": "AAAAWH//8jI\u003d",
       "revId": "cda6f5b567411037b19ea1ecb1de1d1685bf2d52",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
