@@ -134,6 +134,13 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
                     new_reqs.write("%s\n" % dev_reqs[old_pip])
                 else:
                     new_reqs.write("%s\n" % source_reqs[old_pip])
+            else:
+                # Found a dependency that isn't in the global dependency file
+                # This is not supposed to happen, so exit with a failure.
+                print("%s is not a global dependency but it should be,"
+                      "something went wrong" %
+                      old_pip)
+                # Just print something so I can collect all the cases at once
 
 
 def _copy_requires(suffix, dest_dir):
@@ -176,6 +183,7 @@ def main(options, args):
         sys.exit(1)
     _copy_requires(options.suffix, args[0])
     _write_setup_py(args[0])
+    sys.exit(1) # No reason to run through full job after this
 
 
 if __name__ == "__main__":
