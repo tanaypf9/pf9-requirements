@@ -56,6 +56,7 @@ os-refresh-config
 pam>=0.1.4
 paramiko>=1.9.0
 passlib
+pexpect
 Paste
 PasteDeploy>=1.5.0
 pbr>=0.6,<1.0
