@@ -4,7 +4,6 @@ openstack/glance
 openstack/diskimage-builder
 openstack/heat
 openstack/horizon
-openstack/ironic
 openstack/keystone
 openstack/neutron
 openstack/nova
@@ -12,12 +11,10 @@ openstack/os-apply-config
 openstack/os-collect-config
 openstack/os-refresh-config
 openstack/oslo.config
-openstack/oslo.messaging
 openstack/python-ceilometerclient
 openstack/python-cinderclient
 openstack/python-glanceclient
 openstack/python-heatclient
-openstack/python-ironicclient
 openstack/python-keystoneclient
 openstack/python-neutronclient
 openstack/python-novaclient
