@@ -171,6 +171,8 @@ def _write_setup_py(dest_path):
 
 
 def main(options, args):
+    # Testing to make sure this causes devstack to halt
+    sys.exit(1)
     if len(args) != 1:
         print("Must specify directory to update")
         sys.exit(1)
