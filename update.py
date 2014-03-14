@@ -134,6 +134,9 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
                     new_reqs.write("%s\n" % dev_reqs[old_pip])
                 else:
                     new_reqs.write("%s\n" % source_reqs[old_pip])
+            else:
+                # Leave req not in source_reqs so it errors out during install
+                new_reqs.write("%s\n" % dev_reqs[old_pip])
 
 
 def _copy_requires(suffix, dest_dir):
