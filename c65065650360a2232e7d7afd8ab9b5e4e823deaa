@@ -16,6 +16,24 @@
       "revId": "c65065650360a2232e7d7afd8ab9b5e4e823deaa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH//cVU\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 5293
+      },
+      "writtenOn": "2014-03-17T21:28:37Z",
+      "side": 1,
+      "message": "It\u0027s already in the trove code base, at the moment, and there are a few unittests that use it. If we want to standardize on a mock library, we can work to moving unittests in trove to use the standard (and set a timeline for this work.) (IMHO this would be a good thing). However, I do want to align trove\u0027s requirements with the global requirements, so I\u0027d request that we add this in here until we move away from non-standard mocking libs. Thanks!",
+      "parentUuid": "AAAAWH//dIo\u003d",
+      "revId": "c65065650360a2232e7d7afd8ab9b5e4e823deaa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
