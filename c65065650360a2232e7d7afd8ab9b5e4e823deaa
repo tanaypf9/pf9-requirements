@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH//dIo\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2014-03-17T19:49:35Z",
+      "side": 1,
+      "message": "why add yet another mock lib?",
+      "revId": "c65065650360a2232e7d7afd8ab9b5e4e823deaa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
