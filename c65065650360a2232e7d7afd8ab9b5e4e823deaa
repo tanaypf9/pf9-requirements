@@ -70,6 +70,24 @@
       "revId": "c65065650360a2232e7d7afd8ab9b5e4e823deaa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH//b7Q\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 5293
+      },
+      "writtenOn": "2014-03-17T22:27:42Z",
+      "side": 1,
+      "message": "Sounds good to me. I\u0027ll update and re-submit a new patchset with the changes. Thanks Joe and Sergey!",
+      "parentUuid": "AAAAWH//cIQ\u003d",
+      "revId": "c65065650360a2232e7d7afd8ab9b5e4e823deaa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
