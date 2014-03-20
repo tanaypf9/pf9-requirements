@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH//I0w\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-03-20T00:28:55Z",
+      "side": 1,
+      "message": "Should be Closes-Bug: #1294688\n\nThat\u0027s why it didn\u0027t link to launchpad.",
+      "revId": "c79df01ba764fa4cdec14fd25da42a1b5dceeebb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
