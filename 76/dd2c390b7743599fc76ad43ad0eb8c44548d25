@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Approved+1: Sean Dague <sean@dague.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 26 Mar 2014 18:21:59 +0000
+Reviewed-on: https://review.openstack.org/75371
+Project: openstack/requirements
+Branch: refs/heads/master
