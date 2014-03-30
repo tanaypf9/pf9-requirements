@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH/+FoY\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 7478
+      },
+      "writtenOn": "2014-03-30T16:04:55Z",
+      "side": 1,
+      "message": "I guess you meant 0.4 is too old",
+      "revId": "979e4d69fc020d9f9bd44fbcde602f5e3492e702",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAWH/+Foc\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 7478
+      },
+      "writtenOn": "2014-03-30T16:04:55Z",
+      "side": 1,
+      "message": "Thomas, could you please explain what\u0027s wrong with 0.6? I did a lot of testing with it and everything was fine. Maybe I didn\u0027t notice anything?",
+      "revId": "979e4d69fc020d9f9bd44fbcde602f5e3492e702",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
