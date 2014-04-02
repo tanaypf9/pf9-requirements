@@ -98,6 +98,7 @@ pyudev
 PyYAML>=3.1.0
 qpid-python
 requests>=1.1
+requests-kerberos>=0.5
 Routes>=1.12.3
 rtslib-fb>=2.1.39
 simplejson>=2.0.9
