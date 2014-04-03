@@ -137,10 +137,11 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
             else:
                 # Found a requirement that isn't in the global requirement file
                 # This is not supposed to happen, so exit with a failure.
-                print("'%s' is not a global requirement but it should be,"
-                      "something went wrong" %
-                      old_pip)
-                sys.exit(1)
+                print("'%s' is not in global-requirements.txt" % old_pip)
+                # we allow jobs to declare NON_STANDARD_REQS=1 to take this
+                # as a warning instead of fatal
+                if os.getenv('NON_STANDARD_REQS', 0) != '1':
+                    sys.exit(1)
 
 
 def _copy_requires(suffix, dest_dir):
