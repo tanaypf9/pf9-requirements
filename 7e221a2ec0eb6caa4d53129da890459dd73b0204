@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH/9Yy0\u003d",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2014-04-04T21:23:52Z",
+      "side": 1,
+      "message": "s/cause/case/?",
+      "revId": "7e221a2ec0eb6caa4d53129da890459dd73b0204",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
