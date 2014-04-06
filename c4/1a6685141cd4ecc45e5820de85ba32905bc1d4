@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Approved+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Brant Knudson <bknudson@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Sun, 06 Apr 2014 14:18:56 +0000
+Reviewed-on: https://review.openstack.org/85363
+Project: openstack/requirements
+Branch: refs/heads/milestone-proposed
