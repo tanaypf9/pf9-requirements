@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAWH/9S7M\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-04-07T10:08:01Z",
+      "side": 1,
+      "message": "? dropped a decimal?",
+      "revId": "3593f16b1479a2a2af05ec10b21e62bcfe3e6807",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
