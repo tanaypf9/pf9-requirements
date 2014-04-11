@@ -138,6 +138,7 @@ hplefthandclient>=1.0.0,<2.0.0
 httpretty>=0.8.0
 keyring>=2.1
 mock>=1.0
+Monotime # only required on python 2.x to 3.2 (python 3.3+ has this built-in)
 mox>=0.5.3
 mox3>=0.7.0
 MySQL-python
