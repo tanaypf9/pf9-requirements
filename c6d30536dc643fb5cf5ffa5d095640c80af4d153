@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAW3//oxw\u003d",
+        "filename": "setup.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2014-04-11T14:07:59Z",
+      "side": 1,
+      "message": "this shouldn\u0027t be using flake8: noqa, that disables flake8 for the whole file, not just the line.",
+      "revId": "c6d30536dc643fb5cf5ffa5d095640c80af4d153",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
