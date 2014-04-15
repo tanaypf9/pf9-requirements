@@ -16,6 +16,24 @@
       "revId": "a1ceeebfc720b597b6329f871629eb95d000cf61",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAW3//XPA\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1297
+      },
+      "writtenOn": "2014-04-15T06:18:22Z",
+      "side": 1,
+      "message": "Ok, sounds good.",
+      "parentUuid": "AAAAW3//XQo\u003d",
+      "revId": "a1ceeebfc720b597b6329f871629eb95d000cf61",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
