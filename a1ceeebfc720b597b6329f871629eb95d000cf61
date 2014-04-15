@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAW3//XQo\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 10165
+      },
+      "writtenOn": "2014-04-15T06:17:54Z",
+      "side": 1,
+      "message": "I would recommend requiring most recent stable version: wrapt\u003e\u003d1.6.0",
+      "revId": "a1ceeebfc720b597b6329f871629eb95d000cf61",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
