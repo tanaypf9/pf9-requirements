@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAXH//nxc\u003d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-04-18T18:51:01Z",
+      "side": 1,
+      "message": "I think I know what bug you\u0027re talking about but can\u0027t seem to find it, but would be good to reference in the commit message.",
+      "revId": "a78540bae70ea75b54ca0aad34fca18dc2ade566",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
