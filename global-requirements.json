@@ -1,0 +1,1995 @@
+{
+    "alembic": {
+        "info": {
+            "author": "Mike Bayer", 
+            "author_email": "mike@zzzcomputing.com", 
+            "home_page": "http://bitbucket.org/zzzeek/alembic", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A database migration tool for SQLAlchemy."
+        }, 
+        "requirement": "alembic>=0.4.1"
+    }, 
+    "amqplib": {
+        "info": {
+            "author": "Barry Pederson", 
+            "author_email": "bp@barryp.org", 
+            "home_page": "http://code.google.com/p/py-amqplib/", 
+            "license": "LGPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "AMQP Client Library"
+        }, 
+        "requirement": "amqplib>=0.6.1"
+    }, 
+    "anyjson": {
+        "info": {
+            "author": "Rune Halvorsen", 
+            "author_email": "runefh@gmail.com", 
+            "home_page": "http://bitbucket.org/runeh/anyjson/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Wraps the best available JSON implementation available in a common interface"
+        }, 
+        "requirement": "anyjson>=0.3.3"
+    }, 
+    "argparse": {
+        "info": {
+            "author": "Steven Bethard", 
+            "author_email": "steven.bethard@gmail.com", 
+            "home_page": "http://code.google.com/p/argparse/", 
+            "license": "Python Software Foundation License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python command-line parsing library"
+        }, 
+        "requirement": "argparse"
+    }, 
+    "babel": {
+        "info": {
+            "author": "Armin Ronacher", 
+            "author_email": "armin.ronacher@active-4.com", 
+            "home_page": "http://babel.pocoo.org/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Internationalization utilities"
+        }, 
+        "requirement": "Babel>=1.3"
+    }, 
+    "boto": {
+        "info": {
+            "author": "Mitch Garnaat", 
+            "author_email": "mitch@garnaat.com", 
+            "home_page": "https://github.com/boto/boto/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Amazon Web Services Library"
+        }, 
+        "requirement": "boto>=2.12.0,!=2.13.0"
+    }, 
+    "cffi": {
+        "info": {
+            "author": "Armin Rigo, Maciej Fijalkowski", 
+            "author_email": "python-cffi@googlegroups.com", 
+            "home_page": "http://cffi.readthedocs.org", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Foreign Function Interface for Python calling C code."
+        }, 
+        "requirement": "cffi"
+    }, 
+    "cliff": {
+        "info": {
+            "author": "Doug Hellmann", 
+            "author_email": "doug.hellmann@dreamhost.com", 
+            "home_page": "https://launchpad.net/python-cliff", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Command Line Interface Formulation Framework"
+        }, 
+        "requirement": "cliff>=1.4.3"
+    }, 
+    "cliff-tablib": {
+        "info": {
+            "author": "Doug Hellmann", 
+            "author_email": "doug.hellmann@gmail.com", 
+            "home_page": "https://github.com/dreamhost/cliff-tablib", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "tablib formatters for cliff"
+        }, 
+        "requirement": "cliff-tablib>=1.0"
+    }, 
+    "cmd2": {
+        "info": {
+            "author": "Catherine Devlin", 
+            "author_email": "catherine.devlin@gmail.com", 
+            "home_page": "http://packages.python.org/cmd2/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extra features for standard library's cmd module"
+        }, 
+        "requirement": "cmd2>=0.6.7"
+    }, 
+    "coinor.pulp": {
+        "info": {
+            "author": "Stuart Mitchell", 
+            "author_email": "s.mitchell@auckland.ac.nz", 
+            "home_page": "http://www.coin-or.org/PuLP/", 
+            "license": "Copyright (c) 2010, Stuart Mitchell\nAll rights reserved.\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the following conditions are met:\n\n\n    - Redistributions of source code must retain the above copyright notice, \n      this list of conditions and the following disclaimer.\n\n    - Redistributions in binary form must reproduce the above copyright notice,\n      this list of conditions and the following disclaimer in the documentation \n      and/or other materials provided with the distribution.\n\n      \nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND \nANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED \nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE \nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE \nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL \nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR \nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER \nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, \nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE \nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "This is a package that wraps pulp and imports it into the namespace\npackage coinor."
+        }, 
+        "requirement": "coinor.pulp>=1.0.4"
+    }, 
+    "configobj": {
+        "info": {
+            "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers)", 
+            "author_email": "rdennis+configobj@gmail.com, eli@courtwright.org, fuzzyman@voidspace.co.uk, nico@tekNico.net", 
+            "home_page": "https://github.com/DiffSK/configobj", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Config file reading, writing and validation."
+        }, 
+        "requirement": "configobj"
+    }, 
+    "coverage": {
+        "info": {
+            "author": "Ned Batchelder and others", 
+            "author_email": "ned@nedbatchelder.com", 
+            "home_page": "http://nedbatchelder.com/code/coverage", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Code coverage measurement for Python"
+        }, 
+        "requirement": "coverage>=3.6"
+    }, 
+    "croniter": {
+        "info": {
+            "author": "Matsumoto Taichi, kiorky", 
+            "author_email": "taichino@gmail.com, kiorky@cryptelium.net", 
+            "home_page": "http://github.com/kiorky/croniter", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "croniter provides iteration for datetime object with cron like format"
+        }, 
+        "requirement": "croniter>=0.3.4"
+    }, 
+    "ddt": {
+        "info": {
+            "author": "Carles Barrob\u00e9s", 
+            "author_email": "carles@barrobes.com", 
+            "home_page": "https://github.com/txels/ddt", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Data-Driven/Decorated Tests"
+        }, 
+        "requirement": "ddt>=0.4.0"
+    }, 
+    "decorator": {
+        "info": {
+            "author": "Michele Simionato", 
+            "author_email": "michele.simionato@gmail.com", 
+            "home_page": "http://pypi.python.org/pypi/decorator", 
+            "license": "BSD License", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Better living through Python with decorators"
+        }, 
+        "requirement": "decorator>=3.4.0"
+    }, 
+    "discover": {
+        "info": {
+            "author": "Michael Foord", 
+            "author_email": "michael@voidspace.org.uk", 
+            "home_page": "http://pypi.python.org/pypi/discover/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Test discovery for unittest. Backported from Python 2.7 for Python 2.4+"
+        }, 
+        "requirement": "discover"
+    }, 
+    "diskimage-builder": {
+        "info": {
+            "author": "HP Cloud Services", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://git.openstack.org/cgit/openstack/diskimage-builder", 
+            "license": "Apache License (2.0)", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Golden Disk Image builder."
+        }, 
+        "requirement": "diskimage-builder"
+    }, 
+    "django": {
+        "info": {
+            "author": "Django Software Foundation", 
+            "author_email": "foundation@djangoproject.com", 
+            "home_page": "http://www.djangoproject.com/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A high-level Python Web framework that encourages rapid development and clean, pragmatic design."
+        }, 
+        "requirement": "Django>=1.4,<1.7"
+    }, 
+    "django-bootstrap-form": {
+        "info": {
+            "author": "tzangms", 
+            "author_email": "tzangms@gmail.com", 
+            "home_page": "http://github.com/tzangms/django-bootstrap-form", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "django-bootstrap-form"
+        }, 
+        "requirement": "django-bootstrap-form"
+    }, 
+    "django-compressor": {
+        "info": {
+            "author": "Jannis Leidel", 
+            "author_email": "jannis@leidel.info", 
+            "home_page": "http://django-compressor.readthedocs.org/en/latest/", 
+            "license": "MIT", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Compresses linked and inline JavaScript or CSS into single cached files."
+        }, 
+        "requirement": "django-compressor>=1.3"
+    }, 
+    "django-nose": {
+        "info": {
+            "author": "Erik Rose", 
+            "author_email": "erikrose@grinchcentral.com", 
+            "home_page": "http://github.com/jbalogh/django-nose", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Makes your Django tests simple and snappy"
+        }, 
+        "requirement": "django-nose"
+    }, 
+    "django-openstack-auth": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Django authentication backend for use with OpenStack Identity"
+        }, 
+        "requirement": "django-openstack-auth>=1.1.4"
+    }, 
+    "dnspython": {
+        "info": {
+            "author": "Bob Halley", 
+            "author_email": "halley@dnspython.org", 
+            "home_page": "http://www.dnspython.org", 
+            "license": "http://www.dnspython.org/LICENSE", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A DNS toolkit for Python"
+        }, 
+        "requirement": "dnspython>=1.9.4"
+    }, 
+    "docutils": {
+        "info": {
+            "author": "docutils-develop list", 
+            "author_email": "docutils-develop@lists.sourceforge.net", 
+            "home_page": "http://docutils.sourceforge.net/", 
+            "license": "public domain, Python, 2-Clause BSD, GPL 3 (see COPYING.txt)", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Docutils -- Python Documentation Utilities"
+        }, 
+        "requirement": "docutils==0.9.1"
+    }, 
+    "dogpile.cache": {
+        "info": {
+            "author": "Mike Bayer", 
+            "author_email": "mike_mp@zzzcomputing.com", 
+            "home_page": "http://bitbucket.org/zzzeek/dogpile.cache", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A caching front-end based on the Dogpile lock."
+        }, 
+        "requirement": "dogpile.cache>=0.5.0"
+    }, 
+    "eventlet": {
+        "info": {
+            "author": "Linden Lab", 
+            "author_email": "eventletdev@lists.secondlife.com", 
+            "home_page": "http://eventlet.net", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Highly concurrent networking library"
+        }, 
+        "requirement": "eventlet>=0.13.0"
+    }, 
+    "extras": {
+        "info": {
+            "author": "Testing cabal", 
+            "author_email": "testtools-dev@lists.launchpad.net", 
+            "home_page": "https://github.com/testing-cabal/extras", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Useful extra bits for Python - things that shold be in the standard library"
+        }, 
+        "requirement": "extras"
+    }, 
+    "falcon": {
+        "info": {
+            "author": "Kurt Griffiths", 
+            "author_email": "mail@kgriffs.com", 
+            "home_page": "http://falconframework.org", 
+            "license": "Apache 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "An unladen web framework for building APIs and app backends."
+        }, 
+        "requirement": "falcon>=0.1.6,<0.2.0"
+    }, 
+    "feedparser": {
+        "info": {
+            "author": "Kurt McKee", 
+            "author_email": "contactme@kurtmckee.org", 
+            "home_page": "http://code.google.com/p/feedparser/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Universal feed parser, handles RSS 0.9x, RSS 1.0, RSS 2.0, CDF, Atom 0.3, and Atom 1.0 feeds"
+        }, 
+        "requirement": "feedparser"
+    }, 
+    "fixtures": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "robertc@robertcollins.net", 
+            "home_page": "https://launchpad.net/python-fixtures", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Fixtures, reusable state for writing clean tests and more."
+        }, 
+        "requirement": "fixtures>=0.3.14"
+    }, 
+    "flake8": {
+        "info": {
+            "author": "Ian Cordasco", 
+            "author_email": "graffatcolmingov@gmail.com", 
+            "home_page": "http://bitbucket.org/tarek/flake8", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "the modular source code checker: pep8, pyflakes and co"
+        }, 
+        "requirement": "flake8==2.1.0"
+    }, 
+    "flask": {
+        "info": {
+            "author": "Armin Ronacher", 
+            "author_email": "armin.ronacher@active-4.com", 
+            "home_page": "http://github.com/mitsuhiko/flask/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A microframework based on Werkzeug, Jinja2 and good intentions"
+        }, 
+        "requirement": "Flask>=0.10,<1.0"
+    }, 
+    "futures": {
+        "info": {
+            "author": "Alex Gronholm", 
+            "author_email": "alex.gronholm+pypi@nextday.fi", 
+            "home_page": "http://code.google.com/p/pythonfutures", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Backport of the concurrent.futures package from Python 3.2"
+        }, 
+        "requirement": "futures>=2.1.3"
+    }, 
+    "gear": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://pypi.python.org/pypi/gear", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Pure Python Async Gear Protocol Library"
+        }, 
+        "requirement": "gear"
+    }, 
+    "greenlet": {
+        "info": {
+            "author": "Ralf Schmitt", 
+            "author_email": "ralf@systemexit.de", 
+            "home_page": "https://github.com/python-greenlet/greenlet", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Lightweight in-process concurrent programming"
+        }, 
+        "requirement": "greenlet>=0.3.2"
+    }, 
+    "hacking": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://github.com/openstack-dev/hacking", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Hacking Guidline Enforcement"
+        }, 
+        "requirement": "hacking>=0.8.0,<0.9"
+    }, 
+    "happybase": {
+        "info": {
+            "author": "Wouter Bolsterlee", 
+            "author_email": "uws@xs4all.nl", 
+            "home_page": "https://github.com/wbolster/happybase", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A developer-friendly Python library to interact with Apache HBase"
+        }, 
+        "requirement": "happybase>=0.5,!=0.7"
+    }, 
+    "hgtools": {
+        "info": {
+            "author": "Jannis Leidel/Jason R. Coombs", 
+            "author_email": "jaraco@jaraco.com", 
+            "home_page": "https://bitbucket.org/jaraco/hgtools/", 
+            "license": "GPL2", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Classes and setuptools plugin for Mercurial repositories"
+        }, 
+        "requirement": "hgtools"
+    }, 
+    "hp3parclient": {
+        "info": {
+            "author": "Walter A. Boring IV", 
+            "author_email": "walter.boring@hp.com", 
+            "home_page": "http://packages.python.org/hp3parclient", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "HP 3PAR HTTP REST Client"
+        }, 
+        "requirement": "hp3parclient>=3.0,<4.0"
+    }, 
+    "hplefthandclient": {
+        "info": {
+            "author": "Kurt Martin", 
+            "author_email": "kurt.f.martin@hp.com", 
+            "home_page": "http://packages.python.org/hplefthandclient", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "HP LeftHand/StoreVirtual HTTP REST Client"
+        }, 
+        "requirement": "hplefthandclient>=1.0.0,<2.0.0"
+    }, 
+    "httplib2": {
+        "info": {
+            "author": "Joe Gregorio", 
+            "author_email": "joe@bitworking.org", 
+            "home_page": "https://github.com/jcgregorio/httplib2", 
+            "license": "MIT", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A comprehensive HTTP client library."
+        }, 
+        "requirement": "httplib2>=0.7.5"
+    }, 
+    "httpretty": {
+        "info": {
+            "author": "Gabriel Falcao", 
+            "author_email": "gabriel@nacaolivre.org", 
+            "home_page": "http://github.com/gabrielfalcao/httpretty", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "HTTP client mock for Python"
+        }, 
+        "requirement": "httpretty>=0.8.0"
+    }, 
+    "iso8601": {
+        "info": {
+            "author": "Michael Twomey", 
+            "author_email": "micktwomey+iso8601@gmail.com", 
+            "home_page": "https://bitbucket.org/micktwomey/pyiso8601", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Simple module to parse ISO 8601 dates"
+        }, 
+        "requirement": "iso8601>=0.1.9"
+    }, 
+    "jinja2": {
+        "info": {
+            "author": "Armin Ronacher", 
+            "author_email": "armin.ronacher@active-4.com", 
+            "home_page": "http://jinja.pocoo.org/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A small but fast and easy to use stand-alone template engine written in pure python."
+        }, 
+        "requirement": "Jinja2"
+    }, 
+    "jsonpatch": {
+        "info": {
+            "author": "Stefan K\u00f6gl", 
+            "author_email": "stefan@skoegl.net", 
+            "home_page": "https://github.com/stefankoegl/python-json-patch", 
+            "license": "Modified BSD License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Apply JSON-Patches (RFC 6902)"
+        }, 
+        "requirement": "jsonpatch>=1.1"
+    }, 
+    "jsonpath-rw": {
+        "info": {
+            "author": "Kenneth Knowles", 
+            "author_email": "kenn.knowles@gmail.com", 
+            "home_page": "https://github.com/kennknowles/python-jsonpath-rw", 
+            "license": "Apache 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A robust and significantly extended implementation of JSONPath for Python, with a clear AST for metaprogramming."
+        }, 
+        "requirement": "jsonpath-rw>=1.2.0,<2.0"
+    }, 
+    "jsonrpclib": {
+        "info": {
+            "author": "Josh Marshall", 
+            "author_email": "catchjosh@gmail.com", 
+            "home_page": "http://github.com/joshmarshall/jsonrpclib/", 
+            "license": "http://www.apache.org/licenses/LICENSE-2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "This project is an implementation of the JSON-RPC v2.0 specification (backwards-compatible) as a client library."
+        }, 
+        "requirement": "jsonrpclib"
+    }, 
+    "jsonschema": {
+        "info": {
+            "author": "Julian Berman", 
+            "author_email": "Julian@GrayVines.com", 
+            "home_page": "http://github.com/Julian/jsonschema", 
+            "license": "MIT", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "An implementation of JSON Schema validation for Python"
+        }, 
+        "requirement": "jsonschema>=2.0.0,<3.0.0"
+    }, 
+    "kazoo": {
+        "info": {
+            "author": "Kazoo team", 
+            "author_email": "python-zk@googlegroups.com", 
+            "home_page": "https://kazoo.readthedocs.org", 
+            "license": "Apache 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Higher Level Zookeeper Client"
+        }, 
+        "requirement": "kazoo>=0.9"
+    }, 
+    "keyring": {
+        "info": {
+            "author": "Jason R. Coombs", 
+            "author_email": "jaraco@jaraco.com", 
+            "home_page": "http://bitbucket.org/kang/python-keyring-lib", 
+            "license": "PSF and MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Store and access your passwords safely."
+        }, 
+        "requirement": "keyring>=2.1"
+    }, 
+    "kombu": {
+        "info": {
+            "author": "Ask Solem", 
+            "author_email": "ask@celeryproject.org", 
+            "home_page": "http://kombu.readthedocs.org", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Messaging library for Python"
+        }, 
+        "requirement": "kombu>=2.4.8"
+    }, 
+    "lesscpy": {
+        "info": {
+            "author": "J\u00f3hann T Mar\u00edusson", 
+            "author_email": "jtm@robot.is", 
+            "home_page": "https://github.com/robotis/Lesscpy", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python LESS compiler"
+        }, 
+        "requirement": "lesscpy>=0.9j"
+    }, 
+    "lockfile": {
+        "info": {
+            "author": "Skip Montanaro", 
+            "author_email": "skip@pobox.com", 
+            "home_page": "http://code.google.com/p/pylockfile/", 
+            "license": "MIT License", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Platform-independent file locking module"
+        }, 
+        "requirement": "lockfile>=0.8"
+    }, 
+    "lxml": {
+        "info": {
+            "author": "lxml dev team", 
+            "author_email": "lxml-dev@lxml.de", 
+            "home_page": "http://lxml.de/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
+        }, 
+        "requirement": "lxml>=2.3"
+    }, 
+    "mako": {
+        "info": {
+            "author": "Mike Bayer", 
+            "author_email": "mike@zzzcomputing.com", 
+            "home_page": "http://www.makotemplates.org/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A super-fast templating language that borrows the  best ideas from the existing templating languages."
+        }, 
+        "requirement": "Mako>=0.4.0"
+    }, 
+    "mock": {
+        "info": {
+            "author": "Michael Foord", 
+            "author_email": "michael@voidspace.org.uk", 
+            "home_page": "http://www.voidspace.org.uk/python/mock/", 
+            "license": "UNKNOWN", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A Python Mocking and Patching Library for Testing"
+        }, 
+        "requirement": "mock>=1.0"
+    }, 
+    "mox": {
+        "info": {
+            "author": "pymox maintainers", 
+            "author_email": "mox-discuss@googlegroups.com", 
+            "home_page": "http://code.google.com/p/pymox/", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Mock object framework"
+        }, 
+        "requirement": "mox>=0.5.3"
+    }, 
+    "mox3": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Mock object framework for Python"
+        }, 
+        "requirement": "mox3>=0.7.0"
+    }, 
+    "msgpack-python": {
+        "info": {
+            "author": "INADA Naoki", 
+            "author_email": "songofacandy@gmail.com", 
+            "home_page": "http://msgpack.org/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "MessagePack (de)serializer."
+        }, 
+        "requirement": "msgpack-python"
+    }, 
+    "mysql-python": {
+        "info": {
+            "author": "Andy Dustman", 
+            "author_email": "farcepest@gmail.com", 
+            "home_page": "https://github.com/farcepest/MySQLdb1", 
+            "license": "GPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python interface to MySQL"
+        }, 
+        "requirement": "MySQL-python"
+    }, 
+    "netaddr": {
+        "info": {
+            "author": "David P. D. Moss", 
+            "author_email": "drkjam@gmail.com", 
+            "home_page": "http://github.com/drkjam/netaddr/", 
+            "license": "BSD License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Pythonic manipulation of IPv4, IPv6, CIDR, EUI and MAC network addresses"
+        }, 
+        "requirement": "netaddr>=0.7.6"
+    }, 
+    "netifaces": {
+        "info": {
+            "author": "Alastair Houghton", 
+            "author_email": "alastair@alastairs-place.net", 
+            "home_page": "http://alastairs-place.net/netifaces", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Portable network interface information."
+        }, 
+        "requirement": "netifaces>=0.5"
+    }, 
+    "networkx": {
+        "info": {
+            "author": "NetworkX Developers", 
+            "author_email": "networkx-discuss@googlegroups.com", 
+            "home_page": "http://networkx.lanl.gov/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python package for creating and manipulating graphs and networks"
+        }, 
+        "requirement": "networkx>=1.8"
+    }, 
+    "nose": {
+        "info": {
+            "author": "Jason Pellerin", 
+            "author_email": "jpellerin+nose@gmail.com", 
+            "home_page": "http://readthedocs.org/docs/nose/", 
+            "license": "GNU LGPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "nose extends unittest to make testing easier"
+        }, 
+        "requirement": "nose"
+    }, 
+    "nose-exclude": {
+        "info": {
+            "author": "Kurt Grandis", 
+            "author_email": "kgrandis@gmail.com", 
+            "home_page": "http://bitbucket.org/kgrandis/nose-exclude", 
+            "license": "GNU LGPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Exclude specific directories from nosetests runs."
+        }, 
+        "requirement": "nose-exclude"
+    }, 
+    "nosehtmloutput": {
+        "info": {
+            "author": "Hewlett-Packard Development Company, L.P.", 
+            "author_email": "UNKNOWN", 
+            "home_page": "https://github.com/openstack-infra/nose-html-output", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Nose plugin to produce test results in html."
+        }, 
+        "requirement": "nosehtmloutput>=0.0.3"
+    }, 
+    "nosexcover": {
+        "info": {
+            "author": "Chris Heisel", 
+            "author_email": "chris@heisel.org", 
+            "home_page": "http://github.com/cmheisel/nose-xcover/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extends nose.plugins.cover to add Cobertura-style XML reports"
+        }, 
+        "requirement": "nosexcover"
+    }, 
+    "oauthlib": {
+        "info": {
+            "author": "Ib Lundgren", 
+            "author_email": "ib.lundgren@gmail.com", 
+            "home_page": "https://github.com/idan/oauthlib", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"
+        }, 
+        "requirement": "oauthlib>=0.6"
+    }, 
+    "openstack-doc-tools": {
+        "info": {
+            "author": "OpenStack Documentation", 
+            "author_email": "openstack-doc@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Tools for OpenStack Documentation"
+        }, 
+        "requirement": "openstack-doc-tools>=0.11"
+    }, 
+    "openstack.nose-plugin": {
+        "info": {
+            "author": "Jason K\u00f6lker", 
+            "author_email": "jason@koelker.net", 
+            "home_page": "https://github.com/jkoelker/openstack-nose", 
+            "license": "Apache Software License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "openstack run_tests.py style output for nosetests"
+        }, 
+        "requirement": "openstack.nose-plugin>=0.7"
+    }, 
+    "ordereddict": {
+        "info": {
+            "author": "Raymond Hettinger", 
+            "author_email": "UNKNOWN", 
+            "home_page": "UNKNOWN", 
+            "license": "UNKNOWN", 
+            "maintainer": "Steven Hazel", 
+            "maintainer_email": "sah@awesame.org", 
+            "summary": "A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6."
+        }, 
+        "requirement": "ordereddict"
+    }, 
+    "os-apply-config": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://git.openstack.org/cgit/openstack/os-apply-config", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Config files from cloud metadata"
+        }, 
+        "requirement": "os-apply-config"
+    }, 
+    "os-collect-config": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://git.openstack.org/cgit/openstack/os-collect-config", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Collect and cache metadata, run hooks on changes."
+        }, 
+        "requirement": "os-collect-config"
+    }, 
+    "os-refresh-config": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://github.com/openstack/os-refresh-config", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Refresh system configuration"
+        }, 
+        "requirement": "os-refresh-config"
+    }, 
+    "oslo.config": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://launchpad.net/oslo", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Oslo Configuration API"
+        }, 
+        "requirement": "oslo.config>=1.2.0"
+    }, 
+    "oslo.messaging": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://launchpad.net/oslo", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Oslo Messaging API"
+        }, 
+        "requirement": "oslo.messaging>=1.3.0"
+    }, 
+    "oslo.rootwrap": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://launchpad.net/oslo", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Oslo Rootwrap"
+        }, 
+        "requirement": "oslo.rootwrap"
+    }, 
+    "oslo.vmware": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://launchpad.net/oslo", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Oslo VMware library for OpenStack projects"
+        }, 
+        "requirement": "oslo.vmware>=0.2"
+    }, 
+    "oslosphinx": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Sphinx Extensions and Theme"
+        }, 
+        "requirement": "oslosphinx"
+    }, 
+    "oslotest": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://launchpad.net/oslo", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack test framework"
+        }, 
+        "requirement": "oslotest"
+    }, 
+    "paramiko": {
+        "info": {
+            "author": "Jeff Forcier", 
+            "author_email": "jeff@bitprophet.org", 
+            "home_page": "https://github.com/paramiko/paramiko/", 
+            "license": "LGPL", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "SSH2 protocol library"
+        }, 
+        "requirement": "paramiko>=1.9.0"
+    }, 
+    "passlib": {
+        "info": {
+            "author": "Eli Collins", 
+            "author_email": "elic@assurancetechnologies.com", 
+            "home_page": "http://passlib.googlecode.com", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "comprehensive password hashing framework supporting over 30 schemes"
+        }, 
+        "requirement": "passlib"
+    }, 
+    "paste": {
+        "info": {
+            "author": "Ian Bicking", 
+            "author_email": "ianb@colorstudy.com", 
+            "home_page": "http://pythonpaste.org", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Tools for using a Web Server Gateway Interface stack"
+        }, 
+        "requirement": "Paste"
+    }, 
+    "pastedeploy": {
+        "info": {
+            "author": "Alex Gronholm", 
+            "author_email": "alex.gronholm@nextday.fi", 
+            "home_page": "http://pythonpaste.org/deploy/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Load, configure, and compose WSGI applications and servers"
+        }, 
+        "requirement": "PasteDeploy>=1.5.0"
+    }, 
+    "pbr": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://pypi.python.org/pypi/pbr", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python Build Reasonableness"
+        }, 
+        "requirement": "pbr>=0.6,!=0.7,<1.0"
+    }, 
+    "pecan": {
+        "info": {
+            "author": "Jonathan LaCour", 
+            "author_email": "info@pecanpy.org", 
+            "home_page": "http://github.com/stackforge/pecan", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A WSGI object-dispatching web framework, designed to be lean and fast, with few dependancies."
+        }, 
+        "requirement": "pecan>=0.4.5"
+    }, 
+    "pep8": {
+        "info": {
+            "author": "Johann C. Rocholl", 
+            "author_email": "johann@rocholl.net", 
+            "home_page": "http://pep8.readthedocs.org/", 
+            "license": "Expat license", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python style guide checker"
+        }, 
+        "requirement": "pep8==1.4.6,==1.5.6"
+    }, 
+    "pexpect": {
+        "info": {
+            "author": "Noah Spurrier; Thomas Kluyver; Jeff Quast", 
+            "author_email": "noah@noah.org; thomas@kluyver.me.uk; contact@jeffquast.com", 
+            "home_page": "http://pexpect.readthedocs.org/", 
+            "license": "ISC license", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Pexpect allows easy control of interactive console applications."
+        }, 
+        "requirement": "pexpect>=3.1"
+    }, 
+    "pillow": {
+        "info": {
+            "author": "Alex Clark (fork author)", 
+            "author_email": "aclark@aclark.net", 
+            "home_page": "http://python-imaging.github.io/", 
+            "license": "Standard PIL License", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Python Imaging Library (Fork)"
+        }, 
+        "requirement": "Pillow==2.4.0"
+    }, 
+    "pip": {
+        "info": {
+            "author": "The pip developers", 
+            "author_email": "python-virtualenv@groups.google.com", 
+            "home_page": "http://www.pip-installer.org", 
+            "license": "MIT", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A tool for installing and managing Python packages."
+        }, 
+        "requirement": "pip>=1.4"
+    }, 
+    "posix-ipc": {
+        "info": {
+            "author": "Philip Semanchuk", 
+            "author_email": "philip@semanchuk.com", 
+            "home_page": "http://semanchuk.com/philip/posix_ipc/", 
+            "license": "http://creativecommons.org/licenses/BSD/", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "POSIX IPC primitives (semaphores, shared memory and message queues) for Python"
+        }, 
+        "requirement": "posix-ipc"
+    }, 
+    "prettytable": {
+        "info": {
+            "author": "Luke Maurits", 
+            "author_email": "luke@maurits.id.au", 
+            "home_page": "http://code.google.com/p/prettytable/", 
+            "license": "BSD", 
+            "maintainer": "Luke Maurits", 
+            "maintainer_email": "luke@maurits.id.au", 
+            "summary": "A simple Python library for easily displaying tabular data in a visually appealing ASCII table format."
+        }, 
+        "requirement": "PrettyTable>=0.7,<0.8"
+    }, 
+    "proboscis": {
+        "info": {
+            "author": "Rackspace", 
+            "author_email": "tim.simpson@rackspace.com", 
+            "home_page": "https://github.com/rackspace/python-proboscis", 
+            "license": "Apache", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extends Nose with certain TestNG like features."
+        }, 
+        "requirement": "proboscis==1.2.5.3"
+    }, 
+    "psutil": {
+        "info": {
+            "author": "Giampaolo Rodola", 
+            "author_email": "g.rodola <at> gmail <dot> com", 
+            "home_page": "http://code.google.com/p/psutil/", 
+            "license": "BSD", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "psutil is a cross-platform library for retrieving information onrunning processes and system utilization (CPU, memory, disks, network)in Python."
+        }, 
+        "requirement": "psutil>=1.1.1"
+    }, 
+    "psycopg2": {
+        "info": {
+            "author": "Federico Di Gregorio", 
+            "author_email": "fog@initd.org", 
+            "home_page": "http://initd.org/psycopg/", 
+            "license": "GPL with exceptions or ZPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python-PostgreSQL Database Adapter"
+        }, 
+        "requirement": "psycopg2"
+    }, 
+    "pyasn1": {
+        "info": {
+            "author": "Ilya Etingof", 
+            "author_email": "ilya@glas.net", 
+            "home_page": "", 
+            "license": "", 
+            "maintainer": "SNMP Laboratories", 
+            "maintainer_email": "support@snmplabs.com", 
+            "summary": "ASN.1 types and codecs"
+        }, 
+        "requirement": "pyasn1"
+    }, 
+    "pycadf": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://launchpad.net/pycadf", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "CADF Library"
+        }, 
+        "requirement": "pycadf>=0.4.1"
+    }, 
+    "pycrypto": {
+        "info": {
+            "author": "Dwayne C. Litzenberger", 
+            "author_email": "dlitz@dlitz.net", 
+            "home_page": "http://www.pycrypto.org/", 
+            "license": "UNKNOWN", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Cryptographic modules for Python."
+        }, 
+        "requirement": "pycrypto>=2.6"
+    }, 
+    "pyflakes": {
+        "info": {
+            "author": "Florent Xicluna", 
+            "author_email": "pyflakes-dev@lists.launchpad.net", 
+            "home_page": "https://launchpad.net/pyflakes", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "passive checker of Python programs"
+        }, 
+        "requirement": "pyflakes==0.8.1"
+    }, 
+    "pyghmi": {
+        "info": {
+            "author": "Jarrod Johnson", 
+            "author_email": "jbjohnso@us.ibm.com", 
+            "home_page": "http://xcat.sf.net/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python General Hardware Management Initiative (IPMI and others)"
+        }, 
+        "requirement": "pyghmi>=0.5.8"
+    }, 
+    "pylint": {
+        "info": {
+            "author": "Logilab", 
+            "author_email": "python-projects@lists.logilab.org", 
+            "home_page": "http://www.pylint.org", 
+            "license": "GPL", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "python code static checker"
+        }, 
+        "requirement": "pylint==0.25.2"
+    }, 
+    "pymongo": {
+        "info": {
+            "author": "Bernie Hackett", 
+            "author_email": "bernie@mongodb.com", 
+            "home_page": "http://github.com/mongodb/mongo-python-driver", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python driver for MongoDB <http://www.mongodb.org>"
+        }, 
+        "requirement": "pymongo>=2.4"
+    }, 
+    "pyopenssl": {
+        "info": {
+            "author": "Jean-Paul Calderone", 
+            "author_email": "exarkun@twistedmatrix.com", 
+            "home_page": "https://github.com/pyca/pyopenssl", 
+            "license": "APL2", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python wrapper module around the OpenSSL library"
+        }, 
+        "requirement": "pyOpenSSL>=0.11"
+    }, 
+    "pyparsing": {
+        "info": {
+            "author": "Paul McGuire", 
+            "author_email": "ptmcg@users.sourceforge.net", 
+            "home_page": "http://pyparsing.wikispaces.com/", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python parsing module"
+        }, 
+        "requirement": "pyparsing>=2.0.1"
+    }, 
+    "pysendfile": {
+        "info": {
+            "author": "Giampaolo Rodola", 
+            "author_email": "g.rodola@gmail.com", 
+            "home_page": "http://code.google.com/p/pysendfile/", 
+            "license": "MIT", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A Python interface to sendfile(2)"
+        }, 
+        "requirement": "pysendfile==2.0.0"
+    }, 
+    "pysnmp": {
+        "info": {
+            "author": "Ilya Etingof <ilya@glas.net>", 
+            "author_email": "ilya@glas.net", 
+            "home_page": "", 
+            "license": "BSD", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "A pure-Python SNMPv1/v2c/v3 library"
+        }, 
+        "requirement": "pysnmp>=4.2.1,<5.0.0"
+    }, 
+    "pysqlite": {
+        "info": {
+            "author": "Gerhard Haering", 
+            "author_email": "gh@ghaering.de", 
+            "home_page": "https://github.com/ghaering/pysqlite", 
+            "license": "zlib/libpng license", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "DB-API 2.0 interface for SQLite 3.x"
+        }, 
+        "requirement": "pysqlite"
+    }, 
+    "pystache": {
+        "info": {
+            "author": "Chris Jerdonek", 
+            "author_email": "chris.jerdonek@gmail.com", 
+            "home_page": "http://github.com/defunkt/pystache", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Mustache for Python"
+        }, 
+        "requirement": "pystache"
+    }, 
+    "python-ceilometerclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Telemetry API Client Library"
+        }, 
+        "requirement": "python-ceilometerclient>=1.0.6"
+    }, 
+    "python-cinderclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Block Storage API Client Library"
+        }, 
+        "requirement": "python-cinderclient>=1.0.6"
+    }, 
+    "python-designateclient": {
+        "info": {
+            "author": "Kiall Mac Innes", 
+            "author_email": "kiall@managedit.ie", 
+            "home_page": "https://launchpad.net/python-designateclientclient", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "DNS as a Service - Client"
+        }, 
+        "requirement": "python-designateclient>=1.0.0"
+    }, 
+    "python-glanceclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Image API Client Library"
+        }, 
+        "requirement": "python-glanceclient>=0.9.0"
+    }, 
+    "python-heatclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Orchestration API Client Library"
+        }, 
+        "requirement": "python-heatclient>=0.2.3"
+    }, 
+    "python-ironicclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Bare Metal Provisioning API Client Library"
+        }, 
+        "requirement": "python-ironicclient"
+    }, 
+    "python-keystoneclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Client Library for OpenStack Identity"
+        }, 
+        "requirement": "python-keystoneclient>=0.7.0"
+    }, 
+    "python-ldap": {
+        "info": {
+            "author": "python-ldap project", 
+            "author_email": "python-ldap@python.org", 
+            "home_page": "http://www.python-ldap.org/", 
+            "license": "Python style", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python modules for implementing LDAP clients"
+        }, 
+        "requirement": "python-ldap==2.3.13"
+    }, 
+    "python-memcached": {
+        "info": {
+            "author": "Sean Reifschneider", 
+            "author_email": "jafo@tummy.com", 
+            "home_page": "http://www.tummy.com/Community/software/python-memcached/", 
+            "license": "UNKNOWN", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "Pure python memcached client"
+        }, 
+        "requirement": "python-memcached>=1.48"
+    }, 
+    "python-neutronclient": {
+        "info": {
+            "author": "OpenStack Networking Project", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "CLI and Client Library for OpenStack Networking"
+        }, 
+        "requirement": "python-neutronclient>=2.3.4,<3"
+    }, 
+    "python-novaclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://git.openstack.org/cgit/openstack/python-novaclient", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Client library for OpenStack Compute API"
+        }, 
+        "requirement": "python-novaclient>=2.17.0"
+    }, 
+    "python-openstackclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://wiki.openstack.org/OpenStackClient", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Command-line Client"
+        }, 
+        "requirement": "python-openstackclient>=0.3.0"
+    }, 
+    "python-saharaclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://github.com/openstack/python-saharaclient", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Client library for Sahara API"
+        }, 
+        "requirement": "python-saharaclient>=0.6.0"
+    }, 
+    "python-seamicroclient": {
+        "info": {
+            "author": "AMD", 
+            "author_email": "rohan.kanade@izeltech.com", 
+            "home_page": "https://github.com/seamicro/python-seamicroclient", 
+            "license": "Apache License, Version 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Client library for Seamicro chassis API"
+        }, 
+        "requirement": "python-seamicroclient>=0.1.0,<2.0"
+    }, 
+    "python-subunit": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "subunit-dev@lists.launchpad.net", 
+            "home_page": "http://launchpad.net/subunit", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python implementation of subunit test streaming protocol"
+        }, 
+        "requirement": "python-subunit>=0.0.18"
+    }, 
+    "python-swiftclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Object Storage API Client Library"
+        }, 
+        "requirement": "python-swiftclient>=1.6"
+    }, 
+    "python-troveclient": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Client library for OpenStack DBaaS API"
+        }, 
+        "requirement": "python-troveclient>=1.0.3"
+    }, 
+    "pytz": {
+        "info": {
+            "author": "Stuart Bishop", 
+            "author_email": "stuart@stuartbishop.net", 
+            "home_page": "http://pythonhosted.org/pytz", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "World timezone definitions, modern and historical"
+        }, 
+        "requirement": "pytz>=2010h"
+    }, 
+    "pyudev": {
+        "info": {
+            "author": "Sebastian Wiesner", 
+            "author_email": "lunaryorn@gmail.com", 
+            "home_page": "http://pyudev.readthedocs.org/", 
+            "license": "LGPL 2.1+", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A libudev binding"
+        }, 
+        "requirement": "pyudev"
+    }, 
+    "pyyaml": {
+        "info": {
+            "author": "Kirill Simonov", 
+            "author_email": "xi@resolvent.net", 
+            "home_page": "http://pyyaml.org/wiki/PyYAML", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "YAML parser and emitter for Python"
+        }, 
+        "requirement": "PyYAML>=3.1.0"
+    }, 
+    "pyzmq": {
+        "info": {
+            "author": "Brian E. Granger, Min Ragan-Kelley", 
+            "author_email": "zeromq-dev@lists.zeromq.org", 
+            "home_page": "http://github.com/zeromq/pyzmq", 
+            "license": "LGPL+BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python bindings for 0MQ"
+        }, 
+        "requirement": "pyzmq==2.2.0.1"
+    }, 
+    "qpid-python": {
+        "info": {
+            "author": "Apache Qpid", 
+            "author_email": "dev@qpid.apache.org", 
+            "home_page": "http://qpid.apache.org/", 
+            "license": "Apache Software License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python client implementation for Apache Qpid"
+        }, 
+        "requirement": "qpid-python"
+    }, 
+    "redis": {
+        "info": {
+            "author": "Andy McCurdy", 
+            "author_email": "sedrik@gmail.com", 
+            "home_page": "http://github.com/andymccurdy/redis-py", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python client for Redis key-value store"
+        }, 
+        "requirement": "redis"
+    }, 
+    "requests": {
+        "info": {
+            "author": "Kenneth Reitz", 
+            "author_email": "me@kennethreitz.com", 
+            "home_page": "http://python-requests.org", 
+            "license": "Copyright 2014 Kenneth Reitz\n\n   Licensed under the Apache License, Version 2.0 (the \"License\");\n   you may not use this file except in compliance with the License.\n   You may obtain a copy of the License at\n\n       http://www.apache.org/licenses/LICENSE-2.0\n\n   Unless required by applicable law or agreed to in writing, software\n   distributed under the License is distributed on an \"AS IS\" BASIS,\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python HTTP for Humans."
+        }, 
+        "requirement": "requests>=1.1"
+    }, 
+    "routes": {
+        "info": {
+            "author": "Ben Bangert", 
+            "author_email": "ben@groovie.org", 
+            "home_page": "http://routes.groovie.org/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Routing Recognition and Generation Tools"
+        }, 
+        "requirement": "Routes>=1.12.3"
+    }, 
+    "rtslib-fb": {
+        "info": {
+            "author": "Andy Grover", 
+            "author_email": "agrover@redhat.com", 
+            "home_page": "http://github.com/agrover/rtslib-fb", 
+            "license": "Apache 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "API for Linux kernel SCSI target (aka LIO)"
+        }, 
+        "requirement": "rtslib-fb>=2.1.39"
+    }, 
+    "selenium": {
+        "info": {
+            "author": "UNKNOWN", 
+            "author_email": "UNKNOWN", 
+            "home_page": "http://code.google.com/p/selenium/", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python bindings for Selenium"
+        }, 
+        "requirement": "selenium"
+    }, 
+    "simplejson": {
+        "info": {
+            "author": "Bob Ippolito", 
+            "author_email": "bob@redivi.com", 
+            "home_page": "http://github.com/simplejson/simplejson", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Simple, fast, extensible JSON encoder/decoder for Python"
+        }, 
+        "requirement": "simplejson>=2.0.9"
+    }, 
+    "six": {
+        "info": {
+            "author": "Benjamin Peterson", 
+            "author_email": "benjamin@python.org", 
+            "home_page": "http://pypi.python.org/pypi/six/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python 2 and 3 compatibility utilities"
+        }, 
+        "requirement": "six>=1.6.0"
+    }, 
+    "sockjs-tornado": {
+        "info": {
+            "author": "Serge S. Koval", 
+            "author_email": "serge.koval@gmail.com", 
+            "home_page": "http://github.com/mrjoes/sockjs-tornado/", 
+            "license": "Copyright (C) 2011 Serge S. Koval\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of\nthis software and associated documentation files (the \"Software\"), to deal in\nthe Software without restriction, including without limitation the rights to\nuse, copy, modify, merge, publish, distribute, sublicense, and/or sell copies\nof the Software, and to permit persons to whom the Software is furnished to do\nso, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "SockJS python server implementation on top of Tornado framework"
+        }, 
+        "requirement": "sockjs-tornado>=1.0.0,<2.0.0"
+    }, 
+    "sphinx": {
+        "info": {
+            "author": "Georg Brandl", 
+            "author_email": "georg@python.org", 
+            "home_page": "http://sphinx-doc.org/", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python documentation generator"
+        }, 
+        "requirement": "sphinx>=1.1.2,<1.2"
+    }, 
+    "sphinxcontrib-docbookrestapi": {
+        "info": {
+            "author": "Cyril Roelandt", 
+            "author_email": "cyril.roelandt@enovance.com", 
+            "home_page": "UNKNOWN", 
+            "license": "Apache-2", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extension to Sphinx for generating REST API documentation for http://api.openstack.org/"
+        }, 
+        "requirement": "sphinxcontrib-docbookrestapi"
+    }, 
+    "sphinxcontrib-httpdomain": {
+        "info": {
+            "author": "Hong Minhee", 
+            "author_email": "minhee@dahlia.kr", 
+            "home_page": "http://bitbucket.org/birkenfeld/sphinx-contrib", 
+            "license": "BSD", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Sphinx domain for HTTP APIs"
+        }, 
+        "requirement": "sphinxcontrib-httpdomain"
+    }, 
+    "sphinxcontrib-pecanwsme": {
+        "info": {
+            "author": "Doug Hellmann", 
+            "author_email": "doug.hellmann@dreamhost.com", 
+            "home_page": "https://github.com/dreamhost/sphinxcontrib-pecanwsme", 
+            "license": "Apache-2", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extension to Sphinx for documenting APIs built with Pecan and WSME"
+        }, 
+        "requirement": "sphinxcontrib-pecanwsme>=0.6"
+    }, 
+    "sqlalchemy": {
+        "info": {
+            "author": "Mike Bayer", 
+            "author_email": "mike_mp@zzzcomputing.com", 
+            "home_page": "http://www.sqlalchemy.org", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Database Abstraction Library"
+        }, 
+        "requirement": "SQLAlchemy>=0.7.8,<=0.9.99"
+    }, 
+    "sqlalchemy-migrate": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://www.openstack.org/", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Database schema migration for SQLAlchemy"
+        }, 
+        "requirement": "sqlalchemy-migrate>=0.8.2,!=0.8.4"
+    }, 
+    "stevedore": {
+        "info": {
+            "author": "Doug Hellmann", 
+            "author_email": "doug.hellmann@dreamhost.com", 
+            "home_page": "https://github.com/dreamhost/stevedore", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Manage dynamic plugins for Python applications"
+        }, 
+        "requirement": "stevedore>=0.14"
+    }, 
+    "suds": {
+        "info": {
+            "author": "Jeff Ortel", 
+            "author_email": "jortel@redhat.com", 
+            "home_page": "https://fedorahosted.org/suds", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Lightweight SOAP client"
+        }, 
+        "requirement": "suds>=0.4"
+    }, 
+    "swift": null, 
+    "taskflow": {
+        "info": {
+            "author": "Taskflow Developers", 
+            "author_email": "taskflow-dev@lists.launchpad.net", 
+            "home_page": "https://launchpad.net/taskflow", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Taskflow structured state management library."
+        }, 
+        "requirement": "taskflow>=0.1.3,<0.3"
+    }, 
+    "testrepository": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "robertc@robertcollins.net", 
+            "home_page": "https://launchpad.net/testrepository", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A repository of test results."
+        }, 
+        "requirement": "testrepository>=0.0.18"
+    }, 
+    "testresources": {
+        "info": {
+            "author": "Testresources developers", 
+            "author_email": "https://launchpad.net/~testresources-developers", 
+            "home_page": "https://launchpad.net/testresources", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Testresources, a pyunit extension for managing expensive test resources"
+        }, 
+        "requirement": "testresources>=0.2.4"
+    }, 
+    "testscenarios": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "robertc@robertcollins.net", 
+            "home_page": "https://launchpad.net/testscenarios", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Testscenarios, a pyunit extension for dependency injection"
+        }, 
+        "requirement": "testscenarios>=0.4"
+    }, 
+    "testtools": {
+        "info": {
+            "author": "Jonathan M. Lange", 
+            "author_email": "jml+testtools@mumak.net", 
+            "home_page": "https://github.com/testing-cabal/testtools", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extensions to the Python standard library unit testing framework"
+        }, 
+        "requirement": "testtools>=0.9.34"
+    }, 
+    "tripleo-image-elements": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "https://git.openstack.org/cgit/openstack/tripleo-image-elements", 
+            "license": "Apache License (2.0)", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Disk image builder elements for deploying OpenStack."
+        }, 
+        "requirement": "tripleo-image-elements"
+    }, 
+    "trollius": {
+        "info": {
+            "author": "Victor Stinner", 
+            "author_email": "victor.stinner@gmail.com", 
+            "home_page": "https://bitbucket.org/enovance/trollius/", 
+            "license": "Apache License 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Port of the Tulip project (asyncio module, PEP 3156) on Python 2"
+        }, 
+        "requirement": "trollius>=0.1.4"
+    }, 
+    "unittest2": {
+        "info": {
+            "author": "Michael Foord", 
+            "author_email": "michael@voidspace.org.uk", 
+            "home_page": "http://pypi.python.org/pypi/unittest2", 
+            "license": "UNKNOWN", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "The new features in unittest for Python 2.7 backported to Python 2.3+."
+        }, 
+        "requirement": "unittest2"
+    }, 
+    "warlock": {
+        "info": {
+            "author": "Brian Waldon", 
+            "author_email": "bcwaldon@gmail.com", 
+            "home_page": "http://github.com/bcwaldon/warlock", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python object model built on JSON schema and JSON patch."
+        }, 
+        "requirement": "warlock>=1.0.1,<2"
+    }, 
+    "webob": {
+        "info": {
+            "author": "Pylons Project", 
+            "author_email": "ianb@colorstudy.com", 
+            "home_page": "http://webob.org/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "WSGI request and response object"
+        }, 
+        "requirement": "WebOb>=1.2.3"
+    }, 
+    "websockify": {
+        "info": {
+            "author": "Joel Martin", 
+            "author_email": "github@martintribe.org", 
+            "home_page": "https://github.com/kanaka/websockify", 
+            "license": "LGPLv3", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Websockify."
+        }, 
+        "requirement": "websockify>=0.5.1,<0.6"
+    }, 
+    "webtest": {
+        "info": {
+            "author": "Gael Pasgrimaud", 
+            "author_email": "gael@gawel.org", 
+            "home_page": "http://webtest.pythonpaste.org/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Helper to test WSGI applications"
+        }, 
+        "requirement": "WebTest>=2.0"
+    }, 
+    "wheel": {
+        "info": {
+            "author": "Daniel Holth", 
+            "author_email": "dholth@fastmail.fm", 
+            "home_page": "http://bitbucket.org/dholth/wheel/", 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A built-package format for Python."
+        }, 
+        "requirement": "wheel"
+    }, 
+    "wsgi-intercept": {
+        "info": {
+            "author": "Titus Brown, Kumar McMillan, Chris Dent", 
+            "author_email": "cdent@peermore.com", 
+            "home_page": "http://pypi.python.org/pypi/wsgi_intercept", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "wsgi_intercept installs a WSGI application in place of a real URI for testing."
+        }, 
+        "requirement": "wsgi-intercept>=0.6.1"
+    }, 
+    "wsgiref": {
+        "info": {
+            "author": "Phillip J. Eby", 
+            "author_email": "web-sig@python.org", 
+            "home_page": "http://cheeseshop.python.org/pypi/wsgiref", 
+            "license": "PSF or ZPL", 
+            "maintainer": "", 
+            "maintainer_email": "", 
+            "summary": "WSGI (PEP 333) Reference Library"
+        }, 
+        "requirement": "wsgiref>=0.1.2"
+    }, 
+    "wsme": {
+        "info": {
+            "author": "\"Christophe de Vienne\"", 
+            "author_email": "\"python-wsme@googlegroups.com\"", 
+            "home_page": null, 
+            "license": "MIT", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Simplify the writing of REST APIs, and extend them with additional protocols."
+        }, 
+        "requirement": "WSME>=0.6"
+    }, 
+    "xattr": {
+        "info": {
+            "author": "Bob Ippolito", 
+            "author_email": "bob@redivi.com", 
+            "home_page": "http://github.com/xattr/xattr", 
+            "license": "MIT License", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Python wrapper for extended filesystem attributes"
+        }, 
+        "requirement": "xattr>=0.4"
+    }, 
+    "xenapi": {
+        "info": {
+            "author": "Citrix Systems, Inc.", 
+            "author_email": "discard@citrix.com", 
+            "home_page": "http://community.citrix.com/display/xs/Download+SDKs", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "XenAPI SDK, for communication with Citrix XenServer and Xen Cloud Platform."
+        }, 
+        "requirement": "XenAPI>=1.2"
+    }, 
+    "zake": {
+        "info": {
+            "author": "Joshua Harlow", 
+            "author_email": "harlowja@yahoo-inc.com", 
+            "home_page": "https://github.com/yahoo/Zake", 
+            "license": "ASL 2.0", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A python package that works to provide a nice set of testing utilities for the kazoo library."
+        }, 
+        "requirement": "zake>=0.0.13"
+    }
+}

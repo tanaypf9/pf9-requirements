@@ -1,0 +1,50 @@
+{
+    "hacking": {
+        "info": {
+            "author": "OpenStack", 
+            "author_email": "openstack-dev@lists.openstack.org", 
+            "home_page": "http://github.com/openstack-dev/hacking", 
+            "license": null, 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "OpenStack Hacking Guidline Enforcement"
+        }, 
+        "requirement": "hacking>=0.8.0,<0.9"
+    }, 
+    "testrepository": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "robertc@robertcollins.net", 
+            "home_page": "https://launchpad.net/testrepository", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "A repository of test results."
+        }, 
+        "requirement": "testrepository>=0.0.17"
+    }, 
+    "testscenarios": {
+        "info": {
+            "author": "Robert Collins", 
+            "author_email": "robertc@robertcollins.net", 
+            "home_page": "https://launchpad.net/testscenarios", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Testscenarios, a pyunit extension for dependency injection"
+        }, 
+        "requirement": "testscenarios>=0.4"
+    }, 
+    "testtools": {
+        "info": {
+            "author": "Jonathan M. Lange", 
+            "author_email": "jml+testtools@mumak.net", 
+            "home_page": "https://github.com/testing-cabal/testtools", 
+            "license": "UNKNOWN", 
+            "maintainer": null, 
+            "maintainer_email": null, 
+            "summary": "Extensions to the Python standard library unit testing framework"
+        }, 
+        "requirement": "testtools>=0.9.32,<0.9.35"
+    }
+}
