@@ -16,6 +16,23 @@
       "revId": "a78540bae70ea75b54ca0aad34fca18dc2ade566",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAXH//dmM\u003d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-04-21T15:30:02Z",
+      "side": 1,
+      "message": "Do the 1.1 series releases no longer work? I\u0027m fine with updating the minimum if we have to, but I wonder if we just want:\n\n  \u003e\u003d1.1.2,!1.2.0,\u003c1.3",
+      "revId": "a78540bae70ea75b54ca0aad34fca18dc2ade566",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
