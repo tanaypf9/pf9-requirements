@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bad4c104_0d0c0442",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-04-29T20:36:11Z",
+      "side": 1,
+      "message": "Can you add the license to this line, as was done on line 177?",
+      "revId": "8d3c8cbd25155b3502777c40c55a03e4c33c9f7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
