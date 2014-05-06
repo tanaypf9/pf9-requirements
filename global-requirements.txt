@@ -74,6 +74,7 @@ pyghmi>=0.5.8
 pymongo>=2.4
 pyOpenSSL>=0.11
 pyparsing>=2.0.1
+pypcap==1.1.1
 pysnmp>=4.2.1,<5.0.0
 pystache
 # OpenStack clients. None of these should have an upper bound
