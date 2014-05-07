@@ -15,6 +15,7 @@ ddt>=0.4.0
 decorator>=3.4.0
 diskimage-builder
 Django>=1.4,<1.7
+django-angular>=0.7.1 # MIT License
 django-bootstrap-form
 django_compressor>=1.4
 django_openstack_auth>=1.1.4
