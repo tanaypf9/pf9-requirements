@@ -174,7 +174,7 @@ trollius>=0.1.4
 unittest2
 WebTest>=2.0
 wsgi_intercept>=0.6.1 # MIT License
-zake>=0.0.15
+zake>=0.0.18 # Apache-2.0
 
 # External libraries not tested in the gate, but present here to synchronize
 # packaging efforts. These are required by projects to enable hardware- or
