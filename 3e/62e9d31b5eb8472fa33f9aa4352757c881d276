@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Workflow+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+1: Aaron Rosen <aaronorosen@gmail.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 09 May 2014 02:20:48 +0000
+Reviewed-on: https://review.openstack.org/87797
+Project: openstack/requirements
+Branch: refs/heads/master
