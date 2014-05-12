@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 12 May 2014 01:44:23 +0000
+Reviewed-on: https://review.openstack.org/92977
+Project: openstack/requirements
+Branch: refs/heads/master
