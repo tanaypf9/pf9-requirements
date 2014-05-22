@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7adec928_39d643f2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-05-22T12:55:43Z",
+      "side": 1,
+      "message": "Please, add license after the package name. Additionally, please, add notes about availability of this package for distros.\nDue to the https://wiki.openstack.org/wiki/Requirements",
+      "revId": "b5e34c9d670e4b25667712a4788bc820873e8e20",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
