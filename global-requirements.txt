@@ -179,6 +179,8 @@ wrapt>=1.7.0 # BSD License
 WebTest>=2.0
 wsgi_intercept>=0.6.1 # MIT License
 zake>=0.0.15
+ldappool
+-f https://pypi.python.org/packages/source/l/ldappool/ldappool-1.0.tar.gz#egg=ldappool-1.0
 
 # External libraries not tested in the gate, but present here to synchronize
 # packaging efforts. These are required by projects to enable hardware- or
