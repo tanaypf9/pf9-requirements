@@ -4,6 +4,7 @@ anyjson>=0.3.3
 argparse
 argcomplete>=0.6.8  # Apache-2.0
 Babel>=1.3
+barbican
 boto>=2.12.0,!=2.13.0
 cffi
 cliff>=1.4.3
@@ -82,6 +83,7 @@ pystache
 # as that has implications for testing in the gate. An exception
 # is currently being made for neutron client because of the need
 # for an incompatible change in their next release.
+python-barbicanclient>=2.1.0
 python-ceilometerclient>=1.0.6
 python-cinderclient>=1.0.6
 python-designateclient>=1.0.0
