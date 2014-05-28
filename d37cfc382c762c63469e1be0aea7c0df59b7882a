@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ae8d1ca_6938f5a0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2014-05-28T16:50:09Z",
+      "side": 1,
+      "message": "get rid of the . at the end here, it\u0027s messing up the link.",
+      "revId": "d37cfc382c762c63469e1be0aea7c0df59b7882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae8d1ca_a942fd0d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2014-05-28T16:50:09Z",
+      "side": 1,
+      "message": "make this 2 lines",
+      "revId": "d37cfc382c762c63469e1be0aea7c0df59b7882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae8d1ca_29bfcdfc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2014-05-28T16:50:09Z",
+      "side": 1,
+      "message": "Related-Bug: #1320997",
+      "revId": "d37cfc382c762c63469e1be0aea7c0df59b7882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
