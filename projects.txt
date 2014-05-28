@@ -6,7 +6,6 @@ openstack/ceilometer
 openstack/cinder
 openstack/cliff
 openstack/compute-api
-openstack/database-api
 openstack/diskimage-builder
 openstack/django_openstack_auth
 openstack/glance
@@ -30,7 +29,7 @@ openstack/os-refresh-config
 openstack/oslo-incubator
 openstack/oslo.config
 openstack/oslo.messaging
-openstack/oslo.test
+openstack/oslotest
 openstack/oslo.version
 openstack/oslo.vmware
 openstack/oslosphinx
