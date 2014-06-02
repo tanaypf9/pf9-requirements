@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 02 Jun 2014 18:58:34 +0000
+Reviewed-on: https://review.openstack.org/96822
+Project: openstack/requirements
+Branch: refs/heads/master
