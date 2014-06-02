@@ -64,6 +64,7 @@ pbr>=0.6,!=0.7,<1.0
 pecan>=0.4.5
 pexpect>=3.1 # ISC License
 Pillow==2.4.0 # MIT
+Pint>=0.5,<1.0  # BSD
 pip>=1.4
 posix_ipc
 PrettyTable>=0.7,<0.8
