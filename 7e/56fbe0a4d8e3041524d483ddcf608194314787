@@ -1,0 +1,14 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Tatiana Ovchinnikova <t.v.ovtchinnikova@gmail.com>
+Code-Review+1: Jiri Tomasek <jtomasek@redhat.com>
+Code-Review+1: Ana Krivokapic <akrivoka@redhat.com>
+Code-Review+1: Jason E. Rist <jrist@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Jun 2014 12:45:18 +0000
+Reviewed-on: https://review.openstack.org/94376
+Project: openstack/requirements
+Branch: refs/heads/master
