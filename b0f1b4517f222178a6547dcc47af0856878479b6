@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_4eef83e9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-06-03T12:28:19Z",
+      "side": 1,
+      "message": "why is this capped?\n\nAlso, what\u0027s the packaging story?",
+      "revId": "b0f1b4517f222178a6547dcc47af0856878479b6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
