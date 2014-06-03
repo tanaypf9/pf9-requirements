@@ -16,6 +16,24 @@
       "revId": "b0f1b4517f222178a6547dcc47af0856878479b6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_d43fa285",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 9317
+      },
+      "writtenOn": "2014-06-03T13:22:09Z",
+      "side": 1,
+      "message": "I included an upper bound because it is recommended here: https://wiki.openstack.org/wiki/Requirements. Not sure if I interpreted that correctly though, should I remove it?\n\nAs for packaging, I wasn\u0027t able to find any distro packages, but as I understand it, this is not a hard requirement, right?",
+      "parentUuid": "1ae5cdf2_4eef83e9",
+      "revId": "b0f1b4517f222178a6547dcc47af0856878479b6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
