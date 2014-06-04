@@ -16,6 +16,23 @@
       "revId": "b10e715c8cb8cc7d3fa521eda17398790d4cfa19",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_4c320260",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-06-04T12:33:45Z",
+      "side": 1,
+      "message": "We\u0027re trying to track the licenses of new dependencies using comments inline in this file. Could you add \" # MPL\" to the end of this line, as in the example on https://wiki.openstack.org/wiki/Requirements",
+      "revId": "b10e715c8cb8cc7d3fa521eda17398790d4cfa19",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
