@@ -164,6 +164,7 @@ python-ldap==2.3.13
 python-subunit>=0.0.18
 pyzmq==2.2.0.1
 redis
+rfc3987>=1.3.4
 selenium
 sphinx>=1.2.1,<1.3
 sphinxcontrib-docbookrestapi
