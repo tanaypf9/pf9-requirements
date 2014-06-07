@@ -174,6 +174,7 @@ testrepository>=0.0.18
 testresources>=0.2.4
 testscenarios>=0.4
 testtools>=0.9.34
+tox<1.7.0
 trollius>=0.1.4
 unittest2
 wrapt>=1.7.0 # BSD License
