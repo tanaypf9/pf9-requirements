@@ -175,6 +175,7 @@ testresources>=0.2.4
 testscenarios>=0.4
 testtools>=0.9.34
 trollius>=0.1.4
+tox<1.7.0
 unittest2
 wrapt>=1.7.0 # BSD License
 WebTest>=2.0
