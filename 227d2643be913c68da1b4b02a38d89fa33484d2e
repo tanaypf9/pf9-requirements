@@ -16,6 +16,24 @@
       "revId": "227d2643be913c68da1b4b02a38d89fa33484d2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ae5cdf2_286874b9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 5387
+      },
+      "writtenOn": "2014-06-10T23:17:46Z",
+      "side": 1,
+      "message": "Just being too careful. As the wiki suggests, I\u0027ve set a range with an upper limit. There will be no breaking changes in any 0.0.X releases.",
+      "parentUuid": "1ae5cdf2_9250d7d5",
+      "revId": "227d2643be913c68da1b4b02a38d89fa33484d2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
