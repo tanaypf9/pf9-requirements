@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_9250d7d5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2014-06-10T22:04:19Z",
+      "side": 1,
+      "message": "Why the cap? \u003e\u003d0.0.2?",
+      "revId": "227d2643be913c68da1b4b02a38d89fa33484d2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
