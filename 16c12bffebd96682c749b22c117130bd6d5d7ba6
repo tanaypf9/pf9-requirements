@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_5c12c209",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2014-06-11T16:56:35Z",
+      "side": 1,
+      "message": "would be nice to have this written as\n\ntox\u003e\u003d1.6.1,\u003c1.7.0\n\nto document the minimum version that we require currently.",
+      "revId": "16c12bffebd96682c749b22c117130bd6d5d7ba6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
