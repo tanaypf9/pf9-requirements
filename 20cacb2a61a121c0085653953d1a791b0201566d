@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_ccdb044e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1726
+      },
+      "writtenOn": "2014-06-16T13:41:41Z",
+      "side": 1,
+      "message": "To include a pre-releases this should be\n\noslo.db\u003e\u003d1.0.0a1",
+      "revId": "20cacb2a61a121c0085653953d1a791b0201566d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
