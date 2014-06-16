@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_b35d2c18",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 1726
+      },
+      "writtenOn": "2014-06-16T17:06:07Z",
+      "side": 1,
+      "message": "Apparently a \u003e\u003d don\u0027t work either. A \u003d\u003d does",
+      "revId": "019f4e69e6a129a74f6005709e9781980ad68fae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
