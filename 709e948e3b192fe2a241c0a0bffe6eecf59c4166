@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_182d34a9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-06-16T08:30:40Z",
+      "side": 1,
+      "message": "Please, take a look at https://wiki.openstack.org/wiki/Requirements and at least add license.",
+      "revId": "709e948e3b192fe2a241c0a0bffe6eecf59c4166",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
