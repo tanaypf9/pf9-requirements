@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Thomas Goirand <thomas@goirand.fr>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 17 Jun 2014 20:57:11 +0000
+Reviewed-on: https://review.openstack.org/99556
+Project: openstack/requirements
+Branch: refs/heads/master
