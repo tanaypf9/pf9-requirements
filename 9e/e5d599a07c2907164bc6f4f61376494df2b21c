@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug.hellmann@dreamhost.com>
+Workflow+1: Doug Hellmann <doug.hellmann@dreamhost.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Submitted-by: Jenkins
+Submitted-at: Wed, 18 Jun 2014 00:40:50 +0000
+Reviewed-on: https://review.openstack.org/100702
+Project: openstack/requirements
+Branch: refs/heads/master
