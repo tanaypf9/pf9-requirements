@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ae5cdf2_44ee56b6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2014-06-19T11:17:33Z",
+      "side": 1,
+      "message": "Please add license actually.",
+      "revId": "b66d06e6194a77685cfec996c525eaafadbdf4b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
