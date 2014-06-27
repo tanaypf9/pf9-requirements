@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Workflow+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 27 Jun 2014 04:49:19 +0000
+Reviewed-on: https://review.openstack.org/96207
+Project: openstack/requirements
+Branch: refs/heads/stable/icehouse
