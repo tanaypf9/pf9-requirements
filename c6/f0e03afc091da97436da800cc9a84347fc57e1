@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Workflow+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 27 Jun 2014 06:30:26 +0000
+Reviewed-on: https://review.openstack.org/102944
+Project: openstack/requirements
+Branch: refs/heads/master
