@@ -28,6 +28,7 @@ gear
 greenlet>=0.3.2
 happybase>=0.5,!=0.7
 httplib2>=0.7.5
+influxdb>=0.1.11
 iso8601>=0.1.9
 Jinja2
 jsonpatch>=1.1
