@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_04f153cd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6159
+      },
+      "writtenOn": "2014-06-30T21:24:13Z",
+      "side": 1,
+      "message": "Since you already mentioned the blueprint in L15, this line may not be necessary.",
+      "revId": "3d5049b5e79292b53470619ceb65b9c4b4aa297e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
