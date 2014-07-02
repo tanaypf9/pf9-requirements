@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_ace130d2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-07-02T09:40:01Z",
+      "side": 1,
+      "message": "Please, add the license inline. More info - https://wiki.openstack.org/wiki/Requirements#Adding_a_Requirement_to_an_OpenStack_Project",
+      "revId": "3cf4a04ee7ada4e48d81ba7fcafd867ad64fb63b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
