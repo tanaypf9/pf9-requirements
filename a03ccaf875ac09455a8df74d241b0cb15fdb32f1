@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_ee305da0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2014-07-02T23:58:04Z",
+      "side": 1,
+      "message": "Seems like this needs checking since 3.8 seems problematic too ?",
+      "revId": "a03ccaf875ac09455a8df74d241b0cb15fdb32f1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
