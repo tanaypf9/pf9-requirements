@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: garyk <gkotton@vmware.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Jul 2014 03:58:22 +0000
+Reviewed-on: https://review.openstack.org/104514
+Project: openstack/requirements
+Branch: refs/heads/master
