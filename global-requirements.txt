@@ -164,7 +164,8 @@ nosehtmloutput>=0.0.3
 nosexcover
 openstack-doc-tools>=0.16.1
 openstack.nose_plugin>=0.7
-oslosphinx
+-f http://tarballs.openstack.org/oslosphinx/oslosphinx-2.2.0.0a3.tar.gz#egg=oslosphinx-2.2.0.0a3
+oslosphinx>=2.2.0.0a3
 oslotest
 pep8==1.5.7
 proboscis==1.2.5.3
