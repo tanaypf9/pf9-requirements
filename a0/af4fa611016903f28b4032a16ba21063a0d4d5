@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Paul Michali <pcm@cisco.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+1: Terry Howe <thowe@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 11 Jul 2014 07:20:22 +0000
+Reviewed-on: https://review.openstack.org/104067
+Project: openstack/requirements
+Branch: refs/heads/master
