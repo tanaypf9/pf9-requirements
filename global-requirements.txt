@@ -176,7 +176,7 @@ pysendfile==2.0.0
 pysqlite
 python-ldap==2.3.13
 python-subunit>=0.0.18
-pyzmq==2.2.0.1
+pyzmq
 redis
 retrying>=1.2.1 # Apache-2.0
 selenium
