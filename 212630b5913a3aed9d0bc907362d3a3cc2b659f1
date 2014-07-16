@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_da8e2fd0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 6524
+      },
+      "writtenOn": "2014-07-16T17:18:48Z",
+      "side": 1,
+      "message": "It\u0027s not closed until the neutron requirements are also patched.",
+      "revId": "212630b5913a3aed9d0bc907362d3a3cc2b659f1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
