@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_c01264fc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2014-07-24T21:16:49Z",
+      "side": 1,
+      "message": "I would prefer to see here:\n\nSQLAlchemy\u003e\u003d0.8.4,\u003c\u003d0.8.99,\u003e\u003d0.9.7,\u003c\u003d0.9.99",
+      "revId": "e2b6901ef73dc4ea1261ce77f0c8b107162f85ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
