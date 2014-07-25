@@ -34,6 +34,24 @@
       "revId": "e2b6901ef73dc4ea1261ce77f0c8b107162f85ff",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baada198_1850412b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 8655
+      },
+      "writtenOn": "2014-07-25T10:44:08Z",
+      "side": 1,
+      "message": "I tested it and works. Thanks for better suggestion.",
+      "parentUuid": "baada198_64a6fec1",
+      "revId": "e2b6901ef73dc4ea1261ce77f0c8b107162f85ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
