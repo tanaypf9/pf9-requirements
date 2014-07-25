@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_93a51205",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2014-07-25T10:51:53Z",
+      "side": 1,
+      "message": "If the issue is with 0.9.2 and 0.9.3, why do we exclude 0.9.0 and 0.9.1 and 0.9.6?",
+      "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
