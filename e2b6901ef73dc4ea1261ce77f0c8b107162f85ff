@@ -16,6 +16,24 @@
       "revId": "e2b6901ef73dc4ea1261ce77f0c8b107162f85ff",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baada198_64a6fec1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 8655
+      },
+      "writtenOn": "2014-07-25T08:16:26Z",
+      "side": 1,
+      "message": "I\u0027m not experienced in evaluation of this, but wouldn\u0027t \u003e\u003d0.9.7 override \u003e\u003d0.8.4 ? e.g. 0.8.4 version won\u0027t suffice",
+      "parentUuid": "baada198_c01264fc",
+      "revId": "e2b6901ef73dc4ea1261ce77f0c8b107162f85ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
