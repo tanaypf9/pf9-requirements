@@ -88,6 +88,24 @@
       "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baada198_5a21c64d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 6524
+      },
+      "writtenOn": "2014-07-25T14:25:37Z",
+      "side": 1,
+      "message": "All right, after some testing I see it does seem to work. It appears that pip does not strictly follow PEP 440 but tries to be smart. I hope it works for all environments.",
+      "parentUuid": "baada198_04dc5717",
+      "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
