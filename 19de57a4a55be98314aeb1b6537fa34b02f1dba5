@@ -16,6 +16,24 @@
       "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baada198_73eebe22",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5803
+      },
+      "writtenOn": "2014-07-25T10:54:21Z",
+      "side": 1,
+      "message": "I have doubts about this is really accepted version range specification. Consider the \u0027,\u0027 as AND.",
+      "parentUuid": "baada198_93a51205",
+      "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
