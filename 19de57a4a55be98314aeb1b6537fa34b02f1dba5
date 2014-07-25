@@ -70,6 +70,24 @@
       "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baada198_04dc5717",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 8655
+      },
+      "writtenOn": "2014-07-25T13:41:35Z",
+      "side": 1,
+      "message": "@Henry: That seams to me the same as what\u0027s written above. Please see comments in patchset 1",
+      "parentUuid": "baada198_e4de8369",
+      "revId": "19de57a4a55be98314aeb1b6537fa34b02f1dba5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
