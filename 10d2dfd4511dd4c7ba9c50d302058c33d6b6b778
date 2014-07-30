@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_ba541b23",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 167
+      },
+      "writtenOn": "2014-07-30T05:46:02Z",
+      "side": 1,
+      "message": "Why is it necessary to flag the package with the license?",
+      "revId": "10d2dfd4511dd4c7ba9c50d302058c33d6b6b778",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
