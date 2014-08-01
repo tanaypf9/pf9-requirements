@@ -45,6 +45,8 @@ libvirt-python>=1.2.5                   # LGPLv2+
 lockfile>=0.8
 lxml>=2.3
 Mako>=0.4.0
+monasca-agent
+monasca-notification
 msgpack-python>=0.4.0
 netaddr>=0.7.6
 netifaces>=0.10.4
@@ -99,6 +101,7 @@ python-ironicclient
 python-keystoneclient>=0.9.0
 python-marconiclient>=0.0.2
 python-memcached>=1.48
+python-monascaclient
 python-neutronclient>=2.3.5,<3
 python-novaclient>=2.17.0
 python-openstackclient>=0.3.0
