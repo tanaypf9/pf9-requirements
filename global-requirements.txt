@@ -192,6 +192,7 @@ oslotest
 pep8==1.5.7
 proboscis==1.2.5.3
 psycopg2
+pycrypto>=2.6.1
 pyflakes==0.8.1
 pylint==0.25.2
 pysendfile==2.0.0
