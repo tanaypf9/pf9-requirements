@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Zhi Yan Liu <lzy.dev@gmail.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: YAMAMOTO Takashi <yamamoto@valinux.co.jp>
+Code-Review+1: fumihiko kakuma <kakuma@valinux.co.jp>
+Submitted-by: Jenkins
+Submitted-at: Mon, 11 Aug 2014 16:32:43 +0000
+Reviewed-on: https://review.openstack.org/104691
+Project: openstack/requirements
+Branch: refs/heads/master
