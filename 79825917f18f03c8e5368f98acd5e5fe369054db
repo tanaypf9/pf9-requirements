@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baada198_a34fa88b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2014-08-13T10:37:29Z",
+      "side": 1,
+      "message": "I think you should put the license here, even if it\u0027s one of our lib I guess it\u0027s pretty good to be consistent.",
+      "revId": "79825917f18f03c8e5368f98acd5e5fe369054db",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
