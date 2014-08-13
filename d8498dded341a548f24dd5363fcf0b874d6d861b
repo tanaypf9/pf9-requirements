@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ac7a964_59442774",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 7012
+      },
+      "writtenOn": "2014-08-13T22:03:31Z",
+      "side": 1,
+      "message": "I think there should be a version number here (i.e. pykmip\u003e\u003d0.0.1)",
+      "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
