@@ -16,6 +16,24 @@
       "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ac7a964_8b8f2c23",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-08-14T10:19:58Z",
+      "side": 1,
+      "message": "Please, add license info inline. And please add info about py3x support and packaging of this lib for main distros.\n\nhttps://wiki.openstack.org/wiki/Requirements",
+      "parentUuid": "7ac7a964_59442774",
+      "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
