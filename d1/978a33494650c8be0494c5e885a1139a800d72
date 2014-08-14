@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Workflow+1: Alex Gaynor <alex.gaynor@gmail.com>
+Code-Review+1: Dmitry Tantsur <dtantsur@redhat.com>
+Code-Review+1: Jim Rollenhagen <jim@jimrollenhagen.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 14 Aug 2014 20:21:17 +0000
+Reviewed-on: https://review.openstack.org/113542
+Project: openstack/requirements
+Branch: refs/heads/master
