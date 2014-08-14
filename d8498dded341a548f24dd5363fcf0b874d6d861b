@@ -34,6 +34,42 @@
       "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ac7a964_1a10c44d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 6802
+      },
+      "writtenOn": "2014-08-14T12:14:35Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7ac7a964_59442774",
+      "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ac7a964_5af95c4c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 6802
+      },
+      "writtenOn": "2014-08-14T12:14:35Z",
+      "side": 1,
+      "message": "License information added.",
+      "parentUuid": "7ac7a964_8b8f2c23",
+      "revId": "d8498dded341a548f24dd5363fcf0b874d6d861b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
