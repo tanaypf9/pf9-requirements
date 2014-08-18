@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1abeadc6_6882dd53",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2014-08-18T08:06:49Z",
+      "side": 1,
+      "message": "Could you please be more specific here? A link to a bug will be enough.",
+      "revId": "447a26ae9d19c86648da94d94e41b00db8d2ffe6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
