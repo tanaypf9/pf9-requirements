@@ -1,0 +1,16 @@
+Verified+2: Jenkins
+Code-Review+1: Ben Swartzlander <ben@swartzlander.org>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: xing-yang <xing.yang@emc.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Petr Blaho <pblaho@redhat.com>
+Code-Review+1: Valeriy Ponomaryov <vponomaryov@mirantis.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+1: Sean McGinnis <sean_mcginnis@dell.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 21 Aug 2014 14:53:11 +0000
+Reviewed-on: https://review.openstack.org/115643
+Project: openstack/requirements
+Branch: refs/heads/master
