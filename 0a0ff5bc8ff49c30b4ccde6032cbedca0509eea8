@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1abeadc6_777bd6bd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2014-08-22T12:40:11Z",
+      "side": 1,
+      "message": "Now the version pin in requirements file is not the same as here.",
+      "revId": "0a0ff5bc8ff49c30b4ccde6032cbedca0509eea8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
