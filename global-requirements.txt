@@ -217,7 +217,10 @@ swift
 testrepository>=0.0.18
 testresources>=0.2.4
 testscenarios>=0.4
-testtools>=0.9.34
+# testtools 0.9.36+ check that setUp() is not called twice, and some of
+# our projects make that mistake. So pinning the version for now to
+# unblock gating.
+testtools>=0.9.34,<0.9.36
 trollius>=1.0
 unittest2
 wrapt>=1.7.0 # BSD License
