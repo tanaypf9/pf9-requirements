@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_8c8f3775",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "We should say clearly here that we do this in *every project* and not just this repository or devstack itself.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_ebc095e2",
         "filename": "README.rst",
         "patchSetId": 1
@@ -47,6 +64,23 @@
       "writtenOn": "2014-08-25T20:13:26Z",
       "side": 1,
       "message": "s/work about/worry about/?",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_ace31332",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "Do we want to say anything here about assuming/requiring that projects *do* fast-approve those changes?",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -98,6 +132,23 @@
       "writtenOn": "2014-08-25T20:14:54Z",
       "side": 1,
       "message": "This conflicts with the statement in the wiki:\n\nhttps://wiki.openstack.org/wiki/Requirements\n\n\"requirements with a missing upper bound on \u003c next major number are dangerous\"",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_8c02d7b2",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "I think the wiki is out of date with our current practices.\n\nnit: You\u0027re not consistent with punctuation in the bullets in this list.",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -156,6 +207,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_eca50bb6",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "change \"*Finding Distro Status* later in this document.\" to:\n\n  :ref:`finding-distro-status`\n\nSee also the comment on line 184. This form will insert the section title as a link here, and update it if the section title ever changes.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_26b004f4",
         "filename": "README.rst",
         "patchSetId": 1
@@ -173,6 +241,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_0c99676e",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "We should elaborate here that there needs to be agreement on the part of the projects who are using the old library to allow the updates to the new one. We could specify that their PTLs need to sign off on the requirements change here or something like that.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_46c3408a",
         "filename": "README.rst",
         "patchSetId": 1
@@ -184,6 +269,23 @@
       "writtenOn": "2014-08-25T20:23:57Z",
       "side": 1,
       "message": "nit, dashes aren\u0027t matching up with title length",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_6ce3bb05",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-08-25T21:25:54Z",
+      "side": 1,
+      "message": "insert:\n\n  .. _finding-distro-status:",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
