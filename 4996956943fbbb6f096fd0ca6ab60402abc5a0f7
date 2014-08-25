@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1abeadc6_467b4029",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2014-08-25T20:23:57Z",
+      "side": 1,
+      "message": "nit: \u003d\u003d\u003d\u0027s don\u0027t match title length",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_eb997520",
         "filename": "README.rst",
         "patchSetId": 1
@@ -150,6 +167,23 @@
       "writtenOn": "2014-08-25T20:23:48Z",
       "side": 1,
       "message": "This last clause is awkward and unclear; I had to read it a couple of times to figure out what was meant.  Maybe:\n\n    If this new requirement is about replacing an existing library with one\n    that\u0027s better suited for our needs, then the submitter must have either\n    proposed patches or committed to proposing patches to convert all\n    the projects listed in ``projects.txt`` to using the new library.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_46c3408a",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2014-08-25T20:23:57Z",
+      "side": 1,
+      "message": "nit, dashes aren\u0027t matching up with title length",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
