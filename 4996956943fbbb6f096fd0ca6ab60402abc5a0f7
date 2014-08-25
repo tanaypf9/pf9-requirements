@@ -136,6 +136,74 @@
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_26b004f4",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-25T20:23:48Z",
+      "side": 1,
+      "message": "This last clause is awkward and unclear; I had to read it a couple of times to figure out what was meant.  Maybe:\n\n    If this new requirement is about replacing an existing library with one\n    that\u0027s better suited for our needs, then the submitter must have either\n    proposed patches or committed to proposing patches to convert all\n    the projects listed in ``projects.txt`` to using the new library.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_26872411",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-25T20:23:48Z",
+      "side": 1,
+      "message": "s/is new/is that new/\n\ns/is written/should be written/\n\ns/to the latest/to support the latest/",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_669f5c51",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-25T20:23:48Z",
+      "side": 1,
+      "message": "Maybe this last clause (from the comma after \"releases\") should read:\n\n    with support of the last LTS of those distros a bonus.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_06e788e5",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-25T20:23:48Z",
+      "side": 1,
+      "message": "\"We would also like to ensure that there is not too much pain for the Debian and SuSE communities.\"",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
