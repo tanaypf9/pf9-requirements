@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1abeadc6_eb997520",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "nit: missing closing )?",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_ebc095e2",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "s/work about/worry about/?",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_6bac8536",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "s/entires/entries/",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_cb62f915",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "s/any on any/on any/",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_06a5c803",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "This wiki lists \"commit log message includes information about the OpenStack project(s) using the requirement\":\n\nhttps://wiki.openstack.org/wiki/Requirements\n\nSeems like this should typically be tied to a blueprint, but may not always be so.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_861c786c",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:13:26Z",
+      "side": 1,
+      "message": "s/recently/recent/",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
