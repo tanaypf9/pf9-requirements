@@ -70,6 +70,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_26cf24b2",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:14:54Z",
+      "side": 1,
+      "message": "This conflicts with the statement in the wiki:\n\nhttps://wiki.openstack.org/wiki/Requirements\n\n\"requirements with a missing upper bound on \u003c next major number are dangerous\"",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_06a5c803",
         "filename": "README.rst",
         "patchSetId": 1
@@ -81,6 +98,24 @@
       "writtenOn": "2014-08-25T20:13:26Z",
       "side": 1,
       "message": "This wiki lists \"commit log message includes information about the OpenStack project(s) using the requirement\":\n\nhttps://wiki.openstack.org/wiki/Requirements\n\nSeems like this should typically be tied to a blueprint, but may not always be so.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_0641480b",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-08-25T20:14:54Z",
+      "side": 1,
+      "message": "This is also in the wiki:\n\n\"use of pre-release versions of things needs an explanation\"\n\nOslo seems to be the exception for this now with the alpha releases.",
+      "parentUuid": "1abeadc6_06a5c803",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
