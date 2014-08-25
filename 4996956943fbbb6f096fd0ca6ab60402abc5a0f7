@@ -207,6 +207,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_591cfa6a",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 1297
+      },
+      "writtenOn": "2014-08-25T23:46:53Z",
+      "side": 1,
+      "message": "This paragraph just seems like it could be removed and retain the same amount of value.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_eca50bb6",
         "filename": "README.rst",
         "patchSetId": 1
