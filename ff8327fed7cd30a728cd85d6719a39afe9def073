@@ -2,6 +2,91 @@
   "comments": [
     {
       "key": {
+        "uuid": "1abeadc6_a7294d8b",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/Is the library duplicative of/Does the library duplicate/—\"duplicative\" is not a word :)",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_e75a6529",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/is/are/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_67465551",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/enforcing/enforced/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_e7f6e5f8",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "This could be construed to mean that if someone proposes a new library that hitherto has not been listed, then a review request will be pushed to add that to all projects.  I think it should be rephrased to something like:\n\n    If an existing requirement is updated and accepted into requirements,\n    then the system also automatically pushes a review request for the new\n    requirements definition to all projects that use that requirement.",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_47beb900",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "The clause starting with \"or are upstream communities\" isn\u0027t making sense to me; I\u0027m not sure what is meant, or I\u0027d propose an alternate wording.  Could you clarify?",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_64bf33ab",
         "filename": "README.rst",
         "patchSetId": 2
@@ -13,6 +98,92 @@
       "writtenOn": "2014-08-26T15:06:36Z",
       "side": 1,
       "message": "With these questions should we provide a template for a commit message?",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_e7b7c5f3",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "If we decide to use a template, we should probably document it in a secondary file and give instructions on using \"git commit -t\"",
+      "parentUuid": "1abeadc6_64bf33ab",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_a7086dda",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/appreciated/is appreciated/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_0795a13f",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "A little more punctuation to make this clearer:\n\n    It\u0027s expected, before just telling everyone to download arbitrary 3rd\n    party code from the internet, that the submitter has taken a deep dive",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_4776b93f",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/needs then/needs, then/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_e79c2560",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T15:29:27Z",
+      "side": 1,
+      "message": "s/``global-requirements.txt`` it/``global-requirements.txt``, it/",
       "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
