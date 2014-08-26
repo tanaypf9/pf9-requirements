@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_a126a266",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_467b4029",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_eb997520",
         "filename": "README.rst",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-25T20:13:26Z",
       "side": 1,
       "message": "nit: missing closing )?",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_81bd26da",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_eb997520",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_c1855e08",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "sure, though I\u0027m not sure how one would logically think this would work otherwise. :)",
+      "parentUuid": "1abeadc6_8c8f3775",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_ebc095e2",
         "filename": "README.rst",
         "patchSetId": 1
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_41714e43",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_ebc095e2",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_ace31332",
         "filename": "README.rst",
         "patchSetId": 1
@@ -81,6 +153,24 @@
       "writtenOn": "2014-08-25T21:25:54Z",
       "side": 1,
       "message": "Do we want to say anything here about assuming/requiring that projects *do* fast-approve those changes?",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_e1a25a99",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "honestly, I think that\u0027s project specific. This is intent on why we do it, not telling projects what they do.",
+      "parentUuid": "1abeadc6_ace31332",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -155,6 +245,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_21c4523f",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_8c02d7b2",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_06a5c803",
         "filename": "README.rst",
         "patchSetId": 1
@@ -190,6 +298,42 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_e16c1a39",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "honestly, I think this one I\u0027d rather just leave for now or a future debate, as I think the whole oslo alpha thing is a mess and something we need to do a summit session about.",
+      "parentUuid": "1abeadc6_0641480b",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_411b0eca",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_06a5c803",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_861c786c",
         "filename": "README.rst",
         "patchSetId": 1
@@ -207,6 +351,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_01683620",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_861c786c",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_591cfa6a",
         "filename": "README.rst",
         "patchSetId": 1
@@ -218,6 +380,24 @@
       "writtenOn": "2014-08-25T23:46:53Z",
       "side": 1,
       "message": "This paragraph just seems like it could be removed and retain the same amount of value.",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_61600a36",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_591cfa6a",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -275,6 +455,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_c1b9de7a",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "I\u0027m going to provide a more generic statement here about needing a transition plan. What that means can be decided by reviews at the time.",
+      "parentUuid": "1abeadc6_0c99676e",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_46c3408a",
         "filename": "README.rst",
         "patchSetId": 1
@@ -286,6 +484,24 @@
       "writtenOn": "2014-08-25T20:23:57Z",
       "side": 1,
       "message": "nit, dashes aren\u0027t matching up with title length",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_614aca84",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_46c3408a",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -309,6 +525,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_417ceeb5",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_6ce3bb05",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_26872411",
         "filename": "README.rst",
         "patchSetId": 1
@@ -320,6 +554,24 @@
       "writtenOn": "2014-08-25T20:23:48Z",
       "side": 1,
       "message": "s/is new/is that new/\n\ns/is written/should be written/\n\ns/to the latest/to support the latest/",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_814d269c",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 188,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_26872411",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -343,6 +595,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_a144e274",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_669f5c51",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_06e788e5",
         "filename": "README.rst",
         "patchSetId": 1
@@ -354,6 +624,24 @@
       "writtenOn": "2014-08-25T20:23:48Z",
       "side": 1,
       "message": "\"We would also like to ensure that there is not too much pain for the Debian and SuSE communities.\"",
+      "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_c1471e76",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 192,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T12:58:04Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_06e788e5",
       "revId": "4996956943fbbb6f096fd0ca6ab60402abc5a0f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
