@@ -34,6 +34,24 @@
       "revId": "b219ba1489bedf79ea8f4e55074d09df1b8282a2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_044bdf2b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 7491
+      },
+      "writtenOn": "2014-08-26T15:00:58Z",
+      "side": 1,
+      "message": "0.4.0 is the latest version of oslo.db in global requirements - see https://github.com/openstack/requirements/blob/master/global-requirements.txt#L57",
+      "parentUuid": "1abeadc6_3081f68f",
+      "revId": "b219ba1489bedf79ea8f4e55074d09df1b8282a2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
