@@ -1,0 +1,293 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1abeadc6_d64ef0c1",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "``requirements.txt`` (for consistency)",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_d68350a7",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/python keystoneclient/python-keystoneclient/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_d6d510b8",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/duplicate function/duplicate the function/\n\nMinor change to make this sentence track a little better…",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_56f10069",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/to install/to be installed/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_f6fbec44",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "It occurs to me that it might be worthwhile to at least point to a wiki page documenting the steps necessary to create such a test job…",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_5698201b",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/included/include/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_96a2b849",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/global-requirements/``global-requirements.txt``/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_b6afb42a",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "You know, \"this\" is ambiguous here.  I\u0027d suggest changing the paragraph to read something like:\n\n    To run the requirements update manually, run::\n\nAlso, a double-colon seems to be indicated here…",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_3663a41b",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/one/ones/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_766d1c04",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "Maybe s/libraries/specifications/ ?",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_963e38d9",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "I think this might track better if it were written as:\n\n    If a library is exceptionally unstable, we should also be considering\n    whether we want to replace it over time with one that *is* stable, or\n    to contribute to the upstream community to help stabilize it.",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_36180484",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/minimum/minimum version/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_41293c88",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "- Commit message should refer to consuming project(s)\n\n    Preferably, the comments should also identify which feature or\n    blueprint requires the new specification.  Ideally, changes should\n    already be proposed, so that its use can be seen.\n\nAt a minimum, s/it\u0027s/its/; \"it\u0027s\" is the contraction for \"it is\", while \"its\" is the possessive form of \"it\".",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_012f4489",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/cautious adding/cautious of adding/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_61571803",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/global-requirements/``global-requirements.txt``/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_0146644f",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/libraries they/libraries that they/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_616e38cb",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-08-26T20:00:18Z",
+      "side": 1,
+      "message": "s/code, however deployers/code; however, deployers/",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
