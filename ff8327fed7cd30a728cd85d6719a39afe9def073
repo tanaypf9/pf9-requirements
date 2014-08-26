@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1abeadc6_64bf33ab",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2014-08-26T15:06:36Z",
+      "side": 1,
+      "message": "With these questions should we provide a template for a commit message?",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
