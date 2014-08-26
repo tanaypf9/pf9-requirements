@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_5834d4dd",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_a7294d8b",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_e75a6529",
         "filename": "README.rst",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2014-08-26T15:29:27Z",
       "side": 1,
       "message": "s/is/are/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_984d8c75",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_e75a6529",
       "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_d8570401",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_67465551",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_e7f6e5f8",
         "filename": "README.rst",
         "patchSetId": 2
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_f87f6064",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "I did an example instead. Hopefully more clear.",
+      "parentUuid": "1abeadc6_e7f6e5f8",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_47beb900",
         "filename": "README.rst",
         "patchSetId": 2
@@ -81,6 +153,24 @@
       "writtenOn": "2014-08-26T15:29:27Z",
       "side": 1,
       "message": "The clause starting with \"or are upstream communities\" isn\u0027t making sense to me; I\u0027m not sure what is meant, or I\u0027d propose an alternate wording.  Could you clarify?",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_18ddfc70",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "attempted",
+      "parentUuid": "1abeadc6_47beb900",
       "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -122,6 +212,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_f80cc03d",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "I agree, separate file / separate commit and the git commit instructions.",
+      "parentUuid": "1abeadc6_e7b7c5f3",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_a7086dda",
         "filename": "README.rst",
         "patchSetId": 2
@@ -133,6 +241,24 @@
       "writtenOn": "2014-08-26T15:29:27Z",
       "side": 1,
       "message": "s/appreciated/is appreciated/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_18c41c91",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "I think it\u0027s actually are because of the and, but fixed.",
+      "parentUuid": "1abeadc6_a7086dda",
       "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -156,6 +282,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_d841c40c",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_0795a13f",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_4776b93f",
         "filename": "README.rst",
         "patchSetId": 2
@@ -173,6 +317,24 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_5855b4c4",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_4776b93f",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_e79c2560",
         "filename": "README.rst",
         "patchSetId": 2
@@ -184,6 +346,24 @@
       "writtenOn": "2014-08-26T15:29:27Z",
       "side": 1,
       "message": "s/``global-requirements.txt`` it/``global-requirements.txt``, it/",
+      "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1abeadc6_985e6ce8",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-08-26T16:34:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1abeadc6_e79c2560",
       "revId": "ff8327fed7cd30a728cd85d6719a39afe9def073",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
