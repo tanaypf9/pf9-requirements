@@ -274,6 +274,23 @@
     },
     {
       "key": {
+        "uuid": "1abeadc6_e383e353",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 1926
+      },
+      "writtenOn": "2014-08-28T11:49:57Z",
+      "side": 1,
+      "message": "Another suggestions \"check whether you can find the upstream\", just having a entry on pypi.python.org isn\u0027t enough i.e. where to we send patches too if needed?",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1abeadc6_616e38cb",
         "filename": "README.rst",
         "patchSetId": 3
