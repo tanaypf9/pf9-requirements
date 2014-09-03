@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa98f980_13abca75",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2014-09-03T19:22:49Z",
+      "side": 1,
+      "message": "please update to !\u003d 2.4.0 and I\u0027ll be +2",
+      "revId": "c24ef12da724fde54bab3bf75bbef537ea1df74b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
