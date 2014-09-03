@@ -305,6 +305,23 @@
       "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa98f980_d966c0ec",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2014-09-03T21:40:05Z",
+      "side": 1,
+      "message": "Actually the policy is:\n\n  OpenStack will target its development efforts to latest Ubuntu/Fedora,\n  but will not introduce any changes that would make it\n  impossible to run on the latest Ubuntu LTS or latest RHEL.\n\nSo it\u0027s a bit stronger than \"a bonus\".  I\u0027d recommend just going with the TC-approved text.",
+      "revId": "f1825f376082950921ce4a242bcc7722e91eb12a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
