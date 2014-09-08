@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa98f980_8ec47760",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2014-09-08T13:36:25Z",
+      "side": 1,
+      "message": "I\u0027ve been seeing this but not sure exactly what it means or when I add a requirement 6 months from now, how do I know if it\u0027s going to cause issues?  I typically either add requirements to the end of the list or place them near similar groups (oslo packages), or sorted alphabetically.\n\nSeems like we need some more wording (or automation) on how to identify a problem before introducing it.",
+      "revId": "e6c873de4fa007079dd080d19f24908eb25dbc46",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
