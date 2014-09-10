@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa98f980_7d909995",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 7227
+      },
+      "writtenOn": "2014-09-10T17:14:32Z",
+      "side": 1,
+      "message": "soft: probably we can add \u0027Closes-Bug: #1361142\u0027 here?",
+      "revId": "cda89feaf4dcbbced64a0db5dc89226d3d6610eb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
