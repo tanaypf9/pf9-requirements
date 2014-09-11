@@ -1,0 +1,11 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-at: Thu, 11 Sep 2014 19:38:11 +0000
+Reviewed-on: https://review.openstack.org/120890
+Project: openstack/requirements
+Branch: refs/heads/master
