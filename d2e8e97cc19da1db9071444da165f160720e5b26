@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa98f980_dfa7a4bb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2014-09-11T09:32:48Z",
+      "side": 1,
+      "message": "We don\u0027t put those marks in commit messages. No Signed-of-by, nothing. Also, I don\u0027t think simple backport effort is worth of co-authorship. Please remove.\n\nAlso, the next time you cherry-pick, please use -x option to add link to cherry-picked commit: https://wiki.openstack.org/wiki/StableBranch#Proposing_Fixes",
+      "revId": "d2e8e97cc19da1db9071444da165f160720e5b26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
