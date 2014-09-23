@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da9df570_dc028c6e",
+        "filename": "README.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-09-23T18:27:13Z",
+      "side": 1,
+      "message": "s/``global-requirements``/``global-requirements.txt``/",
+      "revId": "ad03a3d99314adc35ec8482eddf9a9adcbe7f31e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9df570_7c7a80f2",
+        "filename": "README.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-09-23T18:27:13Z",
+      "side": 1,
+      "message": "s/``global-requirements``/``global-requirements.txt``/",
+      "revId": "ad03a3d99314adc35ec8482eddf9a9adcbe7f31e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9df570_3c4f18bf",
+        "filename": "README.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 205,
+      "author": {
+        "id": 679
+      },
+      "writtenOn": "2014-09-23T18:27:13Z",
+      "side": 1,
+      "message": "s/realy/really/",
+      "revId": "ad03a3d99314adc35ec8482eddf9a9adcbe7f31e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
