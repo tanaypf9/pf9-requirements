@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da9df570_9708df92",
+        "filename": "README.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2014-09-23T18:49:24Z",
+      "side": 1,
+      "message": "nit: spell out \"three\"",
+      "revId": "12d999e49c5bf548b4988a1d94d53303fa104442",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9df570_3777333c",
+        "filename": "README.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 206,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2014-09-23T18:49:24Z",
+      "side": 1,
+      "message": "Could you use the correct capitalization \"SUSE\", please?",
+      "revId": "12d999e49c5bf548b4988a1d94d53303fa104442",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
