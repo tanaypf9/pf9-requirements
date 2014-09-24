@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+1: yehia-beyh <yehia.beyh@hp.com>
+Code-Review+1: Zhenguo Niu <Niu.ZGlinux@gmail.com>
+Code-Review+1: Mingyan Bao <bao.mingyan@hp.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+1: Jay Bryant <jsbryant@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 24 Sep 2014 11:00:25 +0000
+Reviewed-on: https://review.openstack.org/121624
+Project: openstack/requirements
+Branch: refs/heads/master
