@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Ed Leafe <ed@leafe.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Submitted-by: Jenkins
+Submitted-at: Thu, 25 Sep 2014 04:38:14 +0000
+Reviewed-on: https://review.openstack.org/122304
+Project: openstack/requirements
+Branch: refs/heads/master
