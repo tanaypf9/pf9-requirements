@@ -106,6 +106,7 @@ python-ironicclient>=0.2.1
 python-keystoneclient>=0.10.0
 python-marconiclient>=0.0.2
 python-memcached>=1.48
+python-muranoclient>=0.5.5
 python-neutronclient>=2.3.6,<3
 python-novaclient>=2.18.0
 python-openstackclient>=0.3.0
