@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa201ad_b445d616",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 234,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-10-13T17:30:17Z",
+      "side": 1,
+      "message": "Could you add the license to the end of the line (see the zake entry as an example)?",
+      "revId": "0db2b8ff2e4a69dcb81e51fe9a9ff24a95a328c8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
