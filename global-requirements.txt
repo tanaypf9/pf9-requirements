@@ -20,6 +20,7 @@ django-bootstrap-form
 django_compressor>=1.4
 django_openstack_auth>=1.1.7
 dnspython>=1.9.4
+docker-py>=0.5.1
 dogpile.cache>=0.5.3
 eventlet>=0.15.2
 extras
