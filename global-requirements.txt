@@ -1,5 +1,6 @@
 alembic>=0.6.4
 anyjson>=0.3.3
+apicapi
 argparse
 argcomplete>=0.6.8  # Apache-2.0
 beautifulsoup4
