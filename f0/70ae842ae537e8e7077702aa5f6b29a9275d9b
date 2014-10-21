@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Valeriy Ponomaryov <vponomaryov@mirantis.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 Oct 2014 22:17:56 +0000
+Reviewed-on: https://review.openstack.org/129248
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
