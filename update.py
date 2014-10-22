@@ -29,6 +29,7 @@ files will be dropped.
 import optparse
 import os
 import os.path
+import re
 import sys
 
 from pip import req
@@ -119,7 +120,28 @@ def _parse_reqs(filename):
     return reqs
 
 
-def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
+def _is_project_registered(dest_dir):
+    """Check if the project is listed in projects.txt
+
+    We look into the setup.cfg for its 'name' and then
+    search the projects.txt to see if the name is present.
+    """
+    dest_setup_cfg = os.path.join(dest_dir, 'setup.cfg')
+    names = ([m for line in open(dest_setup_cfg)
+             for m in re.findall(r'name[\s]*=[\s]*(.*)', line) if m]
+             if os.path.exists(dest_setup_cfg)
+             else None)
+    projects = ([line[line.index('/'):].strip()
+                for line in open('projects.txt')]
+                if os.path.exists('projects.txt')
+                else None)
+    if names and projects:
+        return '/' + names[0] in projects
+    return False
+
+
+def _sync_requirements_file(source_reqs, dev_reqs, dest_dir,
+                            dest_path, suffix):
     dest_reqs = _readlines(dest_path)
 
     # this is specifically for global-requirements gate jobs so we don't
@@ -128,6 +150,9 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
         dest_path = "%s.%s" % (dest_path, suffix)
 
     print("Syncing %s" % dest_path)
+
+    # Is this project listed in the projects.txt
+    registered = _is_project_registered(dest_dir)
 
     with open(dest_path, 'w') as new_reqs:
 
@@ -169,7 +194,8 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix):
                 # override. For those we support NON_STANDARD_REQS=1
                 # environment variable to turn this into a warning only.
                 print("'%s' is not in global-requirements.txt" % old_pip)
-                if os.getenv('NON_STANDARD_REQS', '0') != '1':
+                if (registered
+                        and os.getenv('NON_STANDARD_REQS', '0') != '1'):
                     sys.exit(1)
 
 
@@ -192,7 +218,8 @@ def _copy_requires(suffix, dest_dir):
         if os.path.exists(dest_path):
             print("_sync_requirements_file(%s, %s, %s)" %
                   (source_reqs, dev_reqs, dest_path))
-            _sync_requirements_file(source_reqs, dev_reqs, dest_path, suffix)
+            _sync_requirements_file(source_reqs, dev_reqs, dest_dir,
+                                    dest_path, suffix)
 
 
 def _write_setup_py(dest_path):
