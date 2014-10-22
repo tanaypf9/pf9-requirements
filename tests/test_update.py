@@ -43,6 +43,7 @@ class UpdateTest(testtools.TestCase):
         self.req_file = os.path.join(self.dir, "global-requirements.txt")
         self.dev_req_file = os.path.join(self.dir, "dev-requirements.txt")
         self.proj_file = os.path.join(self.project_dir, "requirements.txt")
+        self.projects_file = os.path.join(self.dir, "projects.txt")
         self.oslo_file = os.path.join(self.oslo_dir, "requirements.txt")
         self.bad_proj_file = os.path.join(self.bad_project_dir,
                                           "requirements.txt")
@@ -59,6 +60,7 @@ class UpdateTest(testtools.TestCase):
         os.mkdir(self.oslo_dir)
         os.mkdir(self.bad_project_dir)
 
+        shutil.copy("tests/files/projects.txt", self.projects_file)
         shutil.copy("tests/files/gr-base.txt", self.req_file)
         shutil.copy("tests/files/dev-req.txt", self.dev_req_file)
         shutil.copy("tests/files/project-with-oslo-tar.txt", self.oslo_file)
@@ -70,7 +72,7 @@ class UpdateTest(testtools.TestCase):
         shutil.copy("tests/files/setup.py", self.bad_setup_file)
         shutil.copy("tests/files/old-setup.py", self.old_setup_file)
         shutil.copy("tests/files/setup.cfg", self.setup_cfg_file)
-        shutil.copy("tests/files/setup.cfg", self.bad_setup_cfg_file)
+        shutil.copy("tests/files/bad_setup.cfg", self.bad_setup_cfg_file)
         shutil.copy("tests/files/setup.cfg", self.oslo_setup_cfg_file)
         shutil.copy("update.py", os.path.join(self.dir, "update.py"))
 
