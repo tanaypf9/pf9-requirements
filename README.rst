@@ -128,6 +128,14 @@ General Review Criteria
   blueprint requires the new specification. Ideally, changes should
   already be proposed, so that its use can be seen.
 
+  All projects hosted on OpenStack infrastructure, including
+  stackforge, may add entries to ``global-requirements.txt`` for
+  dependencies if the project is going to run integration tests under
+  a devstack-configured environment. We want everyone testing with the
+  same requirements, and any project that wants to test in a fully
+  configured environment needs to have their dependencies in the
+  global list.
+
 For new Requirements
 --------------------
 
