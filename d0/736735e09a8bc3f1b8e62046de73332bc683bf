@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Workflow+1: mark mcclain <mmcclain@yahoo-inc.com>
+Code-Review+1: Thomas Goirand <thomas@goirand.fr>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Vinod Mangalpally <vinod.mang@rackspace.com>
+Code-Review+1: Graham Hayes <graham.hayes@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Oct 2014 00:29:06 +0000
+Reviewed-on: https://review.openstack.org/126349
+Project: openstack/requirements
+Branch: refs/heads/master
