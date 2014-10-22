@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_8c043ac1",
+        "filename": "update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-10-22T14:21:19Z",
+      "side": 1,
+      "message": "This is going to trigger re-parsing the project file every time a requirement that isn\u0027t in the global list is detected. How about doing that once and storing the results in a variable defined outside of this loop?",
+      "revId": "d16b2b20cdfc118c3a8843e59d78674f6c08e858",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
