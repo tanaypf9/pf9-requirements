@@ -8,6 +8,7 @@ boto>=2.32.1
 cassandra-driver>=2.1.1 # Apache-2.0
 cffi
 cliff>=1.7.0  # Apache-2.0
+cm-api>=8.0.0
 cmd2>=0.6.7
 coinor.pulp>=1.0.4
 croniter>=0.3.4 # MIT License
