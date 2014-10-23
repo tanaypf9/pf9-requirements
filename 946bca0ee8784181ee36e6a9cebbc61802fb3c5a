@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa7fdbe_4335abd8",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-10-23T07:58:48Z",
+      "side": 1,
+      "message": "I think that \"OpenStack projects\" isn\u0027t really well defined list of projects. Does it mean projects hosted on openstack, openstack-dev, openstack-infra and stackforge orgs?",
+      "revId": "946bca0ee8784181ee36e6a9cebbc61802fb3c5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
