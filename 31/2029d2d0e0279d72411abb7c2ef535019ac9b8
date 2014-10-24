@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>
+Code-Review+1: Steve Martinelli <stevemar@ca.ibm.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Workflow+1: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Oct 2014 22:21:58 +0000
+Reviewed-on: https://review.openstack.org/128817
+Project: openstack/requirements
+Branch: refs/heads/master
