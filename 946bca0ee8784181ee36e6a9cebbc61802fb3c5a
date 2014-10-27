@@ -52,6 +52,24 @@
       "revId": "946bca0ee8784181ee36e6a9cebbc61802fb3c5a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa7fdbe_43f3a109",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2014-10-27T11:23:21Z",
+      "side": 1,
+      "message": "I think something explicit will work better, like \"All projects hosted on OpenStack infrastructure, including stackforge, regardless of status, that wants to test with a devstack configuration...\n\nIt\u0027s just an idea, sorry about my English.",
+      "parentUuid": "9aa7fdbe_ea97148e",
+      "revId": "946bca0ee8784181ee36e6a9cebbc61802fb3c5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
