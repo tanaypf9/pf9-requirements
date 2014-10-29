@@ -52,6 +52,7 @@ openstack/python-heatclient
 openstack/python-ironicclient
 openstack/python-keystoneclient
 openstack/python-keystoneclient-kerberos
+openstack/python-keystoneclient-federation
 openstack/python-manilaclient
 openstack/python-neutronclient
 openstack/python-novaclient
