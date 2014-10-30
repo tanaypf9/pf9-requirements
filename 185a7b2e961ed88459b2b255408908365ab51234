@@ -34,6 +34,24 @@
       "revId": "185a7b2e961ed88459b2b255408908365ab51234",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8c0949_9dc92f5d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6167
+      },
+      "writtenOn": "2014-10-30T04:01:45Z",
+      "side": 1,
+      "message": "Yeah, completely agree with you.\nThe requirements would be different on each project/component and it would be nice to have some options for its technical reason.\n\nI don\u0027t feel we must use json-schema library at all places.",
+      "parentUuid": "7a8c0949_fd9b1370",
+      "revId": "185a7b2e961ed88459b2b255408908365ab51234",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
