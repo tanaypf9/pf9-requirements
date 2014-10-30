@@ -16,6 +16,24 @@
       "revId": "185a7b2e961ed88459b2b255408908365ab51234",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8c0949_fd9b1370",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1297
+      },
+      "writtenOn": "2014-10-30T03:50:36Z",
+      "side": 1,
+      "message": "Yes the name sorta isn\u0027t good; especially the whole \u0027json\u0027 part ;-)\n\nIn all honesty if people want to use json-schema or voluptuous that\u0027s fine; for certain things like validation of schema\u0027s I\u0027d rather have 2 (or say 3) libraries than zero. People should be free to use whichever one suites there need (both seem to be capable); because any attempt at data validation is better than no attempt at all...",
+      "parentUuid": "7a8c0949_9d712f7a",
+      "revId": "185a7b2e961ed88459b2b255408908365ab51234",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
