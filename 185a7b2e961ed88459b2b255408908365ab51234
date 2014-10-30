@@ -52,6 +52,24 @@
       "revId": "185a7b2e961ed88459b2b255408908365ab51234",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8c0949_9dda0fe8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1297
+      },
+      "writtenOn": "2014-10-30T04:22:39Z",
+      "side": 1,
+      "message": "Sure, and I think where voluptuous shines is that its more pythonic than json-schema (which is based on a specification created for the javascript/json community). To each there own though IMHO (any validation is better than none at all).",
+      "parentUuid": "7a8c0949_9dc92f5d",
+      "revId": "185a7b2e961ed88459b2b255408908365ab51234",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
