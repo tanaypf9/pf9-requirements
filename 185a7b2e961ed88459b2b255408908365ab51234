@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8c0949_9d712f7a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6167
+      },
+      "writtenOn": "2014-10-30T03:34:35Z",
+      "side": 1,
+      "message": "\"which is more limited to json\" seems invalid because json-schema library works against python variables, not json input data.\nOn Nova, json-schema library works against the de-serialized variables after the de-serializer. So we can use json-schema for XML input also if both de-serialized variables are the same.\n\nI had this kind of points before, maybe the name of json-schema is not so good..",
+      "revId": "185a7b2e961ed88459b2b255408908365ab51234",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
