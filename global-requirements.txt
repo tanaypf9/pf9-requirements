@@ -142,6 +142,7 @@ taskflow>=0.4
 tempest-lib
 tooz>=0.3 # Apache-2.0
 tripleo-image-elements
+voluptuous>=0.8.2  # BSD License
 warlock>=1.0.1,<2
 WebOb>=1.2.3
 websockify>=0.6.0,<0.7
