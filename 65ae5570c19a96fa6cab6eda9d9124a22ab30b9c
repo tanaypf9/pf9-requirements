@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_d1d8e855",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2014-11-10T21:59:03Z",
+      "side": 1,
+      "message": "Since we\u0027re here should we note that this is GPL?",
+      "revId": "65ae5570c19a96fa6cab6eda9d9124a22ab30b9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
