@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Chuck Short <chuck.short@canonical.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Nov 2014 22:57:23 +0000
+Reviewed-on: https://review.openstack.org/131624
+Project: openstack/requirements
+Branch: refs/heads/master
