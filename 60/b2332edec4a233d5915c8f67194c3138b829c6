@@ -1,0 +1,10 @@
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Verified+2: Clark Boylan <cboylan@sapwetik.org>
+Workflow+1: Clark Boylan <cboylan@sapwetik.org>
+Submitted-by: Clark Boylan <cboylan@sapwetik.org>
+Submitted-at: Mon, 17 Nov 2014 22:53:41 +0000
+Reviewed-on: https://review.openstack.org/135096
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
