@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Workflow+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Alex Gaynor <alex.gaynor@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 18 Nov 2014 11:28:06 +0000
+Reviewed-on: https://review.openstack.org/135147
+Project: openstack/requirements
+Branch: refs/heads/master
