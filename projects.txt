@@ -26,9 +26,10 @@ openstack/os-apply-config
 openstack/os-cloud-config
 openstack/os-collect-config
 openstack/os-refresh-config
-openstack/oslo.concurrency
 openstack/oslo-incubator
+openstack/oslo.concurrency
 openstack/oslo.config
+openstack/oslo.context
 openstack/oslo.db
 openstack/oslo.i18n
 openstack/oslo.log
@@ -37,10 +38,10 @@ openstack/oslo.middleware
 openstack/oslo.rootwrap
 openstack/oslo.serialization
 openstack/oslo.utils
-openstack/oslotest
 openstack/oslo.version
 openstack/oslo.vmware
 openstack/oslosphinx
+openstack/oslotest
 openstack/pycadf
 openstack/python-ceilometerclient
 openstack/python-cinderclient
