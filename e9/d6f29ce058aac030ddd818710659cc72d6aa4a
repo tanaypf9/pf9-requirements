@@ -1,0 +1,19 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Nathan Reller <rellerreller@yahoo.com>
+Code-Review+1: bruce-benjamin <bruce.benjamin@jhuapl.edu>
+Code-Review+1: Brianna Poulos <Brianna.Poulos@jhuapl.edu>
+Code-Review+1: Robert Clark <robert.clark@hp.com>
+Code-Review+1: Jarret Raim <jarret.raim@rackspace.com>
+Code-Review+1: Peter Hamilton <peter.hamilton@jhuapl.edu>
+Code-Review+1: John Wood <john.wood@rackspace.com>
+Code-Review+1: Douglas Mendizábal <douglas.mendizabal@rackspace.com>
+Code-Review+1: Kaitlin Farr <kaitlin.farr@jhuapl.edu>
+Code-Review+1: Tim Kelsey <tim.kelsey@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 19 Nov 2014 21:03:31 +0000
+Reviewed-on: https://review.openstack.org/114037
+Project: openstack/requirements
+Branch: refs/heads/master
