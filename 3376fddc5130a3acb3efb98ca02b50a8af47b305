@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_02c76e13",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 5196
+      },
+      "writtenOn": "2014-11-19T19:29:20Z",
+      "side": 1,
+      "message": "Looks like a copy paste issue, this line is also below...",
+      "revId": "3376fddc5130a3acb3efb98ca02b50a8af47b305",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
