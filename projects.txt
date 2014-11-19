@@ -9,6 +9,7 @@ openstack/designate
 openstack/diskimage-builder
 openstack/django_openstack_auth
 openstack/glance
+openstack/glance_store
 openstack/ha-guide
 openstack/heat
 openstack/horizon
@@ -18,6 +19,7 @@ openstack/ironic
 openstack/ironic-python-agent
 openstack/keystone
 openstack/keystonemiddleware
+openstack/kite
 openstack/manila
 openstack/neutron
 openstack/nova
@@ -56,6 +58,7 @@ openstack/python-ironicclient
 openstack/python-keystoneclient
 openstack/python-keystoneclient-federation
 openstack/python-keystoneclient-kerberos
+openstack/python-kiteclient
 openstack/python-manilaclient
 openstack/python-neutronclient
 openstack/python-novaclient
