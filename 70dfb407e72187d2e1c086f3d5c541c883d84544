@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_486ef5ca",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 5196
+      },
+      "writtenOn": "2014-11-19T20:14:58Z",
+      "side": 1,
+      "message": "So this comment really isn\u0027t needed on the stable branch, because you\u0027re not going to convert the stable releases of nova and cinder to suds-jurko but no big deal.",
+      "revId": "70dfb407e72187d2e1c086f3d5c541c883d84544",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
