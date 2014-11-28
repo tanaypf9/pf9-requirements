@@ -1,0 +1,18 @@
+Verified+2: Jenkins
+Code-Review+1: Dave Walker <email@daviey.com>
+Code-Review+2: p-draigbrady <P@draigBrady.com>
+Code-Review+2: Alan Pevec <apevec@gmail.com>
+Workflow+1: Alan Pevec <apevec@gmail.com>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Tatiana Ovchinnikova <t.v.ovtchinnikova@gmail.com>
+Code-Review+1: Timur Sufiev <tsufiev@mirantis.com>
+Code-Review+1: Ana Krivokapic <akrivoka@redhat.com>
+Code-Review+1: Tomáš Nová?ik <tnovacik@redhat.com>
+Code-Review+1: Vlad Okhrimenko <vokhrimenko@mirantis.com>
+Code-Review+1: Rob Cresswell <rcresswe@cisco.com>
+Code-Review+1: Paul Karikh <pkarikh@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 28 Nov 2014 15:08:55 +0000
+Reviewed-on: https://review.openstack.org/137648
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
