@@ -48,6 +48,7 @@ kombu>=2.5.0
 libvirt-python>=1.2.5                   # LGPLv2+
 lockfile>=0.8
 lxml>=2.3
+m2crypto>=0.22.3 # MIT License
 Mako>=0.4.0
 msgpack-python>=0.4.0
 netaddr>=0.7.12
