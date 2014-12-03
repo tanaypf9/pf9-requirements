@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Alan Pevec <apevec@gmail.com>
+Code-Review+2: Flavio Percoco <fpercoco@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 03 Dec 2014 20:54:56 +0000
+Reviewed-on: https://review.openstack.org/138546
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
