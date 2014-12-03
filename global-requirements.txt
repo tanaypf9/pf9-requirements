@@ -150,7 +150,7 @@ suds>=0.4
 suds-jurko>=0.6
 
 taskflow>=0.4
-tempest-lib
+tempest-lib>=0.0.2
 tooz>=0.3 # Apache-2.0
 tripleo-image-elements
 urllib3>=1.7.1
