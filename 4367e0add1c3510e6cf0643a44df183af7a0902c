@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_a9122a56",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2014-12-07T20:51:07Z",
+      "side": 1,
+      "message": "\"looks a little weird bit\"",
+      "revId": "4367e0add1c3510e6cf0643a44df183af7a0902c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_091a5e6e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 7680
+      },
+      "writtenOn": "2014-12-07T20:51:07Z",
+      "side": 1,
+      "message": "Should be \u003c\u003d",
+      "revId": "4367e0add1c3510e6cf0643a44df183af7a0902c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
