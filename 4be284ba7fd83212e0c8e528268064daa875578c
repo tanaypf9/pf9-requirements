@@ -16,6 +16,24 @@
       "revId": "4be284ba7fd83212e0c8e528268064daa875578c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_167340b2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2014-12-16T14:51:27Z",
+      "side": 1,
+      "message": "Setuptools 8 treats the the \",\" in that format as \"and\" which means you need to install both something in the 0.8 range and the 0.9 range. Pip/setuptools refuses to figure out what we mean by that.",
+      "parentUuid": "3a961159_efa18096",
+      "revId": "4be284ba7fd83212e0c8e528268064daa875578c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
