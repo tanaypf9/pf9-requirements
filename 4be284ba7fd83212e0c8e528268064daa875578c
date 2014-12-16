@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_efa18096",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 140,
+      "author": {
+        "id": 8655
+      },
+      "writtenOn": "2014-12-16T13:01:44Z",
+      "side": 1,
+      "message": "How this differs from the original requirement: SQLAlchemy\u003e\u003d0.8.4,\u003c\u003d0.8.99,\u003e\u003d0.9.7,\u003c\u003d0.9.99 ?\nI must be missing something.",
+      "revId": "4be284ba7fd83212e0c8e528268064daa875578c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
