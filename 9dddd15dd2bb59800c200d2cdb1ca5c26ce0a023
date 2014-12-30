@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_3e5c7119",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2014-12-30T20:03:31Z",
+      "side": 1,
+      "message": "We\u0027re adding !\u003d3.3. It doesn\u0027t look like a mere \u0027rephrasing\u0027. Any reason to do so?",
+      "revId": "9dddd15dd2bb59800c200d2cdb1ca5c26ce0a023",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
