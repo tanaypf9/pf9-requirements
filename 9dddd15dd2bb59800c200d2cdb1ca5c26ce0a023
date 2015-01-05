@@ -16,6 +16,24 @@
       "revId": "9dddd15dd2bb59800c200d2cdb1ca5c26ce0a023",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_59daf478",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-01-05T23:31:47Z",
+      "side": 1,
+      "message": "Skip 3.3 is from Juno commit 8f1842d2a7795c6e00726d94314d560a75304e36\n\nI\u0027ll update the commit message",
+      "parentUuid": "3a961159_3e5c7119",
+      "revId": "9dddd15dd2bb59800c200d2cdb1ca5c26ce0a023",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
