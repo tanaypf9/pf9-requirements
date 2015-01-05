@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_b12bf2e9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 13805
+      },
+      "writtenOn": "2015-01-05T22:19:30Z",
+      "side": 1,
+      "message": "Do you mind adding a TODO here to remove these two lines:\n\nXStatic-Angular-Cookies\u003e\u003d1.2.1.1  # MIT License\t165\n\t166\tXStatic-Angular-Mock\u003e\u003d1.2.1.1  # MIT License\tXStatic-Angular-Mock\u003e\u003d1.2.1.1  # MIT License",
+      "revId": "9aac569fcdc603e7486c9d6d053ba0ea7c47de4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
