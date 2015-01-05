@@ -16,6 +16,24 @@
       "revId": "9aac569fcdc603e7486c9d6d053ba0ea7c47de4b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_1cf5baec",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 7665
+      },
+      "writtenOn": "2015-01-05T23:59:41Z",
+      "side": 1,
+      "message": "I\u0027m going to upload a dependent patch that removes these. Not sure if a TODO is generally accepted or not.\n\nAs FYI: the message in devstack logs were much better on patch set 2 yesterday.  I could see the issue. Previously it wasn\u0027t giving enough info.\n\n2015-01-05 17:48:37.016 | \u0027xstatic-angular-cookies\u0027 is not in global-requirements.txt\n\nHorizon still depends on the only xstatic-angular-cookies, which is essentially being deprecated by the new xstatic-angular package (incorporates it).  So, I have to first get this landed, then we can update horizon requirements to remove those deprecated dependencies... then we can update global requirements to remove the old ones.",
+      "parentUuid": "3a961159_b12bf2e9",
+      "revId": "9aac569fcdc603e7486c9d6d053ba0ea7c47de4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
