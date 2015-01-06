@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_64cc55bc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-01-06T13:06:27Z",
+      "side": 1,
+      "message": "I don\u0027t think we should sneak it in as part of the patch. Can\u0027t we backport it separately (if at all)?",
+      "revId": "f5e6222dd5895dcc082599089e23d9ba49592ee0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
