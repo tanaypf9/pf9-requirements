@@ -16,6 +16,24 @@
       "revId": "f5e6222dd5895dcc082599089e23d9ba49592ee0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_47a66255",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-01-07T08:52:27Z",
+      "side": 1,
+      "message": "It could be backported separately.",
+      "parentUuid": "3a961159_64cc55bc",
+      "revId": "f5e6222dd5895dcc082599089e23d9ba49592ee0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
