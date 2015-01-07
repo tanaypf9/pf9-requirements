@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_a36a93b2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 6786
+      },
+      "writtenOn": "2015-01-07T12:58:52Z",
+      "side": 1,
+      "message": "Set the correct author, otherwise commit message should be changed: me-\u003eViktor",
+      "revId": "2555cb3c743b95faa239ac2fb3eb8aa664892586",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
