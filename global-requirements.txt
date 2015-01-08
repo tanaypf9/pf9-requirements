@@ -180,6 +180,7 @@ XStatic-JSEncrypt>=2.0.0.2  # MIT License
 XStatic-QUnit>=1.14.0.2  # MIT License
 XStatic-Rickshaw>=1.5.0  # BSD License (prior)
 XStatic-Spin>=1.2.5.2  # MIT License
+XStatic-term.js>=0.0.4 # MIT License
 
 # Testing tools below, which are typically in test-requires.txt
 
