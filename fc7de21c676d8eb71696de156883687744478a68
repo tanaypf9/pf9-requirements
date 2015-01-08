@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a961159_64ea4310",
+        "filename": "tests/test_update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-01-08T20:41:37Z",
+      "side": 1,
+      "message": "The fixtures package has a TempDir() fixture to do this.",
+      "revId": "fc7de21c676d8eb71696de156883687744478a68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
