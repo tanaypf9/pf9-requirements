@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Dave Walker <email@daviey.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review-1: Jens Rosenboom <j.rosenboom@x-ion.de>
+Submitted-by: Jenkins
+Submitted-at: Wed, 14 Jan 2015 13:35:23 +0000
+Reviewed-on: https://review.openstack.org/147062
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
