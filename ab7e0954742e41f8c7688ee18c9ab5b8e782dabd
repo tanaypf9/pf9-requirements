@@ -16,6 +16,24 @@
       "revId": "ab7e0954742e41f8c7688ee18c9ab5b8e782dabd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a961159_301f000b",
+        "filename": "tools/integration.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 10063
+      },
+      "writtenOn": "2015-01-14T15:21:03Z",
+      "side": 1,
+      "message": "See https://bugs.launchpad.net/devstack/+bug/1264422\nI\u0027m not sure exactly when it was fixed but we experienced the problem on automated tests running with an (admittedly old) git 1.7.9",
+      "parentUuid": "3a961159_17112553",
+      "revId": "ab7e0954742e41f8c7688ee18c9ab5b8e782dabd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
