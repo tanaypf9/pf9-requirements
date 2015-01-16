@@ -1,0 +1,13 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Code-Review+1: John Griffith <john.griffith8@gmail.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 16 Jan 2015 01:07:50 +0000
+Reviewed-on: https://review.openstack.org/143186
+Project: openstack/requirements
+Branch: refs/heads/master
