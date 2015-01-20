@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 20 Jan 2015 17:58:54 +0000
+Reviewed-on: https://review.openstack.org/148111
+Project: openstack/requirements
+Branch: refs/heads/stable/icehouse
