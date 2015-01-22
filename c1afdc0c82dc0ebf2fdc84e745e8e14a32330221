@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a930d6b_81833703",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2015-01-22T21:52:20Z",
+      "side": 1,
+      "message": "Partial-bug: #1413111\n\nNot having 1.4.1 causes lockutils.lock() to throw an exception during iptables.apply(), which causes the l3-agent to not apply rules.",
+      "revId": "c1afdc0c82dc0ebf2fdc84e745e8e14a32330221",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
