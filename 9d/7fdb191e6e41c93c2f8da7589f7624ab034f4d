@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Workflow+1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Jan 2015 21:50:27 +0000
+Reviewed-on: https://review.openstack.org/147021
+Project: openstack/requirements
+Branch: refs/heads/master
