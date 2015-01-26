@@ -187,6 +187,7 @@ XStatic-term.js>=0.0.4 # MIT License
 
 # Testing tools below, which are typically in test-requires.txt
 
+bandit
 bashate>=0.2 # Apache-2.0
 cliff-tablib>=1.0
 configobj
