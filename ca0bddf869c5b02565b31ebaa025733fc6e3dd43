@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_590fcfe1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2015-01-27T20:36:19Z",
+      "side": 1,
+      "message": "Does not look like a compelling reason to upgrade.",
+      "revId": "ca0bddf869c5b02565b31ebaa025733fc6e3dd43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
