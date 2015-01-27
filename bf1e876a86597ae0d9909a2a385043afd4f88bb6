@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a930d6b_3187a4b6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2015-01-27T16:35:17Z",
+      "side": 1,
+      "message": "What\u0027s not clear to me is: is Keystone going to have bandit installed as per as its tox target and so will bandit be listed in test-requirements.txt?\n\nIf not, there\u0027s no need to add it to this file.",
+      "revId": "bf1e876a86597ae0d9909a2a385043afd4f88bb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
