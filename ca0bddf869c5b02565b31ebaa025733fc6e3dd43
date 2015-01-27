@@ -16,6 +16,24 @@
       "revId": "ca0bddf869c5b02565b31ebaa025733fc6e3dd43",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa81d914_d1e39303",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 994
+      },
+      "writtenOn": "2015-01-27T21:48:45Z",
+      "side": 1,
+      "message": "While running the unit tests for keystone older version got stuck and very slow. I thought it good to contribute and IMO it is good for all.",
+      "parentUuid": "fa81d914_590fcfe1",
+      "revId": "ca0bddf869c5b02565b31ebaa025733fc6e3dd43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
