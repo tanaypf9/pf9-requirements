@@ -16,6 +16,24 @@
       "revId": "bf1e876a86597ae0d9909a2a385043afd4f88bb6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a930d6b_2c94ab89",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11861
+      },
+      "writtenOn": "2015-01-27T16:40:51Z",
+      "side": 1,
+      "message": "Ideally yes.  It will need to at least be installed on the CI server that runs gates though.  I\u0027m under the impression that either way, it needs to be in this file.",
+      "parentUuid": "1a930d6b_3187a4b6",
+      "revId": "bf1e876a86597ae0d9909a2a385043afd4f88bb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
