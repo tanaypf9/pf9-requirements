@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Akihiro Motoki <amotoki@gmail.com>
+Code-Review+1: Lin Hua Cheng <os.lcheng@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Julie Pichon <jpichon@redhat.com>
+Code-Review+1: Timur Sufiev <tsufiev@mirantis.com>
+Code-Review+1: Ana Krivokapic <akrivoka@redhat.com>
+Code-Review+1: Paul Karikh <pkarikh@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 27 Jan 2015 00:45:58 +0000
+Reviewed-on: https://review.openstack.org/149996
+Project: openstack/requirements
+Branch: refs/heads/master
