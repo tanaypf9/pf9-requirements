@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a930d6b_a24d28c6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2015-01-27T00:18:19Z",
+      "side": 1,
+      "message": "I think we should state that this is in Stackforge and why we need it.",
+      "revId": "230aaac1f126434ea1b63b3d195eee46b327b10f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a930d6b_c24874b5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 2592
+      },
+      "writtenOn": "2015-01-27T00:18:19Z",
+      "side": 1,
+      "message": "Should note the license here.",
+      "revId": "230aaac1f126434ea1b63b3d195eee46b327b10f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
