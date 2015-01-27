@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a930d6b_3acf8b57",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2015-01-27T11:13:42Z",
+      "side": 1,
+      "message": "And which project is going to require it?",
+      "revId": "e27f7d54e1964c78b446901d387fe085f5b6a521",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
