@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Adam Gandelman <adamg@ubuntu.com>
+Workflow+1: Adam Gandelman <adamg@ubuntu.com>
+Code-Review+1: YAMAMOTO Takashi <yamamoto@valinux.co.jp>
+Code-Review+1: greghaynes <greg@greghaynes.net>
+Submitted-by: Jenkins
+Submitted-at: Wed, 28 Jan 2015 04:32:15 +0000
+Reviewed-on: https://review.openstack.org/150618
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
