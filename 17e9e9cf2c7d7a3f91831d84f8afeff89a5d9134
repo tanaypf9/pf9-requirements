@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_ce83aa02",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-02-02T22:38:45Z",
+      "side": 1,
+      "message": "oops, technically fb588f87d at this point, I can update if anyone wants that.",
+      "revId": "17e9e9cf2c7d7a3f91831d84f8afeff89a5d9134",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
