@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Feb 2015 23:06:31 +0000
+Reviewed-on: https://review.openstack.org/152678
+Project: openstack/requirements
+Branch: refs/heads/master
