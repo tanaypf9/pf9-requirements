@@ -1,0 +1,13 @@
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Joshua Harlow <harlowja@yahoo-inc.com>
+Code-Review+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Workflow+1: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+1: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+2: Joshua Hesketh <joshua.hesketh@rackspace.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Feb 2015 03:43:31 +0000
+Reviewed-on: https://review.openstack.org/152333
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
