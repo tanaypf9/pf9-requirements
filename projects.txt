@@ -89,3 +89,4 @@ stackforge/python-congressclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
 stackforge/rally
+stackforge/vmtp
