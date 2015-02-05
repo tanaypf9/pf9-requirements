@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_e9a45f09",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-05T17:32:42Z",
+      "side": 1,
+      "message": "this",
+      "revId": "a9de50cf9cd8a21f8660ba039d21594578c0bdb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
