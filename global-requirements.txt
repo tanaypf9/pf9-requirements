@@ -120,11 +120,13 @@ python-memcached>=1.48
 python-neutronclient>=2.3.6,<3
 python-novaclient>=2.18.0
 python-openstackclient>=0.3.0
+python-qpid-proton>=0.7,<0.8
 python-saharaclient>=0.7.6
 python-swiftclient>=2.2.0
 python-troveclient>=1.0.7
 python-zaqarclient>=0.0.3
 # 2013.6 is the first version of pytz that is PEP 440 compatible.
+pyngus>=1.0.0,<2.0.0
 pytz>=2013.6
 pyudev
 PyYAML>=3.1.0
