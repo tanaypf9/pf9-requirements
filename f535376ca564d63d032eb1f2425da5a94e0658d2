@@ -16,6 +16,24 @@
       "revId": "f535376ca564d63d032eb1f2425da5a94e0658d2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_34f6b45d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 11224
+      },
+      "writtenOn": "2015-02-06T11:27:59Z",
+      "side": 1,
+      "message": "Its using the BSD license.\n\nplease ref: https://github.com/tax/python-requests-aws",
+      "parentUuid": "da86d52c_f46a5c18",
+      "revId": "f535376ca564d63d032eb1f2425da5a94e0658d2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
