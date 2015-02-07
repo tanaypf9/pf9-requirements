@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_0cf0a1c8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 1941
+      },
+      "writtenOn": "2015-02-07T19:18:15Z",
+      "side": 1,
+      "message": "Should the package been setup with a name: XStatic-Angular-IrDragNDrop?",
+      "revId": "96745f27dcb33185dac1d99496dccbb6bc4f8cd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
