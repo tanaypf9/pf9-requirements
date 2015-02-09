@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_0476a7d8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-02-09T09:47:00Z",
+      "side": 1,
+      "message": "For refrence, this was Idbb9d2b53829dae0e807cd1260dee3dce155d5f3\n\nWas it Nova only, what about other projects?",
+      "revId": "5fd84b9c7d31f6cb0de2fcbc958e47b454dfb2bd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
