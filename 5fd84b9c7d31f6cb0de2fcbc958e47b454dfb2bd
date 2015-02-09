@@ -16,6 +16,24 @@
       "revId": "5fd84b9c7d31f6cb0de2fcbc958e47b454dfb2bd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_e7451518",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-09T09:58:11Z",
+      "side": 1,
+      "message": "As per https://bugs.launchpad.net/nova/+bug/1410626, it\u0027s nova only.",
+      "parentUuid": "da86d52c_0476a7d8",
+      "revId": "5fd84b9c7d31f6cb0de2fcbc958e47b454dfb2bd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
