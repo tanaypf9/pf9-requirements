@@ -2,6 +2,74 @@
   "comments": [
     {
       "key": {
+        "uuid": "da86d52c_931a84c4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 16
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "I fail to parse the line.",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_135db479",
+        "filename": "cap.py",
+        "patchSetId": 16
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "apt packages -\u003e distribution packages",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_b3c86823",
+        "filename": "cap.py",
+        "patchSetId": 16
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "3.024 -\u003e 3.0.24?",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_93a7e4a6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "Where is ~\u003d syntax documented?",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_ff6f07fa",
         "filename": "global-requirements.txt",
         "patchSetId": 16
@@ -31,6 +99,58 @@
       "side": 1,
       "message": "interesting, we currently test with 1.3.1. Why do you think we should cap at 1.0.0? And want to propose a separate patch to do that? We previously had 1.0.0 as the lower bound.",
       "parentUuid": "da86d52c_ff6f07fa",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_531e4c0d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "I think those pins should reflect what is in corresponding stable branches of oslo libraries. For oslo.i18n, it\u0027s based on 1.0.0 tag.",
+      "parentUuid": "da86d52c_cda1b9f9",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_73c1902e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "stable/juno is based on 1.3.0",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_b364e822",
+        "filename": "pip-freeze.txt.gz",
+        "patchSetId": 16
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 1,
+      "message": "Why does the file has .gz extension? It does not look like gzipped.",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false

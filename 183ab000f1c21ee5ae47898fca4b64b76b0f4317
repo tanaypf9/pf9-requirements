@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_53cc8c89",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-10T23:10:18Z",
+      "side": 0,
+      "message": "I think loosing this minimal version information is not a good thing, for it gives deployers/packagers insight on whether their system libraries are compatible, or they require version bumps.",
+      "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
