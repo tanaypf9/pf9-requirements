@@ -1,0 +1,12 @@
+Code-Review+2: Alan Pevec <apevec@gmail.com>
+Workflow+1: Alan Pevec <apevec@gmail.com>
+Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Jamie Lennox <jamielennox@redhat.com>
+Submitted-by: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-at: Wed, 11 Feb 2015 01:48:28 +0000
+Reviewed-on: https://review.openstack.org/154715
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
