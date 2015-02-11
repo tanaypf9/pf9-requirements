@@ -34,6 +34,24 @@
       "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_1c33f362",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-02-11T10:27:13Z",
+      "side": 0,
+      "message": "Why not freezing the state at the very minimal versions we define instead of latest freeze and actually make sure we test against those minimal versions to avoid introducing implicit version bumps?",
+      "parentUuid": "da86d52c_a2700f41",
+      "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
