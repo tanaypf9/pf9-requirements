@@ -33,6 +33,24 @@
       "revId": "9ed0e60c15e177c398d4c483eb12cfa917426d96",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_6287f7b5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-11T00:15:57Z",
+      "side": 1,
+      "message": "I am happy to drop the number down even lower. But doing so risks breaking transitive dependency issues. Since other reqs may need things that conflict with pre 1.3.0 now.",
+      "parentUuid": "da86d52c_42275312",
+      "revId": "9ed0e60c15e177c398d4c483eb12cfa917426d96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
