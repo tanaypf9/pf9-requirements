@@ -16,6 +16,24 @@
       "revId": "0275f5f59b29b5e3e20737c974f95883b1c14f9c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_5b665eee",
+        "filename": "tools/integration.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-02-11T02:16:44Z",
+      "side": 1,
+      "message": "Worthwhile, but can wait for a subsequent patch since the main goal was un-wedging stable gating and would be better for the backports to match.",
+      "parentUuid": "da86d52c_6e5283df",
+      "revId": "0275f5f59b29b5e3e20737c974f95883b1c14f9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
