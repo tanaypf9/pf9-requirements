@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "da86d52c_89a227ac",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 16
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-11T19:33:16Z",
+      "side": 1,
+      "message": "\u003d\u003d/~- are Pins right?",
+      "parentUuid": "da86d52c_543e118c",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_931a84c4",
         "filename": "/COMMIT_MSG",
         "patchSetId": 16
@@ -48,6 +66,24 @@
       "side": 1,
       "message": "\"in are\" -\u003e \"in our\"",
       "parentUuid": "da86d52c_931a84c4",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_2993fb5b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 16
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-11T19:33:16Z",
+      "side": 1,
+      "message": "yup",
+      "parentUuid": "da86d52c_140659ce",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -264,6 +300,24 @@
     },
     {
       "key": {
+        "uuid": "da86d52c_29f69b8f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-11T19:33:16Z",
+      "side": 1,
+      "message": "I am just trying to pin to the current requirements. Not change them. That should be a different patch.",
+      "parentUuid": "da86d52c_743dd5dc",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_573e138c",
         "filename": "global-requirements.txt",
         "patchSetId": 16
@@ -292,6 +346,24 @@
       "writtenOn": "2015-02-11T16:55:54Z",
       "side": 1,
       "message": "The comment on the 1.0.0 is \"juno final\" and 1.1 wasn\u0027t cut until December.",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_c9325f5d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-11T19:33:16Z",
+      "side": 1,
+      "message": "same as above, this is a rat hole, we should leave to a separate patch",
+      "parentUuid": "da86d52c_d7ff63a9",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
