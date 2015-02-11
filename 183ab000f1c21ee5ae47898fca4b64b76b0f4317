@@ -16,6 +16,24 @@
       "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_a2700f41",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-02-11T00:07:21Z",
+      "side": 0,
+      "message": "But minimal versions are never actually tested anywhere in our gate, so maybe better to remove it as it is misleading.",
+      "parentUuid": "da86d52c_53cc8c89",
+      "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
