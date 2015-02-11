@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "da86d52c_543e118c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 16
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "Are these \"pins\" or \"caps\"? I think the latter?",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_931a84c4",
         "filename": "/COMMIT_MSG",
         "patchSetId": 16
@@ -13,6 +30,24 @@
       "writtenOn": "2015-02-10T23:10:18Z",
       "side": 1,
       "message": "I fail to parse the line.",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_140659ce",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 16
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "\"in are\" -\u003e \"in our\"",
+      "parentUuid": "da86d52c_931a84c4",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -64,6 +99,24 @@
       "writtenOn": "2015-02-10T23:10:18Z",
       "side": 1,
       "message": "Where is ~\u003d syntax documented?",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_3450bd31",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "https://www.python.org/dev/peps/pep-0440/#compatible-release",
+      "parentUuid": "da86d52c_93a7e4a6",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -141,6 +194,24 @@
     },
     {
       "key": {
+        "uuid": "da86d52c_f4e0e527",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "I agree, we should make sure the Oslo caps reflect the stable branches for the libraries. If we don\u0027t have a stable/juno branch for a library, we should go ahead and create it. I can help coordinate that with ttx.",
+      "parentUuid": "da86d52c_84da1c49",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_7adceae4",
         "filename": "global-requirements.txt",
         "patchSetId": 16
@@ -169,6 +240,58 @@
       "writtenOn": "2015-02-10T23:10:18Z",
       "side": 1,
       "message": "stable/juno is based on 1.3.0",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_743dd5dc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "Yes, this should be ~\u003d1.3.1 (or maybe ~\u003d1.3.0)",
+      "parentUuid": "da86d52c_73c1902e",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_573e138c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "The comment on the 1.0.0 tag is \"juno final\".",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_d7ff63a9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-11T16:55:54Z",
+      "side": 1,
+      "message": "The comment on the 1.0.0 is \"juno final\" and 1.1 wasn\u0027t cut until December.",
       "revId": "bc60691930287461085410f80d3f68a895f39d39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
