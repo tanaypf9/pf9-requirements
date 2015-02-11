@@ -123,6 +123,24 @@
     },
     {
       "key": {
+        "uuid": "da86d52c_84da1c49",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 6601
+      },
+      "writtenOn": "2015-02-11T15:52:07Z",
+      "side": 1,
+      "message": "Proposed https://review.openstack.org/#/c/154918/ to cap oslo.i18n",
+      "parentUuid": "da86d52c_531e4c0d",
+      "revId": "bc60691930287461085410f80d3f68a895f39d39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da86d52c_7adceae4",
         "filename": "global-requirements.txt",
         "patchSetId": 16
