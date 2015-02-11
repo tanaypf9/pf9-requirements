@@ -52,6 +52,23 @@
       "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_9f5c304d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 16
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-02-11T13:18:19Z",
+      "side": 0,
+      "message": "XStatic stuff will need caps too: I33923ee1febb21031aab84378a3f564991ad32d6",
+      "revId": "183ab000f1c21ee5ae47898fca4b64b76b0f4317",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
