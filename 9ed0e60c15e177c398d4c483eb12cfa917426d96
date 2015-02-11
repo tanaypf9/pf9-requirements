@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_42275312",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-02-11T00:14:23Z",
+      "side": 1,
+      "message": "@Morgan - is 1.3.x Juno i.e. will that be keystonemiddleware stable/juno branch?\nAsking b/c 1.3.0 was released after Juno.",
+      "revId": "9ed0e60c15e177c398d4c483eb12cfa917426d96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
