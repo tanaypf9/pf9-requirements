@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+1: Joe Gordon <joe.gordon0@gmail.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-by: Jenkins
+Submitted-at: Wed, 11 Feb 2015 03:01:46 +0000
+Reviewed-on: https://review.openstack.org/154701
+Project: openstack/requirements
+Branch: refs/heads/stable/icehouse
