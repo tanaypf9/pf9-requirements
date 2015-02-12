@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_30496560",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 239,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-12T21:55:15Z",
+      "side": 1,
+      "message": "We need a comment to go with this, to make sure no one ever adds a version specifier here. Maybe something along the lines of:\n\n It may not be safe to have the installation tools upgrade\n or downgrade setuptools as a side-effect of installing \n something else, so we do not specify a version range\n for setuptools here.",
+      "revId": "660876fe44fc9d1f6083b48c329c39cd0e04930b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
