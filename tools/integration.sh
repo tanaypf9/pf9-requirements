@@ -5,7 +5,7 @@ function mkvenv {
 
     rm -rf $venv
     virtualenv $venv
-    $venv/bin/pip install -U pip wheel
+    $venv/bin/pip install -U pip wheel pbr
 
     # If a change to PBR is being tested, preinstall the wheel for it
     if [ -n "$PBR_CHANGE" ] ; then
