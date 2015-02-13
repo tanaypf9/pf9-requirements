@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_363213f3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-13T18:33:48Z",
+      "side": 1,
+      "message": "this has no meaning in openstack",
+      "revId": "8fcbd1faa83615962d637660a46ad53477aca7cb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

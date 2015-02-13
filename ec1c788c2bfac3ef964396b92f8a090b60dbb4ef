@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da86d52c_163c2fbf",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-13T18:33:48Z",
+      "side": 0,
+      "message": "http://paste.openstack.org/show/173108",
+      "revId": "ec1c788c2bfac3ef964396b92f8a090b60dbb4ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
