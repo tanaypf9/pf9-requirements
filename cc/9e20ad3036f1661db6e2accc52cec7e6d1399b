@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 Feb 2015 14:57:22 +0000
+Reviewed-on: https://review.openstack.org/154789
+Project: openstack/requirements
+Branch: refs/heads/master
