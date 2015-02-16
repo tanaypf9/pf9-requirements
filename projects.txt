@@ -86,6 +86,7 @@ openstack/tuskar-ui
 openstack/zaqar
 stackforge/blazar
 stackforge/blazar-nova
+stackforge/ironic-discoverd
 stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
