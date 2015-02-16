@@ -87,6 +87,7 @@ openstack/zaqar
 stackforge/blazar
 stackforge/blazar-nova
 stackforge/congress
+stackforge/ironic-discoverd
 stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-congressclient
