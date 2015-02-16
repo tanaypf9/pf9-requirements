@@ -16,6 +16,24 @@
       "revId": "ec1c788c2bfac3ef964396b92f8a090b60dbb4ef",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da86d52c_e566d6ed",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 1669
+      },
+      "writtenOn": "2015-02-16T11:08:59Z",
+      "side": 0,
+      "message": "I went ahead and did\n\nhttps://review.openstack.org/#/c/156184/\nhttps://review.openstack.org/#/c/156183/\nhttps://review.openstack.org/#/c/156182/\n\nWe\u0027ll see.",
+      "parentUuid": "da86d52c_163c2fbf",
+      "revId": "ec1c788c2bfac3ef964396b92f8a090b60dbb4ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
