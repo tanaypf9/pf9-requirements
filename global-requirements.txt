@@ -199,6 +199,7 @@ demjson # GNU LGPL 3.0
 discover
 django-nose
 doc8  # Apache-2.0
+docutils>=0.7
 feedparser
 fixtures>=0.3.14
 flake8==2.2.4
