@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Dean Troyer <dtroyer@gmail.com>
+Code-Review+1: Joe Gordon <joe.gordon0@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Steve Martinelli <stevemar@ca.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 19 Feb 2015 14:34:37 +0000
+Reviewed-on: https://review.openstack.org/155991
+Project: openstack/requirements
+Branch: refs/heads/master
