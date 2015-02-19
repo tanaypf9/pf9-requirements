@@ -91,6 +91,10 @@ for PROJECT in $PROJECTS ; do
     pushd $REPODIR/$SHORT_PROJECT
     if ! git diff --quiet ; then
         git commit -a -m'Update requirements'
+    else
+        echo "NO SYNC"
+        git status
+        pwd
     fi
     popd
 
