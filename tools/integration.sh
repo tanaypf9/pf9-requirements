@@ -89,8 +89,19 @@ for PROJECT in $PROJECTS ; do
     sudo chown -R $USER $REPODIR/$SHORT_PROJECT
     (cd $REPODIR/requirements && python update.py $REPODIR/$SHORT_PROJECT)
     pushd $REPODIR/$SHORT_PROJECT
+    sync
     if ! git diff --quiet ; then
         git commit -a -m'Update requirements'
+    else
+        set +e
+        echo "NO SYNC"
+        git status
+        git diff --quiet
+        echo "return code: $?"
+        git diff --exit-code
+        echo "return code: $?"
+        pwd
+        set -e
     fi
     popd
 
