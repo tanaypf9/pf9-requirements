@@ -1,0 +1,14 @@
+Verified+2: Jenkins
+Code-Review+1: Joe Gordon <joe.gordon0@gmail.com>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+1: patrick-crews <gleebix@gmail.com>
+Code-Review+1: melanie witt <melwitt@yahoo-inc.com>
+Code-Review+1: Andrew Laski <andrew.laski@rackspace.com>
+Code-Review+2: Joshua Hesketh <joshua.hesketh@rackspace.com>
+Workflow+1: Joshua Hesketh <joshua.hesketh@rackspace.com>
+Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 20 Feb 2015 02:58:32 +0000
+Reviewed-on: https://review.openstack.org/157619
+Project: openstack/requirements
+Branch: refs/heads/master
