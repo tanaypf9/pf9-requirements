@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_5555a7c4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-02-20T21:46:42Z",
+      "side": 1,
+      "message": "LGTM, fe31004d5e1d6885bb4f7f719e3d90d5e3d12082 went into 0.6.24.",
+      "revId": "604233e9fc963579486b2351dc333e2012c08b2a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
