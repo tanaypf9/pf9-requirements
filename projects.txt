@@ -90,8 +90,10 @@ openstack/tuskar
 openstack/tuskar-ui
 openstack/zaqar
 stackforge/blazar-nova
+stackforge/cue
 stackforge/octavia
 stackforge/python-blazarclient
+stackforge/python-cueclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
 stackforge/networking-ovn
