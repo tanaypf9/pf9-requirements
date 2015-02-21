@@ -84,10 +84,12 @@ openstack/zaqar
 stackforge/blazar
 stackforge/blazar-nova
 stackforge/congress
+stackforge/cue
 stackforge/nova-docker
 stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-congressclient
+stackforge/python-cueclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
 stackforge/rally
