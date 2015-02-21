@@ -87,8 +87,12 @@ for PROJECT in $PROJECTS ; do
 
     # set up the project synced with the global requirements
     sudo chown -R $USER $REPODIR/$SHORT_PROJECT
+    echo "Pre-update requirements"
+    cat $REPODIR/$SHORT_PROJECT/requirements.txt
     (cd $REPODIR/requirements && python update.py $REPODIR/$SHORT_PROJECT)
     pushd $REPODIR/$SHORT_PROJECT
+    echo "Post-update requirements"
+    cat $REPODIR/$SHORT_PROJECT/requirements.txt
     if ! git diff --quiet ; then
         git commit -a -m'Update requirements'
     fi
