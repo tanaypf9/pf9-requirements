@@ -7,6 +7,7 @@ openstack/ceilometermiddleware
 openstack/cinder
 openstack/cliff
 openstack/congress
+openstack/cue
 openstack/debtcollector
 openstack/designate
 openstack/designate-dashboard
@@ -68,6 +69,7 @@ openstack/python-barbicanclient
 openstack/python-ceilometerclient
 openstack/python-cinderclient
 openstack/python-congressclient
+openstack/python-cueclient
 openstack/python-designateclient
 openstack/python-glanceclient
 openstack/python-heatclient
