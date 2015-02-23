@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_577d846d",
+        "filename": "tools/integration.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-02-23T15:13:05Z",
+      "side": 1,
+      "message": "I think here you want to test that the project branch is the *same* stable branch as $BRANCH. That way we won\u0027t sync into the stable/juno branch for something that hasn\u0027t had a stable/kilo branch created, yet. I believe zuul (or something else in the chain) will try to check out the same branches of the projects and fall back to master when the branch doesn\u0027t exist, but I don\u0027t think we want to rely on that having happened correctly. Explicitly checking for equality here will be safer for local testing, for example.",
+      "revId": "24bfaddc74d4432916bdd098edcabf015f2c6548",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
