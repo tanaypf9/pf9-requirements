@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_004d419a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2015-02-24T22:35:11Z",
+      "side": 1,
+      "message": "heatclient already has a 0.3.0, so this shouldn\u0027t be a problem.",
+      "revId": "27e224592bee05b866c422916aab9cc6547a9d64",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_403ad9e7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2015-02-24T22:35:11Z",
+      "side": 1,
+      "message": "glanceclient already has a 0.16.0, so shouldn\u0027t be a problem.",
+      "revId": "27e224592bee05b866c422916aab9cc6547a9d64",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_e0a58d47",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2015-02-24T22:35:11Z",
+      "side": 1,
+      "message": "python-keystoneclient already has a 1.1.0 tag, so this shouldn\u0027t happen.",
+      "revId": "27e224592bee05b866c422916aab9cc6547a9d64",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
