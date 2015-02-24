@@ -16,6 +16,24 @@
       "revId": "0549e4002c8a587d4164cfee095c11434e7e2cc3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_f4a3af4c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 741
+      },
+      "writtenOn": "2015-02-24T11:01:57Z",
+      "side": 1,
+      "message": "The eventlet authors have said to \"Expect a bugfix release soon\", so yea, I think we should just block 0.17.0, and allow 0.17.1. Worse case, we have to update twice.. Which will need to happen at some point anyway with this patch!",
+      "parentUuid": "ba7be1f8_c247df49",
+      "revId": "0549e4002c8a587d4164cfee095c11434e7e2cc3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
