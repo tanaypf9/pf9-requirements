@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_c247df49",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-24T00:34:58Z",
+      "side": 1,
+      "message": "Can we just ban 0.17.0? Is a fix in place for 0.17.1?",
+      "revId": "0549e4002c8a587d4164cfee095c11434e7e2cc3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
