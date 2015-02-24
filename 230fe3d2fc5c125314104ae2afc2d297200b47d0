@@ -16,6 +16,24 @@
       "revId": "230fe3d2fc5c125314104ae2afc2d297200b47d0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_5da4b0a5",
+        "filename": "tools/integration.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-02-24T01:16:35Z",
+      "side": 1,
+      "message": "also $BRANCH",
+      "parentUuid": "ba7be1f8_5d21104c",
+      "revId": "230fe3d2fc5c125314104ae2afc2d297200b47d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
