@@ -50,6 +50,24 @@
       "revId": "27e224592bee05b866c422916aab9cc6547a9d64",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_571ffa6b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-02-25T00:22:52Z",
+      "side": 1,
+      "message": "yes this shouldn\u0027t happen, but at this point why not just be extra safe",
+      "parentUuid": "ba7be1f8_e0a58d47",
+      "revId": "27e224592bee05b866c422916aab9cc6547a9d64",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
