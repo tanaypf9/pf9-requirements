@@ -11,7 +11,6 @@ openstack/django_openstack_auth
 openstack/glance
 openstack/ha-guide
 openstack/heat
-openstack/horizon
 openstack/ironic
 openstack/ironic-python-agent
 openstack/keystone
@@ -62,7 +61,6 @@ openstack/python-novaclient
 openstack/python-openstackclient
 openstack/python-saharaclient
 openstack/python-swiftclient
-openstack/python-troveclient
 openstack/python-tuskarclient
 openstack/python-zaqarclient
 openstack/sahara
@@ -77,7 +75,6 @@ openstack/tempest
 openstack/tempest-lib
 openstack/tooz
 openstack/training-guides
-openstack/trove
 openstack/tuskar
 openstack/tuskar-ui
 openstack/zaqar
