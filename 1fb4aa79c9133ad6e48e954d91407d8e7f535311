@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba7be1f8_69e0f0cc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-03-02T01:29:21Z",
+      "side": 1,
+      "message": "nit: I think you mean python-novaclient, right?",
+      "revId": "1fb4aa79c9133ad6e48e954d91407d8e7f535311",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba7be1f8_a9eae8a9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-03-02T01:29:21Z",
+      "side": 1,
+      "message": "s/Nova/python-novaclient/",
+      "revId": "1fb4aa79c9133ad6e48e954d91407d8e7f535311",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
