@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Workflow+1: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: patrick-crews <gleebix@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Mar 2015 10:53:18 +0000
+Reviewed-on: https://review.openstack.org/157566
+Project: openstack/requirements
+Branch: refs/heads/master
