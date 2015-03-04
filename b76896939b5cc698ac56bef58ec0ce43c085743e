@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_35821353",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 11356
+      },
+      "writtenOn": "2015-03-04T13:02:09Z",
+      "side": 1,
+      "message": "`# MIT License` seems to be more common on the other MIT requirements.",
+      "revId": "b76896939b5cc698ac56bef58ec0ce43c085743e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
