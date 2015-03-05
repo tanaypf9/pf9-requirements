@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+1: nikhil komawar <nikhil.komawar@rackspace.com>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Workflow+1: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Louis Taylor <louis@kragniz.eu>
+Code-Review+1: Mike Fedosin <mfedosin@mirantis.com>
+Code-Review+1: Pawel Koniszewski <pawel.koniszewski@intel.com>
+Code-Review+1: Inessa Vasilevskaya <ivasilevskaya@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 05 Mar 2015 17:05:32 +0000
+Reviewed-on: https://review.openstack.org/151466
+Project: openstack/requirements
+Branch: refs/heads/master
