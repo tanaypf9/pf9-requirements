@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_4a43e641",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-03-06T14:59:17Z",
+      "side": 1,
+      "message": "This patch only modifies project.txt. Did you miss a change in the commit, or is the message out of date?",
+      "revId": "35ce8b7669ab5a92d6e366d88f298caa633c9605",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
