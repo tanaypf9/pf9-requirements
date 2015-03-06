@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_aa8b8266",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-03-06T15:01:46Z",
+      "side": 1,
+      "message": "PrettyTable is here.",
+      "revId": "7274e9fc2dbfb91f0f7aeede95a9a8ad836436b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
