@@ -16,6 +16,24 @@
       "revId": "35ce8b7669ab5a92d6e366d88f298caa633c9605",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a80dd14_320b6d8f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 10574
+      },
+      "writtenOn": "2015-03-07T07:20:15Z",
+      "side": 1,
+      "message": "Sorry, The commit message is out of sync. \ni will update the commit message again.",
+      "parentUuid": "9a80dd14_4a43e641",
+      "revId": "35ce8b7669ab5a92d6e366d88f298caa633c9605",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
