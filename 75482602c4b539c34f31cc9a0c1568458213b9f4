@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_05299c36",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-03-09T17:58:10Z",
+      "side": 1,
+      "message": "not sure but I think the behavior of\n\nfoo~\u003d1.1.0 is different then foo~\u003d1.1\n\nI think the latter allows for 1.2 to patch",
+      "revId": "75482602c4b539c34f31cc9a0c1568458213b9f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
