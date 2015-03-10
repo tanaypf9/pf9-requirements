@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_909d955c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1849
+      },
+      "writtenOn": "2015-03-10T16:19:25Z",
+      "side": 1,
+      "message": "Typo in Typo",
+      "revId": "92414c257f8ed43930cd04e0bc65f0369dd128cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
