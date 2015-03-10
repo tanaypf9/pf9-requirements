@@ -16,6 +16,24 @@
       "revId": "75482602c4b539c34f31cc9a0c1568458213b9f4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a80dd14_212582ae",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 12000
+      },
+      "writtenOn": "2015-03-10T15:37:37Z",
+      "side": 1,
+      "message": "Joe is correct: https://www.python.org/dev/peps/pep-0440/#compatible-release",
+      "parentUuid": "9a80dd14_05299c36",
+      "revId": "75482602c4b539c34f31cc9a0c1568458213b9f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
