@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_8f9ffd02",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 233,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2015-03-11T16:23:26Z",
+      "side": 1,
+      "message": "It sounds like pep8 is pinned to a specific version, so it might make sense to pin pylint to a specific version too. Whether that is 1.4.1 or any other, I am not sure, but I can certainly see the justification behind this patch.",
+      "revId": "d77f326a185458406518081123bcec73d35ac737",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
