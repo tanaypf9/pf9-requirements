@@ -164,6 +164,7 @@ tooz>=0.3 # Apache-2.0
 tripleo-image-elements
 urllib3>=1.8.3
 warlock>=1.0.1,<2
+weasyprint>=0.23
 WebOb>=1.2.3
 websockify>=0.6.0,<0.7
 wheel
