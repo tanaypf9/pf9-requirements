@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_3f9912d1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 7262
+      },
+      "writtenOn": "2015-03-16T21:17:20Z",
+      "side": 1,
+      "message": "I think you meant to do:\n\n    pykmip\u003e\u003d0.3.0,\u003c0.4.0\n\nThat should allow for patches for 0.3.x",
+      "revId": "bdb5cc0e02eda1ebda9c361bc53b7649e06474c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
