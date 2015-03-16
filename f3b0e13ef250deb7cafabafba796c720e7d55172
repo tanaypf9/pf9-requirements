@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_ed08d32e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6802
+      },
+      "writtenOn": "2015-03-16T12:51:03Z",
+      "side": 1,
+      "message": "Please identify why this version is needed -- i.e., what is in version 0.3.0 that warrants the change.",
+      "revId": "f3b0e13ef250deb7cafabafba796c720e7d55172",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
