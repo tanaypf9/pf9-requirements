@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a80dd14_ed3b4fc6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 8119
+      },
+      "writtenOn": "2015-03-17T00:29:05Z",
+      "side": 1,
+      "message": "I had an existing patch (https://review.openstack.org/#/c/164289/) to bump the version to 0.8.  Any reason we can\u0027t go to 0.8 instead of 0.7?  I ask because https://review.openstack.org/#/c/163088/ depends on 0.8 for the private_bytes() function of rsa keys.",
+      "revId": "30a65142ae4d6a0485475a2fe4e4bfca6bf239c5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
