@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Evgeniy Afonichev <evgeniy@afonichev.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 20 Mar 2015 13:42:00 +0000
+Reviewed-on: https://review.openstack.org/123995
+Project: openstack/requirements
+Branch: refs/heads/master
