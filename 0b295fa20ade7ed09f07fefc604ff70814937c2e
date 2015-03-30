@@ -16,6 +16,24 @@
       "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_98ef56b0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11279
+      },
+      "writtenOn": "2015-03-30T07:32:37Z",
+      "side": 1,
+      "message": "Yes, sorry that was a bit vague.\n\nObviously it\u0027s highly relevant to neutron.  Most immediately, I\u0027m using it in https://review.openstack.org/#/c/155631, although that specific change is still largely exploratory and has no formal blueprint as yet.\n\nRe dependency freeze: Yep - the above change is intended for Liberty (at best), I was just looking to have my jenkins tests pass so I can usefully continue development and review.  Does adding a new library to global-requirements automatically affect any existing projects, or only if those projects also explicitly add the new requirement?",
+      "parentUuid": "da9b358b_d83efeb7",
+      "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
