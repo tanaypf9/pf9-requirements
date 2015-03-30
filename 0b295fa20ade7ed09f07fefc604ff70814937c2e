@@ -34,6 +34,24 @@
       "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da9b358b_c9774001",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-03-30T14:37:03Z",
+      "side": 1,
+      "message": "Adding a new req to g-r just makes it possible to also have it in your neutron change, otherwise jenkins complains that the new req isn\u0027t in g-r.",
+      "parentUuid": "da9b358b_98ef56b0",
+      "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
