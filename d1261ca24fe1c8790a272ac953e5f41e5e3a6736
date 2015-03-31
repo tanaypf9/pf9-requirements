@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da9b358b_93ab8c1d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2015-03-31T05:49:36Z",
+      "side": 1,
+      "message": "1.0.2.1 doesn\u0027t seem available.\nshouldn\u0027t we bump to 1.0.2.2?\n\nhttps://pypi.python.org/pypi/XStatic-Angular-lrdragndrop/1.0.2.1\nhttps://pypi.python.org/pypi/XStatic-Angular-lrdragndrop/1.0.2.2",
+      "revId": "d1261ca24fe1c8790a272ac953e5f41e5e3a6736",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
