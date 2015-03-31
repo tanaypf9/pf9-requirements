@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "da9b358b_aecd035f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2015-03-31T06:18:32Z",
+      "side": 1,
+      "message": "there\u0027s a horizon bug #1438502",
+      "revId": "d1261ca24fe1c8790a272ac953e5f41e5e3a6736",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "da9b358b_93ab8c1d",
         "filename": "global-requirements.txt",
         "patchSetId": 3
