@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_86202e4b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2537
+      },
+      "writtenOn": "2015-04-01T14:10:11Z",
+      "side": 1,
+      "message": "Hey, I think 0.1.12 may not be stable in some cases.\n\nhttps://bugs.launchpad.net/glance-store/+bug/1428099",
+      "revId": "62c4afdd43924939eb57397ad4e3bb1f80150853",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
