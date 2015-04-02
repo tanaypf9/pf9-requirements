@@ -79,6 +79,7 @@ os-cloud-config
 os-collect-config
 os-net-config
 os-refresh-config
+os-testr
 paramiko>=1.13.0
 passlib
 Paste
