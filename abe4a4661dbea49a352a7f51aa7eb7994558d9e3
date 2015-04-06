@@ -33,6 +33,24 @@
       "revId": "abe4a4661dbea49a352a7f51aa7eb7994558d9e3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_b54ac4aa",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 13478
+      },
+      "writtenOn": "2015-04-06T03:33:40Z",
+      "side": 1,
+      "message": "it took a couple of years to release 1.54. If it will take a couple of years to release 1.55, kilo will not be supported by that time and it won\u0027t be easy to blacklist 1.55.",
+      "parentUuid": "baa041b7_55e818b4",
+      "revId": "abe4a4661dbea49a352a7f51aa7eb7994558d9e3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
