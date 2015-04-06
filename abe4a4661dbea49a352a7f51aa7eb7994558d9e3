@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_15d3b005",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2015-04-06T03:01:55Z",
+      "side": 1,
+      "message": "i don\u0027t think these changes are necessary, we can use git blame to determine why python-memcached will be changed.",
+      "revId": "abe4a4661dbea49a352a7f51aa7eb7994558d9e3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baa041b7_55e818b4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2015-04-06T03:01:55Z",
+      "side": 1,
+      "message": "maybe use !\u003d1.54 instead? this way if 1.55 is released, then we it\u0027ll be used.",
+      "revId": "abe4a4661dbea49a352a7f51aa7eb7994558d9e3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
