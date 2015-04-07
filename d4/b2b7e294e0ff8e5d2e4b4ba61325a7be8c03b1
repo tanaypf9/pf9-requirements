@@ -1,0 +1,12 @@
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Hirofumi Ichihara <ichihara.hirofumi@lab.ntt.co.jp>
+Code-Review+1: Adam Harwell <flux.adam@gmail.com>
+Code-Review+1: Louis Taylor <louis@kragniz.eu>
+Submitted-by: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-at: Tue, 07 Apr 2015 11:42:11 +0000
+Reviewed-on: https://review.openstack.org/171070
+Project: openstack/requirements
+Branch: refs/heads/stable/juno
