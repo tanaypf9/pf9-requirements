@@ -1,0 +1,23 @@
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Isaku Yamahata <yamahata.review@gmail.com>
+Code-Review-1: Julien Danjou <julien@danjou.info>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Verified+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Elena Ezhova <eezhova@mirantis.com>
+Code-Review+1: Sergey Skripnick <sskripnick@mirantis.com>
+Code-Review+1: Ethan Lynn <xuanlangjian@gmail.com>
+Code-Review+1: Victor Sergeyev <vsergeyev@mirantis.com>
+Code-Review+1: Hirofumi Ichihara <ichihara.hirofumi@lab.ntt.co.jp>
+Code-Review+1: Masahito Muroi <muroi.masahito@lab.ntt.co.jp>
+Code-Review-1: Victor Stinner <vstinner@redhat.com>
+Code-Review+1: Andrey Pavlov <apavlov@cloudscaling.com>
+Code-Review+1: Adam Harwell <flux.adam@gmail.com>
+Code-Review+1: Louis Taylor <louis@kragniz.eu>
+Code-Review+1: Motohiro/Yuanying Otsuka <mot-ootsuka@wh.jp.nec.com>
+Code-Review+1: YAMADA Hideki <yamada.hideki@lab.ntt.co.jp>
+Submitted-by: Jeremy Stanley <fungi@yuggoth.org>
+Submitted-at: Tue, 07 Apr 2015 11:42:32 +0000
+Reviewed-on: https://review.openstack.org/171060
+Project: openstack/requirements
+Branch: refs/heads/master
