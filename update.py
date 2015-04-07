@@ -26,12 +26,11 @@ updated to match the global requirements. Requirements not in the global
 files will be dropped.
 """
 
+import pkg_resources
 import optparse
 import os
 import os.path
 import sys
-
-from pip import req
 
 
 _setup_py_text = """#!/usr/bin/env python
@@ -59,17 +58,10 @@ setuptools.setup(
 """
 
 
-def _parse_pip(pip):
-
-    install_require = req.InstallRequirement.from_line(pip)
-    if install_require.editable:
-        return pip
-    elif hasattr(install_require, "url") and install_require.url:
-        return pip
-    elif hasattr(install_require, "link") and install_require.link:
-        return pip
-    else:
-        return install_require.req.key
+def _package_name(pip_line):
+    name = pkg_resources.Requirement.parse(pip_line).project_name
+    print("%s => %s" % (pip_line, name))
+    return name
 
 
 def _pass_through(pip):
@@ -99,7 +91,7 @@ def _parse_reqs(filename):
         pip = pip.strip()
         if _pass_through(pip):
             continue
-        reqs[_parse_pip(pip)] = pip
+        reqs[_package_name(pip)] = pip
     return reqs
 
 
