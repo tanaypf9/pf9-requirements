@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa53dc9_4487a00f",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 333
+      },
+      "writtenOn": "2015-04-07T08:07:22Z",
+      "side": 1,
+      "message": "elif getattr(install_require, \"url\", None):",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa53dc9_a48f8c22",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 333
+      },
+      "writtenOn": "2015-04-07T08:07:22Z",
+      "side": 1,
+      "message": "elfi getattr(install_require, \"link\", None):",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
