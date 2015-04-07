@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "9aa53dc9_4a17a751",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 7369
+      },
+      "writtenOn": "2015-04-07T09:18:41Z",
+      "side": 1,
+      "message": "Oh, sorry, didnt see you change hasattr -\u003e getattr.",
+      "parentUuid": "9aa53dc9_2a5fc342",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa53dc9_a48f8c22",
         "filename": "update.py",
         "patchSetId": 3
