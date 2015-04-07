@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9aa53dc9_2a5fc342",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 7369
+      },
+      "writtenOn": "2015-04-07T09:15:10Z",
+      "side": 1,
+      "message": "\u003e\u003e\u003e\n \u003e\u003e\u003e hasattr(object(), \"attr\", None)\n Traceback (most recent call last):\n   File \"\u003cstdin\u003e\", line 1, in \u003cmodule\u003e\n TypeError: hasattr expected 2 arguments, got 3\n \u003e\u003e\u003e",
+      "parentUuid": "9aa53dc9_4487a00f",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa53dc9_a48f8c22",
         "filename": "update.py",
         "patchSetId": 3
