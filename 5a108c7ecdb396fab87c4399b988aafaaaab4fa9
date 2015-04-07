@@ -55,6 +55,23 @@
     },
     {
       "key": {
+        "uuid": "9aa53dc9_f5fc1c40",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2015-04-07T09:36:32Z",
+      "side": 1,
+      "message": "You may mention that InstallRequirement.url existed in pip \u003c 6.1, and it was replaced with InstallRequirement.link.url.",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9aa53dc9_a48f8c22",
         "filename": "update.py",
         "patchSetId": 3
