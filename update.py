@@ -98,7 +98,7 @@ def _parse_pip(pip):
     install_require = req.InstallRequirement.from_line(pip)
     if install_require.editable:
         return pip
-    elif install_require.url:
+    elif install_require.link:
         return pip
     else:
         return install_require.req.key
