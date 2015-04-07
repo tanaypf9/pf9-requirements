@@ -86,6 +86,23 @@
       "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa53dc9_78091c95",
+        "filename": "update.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2015-04-07T11:41:56Z",
+      "side": 1,
+      "message": "Bad luck. pip 6.1.1 was just released with an \"url\" property, but the property has a bug. It raises an AttributeError if the link attribute is None.\n\nSo you must test the link attribute *before* testing the url attribute to support pip \u003c 6.1, pip 6.1.0 and pip 6.1.1.",
+      "revId": "5a108c7ecdb396fab87c4399b988aafaaaab4fa9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
