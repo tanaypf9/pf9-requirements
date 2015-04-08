@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa53dc9_54a01c43",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 11861
+      },
+      "writtenOn": "2015-04-08T18:53:51Z",
+      "side": 1,
+      "message": "When I brought this up in infra before, folks were pretty insistent on having a pinned version here: ie. bandit\u003d\u003d0.10.0.  This way changes in Bandit (new tests etc) don\u0027t introduce unexpected behavior.",
+      "revId": "49a512b83977043f0701371fa237ec553403d7fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
