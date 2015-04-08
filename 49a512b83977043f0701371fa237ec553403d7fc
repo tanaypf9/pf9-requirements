@@ -16,6 +16,24 @@
       "revId": "49a512b83977043f0701371fa237ec553403d7fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aa53dc9_b402c809",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 8119
+      },
+      "writtenOn": "2015-04-08T18:59:05Z",
+      "side": 1,
+      "message": "Good point.  I\u0027ll pin it.",
+      "parentUuid": "9aa53dc9_54a01c43",
+      "revId": "49a512b83977043f0701371fa237ec553403d7fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
