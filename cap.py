@@ -25,6 +25,8 @@ overrides['suds'] = 'suds==0.4'
 overrides['libvirt-python'] = None
 # Possible issue, use kombu 3.0.7 vs 3.0.24 ? grenade uses 3.0.7 tempest 3.0.24
 overrides['kombu'] = 'kombu>=2.5.0,<=3.0.7'  # grenade version.
+# apt package of python-qpid is lower then the minimum version from PyPI
+overrides['qpid-python'] = 'qpid-python<=0.26'
 
 
 def cap(requirements, frozen):
