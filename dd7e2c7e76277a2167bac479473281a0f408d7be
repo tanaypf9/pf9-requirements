@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9aa53dc9_b4f055fe",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-04-09T21:03:05Z",
+      "side": 1,
+      "message": "Closes-Bug: #1442367",
+      "revId": "dd7e2c7e76277a2167bac479473281a0f408d7be",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
