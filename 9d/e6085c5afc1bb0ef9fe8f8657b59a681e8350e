@@ -1,0 +1,14 @@
+Verified+2: Jenkins
+Code-Review+1: Dolph Mathews <dolph.mathews@gmail.com>
+Code-Review+2: Julien Danjou <julien@danjou.info>
+Workflow+1: Julien Danjou <julien@danjou.info>
+Code-Review+1: Lin Hua Cheng <os.lcheng@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Flavio Percoco <fpercoco@redhat.com>
+Code-Review+1: gordon chung <gord@live.ca>
+Code-Review+1: Ildiko Vancsa <ildiko.vancsa@ericsson.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Apr 2015 16:12:43 +0000
+Reviewed-on: https://review.openstack.org/171438
+Project: openstack/requirements
+Branch: refs/heads/master
