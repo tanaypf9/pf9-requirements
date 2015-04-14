@@ -1,12 +1,12 @@
 openstack-dev/hacking
-openstack/api-site
+openstack/api-site soft
 openstack/barbican
 openstack/ceilometer
 openstack/cinder
 openstack/designate
 openstack/diskimage-builder
 openstack/glance
-openstack/ha-guide
+openstack/ha-guide soft
 openstack/heat
 openstack/horizon
 openstack/ironic
@@ -20,8 +20,8 @@ openstack/neutron-lbaas
 openstack/neutron-vpnaas
 openstack/nova
 openstack/openstack-doc-tools
-openstack/openstack-manuals
-openstack/operations-guide
+openstack/openstack-manuals soft
+openstack/operations-guide soft
 openstack/os-apply-config
 openstack/os-cloud-config
 openstack/os-collect-config
@@ -31,11 +31,11 @@ openstack/sahara
 openstack/sahara-dashboard
 openstack/sahara-extra
 openstack/sahara-image-elements
-openstack/security-doc
+openstack/security-doc soft
 openstack/swift
 openstack/tempest
 openstack/tempest-lib
-openstack/training-guides
+openstack/training-guides soft
 openstack/trove
 openstack/tuskar
 openstack/tuskar-ui
