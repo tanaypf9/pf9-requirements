@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Takashi NATSUME <natsume.takashi@lab.ntt.co.jp>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: greghaynes <greg@greghaynes.net>
+Code-Review+1: Jens Rosenboom <j.rosenboom@x-ion.de>
+Submitted-by: Jenkins
+Submitted-at: Mon, 20 Apr 2015 18:58:24 +0000
+Reviewed-on: https://review.openstack.org/175234
+Project: openstack/requirements
+Branch: refs/heads/stable/icehouse
