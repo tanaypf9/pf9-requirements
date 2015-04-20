@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_fbbe62d3",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 10035
+      },
+      "writtenOn": "2015-04-20T02:45:11Z",
+      "side": 1,
+      "message": "I\u0027m wondering if you want to change this to a \u003c0.12.0 (rather than \u003c\u003d) so we can allow post versions but not accept a 0.12.0 version.",
+      "revId": "f0ef3745946108c849d89f0d2ea45de979754c47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
