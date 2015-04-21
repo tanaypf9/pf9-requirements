@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_46a517a0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2015-04-21T23:37:22Z",
+      "side": 1,
+      "message": "docker-py claims to need \u003e\u003d2.5.2 why are we not using that version instead?",
+      "revId": "caed2838b8eeb7b85d5b1f5160e31f89026a9a85",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
