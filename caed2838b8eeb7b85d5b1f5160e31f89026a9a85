@@ -16,6 +16,24 @@
       "revId": "caed2838b8eeb7b85d5b1f5160e31f89026a9a85",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dac4157f_0695dfdc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 7049
+      },
+      "writtenOn": "2015-04-21T23:53:00Z",
+      "side": 1,
+      "message": "Hi, @Clark, yes, it used such version, becasue when that version released, its known version is 2.5.2.\n\nWe can use such version instead. I am thinking as requests relase 2.6.0 fixed many bugs, Why we not jump such version ?\n\n(my fixes based on I truest gate job verify, if new version works for all projects, it is not bad idea to apply new versions)",
+      "parentUuid": "dac4157f_46a517a0",
+      "revId": "caed2838b8eeb7b85d5b1f5160e31f89026a9a85",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
