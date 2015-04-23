@@ -16,6 +16,24 @@
       "revId": "f8ba2972d7f7c74d76eeb5fae8b7b78c380a412e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab921fb_00429f3e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 8119
+      },
+      "writtenOn": "2015-04-23T16:08:19Z",
+      "side": 1,
+      "message": "It was added as a pin so that any new version of Bandit uploaded to PyPi doesn\u0027t break projects due to it adding more security checks (or changing an exist check).   \n\nOtherwise, everyone who uses Bandit will need to maintain a white-list of approved security checks so that newly introduced ones don\u0027t break them.",
+      "parentUuid": "bab921fb_c5c4b941",
+      "revId": "f8ba2972d7f7c74d76eeb5fae8b7b78c380a412e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
