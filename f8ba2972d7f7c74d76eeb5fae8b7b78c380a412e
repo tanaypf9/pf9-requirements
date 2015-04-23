@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab921fb_c5c4b941",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-04-23T15:57:48Z",
+      "side": 1,
+      "message": "I\u0027m concerned about this being a pin, what\u0027s bandit\u0027s compatibility story",
+      "revId": "f8ba2972d7f7c74d76eeb5fae8b7b78c380a412e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
