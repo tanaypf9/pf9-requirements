@@ -164,8 +164,9 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path,
             old_pip = _package_name(old_require)
 
             # Special cases:
-            # projects need to align hacking version on their own time
-            if "hacking" in old_pip:
+            # projects need to align hacking and bandit version on their own
+            # time
+            if "hacking" in old_pip or "bandit" in old_pip:
                 new_reqs.write(old_line)
                 continue
 
