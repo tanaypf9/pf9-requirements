@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab921fb_77456315",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 277,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-04-24T13:49:03Z",
+      "side": 1,
+      "message": "note, this is bumped to 1.4.1 because that\u0027s what was requested by the neutron team in another review. Might as well do this together here.",
+      "revId": "dbe2abb5b8407a71ba66fe3335dadce8b310fc80",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
