@@ -16,6 +16,24 @@
       "revId": "b422a181772b4ff0dbac5140ed23b58ec7f349ed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ad32947_969d0c5c",
+        "filename": "projects.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5196
+      },
+      "writtenOn": "2015-04-27T13:42:06Z",
+      "side": 1,
+      "message": "Not really. I thinking we would would drop the local requirements in projects\u0027 test-requirements for testrepository and subunit and just use os-testr to manage that. So I thought it might have been a good idea to sync it. But, I\u0027d be happy enough not to worry about it. I\u0027ll respin it shortly.",
+      "parentUuid": "9abe1de1_40aaff71",
+      "revId": "b422a181772b4ff0dbac5140ed23b58ec7f349ed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
