@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ad32947_a2f8b37d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6456
+      },
+      "writtenOn": "2015-04-27T19:11:36Z",
+      "side": 1,
+      "message": "wll - typo .. if you need to upload a new patch please fix. Thanks!",
+      "revId": "843eb4e03a39224f587557ebc20f2c6028a48f32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
