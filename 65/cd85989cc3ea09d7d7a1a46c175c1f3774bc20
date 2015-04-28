@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Joe Gordon <joe.gordon0@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+1: Andrey Pavlov <apavlov@cloudscaling.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 28 Apr 2015 18:36:41 +0000
+Reviewed-on: https://review.openstack.org/177306
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
