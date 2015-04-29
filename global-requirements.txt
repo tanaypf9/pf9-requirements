@@ -202,7 +202,7 @@ bashate>=0.2 # Apache-2.0
 cliff-tablib>=1.0
 coverage>=3.6
 demjson # GNU LGPL 3.0
-discover
+discover # Required for python26 testing
 django-nose
 doc8  # Apache-2.0
 feedparser
