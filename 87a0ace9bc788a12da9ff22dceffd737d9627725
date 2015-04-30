@@ -16,6 +16,24 @@
       "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3acd31a7_1652db67",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 8119
+      },
+      "writtenOn": "2015-04-30T21:29:58Z",
+      "side": 1,
+      "message": "The same question has come up from several reviewers.  Yes, if the version is bumped it has the potential to fail projects.  So pinning it makes it less disruptive.",
+      "parentUuid": "3acd31a7_b679e7fe",
+      "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
