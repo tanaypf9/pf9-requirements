@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3acd31a7_d690e3ee",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 205,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-04-30T21:32:24Z",
+      "side": 1,
+      "message": "This is false, we use testtools which uses unittest2 which includes discover internally. There should be no need for discover at all.",
+      "revId": "28e2bee0a9705f23aa4e671affee6f613c943866",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
