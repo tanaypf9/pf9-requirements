@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3acd31a7_b679e7fe",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-04-30T21:26:57Z",
+      "side": 1,
+      "message": "Are you saying bandit isn\u0027t going to have backwards compatibility? It looks like bandit is part API and part CLI.\n\nIf bandit like e.g. flake8 will immediately make projects fail when it\u0027s version is bumped, then I suppose it needs to be here, but it would be nice if it was less disruptive to work with somehow.",
+      "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
