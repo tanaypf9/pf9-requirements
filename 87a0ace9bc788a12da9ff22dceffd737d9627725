@@ -52,6 +52,24 @@
       "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3acd31a7_a85a9128",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 11861
+      },
+      "writtenOn": "2015-05-01T19:59:28Z",
+      "side": 1,
+      "message": "IMO a version pin should actually not be required.  Each project that is using Bandit maintains a configuration file that they use with it.  This configuration file explicitly lists which tests should be run.  \n\nWhen a new version of Bandit which contains new tests is released, these tests will not be picked up automatically in gate tests unless the projects explicitly update their profiles as well.\n\nWe should be fine with simply listing \"bandit\".",
+      "parentUuid": "3acd31a7_961b841b",
+      "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
