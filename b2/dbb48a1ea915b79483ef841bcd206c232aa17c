@@ -1,0 +1,12 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Joe Gordon <joe.gordon0@gmail.com>
+Code-Review+1: lifeless <robertc@robertcollins.net>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Thomas Goirand <thomas@goirand.fr>
+Submitted-by: Jenkins
+Submitted-at: Fri, 01 May 2015 20:07:14 +0000
+Reviewed-on: https://review.openstack.org/177266
+Project: openstack/requirements
+Branch: refs/heads/master
