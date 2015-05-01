@@ -34,6 +34,24 @@
       "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3acd31a7_961b841b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 272,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-05-01T04:03:16Z",
+      "side": 1,
+      "message": "Ok, so I don\u0027t mean to sidetrack this review, but perhaps in a future iteration of bandit you could do something more graceful.\n\nFor instance, taking a leaf from debhelper:\n - define a bandit-version (read from tox.ini or wherever you store config)\n - make all new checks, power-ups on existing checks consult bandit-version.\n   If the user configured version is \u003c the version the check was added or enhanced in, then warn rather than error.\n\nThat would let projects run with latest bandit, fix issues and upgrade their version as they eliminate particular warnings, without needing a super coordinated thing like this will require.",
+      "parentUuid": "3acd31a7_1652db67",
+      "revId": "87a0ace9bc788a12da9ff22dceffd737d9627725",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
