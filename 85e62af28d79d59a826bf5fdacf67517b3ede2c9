@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3acd31a7_c6eec0b3",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2015-05-04T14:27:06Z",
+      "side": 1,
+      "message": "also put the license. It\u0027s # GPL",
+      "revId": "85e62af28d79d59a826bf5fdacf67517b3ede2c9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
