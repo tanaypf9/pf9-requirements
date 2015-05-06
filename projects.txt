@@ -89,5 +89,7 @@ stackforge/blazar-nova
 stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
+stackforge/python-senlinclient
 stackforge/python-solumclient
 stackforge/networking-ovn
+stackforge/senlin
