@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Matthias Runge <mrunge@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 06 May 2015 03:15:38 +0000
+Reviewed-on: https://review.openstack.org/151186
+Project: openstack/requirements
+Branch: refs/heads/master
