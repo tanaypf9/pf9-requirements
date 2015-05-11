@@ -1,0 +1,14 @@
+Code-Review+1: Dmitry Tantsur <divius.inside@gmail.com>
+Code-Review+1: Brad P. Crochet <brad@redhat.com>
+Code-Review+1: Ana Krivokapic <akrivoka@redhat.com>
+Code-Review+1: Jiri Tomasek <jtomasek@redhat.com>
+Code-Review+1: SHIGEMATSU Mitsuhiro <shigematsu.mitsuhiro@lab.ntt.co.jp>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 11 May 2015 14:23:49 +0000
+Reviewed-on: https://review.openstack.org/158210
+Project: openstack/requirements
+Branch: refs/heads/master
