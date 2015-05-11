@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9af37de9_501d38bc",
+        "filename": "tools/integration.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-05-11T11:16:01Z",
+      "side": 1,
+      "message": "Unless you changed something else, this doesn\u0027t do what you think. The failure for pip to build a wheel I believe stops all subsequent builds as well. That was the reason this was previously in a for loop.",
+      "revId": "020073faee380be9154ce6eeb120fdfa41d06a5d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
