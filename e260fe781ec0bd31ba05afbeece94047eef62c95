@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a0c5dc1_569f2850",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1736
+      },
+      "writtenOn": "2015-05-13T17:23:38Z",
+      "side": 1,
+      "message": "IMO, os-brick\u003c0.2 or even \u003c1.0 will be better to have tested new versions once they will be released. We could skip any version in a future if it will break anything.",
+      "revId": "e260fe781ec0bd31ba05afbeece94047eef62c95",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
