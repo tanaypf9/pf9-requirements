@@ -92,7 +92,7 @@ python-openstackclient>=0.3.0,<0.5
 python-saharaclient>=0.6.0,<0.8
 python-swiftclient>=1.6,<=2.3.1
 python-troveclient>=1.0.3,<=1.0.8
-pytz>=2010h,<=2015.2
+pytz>=2010h
 pyudev
 PyYAML>=3.1.0,<=3.11
 qpid-python
