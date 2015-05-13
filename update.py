@@ -137,7 +137,7 @@ def _parse_reqs(filename):
     return reqs
 
 
-def _sync_requirements_file(source_reqs, dev_reqs, dest_path,
+def _sync_requirements_file(source_reqs, dest_path,
                             suffix, softupdate):
     dest_reqs = _readlines(dest_path)
     changes = []
@@ -170,11 +170,7 @@ def _sync_requirements_file(source_reqs, dev_reqs, dest_path,
                 continue
 
             if old_pip in source_reqs:
-                # allow it to be in dev-requirements
-                if ((old_pip in dev_reqs) and (
-                        old_require == dev_reqs[old_pip])):
-                    new_reqs.write("%s\n" % dev_reqs[old_pip])
-                elif _functionally_equal(old_require, source_reqs[old_pip]):
+                if _functionally_equal(old_require, source_reqs[old_pip]):
                     new_reqs.write(old_line)
                 else:
                     changes.append(
@@ -213,7 +209,6 @@ def _copy_requires(suffix, softupdate, dest_dir):
     """Copy requirements files."""
 
     source_reqs = _parse_reqs('global-requirements.txt')
-    dev_reqs = _parse_reqs('dev-requirements.txt')
 
     target_files = [
         'requirements.txt', 'tools/pip-requires',
@@ -226,7 +221,7 @@ def _copy_requires(suffix, softupdate, dest_dir):
     for dest in target_files:
         dest_path = os.path.join(dest_dir, dest)
         if os.path.exists(dest_path):
-            _sync_requirements_file(source_reqs, dev_reqs, dest_path,
+            _sync_requirements_file(source_reqs, dest_path,
                                     suffix, softupdate)
 
 
