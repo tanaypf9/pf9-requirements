@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Michael Davies <michael@the-davies.net>
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 May 2015 16:30:10 +0000
+Reviewed-on: https://review.openstack.org/182061
+Project: openstack/requirements
+Branch: refs/heads/master
