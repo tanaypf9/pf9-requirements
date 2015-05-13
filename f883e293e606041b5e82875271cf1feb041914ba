@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a0c5dc1_91c9377b",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2015-05-13T13:57:24Z",
+      "side": 0,
+      "message": "Why do you kill ha-guide here?",
+      "revId": "f883e293e606041b5e82875271cf1feb041914ba",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
