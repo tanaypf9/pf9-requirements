@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a0c5dc1_3effe6ab",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-05-13T19:28:56Z",
+      "side": 1,
+      "message": "this should be \u003c0.7.0 if you want to get 0.6 in stable/kilo",
+      "revId": "450f631c0ac8476e59987c8605f88aa9b45f3d75",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
