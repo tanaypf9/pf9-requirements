@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Code-Review+1: Terry Howe <terrylhowe@gmail.com>
+Code-Review+1: John L. Villalovos <john.l.villalovos@intel.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 14 May 2015 00:04:49 +0000
+Reviewed-on: https://review.openstack.org/182340
+Project: openstack/requirements
+Branch: refs/heads/master
