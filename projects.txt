@@ -86,6 +86,7 @@ openstack/tuskar-ui
 openstack/zaqar
 stackforge/blazar
 stackforge/blazar-nova
+stackforge/nova-docker
 stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
