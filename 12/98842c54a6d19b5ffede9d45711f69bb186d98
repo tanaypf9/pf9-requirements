@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+1: Russell Bryant <rbryant@redhat.com>
+Code-Review+2: Ghe Rivero <ghe.rivero@gmail.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Submitted-by: Jenkins
+Submitted-at: Sat, 23 May 2015 18:22:37 +0000
+Reviewed-on: https://review.openstack.org/184528
+Project: openstack/requirements
+Branch: refs/heads/master
