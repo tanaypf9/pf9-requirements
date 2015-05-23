@@ -19,6 +19,7 @@ openstack/keystone
 openstack/keystonemiddleware
 openstack/magnum
 openstack/manila
+openstack/networking-ovn
 openstack/neutron
 openstack/neutron-fwaas
 openstack/neutron-lbaas
@@ -90,4 +91,3 @@ stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
-stackforge/networking-ovn
