@@ -16,6 +16,24 @@
       "revId": "7516149e0cf245a46fc0ef88ccb4616e5b769ccd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_852a35e6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 8623
+      },
+      "writtenOn": "2015-05-26T20:48:01Z",
+      "side": 1,
+      "message": "Matt, in the future, Castellan will be used to replace the basic key manager interfaces in Nova and Cinder (original key manager interfaces were merged https://review.openstack.org/#/c/30973/ and https://review.openstack.org/#/c/39292/).  Once Castellan is in global requirements, other projects may use it as a key manager interface for use for encryption.  Other projects that have expressed interest are Sahara and Swift.",
+      "parentUuid": "7a016987_beefe61c",
+      "revId": "7516149e0cf245a46fc0ef88ccb4616e5b769ccd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
