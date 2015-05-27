@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review-1: garyk <gkotton@vmware.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review-1: Qin Zhao <chaochin@gmail.com>
+Code-Review+1: Alexis Lee <lxsli@hp.com>
+Code-Review-1: Vipin Balachandran <vbala@vmware.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 27 May 2015 18:10:47 +0000
+Reviewed-on: https://review.openstack.org/185748
+Project: openstack/requirements
+Branch: refs/heads/master
