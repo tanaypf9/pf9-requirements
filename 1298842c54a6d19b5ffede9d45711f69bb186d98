@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_f71a917b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-05-27T20:55:29Z",
+      "side": 0,
+      "message": "not sure why there is this unrelated whitespace change",
+      "revId": "1298842c54a6d19b5ffede9d45711f69bb186d98",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

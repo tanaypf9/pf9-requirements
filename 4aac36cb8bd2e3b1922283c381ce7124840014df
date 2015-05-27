@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_12ff7b02",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-05-27T20:55:29Z",
+      "side": 1,
+      "message": "You\u0027re going to have to raise the min here since this version still uses suds:\n\nhttps://github.com/openstack/oslo.vmware/blob/0.11.1/requirements.txt#L24",
+      "revId": "4aac36cb8bd2e3b1922283c381ce7124840014df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
