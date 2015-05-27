@@ -61,6 +61,7 @@ openstack/stevedore
 openstack/swift
 openstack/taskflow
 openstack/tempest-lib
+openstack/tooz
 openstack/training-guides
 openstack/trove
 openstack/tuskar
