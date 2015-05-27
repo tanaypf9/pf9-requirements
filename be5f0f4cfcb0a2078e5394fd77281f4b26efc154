@@ -16,6 +16,24 @@
       "revId": "be5f0f4cfcb0a2078e5394fd77281f4b26efc154",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_b5152e9c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 289,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-05-27T23:29:14Z",
+      "side": 1,
+      "message": "No, per the requirements discussion; direct deps of openstack things should be managed here - the range here is because we need to allow hacking to transition; its a dance, that will be fixed once we can rely on a resolver.",
+      "parentUuid": "7a016987_0c873ed8",
+      "revId": "be5f0f4cfcb0a2078e5394fd77281f4b26efc154",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
