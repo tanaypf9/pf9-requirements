@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Flavio Percoco <fpercoco@redhat.com>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 27 May 2015 22:12:35 +0000
+Reviewed-on: https://review.openstack.org/182674
+Project: openstack/requirements
+Branch: refs/heads/master
