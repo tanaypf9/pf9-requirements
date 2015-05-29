@@ -16,6 +16,24 @@
       "revId": "607a3c652c2348bb1c2b3906efaf529e693f7290",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_ab745ffd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1297
+      },
+      "writtenOn": "2015-05-29T17:49:11Z",
+      "side": 1,
+      "message": "Mr.travis of course ;)\n\nhttp://travis-ci.org/ :-P",
+      "parentUuid": "7a016987_e58ae219",
+      "revId": "607a3c652c2348bb1c2b3906efaf529e693f7290",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
