@@ -218,6 +218,8 @@ def _copy_requires(suffix, softupdate, hacking, dest_dir):
     target_files = [
         'requirements.txt', 'tools/pip-requires',
         'test-requirements.txt', 'tools/test-requires',
+        'test-requirements-bandit.txt',
+        'test-requirements-functional.txt',
     ]
     for py_version in (2, 3):
         target_files.append('requirements-py%s.txt' % py_version)
