@@ -148,6 +148,7 @@ python-zaqarclient>=0.0.3
 pytz>=2013.6
 pyudev
 PyYAML>=3.1.0
+pywin32;sys_platform==\'win32\'
 qpid-python
 requests>=2.5.2
 requests-aws>=0.1.4    # BSD License (3 clause)
@@ -180,6 +181,7 @@ warlock>=1.0.1,<2
 WebOb>=1.2.3
 websockify>=0.6.0,<0.7
 wheel
+wmi;sys_platform==\'win32\'
 WSME>=0.6
 xattr>=0.4
 XenAPI>=1.2
