@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_9f5cebee",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-01T17:54:19Z",
+      "side": 1,
+      "message": "Please don\u0027t escape them - thats a regression in pip 7 and a point release will be out this week I hope to fix that. It broke everyones use of markers.",
+      "revId": "d108b3405bf66e8a8934e7ecd1333006721b8b6f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
