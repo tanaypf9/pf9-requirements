@@ -34,6 +34,24 @@
       "revId": "7516149e0cf245a46fc0ef88ccb4616e5b769ccd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5afe65bd_25dc8fe3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 7012
+      },
+      "writtenOn": "2015-06-02T21:18:36Z",
+      "side": 1,
+      "message": "Note that Castellan is referenced in the following glance spec: https://review.openstack.org/#/c/177948/\n\nThe plan is to use Castellan as a part of implementing the image signing and encryption feature in glance.",
+      "parentUuid": "7a016987_852a35e6",
+      "revId": "7516149e0cf245a46fc0ef88ccb4616e5b769ccd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
