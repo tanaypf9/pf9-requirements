@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_6858e932",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-06-03T21:23:49Z",
+      "side": 1,
+      "message": "Do we need a minimum version for this? The module has been added to the stdlib, it seems, so I don\u0027t know what adding a version specifier will do.\n\nPlease add a comment with the license, as we have for some of the other items in the list.",
+      "revId": "41aeb27ca73522ca3b76d6e772ea3cd341a7b202",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
