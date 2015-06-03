@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_905a4c29",
+        "filename": "update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-06-03T11:06:48Z",
+      "side": 1,
+      "message": "honestly, it would be nice to explain that these are for testing, and how they default to the correct things for live runs. \n\nThat would be a follow on, the logic looks good otherwise.",
+      "revId": "673e88e8a6c8fa6cbea3534f80fddb56446e2685",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
