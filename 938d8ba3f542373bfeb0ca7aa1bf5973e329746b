@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afb71cf_ef7cf8ec",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-06-08T14:43:51Z",
+      "side": 1,
+      "message": "Why?  Is there a specific bug fix or change that is need in another project that justifies the bump?",
+      "revId": "938d8ba3f542373bfeb0ca7aa1bf5973e329746b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
