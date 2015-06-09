@@ -297,3 +297,4 @@ mccabe==0.2.1 # MIT License
 pep8==1.5.7
 pyflakes==0.8.1
 pylint==1.4.1  # GNU GPL v2
+APScheduler>=3.0.3
