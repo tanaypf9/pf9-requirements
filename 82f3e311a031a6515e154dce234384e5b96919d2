@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afb71cf_f3436c40",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1941
+      },
+      "writtenOn": "2015-06-10T02:10:23Z",
+      "side": 1,
+      "message": "should be Partially implements:",
+      "revId": "82f3e311a031a6515e154dce234384e5b96919d2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
