@@ -33,8 +33,6 @@ import sys
 
 import pkg_resources
 
-VERBOSE = None
-
 _setup_py_text = """#!/usr/bin/env python
 # Copyright (c) 2013 Hewlett-Packard Development Company, L.P.
 #
@@ -112,11 +110,6 @@ def _functionally_equal(old_requirement, new_requirement):
 
 
 # IO --
-def verbose(msg, stdout):
-    if VERBOSE:
-        stdout.write(msg + "\n")
-
-
 def _read(filename):
     with open(filename, 'r') as f:
         return f.read()
@@ -139,7 +132,7 @@ def _parse_reqs(filename):
 
 
 def _sync_requirements_file(
-        source_reqs, dest_path, suffix, softupdate, hacking, stdout):
+        source_reqs, dest_path, suffix, softupdate, hacking, stdout, verbose):
     dest_reqs = _readlines(dest_path)
     changes = []
     # this is specifically for global-requirements gate jobs so we don't
@@ -147,7 +140,7 @@ def _sync_requirements_file(
     if suffix:
         dest_path = "%s.%s" % (dest_path, suffix)
 
-    verbose("Syncing %s" % dest_path, stdout)
+    verbose("Syncing %s" % dest_path)
 
     with open(dest_path, 'w') as new_reqs:
         # Check the instructions header
@@ -207,7 +200,8 @@ def _sync_requirements_file(
             stdout.write("    %s\n" % change)
 
 
-def _copy_requires(suffix, softupdate, hacking, dest_dir, stdout, source="."):
+def _copy_requires(
+        suffix, softupdate, hacking, dest_dir, stdout, verbose, source="."):
     """Copy requirements files."""
     source_reqs = _parse_reqs(os.path.join(source, 'global-requirements.txt'))
     target_files = [
@@ -222,10 +216,11 @@ def _copy_requires(suffix, softupdate, hacking, dest_dir, stdout, source="."):
         dest_path = os.path.join(dest_dir, dest)
         if os.path.exists(dest_path):
             _sync_requirements_file(
-                source_reqs, dest_path, suffix, softupdate, hacking, stdout)
+                source_reqs, dest_path, suffix, softupdate, hacking, stdout,
+                verbose)
 
 
-def _write_setup_py(dest_path, stdout):
+def _write_setup_py(dest_path, verbose):
     target_setup_py = os.path.join(dest_path, 'setup.py')
     setup_cfg = os.path.join(dest_path, 'setup.cfg')
     # If it doesn't have a setup.py, then we don't want to update it
@@ -234,7 +229,7 @@ def _write_setup_py(dest_path, stdout):
     has_pbr = 'pbr' in _read(target_setup_py)
     if has_pbr:
         if 'name = pbr' not in _read(setup_cfg):
-            verbose("Syncing setup.py", stdout)
+            verbose("Syncing setup.py")
             # We only want to sync things that are up to date
             # with pbr mechanics
             with open(target_setup_py, 'w') as setup_file:
@@ -260,13 +255,18 @@ def main(argv=None, stdout=None):
     if len(args) != 1:
         print("Must specify directory to update")
         raise Exception("Must specify one and only one directory to update.")
-    global VERBOSE
-    VERBOSE = options.verbose
     if stdout is None:
         stdout = sys.stdout
+    if options.verbose:
+        def verbose(msg):
+            stdout.write(msg + "\n")
+    else:
+        def verbose(msg):
+            pass
     _copy_requires(options.suffix, options.softupdate, options.hacking,
-                   args[0], stdout=stdout, source=options.source)
-    _write_setup_py(args[0], stdout=stdout)
+                   args[0], stdout=stdout, source=options.source,
+                   verbose=verbose)
+    _write_setup_py(args[0], verbose=verbose)
 
 
 if __name__ == "__main__":
