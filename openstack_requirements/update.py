@@ -26,6 +26,8 @@ updated to match the global requirements. Requirements not in the global
 files will be dropped.
 """
 
+import collections
+import errno
 import optparse
 import os
 import os.path
@@ -87,6 +89,10 @@ class Change(object):
         return "%-30.30s ->   %s" % (self.old, self.new)
 
 
+File = collections.namedtuple('File', ['filename', 'content'])
+Verbose = collections.namedtuple('Verbose', ['message'])
+
+
 def _package_name(pip_line):
     """Return normalized (lower case) package name.
 
@@ -109,10 +115,61 @@ def _functionally_equal(old_requirement, new_requirement):
     return old_requirement == new_requirement
 
 
+def _check_setup_py(project):
+    actions = []
+    # If it doesn't have a setup.py, then we don't want to update it
+    if 'setup.py' not in project:
+        return actions
+    # If it doesn't use pbr, we don't want to update it.
+    elif 'pbr' not in project['setup.py']:
+        return actions
+    # We don't update pbr's setup.py because it can't use itself.
+    if 'setup.cfg' in project and 'name = pbr' in project['setup.cfg']:
+        return actions
+    actions.append(Verbose("Syncing setup.py"))
+    actions.append(File('setup.py', _setup_py_text))
+    return actions
+
+
 # IO --
-def _read(filename):
-    with open(filename, 'r') as f:
-        return f.read()
+def _safe_read(project, filename):
+    try:
+        with open(project['root'] + '/' + filename, 'rt') as f:
+            project[filename] = f.read()
+    except IOError as e:
+        if e.errno != errno.ENOENT:
+            raise
+
+
+def _read_project(root):
+    result = {'root': root}
+    _safe_read(result, 'setup.py')
+    _safe_read(result, 'setup.cfg')
+    return result
+
+
+def _write_project(project, actions, stdout, verbose):
+    """Write actions into project.
+
+    :param project: A project metadata dict.
+    :param actions: A list of (filename, contents) tuples. If content is None
+        then filename will be deleted, otherwise its contents will be updated
+        to be content.
+    :param stdout: Where to write content for stdout.
+    :param verbose: If True Verbose actions will be written to stdout.
+    :return None:
+    :raises IOError: If the IO operations fail, IOError is raised. If this
+        happens some actions may have been applied and others not.
+    """
+    for action in actions:
+        if type(action) is File:
+            with open(project['root'] + '/' + action.filename, 'wt') as f:
+                f.write(action.content)
+        elif type(action) is Verbose:
+            if verbose:
+                stdout.write(u"%s\n" % (action.message,))
+        else:
+            raise Exception("Invalid action %r" % (action,))
 
 
 def _readlines(filename):
@@ -220,22 +277,6 @@ def _copy_requires(
                 verbose)
 
 
-def _write_setup_py(dest_path, verbose):
-    target_setup_py = os.path.join(dest_path, 'setup.py')
-    setup_cfg = os.path.join(dest_path, 'setup.cfg')
-    # If it doesn't have a setup.py, then we don't want to update it
-    if not os.path.exists(target_setup_py):
-        return
-    has_pbr = 'pbr' in _read(target_setup_py)
-    if has_pbr:
-        if 'name = pbr' not in _read(setup_cfg):
-            verbose("Syncing setup.py")
-            # We only want to sync things that are up to date
-            # with pbr mechanics
-            with open(target_setup_py, 'w') as setup_file:
-                setup_file.write(_setup_py_text)
-
-
 def main(argv=None, stdout=None):
     parser = optparse.OptionParser()
     parser.add_option("-o", "--output-suffix", dest="suffix", default="",
@@ -263,10 +304,13 @@ def main(argv=None, stdout=None):
     else:
         def verbose(msg):
             pass
+    root = args[0]
+    project = _read_project(root)
     _copy_requires(options.suffix, options.softupdate, options.hacking,
-                   args[0], stdout=stdout, source=options.source,
+                   root, stdout=stdout, source=options.source,
                    verbose=verbose)
-    _write_setup_py(args[0], verbose=verbose)
+    actions = _check_setup_py(project)
+    _write_project(project, actions, stdout=stdout, verbose=options.verbose)
 
 
 if __name__ == "__main__":
