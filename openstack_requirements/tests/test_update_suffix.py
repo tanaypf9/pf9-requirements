@@ -15,6 +15,7 @@
 from __future__ import print_function
 
 import testtools
+from testtools import matchers
 
 from openstack_requirements.tests import common
 from openstack_requirements import update
@@ -22,58 +23,49 @@ from openstack_requirements import update
 
 class UpdateTestWithSuffix(testtools.TestCase):
 
-    def setUp(self):
-        super(UpdateTestWithSuffix, self).setUp()
-        self.global_env = self.useFixture(common.GlobalRequirements())
+    def _project_file(self, project, action_filename):
+        actions = update._process_project(
+            project, common.global_reqs, 'global', None, None,
+            False)
+        for action in actions:
+            if type(action) is update.File:
+                if action.filename==action_filename:
+                    return action.content.splitlines()
+        self.fail('File %r not found in %r' % (action_filename, actions))
 
     def test_project(self):
-        project = self.useFixture(common.project_fixture)
-        update.main(
-            ['--source', self.global_env.root, '-o', 'global',
-             project.root])
-        reqs = common._file_to_list("%s.%s" % (project.req_file, 'global'))
+        reqs = self._project_file(
+            common.project_project, 'requirements.txt.global')
         # ensure various updates take
         self.assertIn("jsonschema>=1.0.0,!=1.4.0,<2", reqs)
         self.assertIn("python-keystoneclient>=0.4.1", reqs)
         self.assertIn("SQLAlchemy>=0.7,<=0.7.99", reqs)
 
     def test_project_with_oslo(self):
-        project = self.useFixture(common.oslo_fixture)
-        update.main(
-            ['--source', self.global_env.root, '-o', 'global',
-             project.root])
-        reqs = common._file_to_list("%s.%s" % (project.req_file, 'global'))
+        reqs = self._project_file(
+            common.oslo_project, 'requirements.txt.global')
         oslo_tar = ("-f http://tarballs.openstack.org/oslo.config/"
                     "oslo.config-1.2.0a3.tar.gz#egg=oslo.config-1.2.0a3")
         self.assertIn(oslo_tar, reqs)
 
     def test_test_project(self):
-        project = self.useFixture(common.project_fixture)
-        update.main(
-            ['--source', self.global_env.root, '-o', 'global',
-             project.root])
-        reqs = common._file_to_list(
-            "%s.%s" % (project.test_req_file, 'global'))
+        reqs = self._project_file(
+            common.project_project, 'test-requirements.txt.global')
         self.assertIn("testtools>=0.9.32", reqs)
         self.assertIn("testrepository>=0.0.17", reqs)
         # make sure we didn't add something we shouldn't
         self.assertNotIn("sphinxcontrib-pecanwsme>=0.2", reqs)
 
     def test_install_setup(self):
-        project = self.useFixture(common.project_fixture)
-        update.main(
-            ['--source', self.global_env.root, '-o', 'global',
-             project.root])
-        setup_contents = common._file_to_list(project.setup_file)
+        setup_contents = self._project_file(
+            common.project_project, 'setup.py')
         self.assertIn("# THIS FILE IS MANAGED BY THE GLOBAL REQUIREMENTS REPO"
                       " - DO NOT EDIT", setup_contents)
 
     def test_no_install_setup(self):
-        project = self.useFixture(common.oslo_fixture)
-        update.main(
-            ['--source', self.global_env.root, '-o', 'global',
-             project.root])
-        setup_contents = common._file_to_list(project.setup_file)
-        self.assertNotIn(
-            "# THIS FILE IS MANAGED BY THE GLOBAL REQUIREMENTS REPO"
-            " - DO NOT EDIT", setup_contents)
+        actions = update._process_project(
+            common.oslo_project, common.global_reqs, 'global', None, None,
+            False)
+        for action in actions:
+            if type(action) is update.File:
+                self.assertNotEqual(action.filename, 'setup.py')
