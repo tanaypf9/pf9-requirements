@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1af86dd1_850c9943",
+        "filename": "openstack_requirements/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 12612
+      },
+      "writtenOn": "2015-06-12T05:57:32Z",
+      "side": 1,
+      "message": "This comment as well as \u0027# IO --\u0027 seem like they would be very easy to miss as a comment of the function.\n\nAlso without more description/checks I\u0027d be worried about new additions not following this placement convention.",
+      "revId": "e40a88869b6bf83b708ac4961774764cdcf62ca8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
