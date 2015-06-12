@@ -16,6 +16,24 @@
       "revId": "d0f82047f5436b9dafa711cc570fe7ead22c9ac4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af86dd1_08caeca1",
+        "filename": "openstack_requirements/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-12T14:39:19Z",
+      "side": 1,
+      "message": "Aspirational code! thank you. Shall fix.",
+      "parentUuid": "1af86dd1_b62469af",
+      "revId": "d0f82047f5436b9dafa711cc570fe7ead22c9ac4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
