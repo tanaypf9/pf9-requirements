@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1af86dd1_b62469af",
+        "filename": "openstack_requirements/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 174,
+      "author": {
+        "id": 12612
+      },
+      "writtenOn": "2015-06-12T06:55:59Z",
+      "side": 1,
+      "message": "The docstring above suggests that if action.content is None the file will be deleted, but if you pass None to f.write() it will return a TypeError.\n\nMaybe os.remove if content type is None?",
+      "revId": "d0f82047f5436b9dafa711cc570fe7ead22c9ac4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
