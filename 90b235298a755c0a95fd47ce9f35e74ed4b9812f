@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_2494ba89",
+        "filename": "openstack_requirements/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 12612
+      },
+      "writtenOn": "2015-06-15T07:33:58Z",
+      "side": 1,
+      "message": "Just noticed that StdOut isn\u0027t defined in here.  Noted it is added two patches down.",
+      "revId": "90b235298a755c0a95fd47ce9f35e74ed4b9812f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
