@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Louis Taylor <louis@kragniz.eu>
+Code-Review+1: Ian Cordasco <ian.cordasco@rackspace.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 Jun 2015 03:23:14 +0000
+Reviewed-on: https://review.openstack.org/189825
+Project: openstack/requirements
+Branch: refs/heads/master
