@@ -55,6 +55,7 @@ openstack/oslo.versionedobjects
 openstack/oslo.vmware
 openstack/oslosphinx
 openstack/oslotest
+openstack/networking-ovn
 openstack/pycadf
 openstack/python-barbicanclient
 openstack/python-ceilometerclient
@@ -97,4 +98,3 @@ stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
-stackforge/networking-ovn
