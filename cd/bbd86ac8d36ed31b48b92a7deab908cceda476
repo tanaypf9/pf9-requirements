@@ -1,0 +1,18 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Nathan Reller <nathan.s.reller@gmail.com>
+Code-Review+1: Joel Coffman <joel.coffman@jhuapl.edu>
+Code-Review+1: bruce-benjamin <bruce.benjamin@jhuapl.edu>
+Code-Review+1: Brianna Poulos <Brianna.Poulos@jhuapl.edu>
+Code-Review+1: hadi esiely <hadi.esiely-barrera@jhuapl.edu>
+Code-Review+1: John Vrbanac <john.vrbanac@rackspace.com>
+Code-Review+1: Douglas Mendizábal <douglas.mendizabal@rackspace.com>
+Code-Review+1: Kaitlin Farr <kaitlin.farr@jhuapl.edu>
+Code-Review+1: Juan Antonio Osorio Robles <juan.osorio.robles@ericsson.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 Jun 2015 03:11:49 +0000
+Reviewed-on: https://review.openstack.org/164449
+Project: openstack/requirements
+Branch: refs/heads/master
