@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "fa32b979_2e4b1789",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-06-15T19:47:06Z",
+      "side": 1,
+      "message": "I believe it\u0027s python-dateutil (dash) at least that\u0027s what pip search says.",
+      "revId": "4acd74f5661d96cfda62b57f827cb5fef4817770",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa32b979_ae5f2740",
         "filename": "global-requirements.txt",
         "patchSetId": 2
