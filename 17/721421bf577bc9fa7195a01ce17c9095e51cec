@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Dave Walker <email@daviey.com>
+Workflow+1: Dave Walker <email@daviey.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 Jun 2015 10:05:02 +0000
+Reviewed-on: https://review.openstack.org/191692
+Project: openstack/requirements
+Branch: refs/heads/stable/icehouse
