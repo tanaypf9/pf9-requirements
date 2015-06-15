@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_ae5f2740",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-15T19:45:58Z",
+      "side": 1,
+      "message": "its python-dateutil, - hyphen not underscore.\n\nAlso you\u0027ve added a spurious blankline here.",
+      "revId": "4acd74f5661d96cfda62b57f827cb5fef4817770",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
