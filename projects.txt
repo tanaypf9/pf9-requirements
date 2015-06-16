@@ -30,6 +30,7 @@ openstack/neutron-fwaas
 openstack/neutron-lbaas
 openstack/neutron-vpnaas
 openstack/nova
+openstack/octavia
 openstack/openstack-doc-tools
 openstack/os-apply-config
 openstack/os-brick
@@ -94,7 +95,6 @@ openstack/tuskar
 openstack/tuskar-ui
 openstack/zaqar
 stackforge/blazar-nova
-stackforge/octavia
 stackforge/python-blazarclient
 stackforge/python-openstacksdk
 stackforge/python-solumclient
