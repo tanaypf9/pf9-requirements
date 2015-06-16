@@ -1,0 +1,21 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Workflow+1: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Lin Hua Cheng <os.lcheng@gmail.com>
+Code-Review+1: lifeless <robertc@robertcollins.net>
+Code-Review+2: Joshua Hesketh <joshua.hesketh@rackspace.com>
+Code-Review+1: Travis Tripp <travis.tripp@hp.com>
+Code-Review+1: Thai Tran <tqtran@us.ibm.com>
+Code-Review+1: Cindy Lu <clu@us.ibm.com>
+Code-Review+1: Neill Cox <neill@ingenious.com.au>
+Code-Review+1: Baohua Yang <baohua@linux.vnet.ibm.com>
+Code-Review+1: Aaron Sahlin <asahlin@us.ibm.com>
+Code-Review+1: Rob Cresswell <rcresswe@cisco.com>
+Code-Review+1: Kelly Domico <kelly.domico@hp.com>
+Code-Review+1: Shaoquan Chen <sean.chen2@hp.com>
+Code-Review+1: Paulo Ewerton Gomes Fragoso <pauloewerton@lsd.ufcg.edu.br>
+Submitted-by: Jenkins
+Submitted-at: Tue, 16 Jun 2015 06:51:08 +0000
+Reviewed-on: https://review.openstack.org/189507
+Project: openstack/requirements
+Branch: refs/heads/master
