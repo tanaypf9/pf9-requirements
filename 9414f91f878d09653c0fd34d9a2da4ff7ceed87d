@@ -34,6 +34,24 @@
       "revId": "9414f91f878d09653c0fd34d9a2da4ff7ceed87d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa32b979_cc9a736e",
+        "filename": "README.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-06-17T00:23:59Z",
+      "side": 1,
+      "message": "Got it. So specifically you might have different supported requirement version ranges on different interpreters.",
+      "parentUuid": "fa32b979_0ce7fb11",
+      "revId": "9414f91f878d09653c0fd34d9a2da4ff7ceed87d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
