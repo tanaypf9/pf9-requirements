@@ -16,6 +16,24 @@
       "revId": "9414f91f878d09653c0fd34d9a2da4ff7ceed87d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa32b979_0ce7fb11",
+        "filename": "README.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-17T00:20:34Z",
+      "side": 1,
+      "message": "Take Sphinx for instance. They dropped support for 2.6 and 3.2 in 1.2 IIRC. But their classifiers still say Python 3. So pip install Sphinx on 3.2 breaks. So you need to pin Sphinx to \u003c 1.2 (IIRC) on 2.6 and 3.2, and not pin it on 2.7 and 3.3+.",
+      "parentUuid": "fa32b979_0c729b7b",
+      "revId": "9414f91f878d09653c0fd34d9a2da4ff7ceed87d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
