@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_cc8b5367",
+        "filename": "openstack_requirements/tests/test_update.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 367,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-06-17T00:11:10Z",
+      "side": 1,
+      "message": "Technically the dedent is a no-op here since this and the later block string constants aren\u0027t indented to begin with, but this goes away in a later patch and it\u0027s not hurting anything.",
+      "revId": "a3a3f7f57ac0afcc146bc2667abd46c76307b6d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
