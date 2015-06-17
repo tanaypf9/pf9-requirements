@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Shilla Saebi <shilla.saebi@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 17 Jun 2015 00:33:45 +0000
+Reviewed-on: https://review.openstack.org/191551
+Project: openstack/requirements
+Branch: refs/heads/master
