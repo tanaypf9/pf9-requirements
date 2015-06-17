@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_0c729b7b",
+        "filename": "README.rst",
+        "patchSetId": 6
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-06-17T00:15:05Z",
+      "side": 1,
+      "message": "I\u0027m unclear on the implication of the example you used here. Why would a dependency dropping Python 2.7 support result in needing more than one distribution with different markers?",
+      "revId": "9414f91f878d09653c0fd34d9a2da4ff7ceed87d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
