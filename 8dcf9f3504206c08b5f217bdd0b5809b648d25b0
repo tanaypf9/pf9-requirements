@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_97fbaf78",
+        "filename": "openstack_requirements/tests/test_update.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 413,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-06-18T20:15:04Z",
+      "side": 1,
+      "message": "so, I have to admit, the following style of a bunch of magic unnamed parameters has basically made this code unreviewable for me. It seems to work for other folks, so I won\u0027t -1 it. But I\u0027m hard pressed to feel confident reviewing the code when I have to construct that much state for every review.",
+      "revId": "8dcf9f3504206c08b5f217bdd0b5809b648d25b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
