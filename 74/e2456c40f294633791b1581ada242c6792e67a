@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Sergey Kraynev <skraynev@mirantis.com>
+Code-Review+2: Sergey Lukjanov <slukjanov@mirantis.com>
+Code-Review+1: Trevor McKay <tmckay@redhat.com>
+Code-Review+1: Andrew Lazarev <alazarev@mirantis.com>
+Code-Review+1: Luigi Toscano <ltoscano@redhat.com>
+Code-Review+1: Vitaly Gridnev <vgridnev@mirantis.com>
+Code-Review+1: Evgeny Sikachev <esikachev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 18 Jun 2015 16:57:52 +0000
+Reviewed-on: https://review.openstack.org/192574
+Project: openstack/requirements
+Branch: refs/heads/master
