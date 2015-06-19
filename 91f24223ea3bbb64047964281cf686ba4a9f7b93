@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_4b8eb428",
+        "filename": "openstack_requirements/tests/test_update.py",
+        "patchSetId": 7
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-06-19T18:19:51Z",
+      "side": 1,
+      "message": "This feels odd. Is the order of excludes, max, min something the PEP prefers, do you find it more readable, or is it an accident of another change?",
+      "revId": "91f24223ea3bbb64047964281cf686ba4a9f7b93",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
