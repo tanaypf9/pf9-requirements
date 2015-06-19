@@ -16,6 +16,24 @@
       "revId": "91f24223ea3bbb64047964281cf686ba4a9f7b93",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa32b979_611cf777",
+        "filename": "openstack_requirements/tests/test_update.py",
+        "patchSetId": 7
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-19T19:24:17Z",
+      "side": 1,
+      "message": "Its the output from reserialising the parsed specifiers that pkg_resources gives us. We need to use the reserialised form to handle setup.cfg as I mentioned on the list last week. So yeah - its an accident, but we don\u0027t need to change global-requirements, since this is now semantic comparisons, we still only propose on semantic changes.",
+      "parentUuid": "fa32b979_4b8eb428",
+      "revId": "91f24223ea3bbb64047964281cf686ba4a9f7b93",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
