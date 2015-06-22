@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_6b2583c0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6167
+      },
+      "writtenOn": "2015-06-22T15:30:06Z",
+      "side": 1,
+      "message": "When I posted this kind of patch, I got -1 due to lack of the license type.\nSo it would be necessary describe the license like line 14 or some libraries.",
+      "revId": "c1095ca44ff5c551de05b44e07fb5d4740f7dbaa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
