@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_45066321",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-06-22T18:36:41Z",
+      "side": 1,
+      "message": "Could you add a comment here indicating the license yaql uses, for our future reference?",
+      "revId": "01e615ee8458eb6ccf1b52232903ab97ce1a78d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
