@@ -1,0 +1,18 @@
+Verified+2: Jenkins
+Code-Review+1: Joshua Harlow <harlowja@yahoo-inc.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Brant Knudson <bknudson@us.ibm.com>
+Code-Review+1: YAMAMOTO Takashi <yamamoto@midokura.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: John Vrbanac <john.vrbanac@rackspace.com>
+Code-Review+1: Elena Ezhova <eezhova@mirantis.com>
+Code-Review+1: Sergey Vilgelm <svilgelm@mirantis.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: Kevin Bishop <kevin.bishop@rackspace.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 Jun 2015 20:00:20 +0000
+Reviewed-on: https://review.openstack.org/192886
+Project: openstack/requirements
+Branch: refs/heads/master
