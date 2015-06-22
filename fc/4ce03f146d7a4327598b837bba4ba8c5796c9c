@@ -1,0 +1,14 @@
+Verified+2: Jenkins
+Code-Review+1: garyk <gkotton@vmware.com>
+Code-Review+1: Saggi Mizrahi <ficoos@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+1: Eran Gampel <eran@gampel.net>
+Code-Review+1: Lionel Zerbib <ariel.zerbib@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 Jun 2015 20:00:09 +0000
+Reviewed-on: https://review.openstack.org/189143
+Project: openstack/requirements
+Branch: refs/heads/master
