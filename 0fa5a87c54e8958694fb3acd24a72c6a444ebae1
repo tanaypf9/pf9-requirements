@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_56257b06",
+        "filename": "global-requirements.txt",
+        "patchSetId": 44
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 1561
+      },
+      "writtenOn": "2015-06-23T23:17:41Z",
+      "side": 1,
+      "message": "fyi, we\u0027re working on this in ovs and will hopefully have it working (for increasingly good definitions of working) very soon",
+      "revId": "0fa5a87c54e8958694fb3acd24a72c6a444ebae1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
