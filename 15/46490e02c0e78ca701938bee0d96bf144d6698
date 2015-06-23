@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: Sean Dague <sean@dague.net>
+Submitted-by: Jenkins
+Submitted-at: Tue, 23 Jun 2015 21:41:18 +0000
+Reviewed-on: https://review.openstack.org/194305
+Project: openstack/requirements
+Branch: refs/heads/master
