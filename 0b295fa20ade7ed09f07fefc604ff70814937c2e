@@ -52,6 +52,24 @@
       "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa32b979_bb895228",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-23T22:38:15Z",
+      "side": 1,
+      "message": "It will potentially affect the dependency resolver\u0027s choice of packages (add new P which constraints already present library L, the choice of L may get tighter). OTOH thats important to know to know if your new library is usable :).",
+      "parentUuid": "da9b358b_98ef56b0",
+      "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
