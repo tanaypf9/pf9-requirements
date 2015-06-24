@@ -77,6 +77,12 @@ install_all_of_gr
 $tmpdir/all_requirements/bin/pip install $REPODIR/requirements
 UPDATE="$tmpdir/all_requirements/bin/update-requirements"
 
+# Check that we can generate an upper-requirements.txt file with the change
+# that is being proposed.
+$tmpdir/all_requirements/bin/generate-constraints -p /usr/bin/python2.7 \
+    -p /usr/bin/python3.4 -b $REPODIR/requirements/blacklist.txt \
+    -r $REPODIR/requirements/global-requirements.txt
+
 for PROJECT in $PROJECTS ; do
     SHORT_PROJECT=$(basename $PROJECT)
     if ! grep 'pbr' $REPODIR/$SHORT_PROJECT/setup.py >/dev/null 2>&1
