@@ -301,3 +301,9 @@ mccabe==0.2.1 # MIT License
 pep8==1.5.7
 pyflakes==0.8.1
 pylint==1.4.1  # GNU GPL v2
+
+# OpenStack packages which are dependencies, but which do not actually
+# exist in pypi, so, if used, they will need to be present before requirements
+# are installed, or things will bomb. These should pin on the stable branches
+# to match the stable release, and be unpinned otherwise.
+neutron
