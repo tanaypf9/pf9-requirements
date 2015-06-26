@@ -102,8 +102,10 @@ openstack/tuskar-ui
 openstack/vmware-nsx
 openstack/zaqar
 stackforge/blazar-nova
+stackforge/cloudpulse
 stackforge/nova-docker
 stackforge/python-blazarclient
+stackforge/python-cloudpulseclient
 stackforge/python-openstacksdk
 stackforge/python-senlinclient
 stackforge/python-solumclient
