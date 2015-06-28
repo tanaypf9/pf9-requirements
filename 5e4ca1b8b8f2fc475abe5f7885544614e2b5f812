@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_28a9c124",
+        "filename": "tools/integration.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2015-06-28T13:34:29Z",
+      "side": 1,
+      "message": "typo  #notaminusone",
+      "revId": "5e4ca1b8b8f2fc475abe5f7885544614e2b5f812",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
