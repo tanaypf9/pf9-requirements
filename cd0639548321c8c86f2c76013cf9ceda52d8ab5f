@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa32b979_282ea1a5",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2015-06-28T13:52:40Z",
+      "side": 1,
+      "message": "optparse is deprcated.",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
