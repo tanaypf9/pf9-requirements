@@ -34,6 +34,24 @@
       "revId": "d28c3c496f91e7c070a0e40fe3cebb25397be57e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_8531040e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-06-29T17:53:18Z",
+      "side": 1,
+      "message": "You don\u0027t need to specifically disallow the beta version, since pip does that by default now.",
+      "parentUuid": "ba3cc151_f93766e1",
+      "revId": "d28c3c496f91e7c070a0e40fe3cebb25397be57e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
