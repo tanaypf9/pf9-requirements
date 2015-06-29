@@ -16,6 +16,24 @@
       "revId": "d28c3c496f91e7c070a0e40fe3cebb25397be57e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_dc3a90cd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 8731
+      },
+      "writtenOn": "2015-06-29T14:10:38Z",
+      "side": 1,
+      "message": "Yes, that\u0027s right. It was because of a mess I created with git tags. Should be 1.0.0 now like Sergey pointed.",
+      "parentUuid": "ba3cc151_f93766e1",
+      "revId": "d28c3c496f91e7c070a0e40fe3cebb25397be57e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
