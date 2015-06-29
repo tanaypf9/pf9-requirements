@@ -54,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_6302dc40",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T00:31:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba3cc151_83f5a084",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_23f2949b",
         "filename": "openstack_requirements/cmds/edit_constraint.py",
         "patchSetId": 1
@@ -65,6 +83,24 @@
       "writtenOn": "2015-06-29T00:23:05Z",
       "side": 1,
       "message": "s/to/of\n\nconsider quoting \u0027name\u0027",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_c3ec0892",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T00:31:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba3cc151_23f2949b",
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -88,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_a3e784ab",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T00:31:54Z",
+      "side": 1,
+      "message": "So you\u0027d rather modify args by using pop? Or testing for truthiness of a slice? Perhaps some pseudo code would help me understand what you have in mind.",
+      "parentUuid": "ba3cc151_e3110cb1",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_2377f403",
         "filename": "setup.cfg",
         "patchSetId": 1
@@ -99,6 +153,24 @@
       "writtenOn": "2015-06-29T00:23:05Z",
       "side": 1,
       "message": "(nit) should these entry points be more obvious. eg \u0027requirements-edit-constraints\u0027 or \u0027osreqs-...\u0027 etc?\n\nGranted this is consistent and it\u0027s more difficult to change the existing ones.",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_23e5b4a7",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T00:31:54Z",
+      "side": 1,
+      "message": "As far as I can tell the entry point name is currently globally unique in the public sphere.",
+      "parentUuid": "ba3cc151_2377f403",
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
