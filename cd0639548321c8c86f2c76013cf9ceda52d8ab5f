@@ -178,6 +178,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_69139d5d",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T01:52:28Z",
+      "side": 1,
+      "message": "Sure, as I said it\u0027s a bit of a nit. I\u0027m just not a fan of modifying things that I have presumptions about. For example, if I see a variable named \u0027args\u0027 I expect it to be the arguments, not something close to the args. It also creates difficulties if we change the params to the program. However when changing the params it should be obvious what else needs changing.\n\nA comment is a good compromise, but I\u0027m not blocking on this. The -1 is for the above notes.",
+      "parentUuid": "ba3cc151_86cb6e72",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_2377f403",
         "filename": "setup.cfg",
         "patchSetId": 1
@@ -243,6 +261,24 @@
       "side": 1,
       "message": "I have a pet hate for CLI commands that look like rest namespace traversal. requirements-edit-constraints is in no world obvious or intuitive. Its namespaced, but thats not at all the same thing.",
       "parentUuid": "ba3cc151_437eb8af",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_e9256dae",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T01:52:28Z",
+      "side": 1,
+      "message": "sure, so perhaps we need to find something that is intuitive (but again, for another change)",
+      "parentUuid": "ba3cc151_c3164855",
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
