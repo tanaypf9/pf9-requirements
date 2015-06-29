@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_4fbb390f",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T03:43:41Z",
+      "side": 1,
+      "message": "this reads poorly to me\n\ns/to/for",
+      "revId": "fdb183ee2e054f17b6fe2336fe0c01bc722b5e10",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
