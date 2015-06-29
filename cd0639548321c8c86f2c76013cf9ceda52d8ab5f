@@ -160,6 +160,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_86cb6e72",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T01:13:55Z",
+      "side": 1,
+      "message": "So thats 4 lines of dead weight. I have a strong aversion to forcing people to read more code except when it pays for itself.\n\nWe could do\n\nout_reqs \u003d edit(reqs, args[1], args[2] if args[2:] else \u0027\u0027)\n\nbut I think thats less, not more readable. \n\nbinding args[1] and args[2] to temp variables is a bit of a wash, but we could do that. The main thing I\u0027m objecting to is the very verbose expression.\n\nI could add a comment to the current code if that would help too.",
+      "parentUuid": "ba3cc151_8374c0cf",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_2377f403",
         "filename": "setup.cfg",
         "patchSetId": 1
@@ -207,6 +225,24 @@
       "side": 1,
       "message": "sure, but that doesn\u0027t make it intuitive. But I don\u0027t think we need to fix this here as it\u0027s consistent.",
       "parentUuid": "ba3cc151_23e5b4a7",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_c3164855",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-06-29T01:13:55Z",
+      "side": 1,
+      "message": "I have a pet hate for CLI commands that look like rest namespace traversal. requirements-edit-constraints is in no world obvious or intuitive. Its namespaced, but thats not at all the same thing.",
+      "parentUuid": "ba3cc151_437eb8af",
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
