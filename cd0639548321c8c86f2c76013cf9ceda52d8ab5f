@@ -34,6 +34,74 @@
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_83f5a084",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T00:23:05Z",
+      "side": 1,
+      "message": "I don\u0027t think you want commas between args?",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_23f2949b",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T00:23:05Z",
+      "side": 1,
+      "message": "s/to/of\n\nconsider quoting \u0027name\u0027",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_e3110cb1",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T00:23:05Z",
+      "side": 1,
+      "message": "(nit) I\u0027m not a huge fan of modifying the args like this. I\u0027d rather pull the name and replacement from the args and check if replacement doesn\u0027t exist then.",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_2377f403",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-06-29T00:23:05Z",
+      "side": 1,
+      "message": "(nit) should these entry points be more obvious. eg \u0027requirements-edit-constraints\u0027 or \u0027osreqs-...\u0027 etc?\n\nGranted this is consistent and it\u0027s more difficult to change the existing ones.",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
