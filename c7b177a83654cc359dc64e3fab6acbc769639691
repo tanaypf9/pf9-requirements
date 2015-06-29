@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_c52f0ca0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-06-29T17:53:52Z",
+      "side": 1,
+      "message": "Don\u0027t mention the beta version. Pip won\u0027t install it by default, and it\u0027s less than 1.0.0 anyway.",
+      "revId": "c7b177a83654cc359dc64e3fab6acbc769639691",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
