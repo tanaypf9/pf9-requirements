@@ -282,6 +282,24 @@
       "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_a9568504",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-06-29T01:53:59Z",
+      "side": 1,
+      "message": "I don\u0027t realistically expect this to be used outside of dedicated virtualenvs and controlled/special-purpose systems (e.g., DevStack).",
+      "parentUuid": "ba3cc151_c3164855",
+      "revId": "cd0639548321c8c86f2c76013cf9ceda52d8ab5f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
