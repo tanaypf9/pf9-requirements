@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_bb96b992",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 741
+      },
+      "writtenOn": "2015-06-29T12:00:00Z",
+      "side": 1,
+      "message": "I tried various combinations of something along the lines of this without luck, is \u003d\u003d really the only syntax that works?\n\n    dnspython\u003e\u003d1.12.0;python_version\u003c\u00273.0\u0027\n    dnspython3\u003e\u003d1.12.0;python_version\u003e\u003d\u00273.0\u0027",
+      "revId": "389af30b37d8d56439e5091c86d4ae64c88d8997",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
