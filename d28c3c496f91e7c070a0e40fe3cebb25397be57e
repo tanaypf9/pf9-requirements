@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_f93766e1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 7225
+      },
+      "writtenOn": "2015-06-29T13:52:04Z",
+      "side": 1,
+      "message": "Should be python-mistralclient!\u003d1.0.0.0b1,\u003e\u003d1.0.0 based on tags in https://github.com/openstack/python-mistralclient",
+      "revId": "d28c3c496f91e7c070a0e40fe3cebb25397be57e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
