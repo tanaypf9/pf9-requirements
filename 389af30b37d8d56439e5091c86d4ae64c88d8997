@@ -16,6 +16,23 @@
       "revId": "389af30b37d8d56439e5091c86d4ae64c88d8997",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_84e446e1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 9453
+      },
+      "writtenOn": "2015-07-01T12:16:51Z",
+      "side": 1,
+      "message": "Yes, we\u0027ve run into issues with this due to different versions of pkg_resources in pip and setuptools.\n\nAs of today\u0027s releases they now both have the latest matching code, so the \u003e\u003d and \u003c\u003d should start to work as soon as we start using those new versions in the test environment.",
+      "revId": "389af30b37d8d56439e5091c86d4ae64c88d8997",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
