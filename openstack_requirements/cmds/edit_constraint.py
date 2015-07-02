@@ -52,8 +52,8 @@ def _validate_options(options, args):
 def main(argv=None, stdout=None):
     parser = optparse.OptionParser(
         usage="%prog [options] constraintpath name replacement",
-        epilog=textwrap.dedent("""\
-            Replaces any entries of "name" in the constraints file with
+        epilog=textwrap.dedent(
+            """Replaces any entries of "name" in the constraints file with
             "replacement". If "name" is not present, it is added to the end of
             the file. If "replacement" is missing or empty, remove "name" from
             the file.

@@ -19,9 +19,9 @@ import collections
 import errno
 import io
 import os
-from six.moves import configparser
 
-from parsley import makeGrammar
+import parsley
+from six.moves import configparser
 
 from openstack_requirements import requirement
 
@@ -43,7 +43,7 @@ extra = name:n ' '* '=' line:l cont*:c '\\n'* -> extra(n, ''.join([l] + c))
 name = <(anything:x ?(x not in '\\n \\t='))+>
 cont = ' '+ <(~'\\n' anything)* '\\n'>
 """
-_extras_compiled = makeGrammar(
+_extras_compiled = parsley.makeGrammar(
     _extras_grammar, {"comment": _Comment, "extra": _Extra})
 
 
