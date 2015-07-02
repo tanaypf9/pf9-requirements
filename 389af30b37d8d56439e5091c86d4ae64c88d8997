@@ -33,6 +33,24 @@
       "revId": "389af30b37d8d56439e5091c86d4ae64c88d8997",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_6518eb1e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 741
+      },
+      "writtenOn": "2015-07-02T09:42:50Z",
+      "side": 1,
+      "message": "Excellent! Thanks, I\u0027ll update the patch to use that syntax and we can recheck when ready.",
+      "parentUuid": "ba3cc151_84e446e1",
+      "revId": "389af30b37d8d56439e5091c86d4ae64c88d8997",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
