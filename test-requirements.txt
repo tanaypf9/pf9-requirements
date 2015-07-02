@@ -8,5 +8,5 @@ fixtures>=0.3.14
 packaging>=15.2
 testrepository>=0.0.17
 testscenarios>=0.4
-testtools>=0.9.32,<0.9.35
+testtools>=1.0.0
 virtualenv

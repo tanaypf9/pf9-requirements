@@ -244,12 +244,12 @@ class TestMain(testtools.TestCase):
 class TestSyncRequirementsFile(testtools.TestCase):
 
     def test_multiple_lines_in_global_one_in_project(self):
-        global_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        global_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
-        project_content = textwrap.dedent("""\
-            foo
+        project_content = textwrap.dedent(
+            """foo
             """)
         global_reqs = requirement.parse(global_content)
         project_reqs = list(requirement.to_reqs(project_content))
@@ -269,12 +269,12 @@ class TestSyncRequirementsFile(testtools.TestCase):
         self.assertThat(actions, matchers.HasLength(4))
 
     def test_multiple_lines_separated_in_project_nochange(self):
-        global_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        global_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
-        project_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        project_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             # mumbo gumbo
             foo>1;python_version!='2.7'
             """)
@@ -290,12 +290,12 @@ class TestSyncRequirementsFile(testtools.TestCase):
         self.assertThat(actions, matchers.HasLength(0))
 
     def test_multiple_lines_separated_in_project(self):
-        global_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        global_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
-        project_content = textwrap.dedent("""\
-            foo<1.8;python_version=='2.7'
+        project_content = textwrap.dedent(
+            """foo<1.8;python_version=='2.7'
             # mumbo gumbo
             foo>0.9;python_version!='2.7'
             """)
@@ -317,12 +317,12 @@ class TestSyncRequirementsFile(testtools.TestCase):
         self.assertThat(actions, matchers.HasLength(4))
 
     def test_multiple_lines_nochange(self):
-        global_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        global_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
-        project_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        project_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
         global_reqs = requirement.parse(global_content)
@@ -337,11 +337,11 @@ class TestSyncRequirementsFile(testtools.TestCase):
         self.assertThat(actions, matchers.HasLength(0))
 
     def test_single_global_multiple_in_project(self):
-        global_content = textwrap.dedent("""\
-            foo>1
+        global_content = textwrap.dedent(
+            """foo>1
             """)
-        project_content = textwrap.dedent("""\
-            foo<2;python_version=='2.7'
+        project_content = textwrap.dedent(
+            """foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             """)
         global_reqs = requirement.parse(global_content)
@@ -361,13 +361,13 @@ class TestSyncRequirementsFile(testtools.TestCase):
 class TestCopyRequires(testtools.TestCase):
 
     def test_extras_no_change(self):
-        global_content = textwrap.dedent(u"""\
-            foo<2;python_version=='2.7' # BSD
+        global_content = textwrap.dedent(
+            u"""foo<2;python_version=='2.7' # BSD
             foo>1;python_version!='2.7'
             freddy
             """)
-        setup_cfg = textwrap.dedent(u"""\
-            [metadata]
+        setup_cfg = textwrap.dedent(
+            u"""            [metadata]
             name = openstack.requirements
 
             [extras]

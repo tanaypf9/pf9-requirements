@@ -152,8 +152,8 @@ class TestExtrasParsing(testtools.TestCase):
             name = fred
 
             """)
-        suffix = textwrap.dedent(u"""\
-            [entry_points]
+        suffix = textwrap.dedent(
+            u"""            [entry_points]
             console_scripts =
                 foo = bar:quux
             """)
