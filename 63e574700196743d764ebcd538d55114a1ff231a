@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_cccae56e",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-07-06T02:36:35Z",
+      "side": 1,
+      "message": "I think you need to use req_line[:comment_hash_pos] here or you\u0027ll still match URL\u0027s in a comment",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_eca9e991",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-07-06T02:36:35Z",
+      "side": 1,
+      "message": "We should check the regex actually made a match before looking up results.\n\neg what do we do with a url that\u0027s incomplete with no egg",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_0cebedb1",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-07-06T02:36:35Z",
+      "side": 1,
+      "message": "I think this is deliberate/correct, but the \u0027-e\u0027 part will be captured in the location.",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
