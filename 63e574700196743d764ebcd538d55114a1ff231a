@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_cc22e501",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-07-06T02:44:06Z",
+      "side": 1,
+      "message": "Right, which is why we might need to detect where the comment begins (rather than the url fragment) or make the match less greedy.\n\neg\n\n\n  http:///path/to/foo#egg\u003dfoo # I like cake http://altpath#egg\u003dboo this\n\nGives:\n  url\t[0-56]\t`http:///path/to/foo#egg\u003dfoo # I like cake http://altpath`\n  name\t[61-64]\t`boo`",
+      "parentUuid": "ba3cc151_0c020d70",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_eca9e991",
         "filename": "openstack_requirements/requirement.py",
         "patchSetId": 2
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "error, which is appropriate as we can\u0027t use it.",
       "parentUuid": "ba3cc151_eca9e991",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_cc3bc537",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 7069
+      },
+      "writtenOn": "2015-07-06T02:44:06Z",
+      "side": 1,
+      "message": "I agree. Was more thinking we should raise a reason. (I assume it\u0027s caught appropriately somewhere?)",
+      "parentUuid": "ba3cc151_8cee1db3",
       "revId": "63e574700196743d764ebcd538d55114a1ff231a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
