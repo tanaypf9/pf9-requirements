@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "ba3cc151_ac01a13b",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-06T02:53:41Z",
+      "side": 1,
+      "message": "ah yes, I can fix that. However I\u0027d like to do that as a followup rather than seek re-review here - we have nothing matching that today and this should unbreak some rather wedged jobs.",
+      "parentUuid": "ba3cc151_cc22e501",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba3cc151_eca9e991",
         "filename": "openstack_requirements/requirement.py",
         "patchSetId": 2
@@ -102,6 +120,24 @@
       "side": 1,
       "message": "I agree. Was more thinking we should raise a reason. (I assume it\u0027s caught appropriately somewhere?)",
       "parentUuid": "ba3cc151_8cee1db3",
+      "revId": "63e574700196743d764ebcd538d55114a1ff231a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_8c737d15",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-06T02:53:41Z",
+      "side": 1,
+      "message": "No, it bails out - and I\u0027m fine with that, there are a million ways it can fail, so trying to explain that in a message is valueless.",
+      "parentUuid": "ba3cc151_cc3bc537",
       "revId": "63e574700196743d764ebcd538d55114a1ff231a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
