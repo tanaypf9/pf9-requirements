@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_4282eb53",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-07T02:11:48Z",
+      "side": 1,
+      "message": "Very minor nit here - just doing \"3\" rather than \"3.0\" would likely make sense here, since you don\u0027t care about the decimal points.",
+      "revId": "671378818d123fa487643286a7f7761d8167eea4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
