@@ -34,6 +34,24 @@
       "revId": "ce1621e3788b24263d9a00b8554798a81f2d6189",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_c5b3284c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-08T03:56:19Z",
+      "side": 1,
+      "message": "commit b893b4749463dcae60042666418f59e7d699bb19\nMerge: 96e2389 19b6a41\nAuthor: Jenkins \u003cjenkins@review.openstack.org\u003e\nDate:   Wed Jul 1 12:21:31 2015 +0000\n\n    Merge \"Cap Routes at below 2.0 as 2.1 breaks Nova\"\n\nI don\u0027t know if the cross-check should have caught that. Nevertheless, thats why its not picking 2.1 now.",
+      "parentUuid": "ba3cc151_3f28e332",
+      "revId": "ce1621e3788b24263d9a00b8554798a81f2d6189",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
