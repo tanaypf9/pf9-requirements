@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_65901c44",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-08T04:07:28Z",
+      "side": 1,
+      "message": "This probably wants to be rstrip(), since you don\u0027t want to change the left hand side (whatever it is).\n\nA unit test would be nice, though I realise _sync_requirements_file is still in the awkward-to-unittest-stage.",
+      "revId": "856f1dc5263e8d101aedc1fee1bbe8d9b6b8668e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
