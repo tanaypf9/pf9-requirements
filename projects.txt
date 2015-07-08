@@ -102,6 +102,7 @@ openstack/tuskar
 openstack/tuskar-ui
 openstack/vmware-nsx
 openstack/zaqar
+stacforge/anchor
 stackforge/blazar-nova
 stackforge/nova-docker
 stackforge/python-blazarclient
