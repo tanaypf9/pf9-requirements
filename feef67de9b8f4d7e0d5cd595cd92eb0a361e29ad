@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_9063c7b0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 9107
+      },
+      "writtenOn": "2015-07-09T12:08:37Z",
+      "side": 1,
+      "message": "You should also modify upper-constraints.txt",
+      "revId": "feef67de9b8f4d7e0d5cd595cd92eb0a361e29ad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
