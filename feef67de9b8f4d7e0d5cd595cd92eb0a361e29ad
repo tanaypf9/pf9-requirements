@@ -16,6 +16,24 @@
       "revId": "feef67de9b8f4d7e0d5cd595cd92eb0a361e29ad",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba3cc151_cb70c40a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 8911
+      },
+      "writtenOn": "2015-07-09T12:41:39Z",
+      "side": 1,
+      "message": "There is the same value: https://github.com/openstack/requirements/blob/master/upper-constraints.txt#L180",
+      "parentUuid": "ba3cc151_9063c7b0",
+      "revId": "feef67de9b8f4d7e0d5cd595cd92eb0a361e29ad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
