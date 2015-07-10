@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3cc151_42e692b1",
+        "filename": "tools/what-broke.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-10T15:16:35Z",
+      "side": 1,
+      "message": "I\u0027m surprised the requirements parsing code doesn\u0027t handle the environment markers. Is there a log around showing how this broke?",
+      "revId": "c7136bc2cdaac3c0386dca2c8af81527bb52f5e4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
