@@ -32,6 +32,8 @@ import os
 import os.path
 import sys
 
+sys.path.append('..')
+
 from openstack_requirements import project
 from openstack_requirements import requirement
 
