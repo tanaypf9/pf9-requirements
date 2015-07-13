@@ -16,6 +16,24 @@
       "revId": "c7136bc2cdaac3c0386dca2c8af81527bb52f5e4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_0a6e3601",
+        "filename": "tools/what-broke.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-07-13T16:04:20Z",
+      "side": 1,
+      "message": "That assumes that your system has the latest pip on it. what-broke makes no assumption about being installed, so it works perfectly fine on old pkg_resources, except for the environment markers issue.",
+      "parentUuid": "ba3cc151_42e692b1",
+      "revId": "c7136bc2cdaac3c0386dca2c8af81527bb52f5e4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
