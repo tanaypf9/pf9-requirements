@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a41bdd9_d5d1c5ce",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-13T20:07:02Z",
+      "side": 1,
+      "message": "I\u0027m not sure what I was smoking here, but this should be commit c7b7ceb8710e15ba5551458e85f7f783194f666d  I think since that\u0027s the one that caps netaddr in oslo.config on stable/juno.  That\u0027s in an unreleased version of oslo.config from stable/juno.\n\nSo maybe if we just released HEAD of oslo.config on stable/juno as version 1.4.1 or 1.5.1 that would resolve this issue since those versions fall within the range in g-r here.",
+      "revId": "65ae0c40edfef9dfc49d6b796190a8f9d1e6f5d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
