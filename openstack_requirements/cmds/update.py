@@ -32,6 +32,15 @@ import os
 import os.path
 import sys
 
+if os.path.islink(__file__):
+    parentdir = os.path.dirname(os.path.abspath(__file__))
+else:
+    parentdir = os.path.dirname(
+        os.path.dirname(
+            os.path.dirname(
+                os.path.abspath(__file__))))
+sys.path.insert(0, parentdir)
+
 from openstack_requirements import project
 from openstack_requirements import requirement
 
