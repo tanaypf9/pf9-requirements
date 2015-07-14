@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a41bdd9_4a42b4af",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-14T21:18:39Z",
+      "side": 1,
+      "message": "Are there any related bugs associated with this?",
+      "revId": "2df0bcf13c48b12a58d9f418d69950e6d93d9c85",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
