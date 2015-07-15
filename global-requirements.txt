@@ -96,7 +96,7 @@ os-collect-config
 os-net-config
 os-refresh-config
 os-testr>=0.1.0
-ovs>=2.4.0.dev0;python_version=='2.7'  # Apache-2.0
+ovs>=2.4.0.dev0;python_version=='2.7'
 paramiko>=1.13.0
 Parsley
 passlib
@@ -124,7 +124,7 @@ PyMySQL>=0.6.2  # MIT License
 
 # NOTE(flaper87): This added 2 packages to `integration.sh`
 # uuid-dev and swig
-pyngus>=1.3.1;python_version=='2.7'  # Apache 2.0 License
+pyngus>=1.3.1;python_version=='2.7'
 
 pyOpenSSL>=0.11
 pyparsing>=2.0.1
@@ -167,7 +167,7 @@ pywin32;sys_platform=='win32'
 qpid-python;python_version=='2.7'
 requests>=2.5.2
 requests-aws>=0.1.4    # BSD License (3 clause)
-requests-kerberos>=0.6;python_version=='2.7' # MIT
+requests-kerberos>=0.6;python_version=='2.7'
 rfc3986>=0.2.0  # Apache-2.0
 Routes>=1.12.3,!=2.0,!=2.1;python_version=='2.7'
 Routes>=1.12.3,!=2.0;python_version!='2.7'
