@@ -16,6 +16,24 @@
       "revId": "9fe13a879d484e896c55cb96b4c9764a82e6e8a9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_a3cef92a",
+        "filename": "openstack_requirements/project.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 11343
+      },
+      "writtenOn": "2015-07-15T08:05:22Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "9a41bdd9_23742934",
+      "revId": "9fe13a879d484e896c55cb96b4c9764a82e6e8a9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
