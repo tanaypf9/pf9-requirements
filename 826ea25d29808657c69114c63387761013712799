@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a41bdd9_35243b5c",
+        "filename": "tools/integration.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-07-15T17:55:07Z",
+      "side": 1,
+      "message": "We now preinstall bindep on these workers in a virtualenv, so you can just invoke /usr/bindep-env/bin/bindep to to this.",
+      "revId": "826ea25d29808657c69114c63387761013712799",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_557bff27",
+        "filename": "tools/integration.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-07-15T17:55:07Z",
+      "side": 1,
+      "message": "You may need to add -f /opt/stack/new/requirements/other-requirements.txt to your bindep invocation since the requirements repo clone is likely not your current working directory at the point this is called.",
+      "revId": "826ea25d29808657c69114c63387761013712799",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
