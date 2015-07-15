@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a41bdd9_59d33960",
+        "filename": "tools/integration.sh",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-07-15T18:09:02Z",
+      "side": 1,
+      "message": "Oh, also you want to || true the bindep call since you\u0027re running under errexit. I need to propose a patch to make that exit code behavior configurable and non-default.",
+      "revId": "0f0fe466e27ab95f4a4ff374db0185a107d016cf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
