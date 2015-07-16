@@ -16,6 +16,24 @@
       "revId": "ce6ef0fe230ff939ae4d583a2262a16d598c32b9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a41bdd9_0ce9dfb6",
+        "filename": "tools/integration.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-07-16T03:41:18Z",
+      "side": 1,
+      "message": "Scratch that, it\u0027s happening in another script that isn\u0027t running with set -x, so it never said \"apt-get update\" in the log but there is definitely stdout indicating that it\u0027s running. Sorry!",
+      "parentUuid": "9a41bdd9_ac447349",
+      "revId": "ce6ef0fe230ff939ae4d583a2262a16d598c32b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
