@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a41bdd9_ac447349",
+        "filename": "tools/integration.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-07-16T03:18:22Z",
+      "side": 1,
+      "message": "I\u0027m surprised this isn\u0027t tripping errorexit.\n\nUnfortunately I missed before that there\u0027s one other potential issue you\u0027ll want to guard against which hits us not infrequently... apt-get update in a job before the first time you try to apt-get install. The on-disk indexes invariably get out of date from time to time (either because our image builds fall behind, or because you get lucky and run on a day when a bunch of security updates come out).",
+      "revId": "ce6ef0fe230ff939ae4d583a2262a16d598c32b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
