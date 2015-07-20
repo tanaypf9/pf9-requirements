@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_f2e202d5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-20T16:27:56Z",
+      "side": 1,
+      "message": "I don\u0027t think we should raise the minimum required version in stable/kilo if that wasn\u0027t a problem before.  You should just cap it at \u003c3.0.0 in this change and let the minimum handle itself.\n\nThe upper-constraint is capped at 2.4.0 already:\n\nhttps://github.com/openstack/requirements/blob/stable/kilo/upper-constraints.txt#L216",
+      "revId": "3ab5493f59a97d9a0e92ccddb916ce8dc6b96e81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
