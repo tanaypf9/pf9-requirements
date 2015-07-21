@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_5faff993",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-21T18:19:35Z",
+      "side": 1,
+      "message": "We generally blacklist specifically:\n\n ,!\u003d1.11",
+      "revId": "face0e3d27efb3c280c59a738bd5b21df5ec2931",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
