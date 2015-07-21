@@ -10,6 +10,8 @@
 #    License for the specific language governing permissions and limitations
 #    under the License.
 
+from __future__ import print_function
+
 import fixtures
 from packaging import specifiers
 import testtools
@@ -69,12 +71,60 @@ class TestRequirements(testtools.TestCase):
         self.stdout = self.useFixture(self._stdout_fixture).stream
         self.useFixture(fixtures.MonkeyPatch('sys.stdout', self.stdout))
 
+    def test_constraints_format(self):
+        errors = 0
+        constraints_content = open('upper-constraints.txt', 'rt').read()
+        for n, line in enumerate(constraints_content.splitlines(), 1):
+            c = requirement.parse_line(line)
+            spec = c.specifiers
+            if not spec.startswith('==='):
+                print(
+                    'Invalid constraint line %d %r, does not have 3 "="' %
+                    (n, line)
+                )
+                errors += 1
+        if errors:
+            self.fail('Encountered errors parsing constraints.txt')
+
     def test_constraints_compatible(self):
         global_req_content = open('global-requirements.txt', 'rt').read()
         constraints_content = open('upper-constraints.txt', 'rt').read()
         global_reqs = requirement.parse(global_req_content)
         constraints = requirement.parse(constraints_content)
         self.assertEqual([], check_compatible(global_reqs, constraints))
+
+    def test_requirements_in_constraints(self):
+        # Verify that all of the global requirements appear in the
+        # constraints list or the list of projects that do not have to
+        # be constrained.
+        global_req_content = open('global-requirements.txt', 'rt').read()
+        constraints_content = open('upper-constraints.txt', 'rt').read()
+        blacklist_content = open('blacklist.txt', 'rt').read()
+        global_reqs = requirement.parse(global_req_content)
+        constraints = requirement.parse(constraints_content)
+        blacklist = requirement.parse(blacklist_content)
+        to_be_constrained = (
+            set(global_reqs.keys()) - set(blacklist.keys()) - set([''])
+        )
+        constrained = set(constraints.keys()) - set([''])
+        unconstrained = to_be_constrained - constrained
+        for u in sorted(unconstrained):
+            print('%r appears in global-requirements.txt '
+                  'but not upper-constraints.txt or blacklist.txt' % u)
+        self.assertEqual(set(), unconstrained)
+
+    def test_blacklist_not_in_constraints(self):
+        # Verify that the blacklist packages are not also listed in
+        # the constraints file.
+        constraints_content = open('upper-constraints.txt', 'rt').read()
+        blacklist_content = open('blacklist.txt', 'rt').read()
+        constraints = requirement.parse(constraints_content)
+        blacklist = requirement.parse(blacklist_content)
+        dupes = set(constraints.keys()).intersection(set(blacklist.keys()))
+        for d in dupes:
+            print('%s is in both blacklist.txt and upper-constraints.txt'
+                  % d)
+        self.assertEqual(set(), dupes)
 
 
 class TestCheckCompatible(testtools.TestCase):
