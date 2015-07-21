@@ -10,6 +10,8 @@
 #    License for the specific language governing permissions and limitations
 #    under the License.
 
+from __future__ import print_function
+
 import fixtures
 from packaging import specifiers
 import testtools
@@ -75,6 +77,39 @@ class TestRequirements(testtools.TestCase):
         global_reqs = requirement.parse(global_req_content)
         constraints = requirement.parse(constraints_content)
         self.assertEqual([], check_compatible(global_reqs, constraints))
+
+    def test_requirements_in_constraints(self):
+        # Verify that all of the global requirements appear in the
+        # constraints list or the list of projects that do not have to
+        # be constrained.
+        global_req_content = open('global-requirements.txt', 'rt').read()
+        constraints_content = open('upper-constraints.txt', 'rt').read()
+        blacklist_content = open('blacklist.txt', 'rt').read()
+        global_reqs = requirement.parse(global_req_content)
+        constraints = requirement.parse(constraints_content)
+        blacklist = requirement.parse(blacklist_content)
+        to_be_constrained = (
+            set(global_reqs.keys()) - set(blacklist.keys()) - set([''])
+        )
+        constrained = set(constraints.keys()) - set([''])
+        unconstrained = to_be_constrained - constrained
+        for u in sorted(unconstrained):
+            print('%r appears in global-requirements.txt '
+                  'but not upper-constraints.txt or blacklist.txt' % u)
+        self.assertEqual(set(), unconstrained)
+
+    def test_blacklist_not_in_constraints(self):
+        # Verify that the blacklist packages are not also listed in
+        # the constraints file.
+        constraints_content = open('upper-constraints.txt', 'rt').read()
+        blacklist_content = open('blacklist.txt', 'rt').read()
+        constraints = requirement.parse(constraints_content)
+        blacklist = requirement.parse(blacklist_content)
+        dupes = set(constraints.keys()).intersection(set(blacklist.keys()))
+        for d in dupes:
+            print('%s is in both blacklist.txt and upper-constraints.txt'
+                  % d)
+        self.assertEqual(set(), dupes)
 
 
 class TestCheckCompatible(testtools.TestCase):
