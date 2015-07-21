@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: Dave Walker <email@daviey.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Robert Clark <robert.clark@hp.com>
+Code-Review+1: Tim Kelsey <tim.kelsey@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 21 Jul 2015 23:10:50 +0000
+Reviewed-on: https://review.openstack.org/199802
+Project: openstack/requirements
+Branch: refs/heads/master
