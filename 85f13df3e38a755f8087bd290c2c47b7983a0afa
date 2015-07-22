@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_4d040249",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-22T14:31:10Z",
+      "side": 1,
+      "message": "We normally use !\u003d for single broken versions in master; do we think thats the case here, or its really that all versions \u003e\u003d1.0.0 are going to break python-keystoneclient [at least until python-keystoneclient is fixed] ?",
+      "revId": "85f13df3e38a755f8087bd290c2c47b7983a0afa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
