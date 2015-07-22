@@ -68,7 +68,7 @@ msgpack-python>=0.4.0
 netaddr>=0.7.12
 netifaces>=0.10.4
 networkx>=1.8
-oauthlib>=0.6
+oauthlib>=0.6,<1.0.0
 openstackdocstheme>=1.0.3
 ordereddict
 oslo.cache>=0.3.0  # Apache-2.0
