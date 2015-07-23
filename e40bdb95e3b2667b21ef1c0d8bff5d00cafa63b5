@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_fc2e89f9",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:48:04Z",
+      "side": 1,
+      "message": "This should not be blacklisted AFAICT. Could you explain why?",
+      "revId": "e40bdb95e3b2667b21ef1c0d8bff5d00cafa63b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_9c33c562",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:48:04Z",
+      "side": 1,
+      "message": "Nor this: we have been broken by pip changes before, and we use it heavily.",
+      "revId": "e40bdb95e3b2667b21ef1c0d8bff5d00cafa63b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_bc38013f",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:48:04Z",
+      "side": 1,
+      "message": "Why is this being blacklisted?",
+      "revId": "e40bdb95e3b2667b21ef1c0d8bff5d00cafa63b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_1c4815cc",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:48:04Z",
+      "side": 1,
+      "message": "Definitely want to not blacklist this. Major source of potential trouble.",
+      "revId": "e40bdb95e3b2667b21ef1c0d8bff5d00cafa63b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_5c3e9d2a",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:48:04Z",
+      "side": 1,
+      "message": "And this?",
+      "revId": "e40bdb95e3b2667b21ef1c0d8bff5d00cafa63b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
