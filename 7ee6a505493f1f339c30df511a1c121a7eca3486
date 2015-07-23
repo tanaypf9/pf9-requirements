@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_0859d334",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2015-07-23T10:46:45Z",
+      "side": 1,
+      "message": "can you provide more info to answer questions asked here?\nhttps://github.com/openstack/requirements#for-new-requirements",
+      "revId": "7ee6a505493f1f339c30df511a1c121a7eca3486",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
