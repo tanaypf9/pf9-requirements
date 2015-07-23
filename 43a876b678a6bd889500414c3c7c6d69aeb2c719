@@ -67,6 +67,23 @@
       "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_dcdb8d20",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:42:57Z",
+      "side": 1,
+      "message": "This is easier to read using the dedent pattern other tests in this repo use:\n\n content \u003d textwrap.dedent(\"\"\"\\\n     oslo.config\u003e\u003d1.11.0     # Apache-2.0\n     oslo.concurrency\u003e\u003d2.3.0 # Apache-2.0\n     oslo.context\u003e\u003d0.2.0     # Apache-2.0\n     \"\"\")",
+      "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
