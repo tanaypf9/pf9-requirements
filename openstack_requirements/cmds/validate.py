@@ -32,29 +32,40 @@ def main():
         default='upper-constraints.txt',
         help='path to the upper-constraints.txt file',
     )
+    parser.add_argument(
+        'blacklist',
+        default='blacklist.txt',
+        help='path to the blacklist.txt file',
+    )
     args = parser.parse_args()
 
     error_count = 0
 
     # Check the format of the constraints file.
-    print('Checking %s' % args.upper_constraints)
+    print('\nChecking %s' % args.upper_constraints)
     constraints_content = open(args.upper_constraints, 'rt').read()
-    for n, line in enumerate(constraints_content.splitlines(), 1):
-        c = requirement.parse_line(line)
-        spec = c.specifiers
-        if not spec.startswith('==='):
-            print(
-                'Invalid constraint line %d %r, does not have 3 "="' %
-                (n, line)
-            )
-            error_count += 1
+    upper_constraints = requirement.parse(constraints_content)
+    for msg in constraints.check_format(upper_constraints):
+        print(msg)
+        error_count += 1
 
     # Check that the constraints and requirements are compatible.
-    print('Checking %s' % args.global_requirements)
+    print('\nChecking %s' % args.global_requirements)
     global_req_content = open(args.global_requirements, 'rt').read()
     global_reqs = requirement.parse(global_req_content)
-    upper_constraints = requirement.parse(constraints_content)
     for msg in constraints.check_compatible(global_reqs, upper_constraints):
+        print(msg)
+        error_count += 1
+
+    # Check that all of the items in the global-requirements list
+    # appear in exactly one of the constraints file or the blacklist.
+    print('\nChecking %s' % args.blacklist)
+    blacklist_content = open(args.blacklist, 'rt').read()
+    blacklist = requirement.parse(blacklist_content)
+    for msg in constraints.check_blacklist_coverage(global_reqs,
+                                                    upper_constraints,
+                                                    blacklist,
+                                                    'upper-constraints.txt'):
         print(msg)
         error_count += 1
 
