@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_7a428baf",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-23T14:58:49Z",
+      "side": 1,
+      "message": "os-brick 0.3.1 doesn\u0027t contain 981b84c49c170b4289e2a9c3df7feb245f5803bc which is what we needed for the nova change, so we\u0027ll need os-brick 0.3.2.",
+      "revId": "18b87a17ea51d226fe5e62a79acddc42419a5790",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
