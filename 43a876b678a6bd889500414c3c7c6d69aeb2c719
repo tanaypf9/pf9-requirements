@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_9c5665cd",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:40:27Z",
+      "side": 1,
+      "message": "Please don\u0027t mix IO here - it makes the test suite problematic to run locally - just put this in failures - which the old code does. This function was pure, and printing can be done elsewhere.",
+      "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_3cff11ac",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:40:27Z",
+      "side": 1,
+      "message": "This breaks interactive debugging of tests - please don\u0027t add these in. They exist solely to workaround code that can\u0027t be indirected sanely in other ways.",
+      "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_9cdbc54f",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:40:27Z",
+      "side": 1,
+      "message": "print() in a test is fairly much against the unitest API -  better to accumulate a set of errors and the do\n\nself.fail(\u0027...\u0027 + \u0027\u0027.join(errors))\n\nIf you want the output as a separate thing, do self.addDetail(\u0027badlines.txt\u0027, testtools.content.text_content(\u0027\u0027.join(errors))",
+      "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_fca449ba",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-23T19:40:27Z",
+      "side": 1,
+      "message": "Ditto.",
+      "revId": "43a876b678a6bd889500414c3c7c6d69aeb2c719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
