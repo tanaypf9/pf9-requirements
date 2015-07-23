@@ -32,6 +32,11 @@ def main():
         default='upper-constraints.txt',
         help='path to the upper-constraints.txt file',
     )
+    parser.add_argument(
+        'blacklist',
+        default='blacklist.txt',
+        help='path to the blacklist.txt file',
+    )
     args = parser.parse_args()
 
     error_count = 0
@@ -56,6 +61,29 @@ def main():
     upper_constraints = requirement.parse(constraints_content)
     for msg in constraints.check_compatible(global_reqs, upper_constraints):
         print(msg)
+        error_count += 1
+
+    # Check that all of the items in the global-requirements list
+    # appear either in the constraints file or the blacklist.
+    print('Checking %s' % args.blacklist)
+    blacklist_content = open(args.blacklist, 'rt').read()
+    blacklist = requirement.parse(blacklist_content)
+    to_be_constrained = (
+        set(global_reqs.keys()) - set(blacklist.keys()) - set([''])
+    )
+    constrained = set(upper_constraints.keys()) - set([''])
+    unconstrained = to_be_constrained - constrained
+    for u in sorted(unconstrained):
+        print('%r appears in global-requirements.txt '
+              'but not upper-constraints.txt or blacklist.txt' % u)
+        error_count += 1
+
+    # Verify that the blacklist packages are not also listed in
+    # the constraints file.
+    dupes = set(upper_constraints.keys()).intersection(set(blacklist.keys()))
+    for d in dupes:
+        print('%s is in both blacklist.txt and upper-constraints.txt'
+              % d)
         error_count += 1
 
     return 1 if error_count else 0
