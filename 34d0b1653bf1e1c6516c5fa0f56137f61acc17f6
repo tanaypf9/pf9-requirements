@@ -16,6 +16,24 @@
       "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_4a13080e",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-24T14:11:04Z",
+      "side": 1,
+      "message": "I\u0027m not 100% certain, but I think the parser retains blank lines so it can reproduce the existing file accurately when changes are made by the edit command (that is, only the line with the requirement/constraint being changed will be different in the output).",
+      "parentUuid": "3a50d1a3_f1db004e",
+      "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
