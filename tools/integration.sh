@@ -67,10 +67,11 @@ install_all_of_gr
 $tmpdir/all_requirements/bin/pip install $REPODIR/requirements
 UPDATE="$tmpdir/all_requirements/bin/update-requirements"
 
-# Check that we can generate an upper-requirements.txt file with the change
-# that is being proposed.
+# Check that we can generate a 2.7-only upper-requirements.txt file with the
+# change that is being proposed. 2.7-only is needed because we're not
+# backporting markers to kilo.
 $tmpdir/all_requirements/bin/generate-constraints -p /usr/bin/python2.7 \
-    -p /usr/bin/python3.4 -b $REPODIR/requirements/blacklist.txt \
+    -b $REPODIR/requirements/blacklist.txt \
     -r $REPODIR/requirements/global-requirements.txt
 
 for PROJECT in $PROJECTS ; do
