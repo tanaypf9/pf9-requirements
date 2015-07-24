@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_7c81e0fa",
+        "filename": "tools/integration.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1420
+      },
+      "writtenOn": "2015-07-24T19:21:09Z",
+      "side": 1,
+      "message": "This should be avoiding the 3.4 check in the same way the equiv kilo code does, AFAICS\n\nSee failure here http://logs.openstack.org/12/205412/1/check/gate-requirements-integration-dsvm/131e6f2/console.html",
+      "revId": "cf7907350123d3bc81733f6d2741e8683406a317",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
