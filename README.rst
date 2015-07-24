@@ -5,7 +5,7 @@
 Why Global Requirements?
 ========================
 
-During the Havana release cycle we kept running into coherency issues
+xDuring the Havana release cycle we kept running into coherency issues
 with trying to install all the OpenStack components into a single
 environment. The issue is that syncing of ``requirements.txt`` between
 projects was an eventually consistent problem. Some projects would
