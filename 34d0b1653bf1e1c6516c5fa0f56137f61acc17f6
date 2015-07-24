@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_f1db004e",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 8911
+      },
+      "writtenOn": "2015-07-24T04:51:34Z",
+      "side": 1,
+      "message": "i don\u0027t like \"- set([\u0027\u0027])\", why we cannot remove all empty lines in the requirement.parse function?",
+      "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
