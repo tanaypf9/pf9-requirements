@@ -150,7 +150,7 @@ python-manilaclient>=1.0.4
 python-memcached>=1.48;python_version=='2.7' or python_version=='2.6'
 python-mistralclient>=1.0.0
 python-muranoclient>=0.5.6
-python-neutronclient>=2.3.11,<3
+python-neutronclient>=2.4.0,<3
 python-novaclient>=2.22.0
 python-saharaclient>=0.9.0
 python-openstackclient>=1.5.0
