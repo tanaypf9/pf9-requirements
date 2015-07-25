@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_fe43966a",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 139,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:32:16Z",
+      "side": 1,
+      "message": "I think most of the other tests still indent the content one level:\n\n content \u003d textwrap.dedent(\"\"\"\\\n     foo\n     bar\n     \"\"\")\n reqs \u003d requirement.parse\n\n\nThis just makes it a little clearer, visually.",
+      "revId": "95c3c5df7a579fea9c93134dcf12d4628fd47f07",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
