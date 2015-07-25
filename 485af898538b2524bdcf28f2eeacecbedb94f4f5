@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_9ea5b248",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:30:22Z",
+      "side": 1,
+      "message": "This entry point should be at least smoke tested - we\u0027re going to be depending on it working reliably in the gate. Rather than presuming stdout as the stream, if you pass an out\u003dNone parameter here, and then do:\n\n if out is None:\n     out \u003d sys.stdout\n\nThen do your print() below with file\u003dout, it will be easily testable.\n\nThe other entry points in this repo are tested in a test file matching their name, e.g. \nopenstack_requirements/tests/test_edit_constraint.py tests \u0027edit-constraint\u0027, so this would be\n\ntest_validate.py",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_5e988a1b",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:30:22Z",
+      "side": 1,
+      "message": "This cross-check is sufficient logic I believe it should be tested: and thus it should be in the requirement module. Perhaps in parse - parse(content, require_exact\u003dTrue) ?\n\nOr in constraints.check_compatible: you can inspect the specifiers there and generate a very similar error - just without the line number (unless we start preserving that too, which I think would be reasonable).",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_5e664a2a",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:30:22Z",
+      "side": 1,
+      "message": "If I read this code correctly, the return value is actually a list of errors, where each error is a string describing the error.",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_3e4a5e84",
+        "filename": "setup.cfg",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:30:22Z",
+      "side": 1,
+      "message": "I think this name is too generic - we get installed into various wider contexts. How about validate-requirements ?",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
