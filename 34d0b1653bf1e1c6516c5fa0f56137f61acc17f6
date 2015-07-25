@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3a50d1a3_fee716aa",
+        "filename": "blacklist.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:20:56Z",
+      "side": 1,
+      "message": "Is there some way we can not put pip in here? Being insulated against pip changes / downgrades etc seems like a good thing to me.",
+      "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_f1db004e",
         "filename": "openstack_requirements/cmds/validate.py",
         "patchSetId": 5
@@ -30,6 +47,24 @@
       "writtenOn": "2015-07-24T14:11:04Z",
       "side": 1,
       "message": "I\u0027m not 100% certain, but I think the parser retains blank lines so it can reproduce the existing file accurately when changes are made by the edit command (that is, only the line with the requirement/constraint being changed will be different in the output).",
+      "parentUuid": "3a50d1a3_f1db004e",
+      "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_7ee546a6",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-25T18:20:56Z",
+      "side": 1,
+      "message": "\u0027\u0027 is the key, not the line. An empty key means we don\u0027t know the distribution / couldn\u0027t parse it/ its a comment. So this is fine - but equally, putting \u0027\u0027 in unconstrainable might be a bit easier for reading:\n\n \u0027\u0027, # comments and other lines with no distribution",
       "parentUuid": "3a50d1a3_f1db004e",
       "revId": "34d0b1653bf1e1c6516c5fa0f56137f61acc17f6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
