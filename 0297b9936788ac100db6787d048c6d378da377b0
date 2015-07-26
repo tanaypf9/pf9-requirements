@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_7ac5473b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-26T23:54:17Z",
+      "side": 0,
+      "message": "I think this means we need to make the minimum version 1.56.",
+      "revId": "0297b9936788ac100db6787d048c6d378da377b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
