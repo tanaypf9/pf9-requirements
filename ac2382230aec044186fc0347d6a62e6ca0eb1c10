@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_cdf28b9a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-27T14:11:12Z",
+      "side": 1,
+      "message": "It\u0027d be useful to point out that there is a ceilometer blueprint dependent on this:\n\nI1fd21bbec63711a8887ba9363f791b6c67d75837",
+      "revId": "ac2382230aec044186fc0347d6a62e6ca0eb1c10",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
