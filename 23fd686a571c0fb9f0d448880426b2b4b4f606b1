@@ -51,6 +51,24 @@
       "revId": "23fd686a571c0fb9f0d448880426b2b4b4f606b1",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_8a289787",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 332,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-28T21:54:53Z",
+      "side": 1,
+      "message": "Actually, its \u0027not by the bot and does include g-r\u0027.\n\n if (bot)\n elif (!bot and !gr)\n else\n -\u003e implied (!bot and gr)",
+      "parentUuid": "3a50d1a3_07756062",
+      "revId": "23fd686a571c0fb9f0d448880426b2b4b4f606b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
