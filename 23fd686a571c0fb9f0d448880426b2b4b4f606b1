@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_04debedc",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-28T21:35:59Z",
+      "side": 1,
+      "message": "s/changing/changes/ I think?",
+      "revId": "23fd686a571c0fb9f0d448880426b2b4b4f606b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_27c2dc85",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 332,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-28T21:35:59Z",
+      "side": 1,
+      "message": "The use of \"otherwise\" here is confusing, because I think there are only 2 options (by the bot or not by the bot).",
+      "revId": "23fd686a571c0fb9f0d448880426b2b4b4f606b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
