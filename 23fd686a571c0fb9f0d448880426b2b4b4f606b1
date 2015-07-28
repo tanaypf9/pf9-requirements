@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_ea44bb47",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-07-28T21:56:19Z",
+      "side": 1,
+      "message": "yes, will fix if the change needs redoing otherwise follow-up.",
+      "parentUuid": "3a50d1a3_04debedc",
+      "revId": "23fd686a571c0fb9f0d448880426b2b4b4f606b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_27c2dc85",
         "filename": "README.rst",
         "patchSetId": 3
