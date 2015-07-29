@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_f1c7ae95",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 239,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-07-29T13:32:48Z",
+      "side": 1,
+      "message": "This is not actually correct for stable/kilo given global-requirements has this capped at \u003c1.1.0, so what we actually get in stable/kilo job runs is osc 1.0.4.",
+      "revId": "4568bfb6c841130b2edb3202d796b1fe05aec70f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
