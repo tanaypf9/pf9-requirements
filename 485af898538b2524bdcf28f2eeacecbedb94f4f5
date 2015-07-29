@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_99d3e803",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-29T16:35:24Z",
+      "side": 1,
+      "message": "I\u0027ve moved the logic out of the main program and added tests for that portion.",
+      "parentUuid": "3a50d1a3_9ea5b248",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_5e988a1b",
         "filename": "openstack_requirements/cmds/validate.py",
         "patchSetId": 2
@@ -53,6 +71,24 @@
     },
     {
       "key": {
+        "uuid": "3a50d1a3_5ee54635",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-29T16:35:24Z",
+      "side": 1,
+      "message": "I moved this as-is from its other location. Fixed.",
+      "parentUuid": "3a50d1a3_5e664a2a",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_3e4a5e84",
         "filename": "setup.cfg",
         "patchSetId": 2
@@ -64,6 +100,24 @@
       "writtenOn": "2015-07-25T18:30:22Z",
       "side": 1,
       "message": "I think this name is too generic - we get installed into various wider contexts. How about validate-requirements ?",
+      "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_3eee3a22",
+        "filename": "setup.cfg",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-07-29T16:35:24Z",
+      "side": 1,
+      "message": "I\u0027m not sure why this is installed anywhere other than this tox environment, but ok.",
+      "parentUuid": "3a50d1a3_3e4a5e84",
       "revId": "485af898538b2524bdcf28f2eeacecbedb94f4f5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
