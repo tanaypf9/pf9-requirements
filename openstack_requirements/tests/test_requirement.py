@@ -28,6 +28,9 @@ class TestParseRequirement(testtools.TestCase):
         ('package', dict(
          line='swift',
          req=requirement.Requirement('swift', '', '', '', ''))),
+        ('package_with_underscore', dict(
+         line='posix_ipc',
+         req=requirement.Requirement('posix_ipc', '', '', '', ''))),
         ('specifier', dict(
          line='alembic>=0.4.1',
          req=requirement.Requirement('alembic', '', '>=0.4.1', '', ''))),
