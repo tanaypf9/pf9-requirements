@@ -157,7 +157,7 @@ def parse_line(req_line, permit_urls=False):
     elif req_line:
         # Pulled out a requirement
         parsed = pkg_resources.Requirement.parse(req_line)
-        name = parsed.project_name
+        name = parsed.unsafe_name
         extras = parsed.extras
         specifier = str(parsed.specifier)
     else:
