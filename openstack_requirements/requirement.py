@@ -106,7 +106,7 @@ def parse_line(req_line, permit_urls=False):
     elif req_line:
         # Pulled out a requirement
         parsed = pkg_resources.Requirement.parse(req_line)
-        name = parsed.project_name
+        name = parsed.unsafe_name
         specifier = str(parsed.specifier)
     else:
         # Comments / blank lines etc.
