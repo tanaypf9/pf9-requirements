@@ -70,6 +70,24 @@
       "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_aa65a51d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2015-08-01T00:06:40Z",
+      "side": 1,
+      "message": "The Octavia project needs this library to support the hot plugging of networks into our amphora load balancers and adding the required routing tables.  We proposed a parallel patchset (sorry, missed this one): https://review.openstack.org/#/c/207671/1\n\nWe are requesting a newer version of this package and included the upper-constraints file after running the requirements dependency tools.",
+      "parentUuid": "fa32b979_bb895228",
+      "revId": "0b295fa20ade7ed09f07fefc604ff70814937c2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
