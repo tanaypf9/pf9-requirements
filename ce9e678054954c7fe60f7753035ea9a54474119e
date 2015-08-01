@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a50d1a3_8a36a9b2",
+        "filename": "blacklist.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "From the other review - this seems wrong. Why is pip being blacklisted?\n\n https://review.openstack.org/#/c/204198/5/blacklist.txt",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_2ae2f501",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "For testing this probably wants to take a stdout parameter.\n\n def main(stdout\u003dNone):\n     if stdout is None:\n         stdout \u003d sys.stdout\n\nThough AFAICT its not being tested, so thats probably YAGNI for now.",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_aa336512",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "nit: blank line here isn\u0027t needed (and is against the docstring PEP).. unless of course hacking decides its needed and makes us cry.",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_2d0e8f32",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "This doesn\u0027t use really need to use any locals - its result isn\u0027t evaluated.\n\nso perhaps make it a global:\n\n def _satisfied(...)\n     result \u003d []\n   ...\n      result.append(\u0027Constraint for ....)\n    return  result",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_caa91126",
+        "filename": "openstack_requirements/tests/test_constraints.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "So I\u0027m still really not sure about this test.\n\nThe test_both test is checking folk don\u0027t manually add something to upper-constraints thats blacklisted. Thats good. (Or equally they didn\u0027t forget to pass blacklist to generate-constraints).\n\nHowever this is testing that something added to global-requirements is pinned.\n\nBut - I\u0027m not sure we need to make this an error, because:\n\n - if its not present, the periodic job that runs generate-constraints will add it for us.\n - projects using this can only add code using this in a narrow window - and they\u0027ll be pinned as soon as generate-constraints\u0027s proposed merge has come through.\n\nOTOH I don\u0027t think its harmful to check this *except* that you\u0027re also blacklisting pip, but I think that is a holdover from earlier versions, as pip is also in your hardcoded ignore list in constraints.py.",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_6a5c7d7d",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "Since these are now all testing functions from \u0027constraints\u0027 - perhaps this file should just be renamed to test_constraints.py?",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a50d1a3_aadfe50a",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-08-01T00:08:17Z",
+      "side": 1,
+      "message": "Why are we dropping pypy?",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
