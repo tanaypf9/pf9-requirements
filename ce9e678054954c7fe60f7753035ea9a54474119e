@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_e16c900a",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-03T20:37:05Z",
+      "side": 1,
+      "message": "Yeah, I\u0027m not convinced we need to go to those lengths now that most of the logic lives somewhere else and is being tested.",
+      "parentUuid": "3a50d1a3_2ae2f501",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_aa336512",
         "filename": "openstack_requirements/constraints.py",
         "patchSetId": 4
@@ -70,6 +88,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_2131180c",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-03T20:37:05Z",
+      "side": 1,
+      "message": "IIRC, you wrote this and I\u0027m just moving it to a new file. So let\u0027s leave it alone and consider improving it in another patch.",
+      "parentUuid": "3a50d1a3_2d0e8f32",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_caa91126",
         "filename": "openstack_requirements/tests/test_constraints.py",
         "patchSetId": 4
@@ -81,6 +117,24 @@
       "writtenOn": "2015-08-01T00:08:17Z",
       "side": 1,
       "message": "So I\u0027m still really not sure about this test.\n\nThe test_both test is checking folk don\u0027t manually add something to upper-constraints thats blacklisted. Thats good. (Or equally they didn\u0027t forget to pass blacklist to generate-constraints).\n\nHowever this is testing that something added to global-requirements is pinned.\n\nBut - I\u0027m not sure we need to make this an error, because:\n\n - if its not present, the periodic job that runs generate-constraints will add it for us.\n - projects using this can only add code using this in a narrow window - and they\u0027ll be pinned as soon as generate-constraints\u0027s proposed merge has come through.\n\nOTOH I don\u0027t think its harmful to check this *except* that you\u0027re also blacklisting pip, but I think that is a holdover from earlier versions, as pip is also in your hardcoded ignore list in constraints.py.",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_7c1a6370",
+        "filename": "openstack_requirements/tests/test_constraints.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-03T20:37:05Z",
+      "side": 1,
+      "message": "I do think we want people to update the constraints file themselves, because I want folks who suggest adding new requirements to understand what that means to the project. I want them to know that we test with different versions in different situations, and that they have to think about those things when they propose changes to the requirements. So I\u0027ll fix the pip blacklist thing (I think you\u0027re right, that\u0027s a rebase or merge mistake), but I would prefer to leave the test.",
+      "parentUuid": "3a50d1a3_caa91126",
       "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -104,6 +158,24 @@
     },
     {
       "key": {
+        "uuid": "1a4dcd0f_fc2433b0",
+        "filename": "openstack_requirements/tests/test_integration.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-03T20:37:05Z",
+      "side": 1,
+      "message": "That makes sense.",
+      "parentUuid": "3a50d1a3_6a5c7d7d",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a50d1a3_aadfe50a",
         "filename": "tox.ini",
         "patchSetId": 4
@@ -115,6 +187,24 @@
       "writtenOn": "2015-08-01T00:08:17Z",
       "side": 1,
       "message": "Why are we dropping pypy?",
+      "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_bc3eabb6",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-03T20:37:05Z",
+      "side": 1,
+      "message": "I dropped it from the list of default environments that one gets when running just \"tox\" so that folks can more cleanly run the primary set of tests before submitting changes. It still runs in the gate.",
+      "parentUuid": "3a50d1a3_aadfe50a",
       "revId": "ce9e678054954c7fe60f7753035ea9a54474119e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
