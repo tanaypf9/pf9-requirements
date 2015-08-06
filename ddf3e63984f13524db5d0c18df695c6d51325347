@@ -16,6 +16,24 @@
       "revId": "ddf3e63984f13524db5d0c18df695c6d51325347",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_7542f169",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 137,
+      "author": {
+        "id": 2903
+      },
+      "writtenOn": "2015-08-06T00:47:02Z",
+      "side": 1,
+      "message": "This can be updated as needed for the approval of this patch. There is the expectation that there will be incompatible changes in the next(ish) release of keystoneclient",
+      "parentUuid": "1a4dcd0f_f5a84122",
+      "revId": "ddf3e63984f13524db5d0c18df695c6d51325347",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
