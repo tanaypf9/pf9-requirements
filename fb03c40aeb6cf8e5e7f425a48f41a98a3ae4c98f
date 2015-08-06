@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_919bdf65",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-06T20:20:00Z",
+      "side": 1,
+      "message": "The git log between 1.0.1 and 1.0.4 is not trivial:\n\nhttp://paste.openstack.org/show/411401/",
+      "revId": "fb03c40aeb6cf8e5e7f425a48f41a98a3ae4c98f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
