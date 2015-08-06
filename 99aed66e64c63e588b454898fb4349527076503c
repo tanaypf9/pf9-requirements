@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_304eb73b",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-08-06T01:04:35Z",
+      "side": 1,
+      "message": "Should we have another test with oslo.thing in the path, too?",
+      "revId": "99aed66e64c63e588b454898fb4349527076503c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
