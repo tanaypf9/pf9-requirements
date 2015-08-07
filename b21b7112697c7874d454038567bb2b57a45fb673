@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_f5b8d8ea",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-07T19:45:45Z",
+      "side": 1,
+      "message": "It\u0027s actually 0.6.0, not 6.0.",
+      "revId": "b21b7112697c7874d454038567bb2b57a45fb673",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_b5b25005",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-07T19:45:45Z",
+      "side": 1,
+      "message": "0.5.2",
+      "revId": "b21b7112697c7874d454038567bb2b57a45fb673",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_d5b7dcf3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-07T19:45:45Z",
+      "side": 1,
+      "message": "0.6.0",
+      "revId": "b21b7112697c7874d454038567bb2b57a45fb673",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
