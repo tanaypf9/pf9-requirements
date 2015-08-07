@@ -16,6 +16,24 @@
       "revId": "786d00f543bb8b2cc4b0753a5761e5cfd2b46850",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_4d7b57be",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-07T14:00:17Z",
+      "side": 1,
+      "message": "I guess it\u0027s in the repo readme:\n\nhttp://git.openstack.org/cgit/openstack/requirements/tree/README.rst#n320\n\nSo I take this to mean I shouldn\u0027t update this as part of this change.",
+      "parentUuid": "1a4dcd0f_8d24ff0c",
+      "revId": "786d00f543bb8b2cc4b0753a5761e5cfd2b46850",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
