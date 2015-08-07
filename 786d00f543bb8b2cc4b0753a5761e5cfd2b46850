@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_8d24ff0c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-07T13:56:46Z",
+      "side": 1,
+      "message": "I\u0027m not totally sure if this should happen here or when we need to raise the minimum required version in g-r to greater than what the current upper-constraint is, i.e. if we left this alone do we only change it once we need \u003e\u003d0.7.0?\n\nSome comments at the top of this file about when to change it would be helpful.",
+      "revId": "786d00f543bb8b2cc4b0753a5761e5cfd2b46850",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
