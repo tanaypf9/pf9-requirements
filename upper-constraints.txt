@@ -191,7 +191,7 @@ oslo.rootwrap===2.1.0
 oslo.serialization===1.7.0
 oslo.service===0.5.0
 oslo.utils===2.1.0
-oslo.versionedobjects===0.6.0
+oslo.versionedobjects===0.7.0
 oslo.vmware===1.18.0
 oslosphinx===3.0.0
 oslotest===1.10.0
