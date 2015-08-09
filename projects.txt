@@ -36,6 +36,7 @@ openstack/murano
 openstack/murano-dashboard
 openstack/networking-odl
 openstack/networking-onos
+openstack/networking-ofagent
 openstack/networking-ovn
 openstack/networking-sfc
 openstack/networking-bgpvpn
