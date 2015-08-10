@@ -1,0 +1,13 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Verified+2: Jenkins
+Code-Review+1: Kyle Mestery <mestery@mestery.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Louis Fourie <louis.fourie@huawei.com>
+Code-Review+1: cathy <cathy.h.zhang@huawei.com>
+Code-Review+1: vikram.choudhary <vikram.choudhary@huawei.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Aug 2015 00:59:11 +0000
+Reviewed-on: https://review.openstack.org/209446
+Project: openstack/requirements
+Branch: refs/heads/master
