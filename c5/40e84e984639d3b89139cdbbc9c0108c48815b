@@ -1,0 +1,17 @@
+Verified+2: Jenkins
+Code-Review+1: Kyle Mestery <mestery@mestery.com>
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: German Eichberger <german.eichberger@hp.com>
+Code-Review+1: Michael Johnson <johnsomor@gmail.com>
+Code-Review+1: Al Miller <al.miller@ajmiller.net>
+Code-Review+1: Aishwarya Thangappa <aishwarya.thangappa@gmail.com>
+Code-Review+1: James Arendt <james.arendt@hp.com>
+Code-Review+1: Madhusudhan Kandadai <madhusudhan.openstack@gmail.com>
+Code-Review+1: Bharath M <bharath.stacker@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Aug 2015 00:48:30 +0000
+Reviewed-on: https://review.openstack.org/168764
+Project: openstack/requirements
+Branch: refs/heads/master
