@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Denis Egorenko <degorenko@mirantis.com>
+Code-Review+1: Evgeny Sikachev <esikachev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 12 Aug 2015 22:58:41 +0000
+Reviewed-on: https://review.openstack.org/212072
+Project: openstack/requirements
+Branch: refs/heads/master
