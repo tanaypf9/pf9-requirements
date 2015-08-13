@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_67f73d5a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-13T19:22:29Z",
+      "side": 1,
+      "message": "This is where I came up with 3.0.15 for py34 support:\n\nhttps://github.com/celery/kombu/commit/54198c62ed2d966bb16671e4dcc6934cdf05bc53",
+      "revId": "1f18fc5c69e2905e898633c6ba71aba8d7061a14",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
