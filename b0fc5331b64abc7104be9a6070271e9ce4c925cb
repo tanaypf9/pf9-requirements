@@ -16,6 +16,24 @@
       "revId": "b0fc5331b64abc7104be9a6070271e9ce4c925cb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_eddbf14d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-14T20:42:09Z",
+      "side": 1,
+      "message": "Yeah, I thought about that.  We could also pin requests to \u003d\u003d2.7.0 and urllib3\u003d\u003d1.10.4 but that\u0027s not so great either, so capping requests is probably the way to go.  Then if someone needs to raise the cap on requests they also have to think about raising the cap on urllib3.",
+      "parentUuid": "1a4dcd0f_07707ea3",
+      "revId": "b0fc5331b64abc7104be9a6070271e9ce4c925cb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
