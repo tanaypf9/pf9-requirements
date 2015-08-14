@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_07707ea3",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 10608
+      },
+      "writtenOn": "2015-08-14T19:51:21Z",
+      "side": 1,
+      "message": "would have to cap requests at 2.7.0 if we\u0027re going to cap urllib3 at 1.10.4. Else a newer version of requests could be used that needs a newer version of urllib3",
+      "revId": "b0fc5331b64abc7104be9a6070271e9ce4c925cb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
