@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_8056c6cc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-14T14:34:57Z",
+      "side": 1,
+      "message": "This should be \u003c0.8.0 per fungi.",
+      "revId": "61507258eef5144a79d46452a5fabafa744df391",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
