@@ -169,6 +169,11 @@ pyudev
 PyYAML>=3.1.0
 pywin32;sys_platform=='win32'
 qpid-python;python_version=='2.7'
+# NOTE(mriedem): If the version for requests changes you need to also consider
+# changing the required version of urllib3 since the requests package in pypi
+# has it's own fork of urllib3 but not all distros package that (like RHEL),
+# they instead opt to just have their requests package require their urllib3
+# package - but the supported versions need to be kept in sync.
 requests>=2.5.2
 requests-aws>=0.1.4    # BSD License (3 clause)
 requests-kerberos>=0.6;python_version=='2.7' # MIT
@@ -193,7 +198,7 @@ taskflow>=1.16.0
 tempest-lib>=0.6.1
 tooz>=0.16.0 # Apache-2.0
 tripleo-image-elements
-urllib3>=1.8.3
+urllib3>=1.8.3,<=1.10.4
 unicodecsv>=0.8.0
 warlock>=1.0.1,<2
 WebOb>=1.2.3
