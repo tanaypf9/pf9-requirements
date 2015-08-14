@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_ffecfcf4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 7012
+      },
+      "writtenOn": "2015-08-14T17:51:34Z",
+      "side": 1,
+      "message": "Should this come after \"cassandra-driver\" since \"cast\" comes after \"cass\"",
+      "revId": "1ee893c400bca198cbbfc87822b72ebaf8e00af6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
