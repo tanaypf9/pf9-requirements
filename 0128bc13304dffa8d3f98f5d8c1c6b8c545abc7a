@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_dd5b2c85",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 313,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2015-08-16T12:01:17Z",
+      "side": 1,
+      "message": "This is a downgrade of hacking and is not what the bug says.",
+      "revId": "0128bc13304dffa8d3f98f5d8c1c6b8c545abc7a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
