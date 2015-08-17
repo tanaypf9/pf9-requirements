@@ -146,6 +146,7 @@ keystonemiddleware===2.1.0
 kombu===3.0.26
 ldap3===0.9.8.8
 ldappool===1.0
+python-ldap-test===0.2.0
 libvirt-python===1.2.18
 linecache2===1.0.0
 logilab-common===1.0.2
