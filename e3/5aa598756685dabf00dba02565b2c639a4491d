@@ -1,0 +1,14 @@
+Verified+2: Jenkins
+Code-Review+1: Dave Walker <email@daviey.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Dan Nguyen <dan.nguyens.mail@gmail.com>
+Code-Review+1: Thai Tran <tqtran@us.ibm.com>
+Code-Review+1: Cindy Lu <clu@us.ibm.com>
+Code-Review+1: Diana Whitten <hurgleburgler@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Aug 2015 21:52:51 +0000
+Reviewed-on: https://review.openstack.org/206668
+Project: openstack/requirements
+Branch: refs/heads/master
