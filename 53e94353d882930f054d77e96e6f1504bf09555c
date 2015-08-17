@@ -16,6 +16,24 @@
       "revId": "53e94353d882930f054d77e96e6f1504bf09555c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_0f9a1515",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 238,
+      "author": {
+        "id": 15429
+      },
+      "writtenOn": "2015-08-17T13:04:58Z",
+      "side": 1,
+      "message": "no reason just tried to update to the latest version but removed it in my next patch.  Thanks",
+      "parentUuid": "1a4dcd0f_d44f7968",
+      "revId": "53e94353d882930f054d77e96e6f1504bf09555c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
