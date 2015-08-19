@@ -73,13 +73,13 @@ def merge_setup_cfg(old_content, new_extras):
             if type(extra) is _Comment:
                 out_extras.append(extra)
             elif type(extra) is _Extra:
-                if extra.name not in new_extras:
+                if extra.name.lower() not in new_extras:
                     out_extras.append(extra)
                     continue
                 e = _Extra(
                     extra.name,
                     requirement.to_content(
-                        new_extras[extra.name], ':', '  ', False))
+                        new_extras[extra.name.lower()], ':', '  ', False))
                 out_extras.append(e)
             else:
                 raise TypeError('unknown type %r' % extra)
