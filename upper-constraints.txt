@@ -229,7 +229,7 @@ pyroute2===0.3.11
 pysaml2===3.0.0
 pysendfile===2.0.1
 pysnmp===4.2.5
-pysqlite===2.7.0;python_version=='2.7'
+pysqlite===2.8.0;python_version=='2.7'
 pystache===0.5.4
 python-barbicanclient===3.2.0
 python-ceilometerclient===1.4.0
