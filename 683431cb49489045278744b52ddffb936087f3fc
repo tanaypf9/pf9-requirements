@@ -33,6 +33,23 @@
       "revId": "683431cb49489045278744b52ddffb936087f3fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_fcd0a5f9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-08-23T01:04:42Z",
+      "side": 1,
+      "message": "Hrm... no, it\u0027s not that simple after all. ciscoconfparse, when installed normally under Python 3, installs ipaddress already. For some reason, within the scope of this job, it\u0027s installing ipaddr instead under Python 3, and then breaking.",
+      "revId": "683431cb49489045278744b52ddffb936087f3fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
