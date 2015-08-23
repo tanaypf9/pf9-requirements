@@ -16,6 +16,23 @@
       "revId": "683431cb49489045278744b52ddffb936087f3fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_bc754d33",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-08-23T00:47:55Z",
+      "side": 1,
+      "message": "According to PEP 3144, a replacement for ipaddr (ipaddress) has been added to Python 3.3: https://www.python.org/dev/peps/pep-3144/ It should be possible to make ciscoconfparse use ipaddr only in Python 2.x, and depend on it conditionally (perhaps with an appropriate environment marker).",
+      "revId": "683431cb49489045278744b52ddffb936087f3fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
