@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa1b9901_aef72458",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-24T16:30:13Z",
+      "side": 1,
+      "message": "Seems safer to cap \u003c0.8.0, the last tempest neutron dsvm job I have from 8/15 was using alembic 0.7.7:\n\nhttp://logs.openstack.org/57/210557/1/check/gate-tempest-dsvm-neutron-full/b958c89/logs/pip-freeze.txt.gz",
+      "revId": "64b549e559e74674521ceb5b39fed1423a0c4089",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
