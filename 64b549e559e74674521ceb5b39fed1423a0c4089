@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "fa1b9901_b01f825a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-24T16:35:59Z",
+      "side": 1,
+      "message": "We should have a bug reported for this so we can track it in elastic-recheck too.",
+      "revId": "64b549e559e74674521ceb5b39fed1423a0c4089",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa1b9901_aef72458",
         "filename": "global-requirements.txt",
         "patchSetId": 1
