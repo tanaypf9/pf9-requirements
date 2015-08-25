@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Nikolay Starodubtsev <starodubcevna@gmail.com>
+Code-Review+1: Ekaterina Chernova <efedorova@mirantis.com>
+Code-Review+1: Kirill Zaitsev <kzaitsev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 25 Aug 2015 12:43:52 +0000
+Reviewed-on: https://review.openstack.org/216105
+Project: openstack/requirements
+Branch: refs/heads/master
