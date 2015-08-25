@@ -50,6 +50,23 @@
       "revId": "683431cb49489045278744b52ddffb936087f3fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa1b9901_d81a1f6f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-08-25T18:16:56Z",
+      "side": 1,
+      "message": "To follow up based on earlier conversation, lifeless correctly pointed out that conditional dependencies within setup.py are incompatible with Python wheels. An easy way to reproduce this is to clone ciscoconfparse, run `python setup.py bdist_wheel` in a Python 2.7 virtualenv, then try to pip install the resulting (supposedly universal based on its name) wheel from the dist subdirectory into a Python 3.x virtualenv. Henry has opened https://github.com/mpenning/ciscoconfparse/issues/47 to report this problem.",
+      "revId": "683431cb49489045278744b52ddffb936087f3fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
