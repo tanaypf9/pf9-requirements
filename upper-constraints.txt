@@ -21,7 +21,7 @@ SQLAlchemy===1.0.8
 SQLAlchemy-Utils===0.30.17
 Sphinx===1.2.3
 Tempita===0.5.2
-WSME===0.7.0
+WSME===0.8.0
 WebOb===1.4.1
 WebTest===2.0.18
 Werkzeug===0.10.4
@@ -55,7 +55,7 @@ XStatic-smart-table===1.4.5.3
 XStatic-term.js===0.0.4.2
 XenAPI===1.2
 aioeventlet===0.4
-alembic===0.8.1
+alembic===0.8.2
 amqp===1.4.6
 anyjson===0.3.3
 appdirs===1.4.0
@@ -69,9 +69,9 @@ bashate===0.3.1
 beautifulsoup4===4.4.0
 blockdiag===1.5.3
 boto===2.38.0
-botocore===1.1.9
+botocore===1.1.10
 cachetools===1.0.3
-cassandra-driver===2.6.0
+cassandra-driver===2.7.1
 ceilometermiddleware===0.2.0
 certifi===2015.4.28;python_version=='2.7'
 cffi===1.2.1
