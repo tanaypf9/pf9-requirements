@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Flavio Percoco <fpercoco@redhat.com>
+Workflow+1: Flavio Percoco <fpercoco@redhat.com>
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 28 Aug 2015 01:07:52 +0000
+Reviewed-on: https://review.openstack.org/216328
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
