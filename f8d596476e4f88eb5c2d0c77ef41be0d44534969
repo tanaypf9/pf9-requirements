@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_6d000602",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-28T15:09:52Z",
+      "side": 1,
+      "message": "whitespace nit here",
+      "revId": "f8d596476e4f88eb5c2d0c77ef41be0d44534969",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_8d2a3a7d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-28T15:09:52Z",
+      "side": 1,
+      "message": "Would be nice to know the commit in sqlalchemy that actually added this support so we can verify it\u0027s fixed in 0.9.9.  Doinga git blame in sqlalchemy/orm/session.py wasn\u0027t obvious to me how this was fixed.",
+      "revId": "f8d596476e4f88eb5c2d0c77ef41be0d44534969",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
