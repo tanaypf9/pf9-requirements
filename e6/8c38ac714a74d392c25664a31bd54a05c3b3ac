@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Clint Adams <clint@gcfm.net>
+Submitted-by: Jenkins
+Submitted-at: Fri, 28 Aug 2015 13:09:48 +0000
+Reviewed-on: https://review.openstack.org/216530
+Project: openstack/requirements
+Branch: refs/heads/master
