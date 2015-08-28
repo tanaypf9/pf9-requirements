@@ -33,6 +33,24 @@
       "revId": "f8d596476e4f88eb5c2d0c77ef41be0d44534969",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_adc93e7a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-08-28T15:16:32Z",
+      "side": 1,
+      "message": "Looks like it was this:\n\nhttps://bitbucket.org/zzzeek/sqlalchemy/commits/280497cc5bdae8a1aea2abd613fd22ec89166cd4\n\nWould be nice if zzzeek could confirm.",
+      "parentUuid": "da20952f_8d2a3a7d",
+      "revId": "f8d596476e4f88eb5c2d0c77ef41be0d44534969",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
