@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_6e79b7c7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13997
+      },
+      "writtenOn": "2015-08-30T06:02:05Z",
+      "side": 1,
+      "message": "s/lioense/license/",
+      "revId": "30ededbca742863b0f0ec4e86ef9464f9b82ad2a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
