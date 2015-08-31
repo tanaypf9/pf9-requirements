@@ -32,6 +32,7 @@ openstack/keystonemiddleware
 openstack/magnum
 openstack/manila
 openstack/mox3
+openstack/murano-specs
 openstack/murano
 openstack/murano-dashboard
 openstack/networking-l2gw
