@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Steve Martinelli <stevemar@ca.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Sep 2015 08:12:38 +0000
+Reviewed-on: https://review.openstack.org/217991
+Project: openstack/requirements
+Branch: refs/heads/master
