@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Nikhil Komawar <nik.komawar@gmail.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Nathan Reller <nathan.s.reller@gmail.com>
+Code-Review+1: Brianna Poulos <Brianna.Poulos@jhuapl.edu>
+Code-Review+1: Peter Hamilton <peter.hamilton@jhuapl.edu>
+Code-Review+1: dane-fichter <dane.fichter@jhuapl.edu>
+Code-Review+1: Steve Wilkerson <sw5822@att.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 03 Sep 2015 03:38:32 +0000
+Reviewed-on: https://review.openstack.org/184874
+Project: openstack/requirements
+Branch: refs/heads/master
