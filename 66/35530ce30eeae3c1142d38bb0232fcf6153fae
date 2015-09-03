@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Zhenguo Niu <niuzhenguo@huawei.com>
+Code-Review+1: Nikolay Mahotkin <nmakhotkin@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 03 Sep 2015 02:33:08 +0000
+Reviewed-on: https://review.openstack.org/194999
+Project: openstack/requirements
+Branch: refs/heads/master
