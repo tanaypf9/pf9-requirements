@@ -14,6 +14,7 @@ libzmq-dev
 libffi-dev
 libldap2-dev
 libsasl2-dev
+libkrb5-dev
 ccache
 # NOTE(flaper87): Temporarily needed for proton
 uuid-dev
