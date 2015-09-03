@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_6f0b15d7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 10343
+      },
+      "writtenOn": "2015-09-03T19:02:20Z",
+      "side": 1,
+      "message": "We probably want to pin this to \u003e\u003d whatever release has ironic support, since that\u0027s where we want to use it.",
+      "revId": "3ff08d26c7e683318efdd131e31f11ca26099cec",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
