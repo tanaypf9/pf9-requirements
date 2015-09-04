@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Workflow+1: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Morgan Fainberg <morgan.fainberg@gmail.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Marek Denis <marek.denis@cern.ch>
+Submitted-by: Jenkins
+Submitted-at: Fri, 04 Sep 2015 04:07:00 +0000
+Reviewed-on: https://review.openstack.org/217806
+Project: openstack/requirements
+Branch: refs/heads/master
