@@ -147,7 +147,7 @@ keystoneauth1===2.0
 kazoo===2.2.1
 kerberos===1.1.1;python_version=='2.7'
 keyring===5.4
-keystonemiddleware===2.1.0
+keystonemiddleware===2.2.0
 kombu===3.0.26
 ldap3===0.9.8.8
 ldappool===1.0
