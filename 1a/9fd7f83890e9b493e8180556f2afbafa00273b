@@ -1,0 +1,19 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Stan Lagun <slagun@mirantis.com>
+Code-Review+1: Nikolay Starodubtsev <starodubcevna@gmail.com>
+Code-Review+1: Ekaterina Chernova <efedorova@mirantis.com>
+Code-Review+1: Ruslan Kamaldinov <rkamaldinov@mirantis.com>
+Code-Review+1: Anastasia Kuznetsova <akuznetsova@mirantis.com>
+Code-Review+1: Dmytro Dovbii <ddovbii@mirantis.com>
+Code-Review+1: Victor Ryzhenkin <vryzhenkin@mirantis.com>
+Code-Review+1: Kirill Zaitsev <kzaitsev@mirantis.com>
+Code-Review+1: Steve Wilkerson <sw5822@att.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Sep 2015 22:00:53 +0000
+Reviewed-on: https://review.openstack.org/220568
+Project: openstack/requirements
+Branch: refs/heads/master
