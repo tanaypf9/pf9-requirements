@@ -16,6 +16,24 @@
       "revId": "ad1c10e8656efee20fe0bbf73de4a2bcac334e79",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_26cdb1b7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 105
+      },
+      "writtenOn": "2015-09-08T18:23:07Z",
+      "side": 1,
+      "message": "That\u0027s a good question, and I\u0027m not entirely sure to be honest. The versions of global-requirements for stable/juno and stable/kilo have this capped correctly, so perhaps we no longer need the cap here in master. Should I remove it?",
+      "parentUuid": "da20952f_53c50908",
+      "revId": "ad1c10e8656efee20fe0bbf73de4a2bcac334e79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
