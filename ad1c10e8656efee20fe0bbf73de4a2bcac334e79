@@ -34,6 +34,24 @@
       "revId": "ad1c10e8656efee20fe0bbf73de4a2bcac334e79",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_642e41fc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-09-08T19:26:13Z",
+      "side": 1,
+      "message": "I think that\u0027s an artifact from a time when the neutron team anticipated breaking changes. This release isn\u0027t what was anticipated, though, and now that we have the constraints system in place I agree you could remove the cap instead of raising it.",
+      "parentUuid": "da20952f_26cdb1b7",
+      "revId": "ad1c10e8656efee20fe0bbf73de4a2bcac334e79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
