@@ -70,11 +70,11 @@ beautifulsoup4===4.4.0
 blockdiag===1.5.3
 boto===2.38.0
 botocore===1.2.0
-cachetools===1.1.0
+cachetools===1.1.1
 cassandra-driver===2.7.1
 castellan===0.2.0
 ceilometermiddleware===0.2.0
-certifi===2015.9.6.1;python_version=='2.7'
+certifi===2015.9.6.2;python_version=='2.7'
 cffi===1.2.1
 chardet===2.3.0
 cliff===1.14.0
