@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_e4bfa8a8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-09T00:21:32Z",
+      "side": 1,
+      "message": "Hrm, yeah, minimum oslo.utils is 1.4.0, so this makes sense, but I\u0027d prefer not raising minimum required versions of libraries in stable if we can help it.\n\nI guess minimum oslo.utils was raised for a reason:\n\nefb080e744f7466942f977ae79ec2d74501494f6\n\nUnfortunately it looks like oslo.utils 1.4.0 was really for kilo, and the g-r sync that raised the minimum required version here:\n\nff05ecc7ea8e0ab4f7eb9c88a0de105ddd23f1a1\n\nIt makes me wonder if we should have created a stable/juno branch from oslo.utils 1.2.1 (which was the previous cap in g-r stable/juno for oslo.utils before efb080e744f7466942f977ae79ec2d74501494f6) and then synced g-r from stable/juno to that, and released it as 1.2.2.  Then we could have made the oslo.utils requirements for stable/juno as:\n\noslo.utils\u003e\u003d1.0.0,\u003c1.3",
+      "revId": "bc71669ab2d80c15a96c00523cab6ed615fbbd16",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
