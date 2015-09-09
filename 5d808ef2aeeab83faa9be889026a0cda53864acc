@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_a492104a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-09T00:14:44Z",
+      "side": 1,
+      "message": "This makes it sound like you\u0027re making the minimum required version 3.0, which isn\u0027t the case, you\u0027re just uncapping it.",
+      "revId": "5d808ef2aeeab83faa9be889026a0cda53864acc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
