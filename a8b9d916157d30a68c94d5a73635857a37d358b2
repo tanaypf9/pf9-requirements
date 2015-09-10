@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_19566c06",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-09-10T20:50:43Z",
+      "side": 1,
+      "message": "Does that imply that the cap needs to be applied in the stable branch before master? Or just that we would want folks to submit the full set of changes to all branches so they could be approved in a short time frame?",
+      "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
