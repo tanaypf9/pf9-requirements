@@ -212,6 +212,10 @@ class TestMergeSetupCfg(testtools.TestCase):
             'a': requirement.Requirements([blank, r1]),
             'c': requirement.Requirements([blank, r2])}
         merged = project.merge_setup_cfg(old_content, reqs)
+
+        # Note that the comment for d (r2 above) is removed, because
+        # specifiers don't have comments removed by the parser.
+
         expected = textwrap.dedent(u"""
             [metadata]
             name = fred
@@ -222,7 +226,7 @@ class TestMergeSetupCfg(testtools.TestCase):
               b>=1:python_version=='2.7'
             # comment
             c =
-              d # BSD
+              d
 
             [entry_points]
             console_scripts =

@@ -115,13 +115,17 @@ def parse_line(req_line, permit_urls=False):
     return Requirement(name, location, specifier, markers, comment)
 
 
-def to_content(reqs, marker_sep=';', line_prefix='', prefix=True):
+def to_content(reqs, marker_sep=';', line_prefix='', prefix=True,
+               comment_supported=True):
     lines = []
     if prefix:
         lines += _REQS_HEADER
     for req in reqs.reqs:
-        comment_p = ' ' if req.package else ''
-        comment = (comment_p + req.comment if req.comment else '')
+        if comment_supported:
+            comment_p = ' ' if req.package else ''
+            comment = (comment_p + req.comment if req.comment else '')
+        else:
+            comment = ''
         marker = marker_sep + req.markers if req.markers else ''
         package = line_prefix + req.package if req.package else ''
         location = req.location + '#egg=' if req.location else ''

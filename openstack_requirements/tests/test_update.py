@@ -389,7 +389,7 @@ class TestCopyRequires(testtools.TestCase):
 
     def test_extras_no_change(self):
         global_content = textwrap.dedent(u"""\
-            foo<2;python_version=='2.7' # BSD
+            foo<2;python_version=='2.7'
             foo>1;python_version!='2.7'
             freddy
             """)
@@ -399,7 +399,7 @@ class TestCopyRequires(testtools.TestCase):
 
             [extras]
             test =
-              foo<2:python_version=='2.7' # BSD
+              foo<2:python_version=='2.7'
               foo>1:python_version!='2.7'
             opt =
               freddy

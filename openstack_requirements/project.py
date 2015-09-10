@@ -79,7 +79,9 @@ def merge_setup_cfg(old_content, new_extras):
                 e = _Extra(
                     extra.name,
                     requirement.to_content(
-                        new_extras[extra.name], ':', '  ', False))
+                        new_extras[extra.name], marker_sep=':',
+                        line_prefix='  ', prefix=False,
+                        comment_supported=False))
                 out_extras.append(e)
             else:
                 raise TypeError('unknown type %r' % extra)
