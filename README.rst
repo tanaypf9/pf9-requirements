@@ -212,16 +212,38 @@ their change.
 General Review Criteria
 -----------------------
 
-- No specifications for library versions should contain version caps
+- Version caps are exceptional
 
-  As a community we value early feedback of broken upstream
-  requirements, so version caps should be avoided except when dealing
-  with exceptionally unstable libraries.
+  Version caps (`<` and `<=` specifiers) prevent us getting bugfixes in a
+  timely manner because we have to propogate the new permitted version to
+  every consumer within OpenStack before it becomes installable.
 
-  If a library is exceptionally unstable, we should also be
-  considering whether we want to replace it over time with one that
-  *is* stable, or to contribute to the upstream community to help
-  stabilize it.
+  More importantly, they cause significantly more work for dependency
+  resolvers because it partitions the installability of every transitive
+  dependency into two sets - we've had many gate deadlocks where packages have
+  had their requirements violated due to such caps in libraries last released
+  in a stable branch that had been capped.
+
+  Version caps are a reasonable thing to deal with deliberate upstream API
+  breaks that we have not yet worked around. Such caps even on stable branches
+  should be kept as short-lived as possible: working with the current releases
+  of our dependencies is important to keep the overall ecosystem of packages
+  co-installable.
+
+  In short, only use version caps to capture known breakage, not to avoid
+  possible breakage. The constraints system protects us from accidental
+  temporary breaks and gives us early warning of incompatible upstream
+  releases.
+
+- Version upgrades must never downgrade libraries
+
+  Downgrades are rarely tested by library authors, and constitute a high risk
+  scenario. If our requirements in release X permit a newer version than
+  permitted in release X+1, we will end up doing downgrades during grenade
+  testing.
+
+  Thus, `!=`, `<` and `<=` specifiers must also be applied to the previous
+  release (and transitively backwards to the oldest supported release).
 
 - Libraries should contain a sensible known working minimum version
 
