@@ -16,6 +16,24 @@
       "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_d925540a",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2015-09-10T21:05:40Z",
+      "side": 1,
+      "message": "honestly, I disagree. stable/kilo has shipped, it\u0027s in the field. Deciding that we cap stable/kilo later only helps for people that upgrade stable/kilo to that point, which might, itself, trigger a downgrade.\n\nAll this rule does is create an unrealistic sandbox environment and stick our fingers in our ears about how people\u0027s environments are going to end up in the field.",
+      "parentUuid": "da20952f_19566c06",
+      "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
