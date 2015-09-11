@@ -34,6 +34,42 @@
       "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_3d6eb700",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-11T00:03:02Z",
+      "side": 1,
+      "message": "@Sean - certainly, thats one way to argue it. However lets look a bit more closely - consider the pattern from liberty on, where we have published known-good for everything (upper-constraints.txt).\n\nFolk installing can be bucketed:\n - devstack\n - custom PyPI/git based CD deployment\n - binary RPM/dpkg etc deployment\n - other non-PyPI\n\ndevstack will be insulated - if we prevent downgrades, it won\u0027t get into constraints, and devstack in liberty on uses constraints.\n\na custom set of tooling can utilise constraints if they wish - and one of the themes around our dependencies is signalling what works - so I certainly hope folk do use it\n\nbinary RPM etc deployments are fundamentally more curated than our experience w/devstack, but again - the packages look to our requirements files and constraints files for guidance\n\nSo I see this more as avoiding handing out bad advice, not making an unrealistic sandbox.",
+      "parentUuid": "da20952f_d925540a",
+      "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_3d0d578f",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-11T00:03:02Z",
+      "side": 1,
+      "message": "I think full set would be fine.",
+      "parentUuid": "da20952f_19566c06",
+      "revId": "a8b9d916157d30a68c94d5a73635857a37d358b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
