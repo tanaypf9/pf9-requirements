@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_8af43cf1",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-11T14:03:32Z",
+      "side": 1,
+      "message": "https://github.com/openstack/python-keystoneauth-saml2 doesn\u0027t exist, but https://github.com/openstack/keystoneauth-saml2 does.",
+      "revId": "25d692525dfe8c1d2d0382358e958bac5486c929",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
