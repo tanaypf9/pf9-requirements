@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da20952f_f98ef325",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-11T16:27:40Z",
+      "side": 1,
+      "message": "Did you mean cinderclient?  Because you\u0027re actually changing cinderclient in the change.",
+      "revId": "6f45109bedb2ae70d2c7fb4574a269fb1459121d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da20952f_d999af6e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-11T16:27:40Z",
+      "side": 1,
+      "message": "This is cinderclient, not ceilometerclient, was that intentional?",
+      "revId": "6f45109bedb2ae70d2c7fb4574a269fb1459121d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
