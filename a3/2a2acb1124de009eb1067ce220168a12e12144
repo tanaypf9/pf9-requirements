@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Jeremy Stanley <fungi@yuggoth.org>
+Workflow+1: Jeremy Stanley <fungi@yuggoth.org>
+Code-Review+1: Anita Kuno <anteaya@anteaya.info>
+Submitted-by: Jenkins
+Submitted-at: Sat, 12 Sep 2015 00:56:02 +0000
+Reviewed-on: https://review.openstack.org/222768
+Project: openstack/requirements
+Branch: refs/heads/master
