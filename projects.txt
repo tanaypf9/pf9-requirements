@@ -120,6 +120,7 @@ openstack/tuskar
 openstack/tuskar-ui
 openstack/vmware-nsx
 openstack/zaqar
+openstack-infra/nodepool
 stackforge/blazar-nova
 stackforge/networking-bagpipe-l2
 stackforge/nova-docker
