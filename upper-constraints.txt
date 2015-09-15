@@ -1,3 +1,4 @@
+APScheduler===2.1.2
 Babel===2.0
 Django===1.8.4
 Flask===0.10.1
@@ -123,6 +124,7 @@ futures===3.0.3
 futurist===0.4.0
 gabbi===1.6.1
 glance-store===0.8.0
+gear===0.5.8
 greenlet===0.4.9
 happybase===0.9;python_version=='2.7'
 hgtools===6.3
@@ -241,6 +243,7 @@ python-barbicanclient===3.3.0
 python-ceilometerclient===1.4.0
 python-cinderclient===1.3.1
 python-congressclient===2015.1.0
+python-daemon===2.0.6
 python-dateutil===2.4.2
 python-designateclient===1.4.0
 python-editor===0.4
@@ -249,6 +252,7 @@ python-heatclient===0.7.0
 python-ironic-inspector-client===1.0.1
 python-ironicclient===0.8.0
 python-keystoneclient===1.7.0
+python-jenkins===0.4.8
 python-ldap===2.4.20;python_version=='2.7'
 python-magnumclient===0.2.1
 python-manilaclient===1.2.0
@@ -287,6 +291,7 @@ ryu===3.25
 selenium===2.47.1
 semantic-version===2.4.2
 seqdiag===0.9.5
+shade===0.13.0
 simplegeneric===0.8.1
 simplejson===3.8.0
 singledispatch===3.4.0.3
@@ -296,10 +301,12 @@ sphinxcontrib-blockdiag===1.5.4
 sphinxcontrib-docbookrestapi===0.2.1
 sphinxcontrib-httpdomain===1.4.0
 sphinxcontrib-pecanwsme===0.8.0
+sphinxcontrib-programoutput===0.8
 sphinxcontrib-seqdiag===0.8.4
 sqlalchemy-migrate===0.10.0
 sqlparse===0.1.16
 stevedore===1.7.0
+statsd===3.1
 suds-jurko===0.6
 sysv-ipc===0.6.8
 tablib===0.10.0
@@ -322,6 +329,7 @@ unicodecsv===0.13.0
 unittest2===1.1.0
 urllib3===1.12
 virtualenv===13.1.2
+voluptuous===0.8.7
 waitress===0.8.10
 warlock===1.1.0
 webcolors===1.5
