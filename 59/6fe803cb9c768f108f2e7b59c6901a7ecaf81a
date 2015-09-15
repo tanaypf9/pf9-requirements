@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: venkatamahesh <venkatamaheshkotha@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 15 Sep 2015 14:12:58 +0000
+Reviewed-on: https://review.openstack.org/223523
+Project: openstack/requirements
+Branch: refs/heads/master
