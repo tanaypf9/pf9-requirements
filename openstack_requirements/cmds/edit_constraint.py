@@ -13,6 +13,7 @@
 
 import optparse
 import os.path
+import re
 import sys
 import textwrap
 
@@ -21,11 +22,21 @@ from openstack_requirements import requirement
 
 
 def edit(reqs, name, replacement):
+    # NOTE(dims): We need to convert an arbitrary string to a
+    # standard distribution name
+    standard_name = re.sub('[^A-Za-z0-9.]+', '-', name)
     if not replacement:
-        reqs.pop(name, None)
+        if name in reqs:
+            reqs.pop(name, None)
+        elif standard_name in reqs:
+            reqs.pop(standard_name, None)
     else:
-        reqs[name] = [
-            (requirement.Requirement('', '', '', '', replacement), '')]
+        if standard_name in reqs:
+            reqs[standard_name] = [
+                (requirement.Requirement('', '', '', '', replacement), '')]
+        else:
+            reqs[name] = [
+                (requirement.Requirement('', '', '', '', replacement), '')]
     result = []
     for entries in reqs.values():
         for entry, _ in entries:

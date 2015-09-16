@@ -39,6 +39,18 @@ class SmokeTest(testtools.TestCase):
         content = open(constraints_path, 'rt').read()
         self.assertEqual('-e /path/to/foo\nbar===1\nquux==3\n', content)
 
+    def test_make_url_tolerate_dash_gots(self):
+        stdout = io.StringIO()
+        tmpdir = self.useFixture(fixtures.TempDir()).path
+        constraints_path = os.path.join(tmpdir, 'name.txt')
+        with open(constraints_path, 'wt') as f:
+            f.write('bar===1\nfoo-baz===1.0.2\nquux==3\n')
+        rv = edit.main(
+            [constraints_path, 'foo_baz', '--', '-e /path/to/foo_baz'], stdout)
+        self.assertEqual(0, rv)
+        content = open(constraints_path, 'rt').read()
+        self.assertEqual('-e /path/to/foo_baz\nbar===1\nquux==3\n', content)
+
     def test_edit_paths(self):
         stdout = io.StringIO()
         tmpdir = self.useFixture(fixtures.TempDir()).path
