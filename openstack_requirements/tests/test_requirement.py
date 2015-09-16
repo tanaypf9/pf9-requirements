@@ -124,3 +124,17 @@ class TestToReqs(testtools.TestCase):
     def test_not_urls(self):
         with testtools.ExpectedException(pkg_resources.RequirementParseError):
             list(requirement.to_reqs('file:///foo#egg=foo'))
+
+
+class TestCanonicalName(testtools.TestCase):
+
+    def test_underscores(self):
+        self.assertEqual('foo-bar', requirement.canonical_name('Foo_bar'))
+
+
+class TestToDict(testtools.TestCase):
+
+    def test_canonicalises(self):
+        req = requirement.Requirement('Foo_bar', '', '', '', '')
+        self.assertEqual(
+            {'foo-bar': [(req, '')]}, requirement.to_dict([(req, '')]))
