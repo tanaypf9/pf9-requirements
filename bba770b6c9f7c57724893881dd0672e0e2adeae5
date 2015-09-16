@@ -16,6 +16,24 @@
       "revId": "bba770b6c9f7c57724893881dd0672e0e2adeae5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_9f4c9e71",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-09-16T09:28:35Z",
+      "side": 1,
+      "message": "Good catch, thank you.",
+      "parentUuid": "ba15a1d1_ee689d89",
+      "revId": "bba770b6c9f7c57724893881dd0672e0e2adeae5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
