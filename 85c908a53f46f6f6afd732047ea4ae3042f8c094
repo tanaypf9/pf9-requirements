@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba15a1d1_64f8057c",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-16T19:24:36Z",
+      "side": 1,
+      "message": "There\u0027s already code in setuptools to do this, lets -not- duplicate it. Uhm, I can dig that up in a bit, but the pattern in pip is thing.safe_name().lower().",
+      "revId": "85c908a53f46f6f6afd732047ea4ae3042f8c094",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_6426c516",
+        "filename": "openstack_requirements/cmds/edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-16T19:24:36Z",
+      "side": 1,
+      "message": "reqs already has a canonicalised key - see openstack_requirements/requirement.py line 137 - we just need to make the canonicalised key more canonical, then this code shouldn\u0027t need to change at all (other than canonicalising name perhaps)",
+      "revId": "85c908a53f46f6f6afd732047ea4ae3042f8c094",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_241c4dc0",
+        "filename": "openstack_requirements/tests/test_edit_constraint.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-16T19:24:36Z",
+      "side": 1,
+      "message": "This test should be able to be entirely pure - we\u0027re not changing the IO layer - move it down into TestEdit and follow the pattern there - it\u0027ll be faster, and less munged together, and smaller.",
+      "revId": "85c908a53f46f6f6afd732047ea4ae3042f8c094",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
