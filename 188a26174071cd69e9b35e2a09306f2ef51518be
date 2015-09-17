@@ -16,6 +16,23 @@
       "revId": "188a26174071cd69e9b35e2a09306f2ef51518be",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_33a22a9a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 249,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2015-09-17T14:10:59Z",
+      "side": 1,
+      "message": "this will need to be bumped to 1.2.0. I\u0027ve put up one more patch https://review.openstack.org/#/c/223143/ in case you don\u0027t want it here",
+      "revId": "188a26174071cd69e9b35e2a09306f2ef51518be",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
