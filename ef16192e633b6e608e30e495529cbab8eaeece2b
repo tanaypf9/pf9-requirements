@@ -34,6 +34,23 @@
       "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_90d68c26",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-17T13:58:05Z",
+      "side": 1,
+      "message": "So this fixes 1.4.1 but when we release 1.4.2 for stable/juno oslo.utils we\u0027ll break the same way given we have overlapping requirements between stable/juno and stable/kilo:\n\nhttps://github.com/openstack/requirements/blob/stable/juno/global-requirements.txt#L68\n\noslo.utils\u003e\u003d1.4.0,\u003c1.5.0 # Apache-2.0\n\nWe should probably make those mutually exclusive.",
+      "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
