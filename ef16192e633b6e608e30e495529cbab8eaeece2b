@@ -16,6 +16,24 @@
       "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_dabbd6e3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-09-17T07:38:21Z",
+      "side": 1,
+      "message": "Flavio, you are correct.\n\nThe saving grace is that the ceilometer changes failed due to another reason so we haven\u0027t actually released anything that will break (I think)",
+      "parentUuid": "ba15a1d1_dfbd0869",
+      "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
