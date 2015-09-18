@@ -1,3 +1,4 @@
+python-manilaclient===1.4.0
 Babel===2.0
 Django===1.8.4
 Flask===0.10.1
@@ -251,7 +252,6 @@ python-ironicclient===0.8.0
 python-keystoneclient===1.7.0
 python-ldap===2.4.20;python_version=='2.7'
 python-magnumclient===0.2.1
-python-manilaclient===1.2.0
 python-memcached===1.57
 python-mimeparse===0.1.4
 python-mistralclient===1.0.1
