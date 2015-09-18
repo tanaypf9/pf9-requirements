@@ -69,6 +69,24 @@
       "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_5311c102",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-18T03:20:41Z",
+      "side": 1,
+      "message": "Confirm with lifeless, but I\u0027m pretty sure pbr won\u0027t let you release 1.4.50 and then try to release 1.4.2.",
+      "parentUuid": "ba15a1d1_18712876",
+      "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
