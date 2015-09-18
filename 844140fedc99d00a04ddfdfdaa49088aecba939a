@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba15a1d1_7d8da4d1",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2015-09-18T13:21:04Z",
+      "side": 0,
+      "message": "we should leave this as glance-store",
+      "revId": "844140fedc99d00a04ddfdfdaa49088aecba939a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
