@@ -51,6 +51,24 @@
       "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_18712876",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-09-18T03:05:36Z",
+      "side": 1,
+      "message": "The best thing I can think of is:\n\n - cap Juno at \u003c1.4.50\n - get that merged (juno) everywhere\n - release kilo of 1.4.50 (essentially retag 1.4.0)\n - raise the minimum in kilo to 1.4.50\n - get that merged (kilo) everywhere\n\nThen 1.4.0 -\u003e 1.4.49 would be for juno (OMG lets hope we don\u0027t have that may version bumps in 6-10 weeks ;P\nand 1.4.x (x \u003e\u003d50) would be the kilo range.\n\nI think that\u0027ll work in terms of ranges and it *should* work from a release POV as the various release ranges would meet the descendant criteria.  If you don\u0027t have a better idea I can hack this up next week and publish the reviews.\n\nThat\u0027s a little bit or work for lots of people, and a reasonable amount of work for a small number of people.  Is it worth it?",
+      "parentUuid": "ba15a1d1_90d68c26",
+      "revId": "ef16192e633b6e608e30e495529cbab8eaeece2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
