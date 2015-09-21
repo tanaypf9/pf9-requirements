@@ -1,4 +1,4 @@
-django_openstack_auth===2.0.0
+python-novaclient===2.30.0
 Babel===2.0
 Django===1.8.4
 Flask===0.10.1
@@ -99,6 +99,7 @@ django-bootstrap-form===3.2
 django-compressor===1.5
 django-formtools===1.0
 django-nose===1.4.1
+django-openstack-auth===2.0.0
 django-pyscss===2.0.2
 dnspython===1.12.0;python_version=='2.7'
 dnspython3===1.12.0;python_version=='3.4'
@@ -257,7 +258,6 @@ python-mimeparse===0.1.4
 python-mistralclient===1.1.0
 python-muranoclient===0.7.0
 python-neutronclient===3.0.0
-python-novaclient===2.29.0
 python-openstackclient===1.6.0
 python-openstacksdk===0.5.2
 python-qpid-proton===0.9.1.1;python_version=='2.7'
