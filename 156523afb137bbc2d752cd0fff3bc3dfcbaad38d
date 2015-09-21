@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba15a1d1_40ebd7b0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2015-09-21T15:08:19Z",
+      "side": 1,
+      "message": "Should probably leave the \u003e\u003d0.1.6 here unless you expect Zaqar actually works with earlier versions of falcon.",
+      "revId": "156523afb137bbc2d752cd0fff3bc3dfcbaad38d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
