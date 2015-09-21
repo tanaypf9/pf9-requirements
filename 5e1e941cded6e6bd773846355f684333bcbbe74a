@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba15a1d1_602294bb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-09-21T17:00:49Z",
+      "side": 1,
+      "message": "Actually does 1.1.9 work for stable/juno?  Given 2b10c7b51081306b4c675046fd7dfe9df375943d which sets the minimum oslo.config in DOA to 1.6.0, and g-r stable/juno has oslo.config\u003e\u003d1.4.0,\u003c\u003d1.6.0, I was wondering if DOA 1.1.9 even works in stable/juno if you had oslo.config\u003c1.6.0.  Maybe it doesn\u0027t matter since people could move up from oslo.config\u003c1.6.0 to 1.6.0 for stable/juno if necessary.",
+      "revId": "5e1e941cded6e6bd773846355f684333bcbbe74a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
