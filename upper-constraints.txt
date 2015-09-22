@@ -108,7 +108,7 @@ docutils===0.12
 dogpile.cache===0.5.6
 dogpile.core===0.4.1
 ecdsa===0.13
-elasticsearch===1.6.0
+elasticsearch===1.7.0
 enum34===1.0.4
 eventlet===0.17.4
 extras===0.0.3
@@ -169,7 +169,7 @@ nose===1.3.7
 nose-exclude===0.4.1
 nosehtmloutput===0.0.5
 nosexcover===1.0.10
-numpy===1.9.2
+numpy===1.9.3
 oauthlib===1.0.3
 openstack-doc-tools===0.30.1
 openstack.nose-plugin===0.11
@@ -178,7 +178,7 @@ openstacksdk===0.6.2
 ordereddict===1.1
 os-apply-config===0.1.31
 os-brick===0.4.0
-os-client-config===1.6.3
+os-client-config===1.7.4
 os-cloud-config===0.2.9
 os-collect-config===0.1.35
 os-net-config===0.1.4
@@ -257,7 +257,7 @@ python-mimeparse===0.1.4
 python-mistralclient===1.1.0
 python-muranoclient===0.7.0
 python-neutronclient===3.0.0
-python-novaclient===2.29.0
+python-novaclient===2.30.0
 python-openstackclient===1.6.0
 python-openstacksdk===0.5.2
 python-qpid-proton===0.10;python_version=='2.7'
@@ -268,7 +268,7 @@ python-troveclient===1.3.0
 python-tuskarclient===0.1.18
 python-zaqarclient===0.2.0
 pytidylib6===0.2.2
-pytz===2015.4
+pytz===2015.6
 pyudev===0.17
 pyzmq===14.7.0
 qpid-python===0.26;python_version=='2.7'
