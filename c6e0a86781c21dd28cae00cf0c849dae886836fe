@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba15a1d1_c7db65ec",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-22T00:22:54Z",
+      "side": 1,
+      "message": "This looks wrong now - need to move this line in 2 as well.",
+      "revId": "c6e0a86781c21dd28cae00cf0c849dae886836fe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_e7d6a9c2",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-09-22T00:22:54Z",
+      "side": 1,
+      "message": "and here.",
+      "revId": "c6e0a86781c21dd28cae00cf0c849dae886836fe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
