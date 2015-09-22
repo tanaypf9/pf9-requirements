@@ -16,6 +16,24 @@
       "revId": "5e1e941cded6e6bd773846355f684333bcbbe74a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba15a1d1_725ece46",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-09-22T07:18:51Z",
+      "side": 1,
+      "message": "Honestly I don\u0027t know that 1.1.9 works.  I assumed it did because it was the latest release supported by the old upper cap.  I\u0027ll do some testing and get back to you.",
+      "parentUuid": "ba15a1d1_602294bb",
+      "revId": "5e1e941cded6e6bd773846355f684333bcbbe74a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
