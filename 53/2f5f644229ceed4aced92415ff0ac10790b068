@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Craige McWhirter <craige@mcwhirter.com.au>
+Submitted-by: Jenkins
+Submitted-at: Tue, 22 Sep 2015 08:06:02 +0000
+Reviewed-on: https://review.openstack.org/221157
+Project: openstack/requirements
+Branch: refs/heads/master
