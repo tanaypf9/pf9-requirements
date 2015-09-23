@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Submitted-by: Jenkins
+Submitted-at: Wed, 23 Sep 2015 15:40:55 +0000
+Reviewed-on: https://review.openstack.org/226465
+Project: openstack/requirements
+Branch: refs/heads/master
