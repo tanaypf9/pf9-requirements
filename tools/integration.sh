@@ -98,7 +98,7 @@ for PROJECT in $PROJECTS ; do
         # have a corresponding stable branch.  This prevents us from trying and
         # failing to sync stable requirements to a library's master branch,
         # when that same library may be listed and capped in global-requirements.txt.
-        proj_branch="$(cd $REPODIR/$SHORT_PROJECT && git rev-parse --symbolic-full-name --abbrev-ref HEAD)"
+        proj_branch=$(cd $REPODIR/$SHORT_PROJECT && git rev-parse --symbolic-full-name --abbrev-ref HEAD)
         if [ "$proj_branch" != "$BRANCH" ]; then
             continue
         fi
