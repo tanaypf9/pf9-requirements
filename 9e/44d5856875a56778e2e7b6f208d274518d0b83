@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+1: Craige McWhirter <craige@mcwhirter.com.au>
+Submitted-by: Jenkins
+Submitted-at: Wed, 23 Sep 2015 12:03:13 +0000
+Reviewed-on: https://review.openstack.org/225363
+Project: openstack/requirements
+Branch: refs/heads/master
