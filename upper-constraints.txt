@@ -108,7 +108,7 @@ docutils===0.12
 dogpile.cache===0.5.6
 dogpile.core===0.4.1
 ecdsa===0.13
-elasticsearch===1.6.0
+elasticsearch===1.7.0
 enum34===1.0.4
 eventlet===0.17.4
 extras===0.0.3
@@ -121,7 +121,7 @@ funcsigs===0.4;python_version=='2.7'
 functools32===3.2.3.post2;python_version=='2.7'
 futures===3.0.3
 futurist===0.5.0
-gabbi===1.6.2
+gabbi===1.7.0
 glance-store===0.9.1
 greenlet===0.4.9
 happybase===0.9;python_version=='2.7'
@@ -149,7 +149,7 @@ keyring===5.4
 keystoneauth1===1.1.0
 keystonemiddleware===2.3.0
 kombu===3.0.26
-ldap3===0.9.9
+ldap3===0.9.9.1
 ldappool===1.0;python_version=='2.7'
 libvirt-python===1.2.19
 linecache2===1.0.0
@@ -169,7 +169,7 @@ nose===1.3.7
 nose-exclude===0.4.1
 nosehtmloutput===0.0.5
 nosexcover===1.0.10
-numpy===1.9.2
+numpy===1.9.3
 oauthlib===1.0.3
 openstack-doc-tools===0.30.1
 openstack.nose-plugin===0.11
@@ -268,7 +268,7 @@ python-troveclient===1.3.0
 python-tuskarclient===0.1.18
 python-zaqarclient===0.2.0
 pytidylib6===0.2.2
-pytz===2015.4
+pytz===2015.6
 pyudev===0.17
 pyzmq===14.7.0
 qpid-python===0.26;python_version=='2.7'
@@ -318,7 +318,7 @@ traceback2===1.4.0
 tripleo-image-elements===0.8.10
 trollius===2.0
 txaio===2.0.0
-unicodecsv===0.14.0
+unicodecsv===0.14.1
 unittest2===1.1.0
 urllib3===1.12
 virtualenv===13.1.2
