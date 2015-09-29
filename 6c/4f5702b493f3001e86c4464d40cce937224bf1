@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Alan Pevec <apevec@gmail.com>
+Workflow+1: Alan Pevec <apevec@gmail.com>
+Code-Review+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+1: David Lyle <dklyle0@gmail.com>
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 29 Sep 2015 19:52:47 +0000
+Reviewed-on: https://review.openstack.org/225549
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
