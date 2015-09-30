@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a1a9d01_47434c13",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 5046
+      },
+      "writtenOn": "2015-09-30T13:49:07Z",
+      "side": 1,
+      "message": "do we need to add the license here (not sure if we\u0027re still doing that)? looks like it\u0027s Apache-2.0 \n\nhttps://github.com/spulec/freezegun/blob/master/LICENSE",
+      "revId": "0284444da4a9974761f559eca0e64146b43b743f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
