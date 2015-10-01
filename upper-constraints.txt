@@ -1,3 +1,4 @@
+python-novaclient===2.31.0
 Babel===2.0
 Django===1.8.4
 Flask===0.10.1
@@ -257,7 +258,6 @@ python-mimeparse===0.1.4
 python-mistralclient===1.1.0
 python-muranoclient===0.7.0
 python-neutronclient===3.1.0
-python-novaclient===2.30.0
 python-openstackclient===1.7.0
 python-openstacksdk===0.5.2
 python-qpid-proton===0.10;python_version=='2.7'
