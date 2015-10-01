@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 01 Oct 2015 15:24:45 +0000
+Reviewed-on: https://review.openstack.org/229059
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
