@@ -296,6 +296,7 @@ sphinxcontrib-docbookrestapi
 sphinxcontrib-httpdomain
 sphinxcontrib-seqdiag
 sphinxcontrib-pecanwsme>=0.8
+sphinx_rtd_theme
 testrepository>=0.0.18
 testresources>=0.2.4
 testscenarios>=0.4
