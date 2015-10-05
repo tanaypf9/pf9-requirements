@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_f6a0d5a7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-05T18:03:20Z",
+      "side": 1,
+      "message": "This will be deleted on the next run: we don\u0027t have a win32 or darwin build environment to calculate these dependencies from. Does that matter to you?",
+      "revId": "b18f1305ae1c25f8f5b1b2f16d34e7652fb93f53",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
