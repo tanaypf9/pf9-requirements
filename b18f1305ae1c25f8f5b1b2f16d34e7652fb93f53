@@ -16,6 +16,24 @@
       "revId": "b18f1305ae1c25f8f5b1b2f16d34e7652fb93f53",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_7654c553",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2015-10-05T18:08:16Z",
+      "side": 1,
+      "message": "As long as global-requirements has these and the project in question (oslo.log) requirements has these, we should be ok",
+      "parentUuid": "7a2fa921_f6a0d5a7",
+      "revId": "b18f1305ae1c25f8f5b1b2f16d34e7652fb93f53",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
