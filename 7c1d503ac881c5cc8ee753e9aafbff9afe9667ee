@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_6c69548b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-05T18:55:50Z",
+      "side": 1,
+      "message": "You also need to raise the minimum given the description you gave: \u003c1.3 is broken. No?",
+      "revId": "7c1d503ac881c5cc8ee753e9aafbff9afe9667ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
