@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7a2fa921_e5f45d88",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2015-10-06T21:42:57Z",
+      "side": 1,
+      "message": "Good to know. I assumed the intent was a judgement of \"is this library worthwhile?\" I figured I needed to demonstrate usage / benefit towards that goal. I\u0027ll leave it here - if nothing else, I\u0027ll likely point others towards this change if they want to utilize pep257 themselves.",
+      "parentUuid": "7a2fa921_72e6d8b5",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a2fa921_928ff4cb",
         "filename": "/COMMIT_MSG",
         "patchSetId": 7
@@ -30,6 +48,24 @@
       "writtenOn": "2015-10-06T20:05:59Z",
       "side": 1,
       "message": "I can\u0027t tell what this is - this is essentially our audit log, so what I\u0027m looking for here is something like \u0027flake8_docstrings is MIT licensed\u0027. The URL might not be stable (not to mention that the shortner is a risk as well...), particularly if flake8 moved hosting or some such: it would be impossible to tell if the license changed in future, for instance.",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_a54505b4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2015-10-06T21:42:57Z",
+      "side": 1,
+      "message": "I assume that means the URL is merely a convenience rather than part of the audit history, in which case, bit.ly serves as a convenience, and I\u0027ll add an explicit mention of MIT.",
+      "parentUuid": "7a2fa921_928ff4cb",
       "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -70,6 +106,24 @@
     },
     {
       "key": {
+        "uuid": "7a2fa921_854fa9bc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2015-10-06T21:42:57Z",
+      "side": 1,
+      "message": "Erm, it should have been a link to the specific (entire) module that will become redundant with pep257: hacking.checks.docstrings\n\nWill revise to eliminate any confusion.",
+      "parentUuid": "7a2fa921_d2732ce6",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a2fa921_522f1cf6",
         "filename": "global-requirements.txt",
         "patchSetId": 7
@@ -81,6 +135,24 @@
       "writtenOn": "2015-10-06T20:05:59Z",
       "side": 1,
       "message": "This needs to be blacklisted too.\n\n(We can\u0027t force sync *anything* that when updated instant-bugs projects, and linters are often in that category).",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_e5d77dbd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 325,
+      "author": {
+        "id": 4
+      },
+      "writtenOn": "2015-10-06T21:42:57Z",
+      "side": 1,
+      "message": "I excluded it from the blacklist because it implements no linting itself, but there is certainly some risk that it could suddenly require a higher version of pep257 than we\u0027re ready for someday.",
+      "parentUuid": "7a2fa921_522f1cf6",
       "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
