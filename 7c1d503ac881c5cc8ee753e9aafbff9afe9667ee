@@ -16,6 +16,24 @@
       "revId": "7c1d503ac881c5cc8ee753e9aafbff9afe9667ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_4b9554e2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-10-06T00:46:57Z",
+      "side": 1,
+      "message": "This doesn\u0027t match the change in master where the minimum is \u003e\u003d1.3.4",
+      "parentUuid": "7a2fa921_6c69548b",
+      "revId": "7c1d503ac881c5cc8ee753e9aafbff9afe9667ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
