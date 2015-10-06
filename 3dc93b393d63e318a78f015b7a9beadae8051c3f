@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_72e6d8b5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-06T20:05:59Z",
+      "side": 1,
+      "message": "(No action required). The detail here is entirely irrelevant to the requirements process: we don\u0027t particularly care how much, or how ready a user is of a proposed depedendency. We care solely about the questions from README :). So - I hope you didn\u0027t spend much time on this \u0027consuming projects\u0027 section, and in future changes I suggest you don\u0027t bother at all. Just \u0027we want this in keystone for CI\u0027 is *more* than sufficient (when combined with the other stuff below).",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_928ff4cb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-06T20:05:59Z",
+      "side": 1,
+      "message": "I can\u0027t tell what this is - this is essentially our audit log, so what I\u0027m looking for here is something like \u0027flake8_docstrings is MIT licensed\u0027. The URL might not be stable (not to mention that the shortner is a risk as well...), particularly if flake8 moved hosting or some such: it would be impossible to tell if the license changed in future, for instance.",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_3264e020",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-06T20:05:59Z",
+      "side": 1,
+      "message": "I think this will be fine as the transitive deps are all pure python and Python3 ready.",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_d2732ce6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-06T20:05:59Z",
+      "side": 1,
+      "message": "(nit) I\u0027m not sure what the url here is about? Its a link to the tip of hacking\u0027s code - but just skip the url - it doesn\u0027t add anything if one presumes(as I do) that you\u0027ve done a good faith check.. which your statement in the next paragraph makes crystal clear.",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_522f1cf6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 325,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-06T20:05:59Z",
+      "side": 1,
+      "message": "This needs to be blacklisted too.\n\n(We can\u0027t force sync *anything* that when updated instant-bugs projects, and linters are often in that category).",
+      "revId": "3dc93b393d63e318a78f015b7a9beadae8051c3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
