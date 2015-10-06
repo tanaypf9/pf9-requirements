@@ -157,7 +157,7 @@ logilab-common===1.0.2
 logutils===0.3.3
 lxml===3.4.4
 mock===1.3.0
-monotonic===0.3
+monotonic===0.4
 mox===0.5.3
 mox3===0.10.0
 msgpack-python===0.4.6
@@ -169,7 +169,7 @@ nose===1.3.7
 nose-exclude===0.4.1
 nosehtmloutput===0.0.5
 nosexcover===1.0.10
-numpy===1.9.3
+numpy===1.10.0
 oauthlib===1.0.3
 openstack-doc-tools===0.30.1
 openstack.nose-plugin===0.11
@@ -211,13 +211,14 @@ passlib===1.6.5
 pathlib===1.0.1;python_version=='2.7'
 pbr===1.8.0
 pecan===1.0.2
-pexpect===3.2
+pexpect===4.0
 ply===3.8
 posix-ipc===1.0.0
 prettytable===0.7.2
 proboscis===1.2.6.0
 psutil===1.2.1
 psycopg2===2.6.1
+ptyprocess===0.5
 pyOpenSSL===0.15.1
 pyScss===1.3.4
 pyasn1===0.1.9
@@ -325,7 +326,7 @@ urllib3===1.12
 virtualenv===13.1.2
 waitress===0.8.10
 warlock===1.1.0
-weakrefmethod===1.0.1
+weakrefmethod===1.0.1;python_version=='2.7'
 webcolors===1.5
 websocket-client===0.32.0
 websockify===0.7.0
@@ -336,4 +337,4 @@ xattr===0.7.8
 xvfbwrapper===0.2.5
 yaql===1.0.2
 zake===0.2.2
-zope.interface===4.1.2
+zope.interface===4.1.3
