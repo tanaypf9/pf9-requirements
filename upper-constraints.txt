@@ -69,7 +69,7 @@ bashate===0.3.1
 beautifulsoup4===4.4.1
 blockdiag===1.5.3
 boto===2.38.0
-botocore===1.2.7
+botocore===1.2.8
 cachetools===1.1.3
 cassandra-driver===2.7.2
 castellan===0.2.1
@@ -132,7 +132,7 @@ idna===2.0
 influxdb===2.9.1
 ipaddress===1.0.14;python_version=='2.7'
 ironic-discoverd===1.1.0
-ironic-lib===0.2.0
+ironic-lib===0.3.0
 iso8601===0.1.10
 itsdangerous===0.24
 jmespath===0.9.0
@@ -147,7 +147,7 @@ kazoo===2.2.1
 kerberos===1.1.1;python_version=='2.7'
 keyring===5.4
 keystoneauth1===1.1.0
-keystonemiddleware===2.3.0
+keystonemiddleware===2.3.1
 kombu===3.0.26
 ldap3===0.9.9.1
 ldappool===1.0;python_version=='2.7'
@@ -157,9 +157,9 @@ logilab-common===1.0.2
 logutils===0.3.3
 lxml===3.4.4
 mock===1.3.0
-monotonic===0.3
+monotonic===0.4
 mox===0.5.3
-mox3===0.10.0
+mox3===0.11.0
 msgpack-python===0.4.6
 netaddr===0.7.18
 netifaces===0.10.4
@@ -169,7 +169,7 @@ nose===1.3.7
 nose-exclude===0.4.1
 nosehtmloutput===0.0.5
 nosexcover===1.0.10
-numpy===1.9.3
+numpy===1.10.0
 oauthlib===1.0.3
 openstack-doc-tools===0.30.1
 openstack.nose-plugin===0.11
@@ -196,7 +196,7 @@ oslo.middleware===2.8.0
 oslo.policy===0.11.0
 oslo.reports===0.5.0
 oslo.rootwrap===2.3.0
-oslo.serialization===1.9.0
+oslo.serialization===1.10.0
 oslo.service===0.9.0
 oslo.utils===2.5.0
 oslo.versionedobjects===0.10.0
@@ -211,13 +211,14 @@ passlib===1.6.5
 pathlib===1.0.1;python_version=='2.7'
 pbr===1.8.0
 pecan===1.0.2
-pexpect===3.2
+pexpect===4.0.1
 ply===3.8
 posix-ipc===1.0.0
 prettytable===0.7.2
 proboscis===1.2.6.0
 psutil===1.2.1
 psycopg2===2.6.1
+ptyprocess===0.5
 pyOpenSSL===0.15.1
 pyScss===1.3.4
 pyasn1===0.1.9
@@ -249,7 +250,7 @@ python-glanceclient===1.1.0
 python-heatclient===0.8.0
 python-ironic-inspector-client===1.2.0
 python-ironicclient===0.9.0
-python-keystoneclient===1.7.1
+python-keystoneclient===1.7.2
 python-ldap===2.4.21;python_version=='2.7'
 python-magnumclient===0.2.1
 python-manilaclient===1.4.0
@@ -276,7 +277,7 @@ qpid-python===0.26;python_version=='2.7'
 redis===2.10.3
 repoze.lru===0.6
 repoze.who===2.2
-requests===2.7.0
+requests===2.8.0
 requests-aws===0.1.8
 requests-kerberos===0.7.0;python_version=='2.7'
 requests-mock===0.6.0
@@ -291,7 +292,7 @@ seqdiag===0.9.5
 simplegeneric===0.8.1
 simplejson===3.8.0
 singledispatch===3.4.0.3
-six===1.9.0
+six===1.10.0
 sockjs-tornado===1.0.2
 sphinxcontrib-blockdiag===1.5.4
 sphinxcontrib-docbookrestapi===0.2.1
@@ -304,7 +305,7 @@ stevedore===1.8.0
 suds-jurko===0.6
 sysv-ipc===0.6.8
 tablib===0.10.0
-taskflow===1.21.0
+taskflow===1.22.0
 tempest-lib===0.9.0
 termcolor===1.1.0
 testrepository===0.0.20
@@ -325,7 +326,7 @@ urllib3===1.12
 virtualenv===13.1.2
 waitress===0.8.10
 warlock===1.1.0
-weakrefmethod===1.0.1
+weakrefmethod===1.0.1;python_version=='2.7'
 webcolors===1.5
 websocket-client===0.32.0
 websockify===0.7.0
@@ -336,4 +337,4 @@ xattr===0.7.8
 xvfbwrapper===0.2.5
 yaql===1.0.2
 zake===0.2.2
-zope.interface===4.1.2
+zope.interface===4.1.3
