@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_5bbd8db5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-10-08T19:36:32Z",
+      "side": 1,
+      "message": "We need to specify a minimum version, and we need environment markers to restrict this to the relevant versions of python (see happybase as an example).",
+      "revId": "36a962305c1cbfb2e96ecbed87625759abaa95e0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
