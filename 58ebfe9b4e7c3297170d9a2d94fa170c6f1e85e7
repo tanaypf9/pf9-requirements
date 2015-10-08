@@ -33,6 +33,24 @@
       "revId": "58ebfe9b4e7c3297170d9a2d94fa170c6f1e85e7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_d5416164",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-08T23:58:41Z",
+      "side": 1,
+      "message": "It\u0027s not unrelated to the first bug in the commit message though.\n\nDo we move the urllib3 cap to upper-constraints then since u-c has requests capped at 2.7.0 and that bundles urllib3 1.10.4:\n\nhttps://github.com/kennethreitz/requests/blob/v2.7.0/requests/packages/urllib3/__init__.py#L7\n\nSo I\u0027d think we also cap urllib3 at 1.10.4 in upper-constraints.",
+      "parentUuid": "7a2fa921_d5a8818e",
+      "revId": "58ebfe9b4e7c3297170d9a2d94fa170c6f1e85e7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
