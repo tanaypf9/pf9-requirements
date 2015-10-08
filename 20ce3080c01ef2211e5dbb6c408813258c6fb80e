@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_5001f804",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-08T15:02:08Z",
+      "side": 1,
+      "message": "I\u0027d prefer that we go with this:\n\nhttps://review.openstack.org/#/c/213310/\n\nGiven urllib3 and requests versions are tied together.",
+      "revId": "20ce3080c01ef2211e5dbb6c408813258c6fb80e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
