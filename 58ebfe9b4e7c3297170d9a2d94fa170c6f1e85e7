@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_b594e542",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-08T23:40:07Z",
+      "side": 1,
+      "message": "This should be !\u003d 2.8.0, not \u003c 2.8.0, since upstream are fixing the regression vs it being a deliberate API break we need time to adjust to.",
+      "revId": "58ebfe9b4e7c3297170d9a2d94fa170c6f1e85e7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_d5a8818e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-08T23:40:07Z",
+      "side": 1,
+      "message": "So this is unrelated to the 2.8.0 thing. And its complex - its literally only ever a problem when mixing distro packages + pip packages, which doesn\u0027t work - this is only a single special case of how it won\u0027t work.",
+      "revId": "58ebfe9b4e7c3297170d9a2d94fa170c6f1e85e7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
