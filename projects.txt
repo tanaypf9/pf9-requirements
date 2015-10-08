@@ -107,6 +107,8 @@ openstack/python-troveclient
 openstack/python-tuskarclient
 openstack/python-zaqarclient
 openstack/rally
+openstack/release-tools
+openstack/releases
 openstack/requirements
 openstack/sahara
 openstack/sahara-dashboard
