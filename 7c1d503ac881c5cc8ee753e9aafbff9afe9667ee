@@ -34,6 +34,24 @@
       "revId": "7c1d503ac881c5cc8ee753e9aafbff9afe9667ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_bbfb4f78",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2015-10-09T17:13:18Z",
+      "side": 1,
+      "message": "Yeah, but we don\u0027t want forced update on stable branch, just to allow fixed version.",
+      "parentUuid": "7a2fa921_6c69548b",
+      "revId": "7c1d503ac881c5cc8ee753e9aafbff9afe9667ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
