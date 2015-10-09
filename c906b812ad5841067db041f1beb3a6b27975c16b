@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a2fa921_92b3cd97",
+        "filename": "README.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-09T20:50:26Z",
+      "side": 1,
+      "message": "I guess I\u0027m not familiar with the early warning system, but from a packager perspective (when I was doing that anyway), we\u0027d rely on requirements.txt in a project to determine the versions of dependencies we should be shipping, which meant raising minimums when needed and not going past caps.\n\nWith upper-constraints, those caps are enforced in the openstack CI system but not in requirementst.txt in the projects themselves which is what we\u0027re ultimately installing (not in a venv in a lot of cases).  So if we know that a newer version of a thing will break an openstack project, it seems wrong to not cap it in g-r even if we\u0027re isolated with capping it in upper-constraints.  The recent requests 2.8.0 breakage comes to mind.\n\nAnd I don\u0027t think it\u0027s really fair to packagers/deployers to say, you have to only install in venvs and you have to install using not only requirements.txt but also upper-constraints.txt - which is a thing defined in a separate repo from the actual project you\u0027re installing.\n\nMaybe none of this mini-rant makes sense here though in what you\u0027re trying to describe. :)  I\u0027m having a hard time describing what I think are going to be painful situations that packagers and deployers are going to have to find out the hard way which we\u0027re isolating ourselves from.",
+      "revId": "c906b812ad5841067db041f1beb3a6b27975c16b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
