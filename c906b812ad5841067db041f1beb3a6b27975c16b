@@ -16,6 +16,24 @@
       "revId": "c906b812ad5841067db041f1beb3a6b27975c16b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a2fa921_5ce69517",
+        "filename": "README.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-11T22:00:16Z",
+      "side": 1,
+      "message": "http://specs.openstack.org/openstack/openstack-specs/specs/requirements-management.html digs into this in more detail, but fundamentally we *can\u0027t* use requirements.txt to list \u0027might be broken\u0027. We can use it to list \u0027known broken\u0027.\n\n !\u003d is a \u0027known broken\u0027 situation.\n \u003c and \u003c\u003d are \u0027might be broken\u0027 statements.\n\nSo when you say \"So if we know that a newer version of a thing will break an openstack project, it seems wrong to not cap it in g-r even if we\u0027re isolated with capping it in upper-constraints. The recent requests 2.8.0 breakage comes to mind.\"  - thats \"known breakage\" not \"possible breakage\" - and we should totally !\u003d 2.8.0.\n\nI am in now way am proposing that packagers or deployers only use venvs.\n\n*however* - requirements.txt with upper caps is pathologically bad: it requires a *release* of the world to lift any cap. That is a tonne of work that has nothing to do with whether those projects needed changing to be compatible. Its reflecting the need to be coinstallable - and thats a centralised project, thus upper-constraints.txt.\n\nPerhaps we should talk on IRC or at the summit - upper-constraints.txt actually is aimed at communicating known-good much much better for packagers - so they shoud have one and only one place to look for what is known to work. If they want to ship older or newer versions of course, then they need their own CI to test it - because requirements.txt is *not* tested across the full set of releases of dependencies (and upper-constraints.txt has in no way changed that testing).",
+      "parentUuid": "7a2fa921_92b3cd97",
+      "revId": "c906b812ad5841067db041f1beb3a6b27975c16b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
