@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Sam Betts <sam@code-smash.net>
+Code-Review+1: Swaminathan Vasudevan <swaminathan.vasudevan@hp.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Submitted-by: Jenkins
+Submitted-at: Mon, 12 Oct 2015 21:00:18 +0000
+Reviewed-on: https://review.openstack.org/233724
+Project: openstack/requirements
+Branch: refs/heads/master
