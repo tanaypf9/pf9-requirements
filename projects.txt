@@ -100,6 +100,7 @@ openstack/python-neutronclient
 openstack/python-novaclient
 openstack/python-openstackclient
 openstack/python-saharaclient
+openstack/python-scciclient
 openstack/python-solumclient
 openstack/python-swiftclient
 openstack/python-tripleoclient
