@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Jesse Pretorius <jesse.pretorius@rackspace.co.uk>
+Code-Review+1: Kevin Carter <kevin.carter@rackspace.com>
+Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 13 Oct 2015 08:05:00 +0000
+Reviewed-on: https://review.openstack.org/232917
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
