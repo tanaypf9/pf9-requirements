@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2ca52d_c3b39509",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2015-10-13T14:04:15Z",
+      "side": 1,
+      "message": "these should all be \u003c0.8.0 (etc.) so that we can release fixes.",
+      "revId": "2a4fed57ad22cd10fc12970fd58b311ad1b4f1cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
