@@ -1,6 +1,7 @@
 flake8
 hacking
 mccabe
+openstackdocstheme
 pep8
 pyflakes
 pylint
