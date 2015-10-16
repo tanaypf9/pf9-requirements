@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2ca52d_151619f1",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-10-16T02:16:16Z",
+      "side": 1,
+      "message": "I think this will break ceilometer",
+      "revId": "25bce91c70958c289b77d9b7e15f0bce12fa5696",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
