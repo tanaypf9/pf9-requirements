@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2ca52d_e0385df0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-16T15:36:21Z",
+      "side": 1,
+      "message": "Can you provide some more details on the bug?  I think the issue is related to juno pulling in DOA at a version that pulls in new enough oslo.i18n that dropped namespaces, and we have capped oslo.i18n in juno which conflicts with this, so we fail to install it.  Is that right?\n\nAnd then the plan was to sync g-r stable/juno to DOA and release as 1.1.10?\n\nI see that DOA doesn\u0027t even have a stable/juno branch, so one would have to be created and synced with g-r stable/juno.  What tag would be picked for creating the stable/juno branch?  I\u0027m guessing 1.1.9?",
+      "revId": "576dfe4938635065fcde2f6e250fdf2ca8e45692",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
