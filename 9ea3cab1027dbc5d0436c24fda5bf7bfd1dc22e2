@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a2ca52d_919a226d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-16T14:49:18Z",
+      "side": 1,
+      "message": "whitespace issues here",
+      "revId": "9ea3cab1027dbc5d0436c24fda5bf7bfd1dc22e2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a2ca52d_318a2e1c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-16T14:49:18Z",
+      "side": 1,
+      "message": "What is the related bug?",
+      "revId": "9ea3cab1027dbc5d0436c24fda5bf7bfd1dc22e2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
