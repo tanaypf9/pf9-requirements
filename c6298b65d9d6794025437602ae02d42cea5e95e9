@@ -33,6 +33,24 @@
       "revId": "c6298b65d9d6794025437602ae02d42cea5e95e9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a2ca52d_b13cfec8",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-10-16T14:42:07Z",
+      "side": 1,
+      "message": "Confirmed with Anita in IRC.",
+      "parentUuid": "5a2ca52d_a68b62c2",
+      "revId": "c6298b65d9d6794025437602ae02d42cea5e95e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
