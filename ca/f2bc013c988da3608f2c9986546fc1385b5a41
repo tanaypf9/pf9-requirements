@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+1: Ben Swartzlander <ben@swartzlander.org>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: xing-yang <xing.yang@emc.com>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Mark Sturdevant <mark.sturdevant@hp.com>
+Code-Review+1: Clinton Knight <cknight@netapp.com>
+Submitted-by: Jenkins
+Submitted-at: Sat, 17 Oct 2015 02:53:13 +0000
+Reviewed-on: https://review.openstack.org/226223
+Project: openstack/requirements
+Branch: refs/heads/master
