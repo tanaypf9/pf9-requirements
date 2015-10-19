@@ -16,6 +16,24 @@
       "revId": "576dfe4938635065fcde2f6e250fdf2ca8e45692",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a29b11f_58b0c1f4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-10-19T09:57:34Z",
+      "side": 1,
+      "message": "Actually it\u0027s oslo.config not olso.i18n.  DOA has an uncapped requirement on oslo.config and it\u0027s getting (2.x which has dropped the namespace).  But the rest of your logic is correct.\n\nI\u0027ll make the DOA change locally and run up a devstack to make sure we don\u0027t then run a foul of the oslo.i18n/oslo.utils issue.",
+      "parentUuid": "5a2ca52d_e0385df0",
+      "revId": "576dfe4938635065fcde2f6e250fdf2ca8e45692",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
