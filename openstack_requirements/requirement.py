@@ -30,9 +30,15 @@ _REQS_HEADER = [
     '# process, which may cause wedges in the gate later.\n',
 ]
 
+class Requirement(collections.namedtuple('Requirement',
+                                         ['package', 'location', 'specifiers',
+                                          'markers', 'comment', 'extras'])):
+    def __new__(cls, package, location, specifiers, markers, comment,
+                 extras=()):
+        return super(Requirement, cls).__new__(cls, package, location,
+                                               specifiers, markers, comment,
+                                               extras)
 
-Requirement = collections.namedtuple(
-    'Requirement', ['package', 'location', 'specifiers', 'markers', 'comment'])
 Requirements = collections.namedtuple('Requirements', ['reqs'])
 
 
@@ -105,6 +111,7 @@ def parse_line(req_line, permit_urls=False):
         comment = ''
     req_line = req_line[parse_start:marker_pos]
 
+    extras = ()
     if parse_start:
         # We parsed a url before
         specifier = ''
@@ -112,12 +119,13 @@ def parse_line(req_line, permit_urls=False):
         # Pulled out a requirement
         parsed = pkg_resources.Requirement.parse(req_line)
         name = parsed.project_name
+        extras = parsed.extras
         specifier = str(parsed.specifier)
     else:
         # Comments / blank lines etc.
         name = ''
         specifier = ''
-    return Requirement(name, location, specifier, markers, comment)
+    return Requirement(name, location, specifier, markers, comment, extras)
 
 
 def to_content(reqs, marker_sep=';', line_prefix='', prefix=True):

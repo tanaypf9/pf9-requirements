@@ -149,6 +149,21 @@ class TestToReqs(testtools.TestCase):
             set(reqs.keys()),
         )
 
+    def test_extras(self):
+        content = textwrap.dedent("""\
+            oslo.db>=1.11.0 # Apache-2.0
+            oslo.db[fixtures]>=1.11.0 # Apache-2.0
+            oslo.db[fixtures,mysql]>=1.11.0 # Apache-2.0
+            """)
+        reqs = requirement.parse(content)
+        self.assertEqual(
+            set(['oslo.db', 'oslo.db']),
+            set(reqs.keys()),
+        )
+        self.assertEqual(reqs['oslo.db'][0][0].extras, ())
+        self.assertEqual(reqs['oslo.db'][1][0].extras, ('fixtures',))
+        self.assertEqual(reqs['oslo.db'][2][0].extras, ('fixtures', 'mysql'))
+
 
 class TestCanonicalName(testtools.TestCase):
 
