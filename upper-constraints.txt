@@ -280,7 +280,7 @@ qpid-python===0.26;python_version=='2.7'
 redis===2.10.3
 repoze.lru===0.6
 repoze.who===2.2
-requests===2.8.1
+requests===2.7.0
 requests-aws===0.1.8
 requests-kerberos===0.7.0;python_version=='2.7'
 requests-mock===0.6.0
