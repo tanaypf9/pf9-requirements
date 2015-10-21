@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: mark mcclain <mark@mcclain.xyz>
+Code-Review+1: Lance Bragstad <lbragstad@gmail.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Steve Martinelli <stevemar@ca.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 21 Oct 2015 13:18:49 +0000
+Reviewed-on: https://review.openstack.org/228603
+Project: openstack/requirements
+Branch: refs/heads/master
