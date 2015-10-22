@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "3a29b11f_566450b7",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-22T18:32:05Z",
+      "side": 1,
+      "message": "Ah, sure, I\u0027d forgotten about new and immutable things.",
+      "parentUuid": "3a29b11f_e2e36fd7",
+      "revId": "d67476d4ef9df8a3f7f5f8a2202a110f461d634a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a29b11f_6be2ec30",
         "filename": "openstack_requirements/requirement.py",
         "patchSetId": 3
