@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a29b11f_abdc8473",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-22T02:21:33Z",
+      "side": 1,
+      "message": "Uhm __new__? __init__ surely.\n\nAlso extras here should be None, and then",
+      "revId": "d67476d4ef9df8a3f7f5f8a2202a110f461d634a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a29b11f_6be2ec30",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-22T02:21:33Z",
+      "side": 1,
+      "message": "Down here convert to frozenset() if not extras",
+      "revId": "d67476d4ef9df8a3f7f5f8a2202a110f461d634a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a29b11f_2bd7144c",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 124,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-22T02:21:33Z",
+      "side": 1,
+      "message": "extras is a set, and we\u0027re putting it in a functional data structure, so cast to frozenset please.",
+      "revId": "d67476d4ef9df8a3f7f5f8a2202a110f461d634a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a29b11f_2b3394ac",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2015-10-22T02:21:33Z",
+      "side": 1,
+      "message": "So this doesn\u0027t make sense as a thing we parse - there should be one and only one entry in this situation. That said, I know why this does work, which is commit a3a3f7f57ac0afcc146bc2667abd46c76307b6d1 - and we don\u0027t disambiguate in your patch (or the system in general) as to the cause of the repetition.\n\nSo - I\u0027d like this test to use three different package names here, to match what we\u0027d actually expect to see in requirements files.\n\n oslo.db\n oslo.test[fixtures]\n oslo.logging[fixtures,test]\n\nor something like that",
+      "revId": "d67476d4ef9df8a3f7f5f8a2202a110f461d634a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
