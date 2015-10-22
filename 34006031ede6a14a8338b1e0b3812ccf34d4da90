@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a29b11f_e494c68b",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2015-10-22T19:27:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a29b11f_3692f44c",
+      "revId": "34006031ede6a14a8338b1e0b3812ccf34d4da90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a29b11f_160ed88b",
         "filename": "openstack_requirements/tests/test_requirement.py",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2015-10-22T18:42:11Z",
       "side": 1,
       "message": "self.assertItemsEqual(reqs, [\u0027oslo.config\u0027, \u0027oslo.concurency\u0027, \u0027oslo.db\u0027])",
+      "revId": "34006031ede6a14a8338b1e0b3812ccf34d4da90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a29b11f_646436b8",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2015-10-22T19:27:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a29b11f_160ed88b",
       "revId": "34006031ede6a14a8338b1e0b3812ccf34d4da90",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
