@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a26ad4f_315cfc4a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 9545
+      },
+      "writtenOn": "2015-10-28T09:24:01Z",
+      "side": 1,
+      "message": "novaclient 2.32.0 contains another bug, so instead of bumping version, I prefer to use `!\u003d2.33.0`, so nova team will be able to fix everything :)",
+      "revId": "71c8fc4d9704ed322299c6621c33012cc88465b7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
