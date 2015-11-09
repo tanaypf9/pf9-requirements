@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+1: matthew wagoner <zxkuqyb@gmail.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: yolanda.robla <info@ysoft.biz>
+Workflow+1: yolanda.robla <info@ysoft.biz>
+Submitted-by: Jenkins
+Submitted-at: Mon, 09 Nov 2015 14:40:05 +0000
+Reviewed-on: https://review.openstack.org/242160
+Project: openstack/requirements
+Branch: refs/heads/master
