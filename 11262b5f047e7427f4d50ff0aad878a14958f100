@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da85f559_f64136aa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-11-10T20:37:16Z",
+      "side": 1,
+      "message": "You should have the bug referenced in here.",
+      "revId": "11262b5f047e7427f4d50ff0aad878a14958f100",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
