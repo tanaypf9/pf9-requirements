@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da85f559_818f4a29",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 30
+      },
+      "lineNbr": 195,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-11-10T17:54:53Z",
+      "side": 1,
+      "message": "We can\u0027t let this in since it breaks nova\u0027s unit/functional tests.",
+      "revId": "94a090ca1220459d43bda1cc8748352079eda10c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
