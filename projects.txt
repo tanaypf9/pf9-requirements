@@ -1,6 +1,7 @@
 openstack-dev/hacking
 openstack-dev/pbr
 openstack/anchor
+openstack/aodh
 openstack/automaton
 openstack/bandit
 openstack/barbican
