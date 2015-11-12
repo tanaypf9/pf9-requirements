@@ -88,6 +88,7 @@ coverage===4.0.2
 croniter===0.3.8
 cryptography===1.1.1
 ddt===1.0.1
+dcos===0.1.3
 debtcollector===0.10.0
 decorator===4.0.4
 demjson===2.2.3
