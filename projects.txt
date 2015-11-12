@@ -131,7 +131,6 @@ openstack/sahara-image-elements
 openstack/senlin
 openstack/senlin-dashboard
 openstack/stevedore
-openstack/swift
 openstack/tacker
 openstack/taskflow
 openstack/tempest
