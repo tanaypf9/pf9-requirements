@@ -1,6 +1,7 @@
 openstack-dev/hacking
 openstack-dev/pbr
 openstack/anchor
+openstack/aodh
 openstack/astara
 openstack/astara-appliance
 openstack/astara-horizon
