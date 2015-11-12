@@ -5,6 +5,7 @@ openstack/astara
 openstack/astara-appliance
 openstack/astara-horizon
 openstack/astara-neutron
+openstack/aodh
 openstack/automaton
 openstack/bandit
 openstack/barbican
