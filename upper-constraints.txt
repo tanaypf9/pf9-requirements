@@ -12,7 +12,6 @@ PasteDeploy===1.5.2
 Pillow===3.0.0
 Pint===0.6
 PuLP===1.6.0
-PyECLib===1.0.7
 PyKMIP===0.4.0
 PyMySQL===0.6.7
 PyYAML===3.11
@@ -153,7 +152,7 @@ keyring===5.6
 keystoneauth1===1.2.0
 keystonemiddleware===3.0.0
 kombu===3.0.29
-ldap3===0.9.9.2
+ldap3===0.9.9.3
 ldappool===1.0;python_version=='2.7'
 libvirt-python===1.2.20
 linecache2===1.0.0
