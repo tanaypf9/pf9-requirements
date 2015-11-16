@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da85f559_0ab954cb",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16237
+      },
+      "writtenOn": "2015-11-16T03:28:12Z",
+      "side": 1,
+      "message": "swap lines 6 and 7",
+      "revId": "faa1172b965a1bc208d340226d0fc761c5c5f504",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
