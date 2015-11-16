@@ -310,6 +310,7 @@ testresources>=0.2.4
 testscenarios>=0.4
 testtools>=1.4.0
 trollius>=1.0
+ujson
 unittest2
 virtualenv
 wrapt>=1.7.0 # BSD License
