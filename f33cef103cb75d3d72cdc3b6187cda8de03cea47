@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba8a016a_d2bb400d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-11-16T19:52:10Z",
+      "side": 1,
+      "message": "I\u0027m not sure what this statement means, can you elaborate? Most of the distros end up having to package even build tools, so they can build the documentation for projects. Is certifi a runtime dependency for Magnum,  or a build-time dependency?",
+      "revId": "f33cef103cb75d3d72cdc3b6187cda8de03cea47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
