@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Boris Pavlovic <boris@pavlovic.me>
+Code-Review+1: Illia Khudoshyn <ikhudoshyn@mirantis.com>
+Code-Review+1: Andrey Kurilin <akurilin@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 17 Nov 2015 02:08:01 +0000
+Reviewed-on: https://review.openstack.org/240556
+Project: openstack/requirements
+Branch: refs/heads/master
