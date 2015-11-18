@@ -87,7 +87,7 @@ contextlib2===0.4.0
 coverage===4.0.2
 croniter===0.3.8
 cryptography===1.1
-ddt===1.0.0
+ddt===1.0.1
 debtcollector===0.10.0
 decorator===4.0.4
 demjson===2.2.3
