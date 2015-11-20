@@ -209,7 +209,7 @@ tooz>=1.19.0 # Apache-2.0
 tosca-parser>=0.1.0
 tripleo-image-elements
 urllib3>=1.8.3
-unicodecsv>=0.8.0
+unicodecsv>=0.8.0; python_version < '3.0'   # BSD License
 warlock>=1.0.1,<2
 weakrefmethod;python_version=='2.7' or python_version=='2.6' # PSF
 WebOb>=1.2.3
