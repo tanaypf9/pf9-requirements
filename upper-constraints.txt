@@ -75,8 +75,7 @@ boto===2.38.0
 botocore===1.3.9
 cachetools===1.1.5
 cassandra-driver===3.0.0
-castellan===0.2.1;python_version=='3.4'
-castellan===0.3.0;python_version=='2.7'
+castellan===0.3.1
 ceilometermiddleware===0.3.0
 certifi===2015.11.20;python_version=='2.7'
 cffi===1.3.1
