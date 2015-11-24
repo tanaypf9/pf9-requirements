@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a8ffd7b_ee3a23cd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 291,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-11-24T19:35:11Z",
+      "side": 1,
+      "message": "Could you add a comment on this line to include the license info, like we have done with other libraries?",
+      "revId": "ef96be39b5c3c2d919cedc4d6b462eadfc7640e8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
