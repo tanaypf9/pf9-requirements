@@ -67,6 +67,24 @@
       "revId": "683431cb49489045278744b52ddffb936087f3fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a8ffd7b_0e5c474a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 6524
+      },
+      "writtenOn": "2015-11-24T19:54:45Z",
+      "side": 1,
+      "message": "Looks like we need version 1.2.39\n\nhttps://github.com/mpenning/ciscoconfparse/commit/c1bb64ebed0bb4869fbfc0f8377330e94344c064",
+      "parentUuid": "fa1b9901_d81a1f6f",
+      "revId": "683431cb49489045278744b52ddffb936087f3fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
