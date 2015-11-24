@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+1: Adam Gandelman <adamg@ubuntu.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 24 Nov 2015 18:20:15 +0000
+Reviewed-on: https://review.openstack.org/247199
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
