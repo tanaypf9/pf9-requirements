@@ -41,7 +41,7 @@ def _parse_freeze(text):
     return result
 
 
-def _freeze(requirements, python):
+def _freeze(requirements, python, verbose):
     """Generate a frozen install from requirements.
 
     A constraints file is the result of installing a set of requirements and
@@ -76,8 +76,14 @@ def _freeze(requirements, python):
             pip_bin = os.path.join(temp.path, 'bin', 'pip')
             output.append(subprocess.check_output(
                 [pip_bin, 'install', '-U', 'pip', 'setuptools', 'wheel']))
-            output.append(subprocess.check_output(
-                [pip_bin, 'install', '-r', requirements]))
+            if verbose:
+                subprocess.check_call(
+                    [pip_bin, 'install', '-v', '--user', '-r', requirements])
+                subprocess.check_call(
+                    [pip_bin, 'freeze'])
+            else:
+                output.append(subprocess.check_output(
+                    [pip_bin, 'install', '-r', requirements]))
             freeze = subprocess.check_output([pip_bin, 'freeze'])
             output.append(freeze)
             return (version, _parse_freeze(freeze))
@@ -171,6 +177,10 @@ def main(argv=None, stdout=None):
     parser.add_option(
         "-r", dest="requirements", help="Requirements file to process.")
     parser.add_option(
+        "-v", dest="verbose", default=False,
+        action="store_true",
+        help="Verbose flag during pip install.")
+    parser.add_option(
         "-b", dest="blacklist",
         help="Filename of a list of package names to exclude.")
     options, args = parser.parse_args(argv)
@@ -178,7 +188,8 @@ def main(argv=None, stdout=None):
         stdout = sys.stdout
     _validate_options(options)
     freezes = [
-        _freeze(options.requirements, python) for python in options.pythons]
+        _freeze(options.requirements, python, options.verbose)
+        for python in options.pythons]
     blacklist = _parse_blacklist(options.blacklist)
     stdout.writelines(_combine_freezes(freezes, blacklist))
     stdout.flush()
