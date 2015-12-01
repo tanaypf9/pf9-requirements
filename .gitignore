@@ -7,3 +7,5 @@
 AUTHORS
 ChangeLog
 dist
+.eggs
+*.egg
