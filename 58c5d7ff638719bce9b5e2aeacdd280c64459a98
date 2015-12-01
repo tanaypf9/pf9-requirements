@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a8ffd7b_14921658",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6659
+      },
+      "writtenOn": "2015-12-01T01:19:07Z",
+      "side": 1,
+      "message": "https://bitbucket.org/logilab/astroid/issues/275/140-and-141-fail-to-work-with-pylint-144",
+      "revId": "58c5d7ff638719bce9b5e2aeacdd280c64459a98",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
