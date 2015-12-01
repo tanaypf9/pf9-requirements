@@ -291,6 +291,7 @@ python-memcached===1.57
 python-mimeparse===1.5.1
 python-mistralclient===1.2.0
 python-muranoclient===0.8.1
+python-monascaclient===1.0.29
 python-neutronclient===4.0.0
 python-novaclient===3.2.0
 python-openstackclient===2.1.0
