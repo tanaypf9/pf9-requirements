@@ -298,6 +298,12 @@ python-neutronclient===4.2.0
 python-novaclient===4.0.0
 python-openstackclient===2.4.0
 python-pytun===2.2.1
+python-mistralclient===1.2.0
+python-muranoclient===0.8.2
+python-monascaclient===1.0.30
+python-neutronclient===4.0.0
+python-novaclient===3.2.0
+python-openstackclient===2.4.0
 python-qpid-proton===0.10
 python-saharaclient===0.14.0
 python-searchlightclient===0.2.1
