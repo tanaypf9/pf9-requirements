@@ -268,6 +268,7 @@ python-manilaclient===1.5.0
 python-memcached===1.57
 python-mimeparse===0.1.4
 python-mistralclient===1.1.0
+python-monascaclient===1.0.24
 python-muranoclient===0.7.1
 python-neutronclient===3.1.0
 python-novaclient===2.35.0
