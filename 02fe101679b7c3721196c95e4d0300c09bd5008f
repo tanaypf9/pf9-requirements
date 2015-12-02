@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a8ffd7b_3b6ede96",
+        "filename": "README.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-02T03:04:06Z",
+      "side": 1,
+      "message": "The early warning system is only as good as the test coverage we have, which failed when oslo.messaging 2.6.0 removed some internal modules that neutron was referencing in it\u0027s setup.cfg.  That was fixed in neutron master by changing the neutron setup.cfg to point at the new module names and raising the minimum required oslo.messaging, but that wouldn\u0027t work on stable/liberty because (1) we don\u0027t want to raise the minimum oslo.messaging in stable to fix that and (2) we couldn\u0027t change the neutron setup.cfg in liberty since it wouldn\u0027t work with the minimum version of oslo.messaging for liberty.\n\nSo to get around it, we added a deprecated alias module in oslo.messaging to fix stable/liberty neutron and released that, and then blocked all intermediate versions of oslo.messaging in stable/liberty.  But without capping the version of oslo.messaging in stable/liberty, we can\u0027t remove that deprecated alias in oslo.messaging, event on major version boundaries - which we should be able to do.\n\nOr I should say we can\u0027t do that until liberty-eol, which is a long time considering how often the oslo libraries are released.",
+      "revId": "02fe101679b7c3721196c95e4d0300c09bd5008f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
