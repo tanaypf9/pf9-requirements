@@ -16,6 +16,24 @@
       "revId": "0bb7c5a3c2144c855c4cb1dbb6b6837053bf59f9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a8ffd7b_feffb1fe",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 163,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2015-12-02T19:32:01Z",
+      "side": 1,
+      "message": "I believe tripleo plans to, but I can leave it up to the to bump it.",
+      "parentUuid": "9a8ffd7b_5b8a8f65",
+      "revId": "0bb7c5a3c2144c855c4cb1dbb6b6837053bf59f9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
