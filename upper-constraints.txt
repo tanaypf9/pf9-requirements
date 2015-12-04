@@ -12,7 +12,7 @@ PasteDeploy===1.5.2
 Pillow===3.0.0
 Pint===0.6
 PuLP===1.6.0
-PyECLib===1.0.7
+PyECLib===1.1.1
 PyKMIP===0.4.0
 PyMySQL===0.6.7
 PyYAML===3.11
@@ -270,10 +270,10 @@ python-manilaclient===1.5.0
 python-memcached===1.57
 python-mimeparse===0.1.4
 python-mistralclient===1.1.0
-python-muranoclient===0.7.1
+python-muranoclient===0.8.0
 python-neutronclient===3.1.0
 python-novaclient===2.35.0
-python-openstackclient===1.9.0
+python-openstackclient===2.0.0
 python-qpid-proton===0.10
 python-saharaclient===0.11.1
 python-senlinclient===0.1.8
