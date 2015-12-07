@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_8a645c22",
+        "filename": "requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-12-07T00:46:09Z",
+      "side": 1,
+      "message": "It took me more time than I care to admit to convince myself this was okay.  I\u0027m still not certain how we ended up with fixtures in requirements.txt that doesn\u0027t match g-r but I\u0027m not certain it really matters for runtime.",
+      "revId": "9bd9ca20f623b628d173c3f955cddc1c6469f8b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
