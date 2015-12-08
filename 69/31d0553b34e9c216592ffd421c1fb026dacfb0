@@ -1,0 +1,12 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Joel Coffman <joel.coffman@jhuapl.edu>
+Code-Review+1: Chad Roberts <croberts@redhat.com>
+Code-Review+1: Michael McCune <msm@redhat.com>
+Code-Review+1: Vitaly Gridnev <vgridnev@mirantis.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Dec 2015 02:14:53 +0000
+Reviewed-on: https://review.openstack.org/248911
+Project: openstack/requirements
+Branch: refs/heads/master
