@@ -1,0 +1,15 @@
+Verified+2: Jenkins
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Paul Michali <pc@michali.net>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: Sachi King <nakato@nakato.io>
+Code-Review+1: Brandon Palm <bapalm@us.ibm.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 08 Dec 2015 12:32:30 +0000
+Reviewed-on: https://review.openstack.org/252614
+Project: openstack/requirements
+Branch: refs/heads/master
