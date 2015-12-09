@@ -126,7 +126,7 @@ funcsigs===0.4;python_version=='2.7'
 functools32===3.2.3.post2;python_version=='2.7'
 futures===3.0.3
 futurist===0.8.0
-gabbi===1.10.0
+gabbi===1.11.0
 gitdb===0.6.4
 glance-store===0.10.0
 gnocchiclient===2.1.0
