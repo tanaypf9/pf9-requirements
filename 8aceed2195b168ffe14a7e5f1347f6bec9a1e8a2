@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_7f959086",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-09T15:11:03Z",
+      "side": 1,
+      "message": "Would be good to have a note in here about the cap since it\u0027s supposed to be an exceptional case.\n\nI\u0027m also not sure if the u-c job uses this, but if not, we\u0027d need a comment by https://github.com/openstack/requirements/blob/stable/liberty/upper-constraints.txt#L196 to say that should always be \u003c3.",
+      "revId": "8aceed2195b168ffe14a7e5f1347f6bec9a1e8a2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
