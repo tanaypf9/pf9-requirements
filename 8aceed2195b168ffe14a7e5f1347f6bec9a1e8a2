@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a740942_ff774006",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-09T15:18:47Z",
+      "side": 1,
+      "message": "This is the specific failure:\n\nhttp://logs.openstack.org/11/246211/19/check/gate-grenade-dsvm/06a815e/logs/new/screen-n-api.txt.gz?level\u003dTRACE",
+      "revId": "8aceed2195b168ffe14a7e5f1347f6bec9a1e8a2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a740942_7f959086",
         "filename": "global-requirements.txt",
         "patchSetId": 1
