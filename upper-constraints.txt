@@ -72,7 +72,7 @@ beautifulsoup4===4.4.1
 betamax===0.5.1
 blockdiag===1.5.3
 boto===2.38.0
-botocore===1.3.11
+botocore===1.3.12
 cachetools===1.1.5
 cassandra-driver===3.0.0
 castellan===0.3.1
@@ -121,6 +121,7 @@ fasteners===0.14.1
 feedparser===5.2.1
 fixtures===1.4.0
 freezegun===0.3.5
+frozendict===0.5
 funcparserlib===0.3.6
 funcsigs===0.4;python_version=='2.7'
 functools32===3.2.3.post2;python_version=='2.7'
@@ -145,7 +146,7 @@ itsdangerous===0.24
 jmespath===0.9.0
 jsonpatch===1.12
 jsonpath-rw===1.4.0
-jsonpath-rw-ext===0.1.9
+jsonpath-rw-ext===0.3.0
 jsonpointer===1.10
 jsonrpclib===0.1.7
 jsonschema===2.5.1
@@ -192,7 +193,7 @@ os-collect-config===0.1.36
 os-net-config===0.1.5
 os-refresh-config===0.1.11
 os-testr===0.4.2
-os-win===0.0.6
+os-win===0.0.7
 oslo.cache===1.0.0
 oslo.concurrency===3.1.0
 oslo.config===3.1.0
@@ -346,7 +347,7 @@ webcolors===1.5
 websocket-client===0.34.0
 websockify===0.7.0
 wheel===0.26.0
-wrapt===1.10.5
+wrapt===1.10.6
 wsgi-intercept===0.10.3
 xattr===0.7.8
 xvfbwrapper===0.2.5
