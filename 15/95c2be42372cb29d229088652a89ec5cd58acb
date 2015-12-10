@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Thu, 10 Dec 2015 18:34:57 +0000
+Reviewed-on: https://review.openstack.org/254919
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
