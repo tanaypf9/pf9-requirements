@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_f2206e4b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2015-12-11T06:23:57Z",
+      "side": 1,
+      "message": "decorator 4.0.5 doesn\u0027t seem available.",
+      "revId": "c5101bb1805aed63689bc2adee2b9ebcfb1c9a74",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
