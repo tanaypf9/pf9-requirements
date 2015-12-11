@@ -91,7 +91,7 @@ cryptography===1.1.1
 dcos===0.2.0
 ddt===1.0.1
 debtcollector===1.1.0
-decorator===4.0.5
+decorator===4.0.6
 demjson===2.2.3
 dib-utils===0.0.8
 discover===0.4.0
