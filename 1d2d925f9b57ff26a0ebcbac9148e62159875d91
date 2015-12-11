@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_6de9ff19",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2015-12-11T06:48:45Z",
+      "side": 1,
+      "message": "this would unbreak gate jobs",
+      "revId": "1d2d925f9b57ff26a0ebcbac9148e62159875d91",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
