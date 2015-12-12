@@ -331,6 +331,7 @@ toml===0.9.1
 tooz===1.28.0
 tornado===4.3
 tosca-parser===0.3.0
+tox==2.2.1
 traceback2===1.4.0
 tripleo-image-elements===0.8.10
 trollius===2.0
