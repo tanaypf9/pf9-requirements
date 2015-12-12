@@ -347,3 +347,6 @@ pep257==0.7.0 # MIT License
 pep8==1.5.7
 pyflakes==0.8.1
 pylint==1.4.5  # GNU GPL v2
+
+# Tools used in our CI environment
+tox
