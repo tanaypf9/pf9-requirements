@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+1: Paul Belanger <pabelanger@redhat.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Sun, 13 Dec 2015 10:30:15 +0000
+Reviewed-on: https://review.openstack.org/245603
+Project: openstack/requirements
+Branch: refs/heads/master
