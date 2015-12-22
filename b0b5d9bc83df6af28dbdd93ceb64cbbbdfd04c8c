@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a7b0d38_264a9e84",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-22T22:20:17Z",
+      "side": 1,
+      "message": "Please put a NOTE in the file with this so we know what the cap is for and why (ignore git-blame, that gets messy with single line changes like this in g-r).",
+      "revId": "b0b5d9bc83df6af28dbdd93ceb64cbbbdfd04c8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
