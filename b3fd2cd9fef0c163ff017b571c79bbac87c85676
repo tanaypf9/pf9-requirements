@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a7b0d38_a6ce8e81",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-12-22T22:06:44Z",
+      "side": 1,
+      "message": "Actually I think that 0.4.0 is better. That\u0027s functionally 0.3.3 right now but if something terrible happens it allows for pykmip to provide a fix for kilo and liberty+ If we cap it with 0.4.1 then there is nowhere to go.",
+      "revId": "b3fd2cd9fef0c163ff017b571c79bbac87c85676",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
