@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a7b0d38_4068f2f5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-12-22T21:16:38Z",
+      "side": 1,
+      "message": "I think \u003c0.4.0 is a better cap.  unless there is a strong reason to block 0.3.3 and any possible security releases on this.\n\nThe Kilo branch of Barbican does pass tests with 0.4.0 the actual breakage happens with 0.4.1",
+      "revId": "af265c4c5780b52ef5bf5058c30f77a80da5cd85",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
