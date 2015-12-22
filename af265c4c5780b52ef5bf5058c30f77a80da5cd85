@@ -16,6 +16,24 @@
       "revId": "af265c4c5780b52ef5bf5058c30f77a80da5cd85",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a7b0d38_a30c4043",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 8623
+      },
+      "writtenOn": "2015-12-22T21:50:30Z",
+      "side": 1,
+      "message": "Tony, yes that makes sense.  My thinking was to cap it at the version closest to the stable kilo release, but \u003c0.4.1 makes  more sense.",
+      "parentUuid": "1a7b0d38_4068f2f5",
+      "revId": "af265c4c5780b52ef5bf5058c30f77a80da5cd85",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
