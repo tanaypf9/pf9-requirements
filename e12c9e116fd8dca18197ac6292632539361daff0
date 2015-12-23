@@ -33,6 +33,24 @@
       "revId": "e12c9e116fd8dca18197ac6292632539361daff0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a7b0d38_ef90beee",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2015-12-23T21:30:55Z",
+      "side": 1,
+      "message": "I\u0027ve only seen test failures but the issue isn\u0027t in the barbican/tests code.  Here\u0027s the summary from the PyKMIP issue:\n\n \u003e Traceback (most recent call last):\n \u003e File \"barbican/tests/plugin/test_kmip.py\", line 423, in test_store_private_key_secret_return_value\n \u003e     return_value \u003d self.secret_store.store_secret(secret_dto)\n \u003e File \"barbican/plugin/kmip_secret_store.py\", line 350, in store_secret\n \u003e     self._raise_secret_general_exception(result)\n \u003e File \"barbican/plugin/kmip_secret_store.py\", line 589, in _raise_secret_general_exception\n \u003e     raise ss.SecretGeneralException(msg)\n \u003e barbican.plugin.interface.secret_store.SecretGeneralException: Problem seen during crypto processing - Reason: Status: ResultStatus.SUCCESS, Reason: None, Message: None\n \u003e \u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\u003d\n \u003e FAIL: barbican.tests.plugin.test_kmip.WhenTestingKMIPSecretStore.test_store_symmetric_secret_return_value\n \u003e \n \u003e Which seems to be because result.result_status.enum is \u003cenum \u0027ResultStatus\u0027\u003e and not ResultStatus.SUCCESS as expected.\n\nSo the PyKMIP authors changed the ResultStatus object which means successful operations will be flagged as a failure with 0.4.1+.\n\nAs you can see from the comments on the review I suggested blocking the whole 0.4.x series.",
+      "parentUuid": "1a7b0d38_87f3300a",
+      "revId": "e12c9e116fd8dca18197ac6292632539361daff0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
