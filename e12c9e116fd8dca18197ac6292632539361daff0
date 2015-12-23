@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a7b0d38_87f3300a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-23T14:44:59Z",
+      "side": 1,
+      "message": "Does it only break the unit tests? Or are there other functional failures with \u003e\u003d0.4.0 in barbican stable/kilo?  Or are we just guarding?",
+      "revId": "e12c9e116fd8dca18197ac6292632539361daff0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
