@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "1a7b0d38_07bf40fc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2015-12-23T14:45:43Z",
+      "side": 1,
+      "message": "nit: move the NOTE above the pykmip line.",
+      "revId": "e12c9e116fd8dca18197ac6292632539361daff0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a7b0d38_87f3300a",
         "filename": "global-requirements.txt",
         "patchSetId": 4
