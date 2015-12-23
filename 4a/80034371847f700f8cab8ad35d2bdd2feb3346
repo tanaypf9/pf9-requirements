@@ -1,0 +1,10 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: venkatamahesh <venkatamaheshkotha@gmail.com>
+Code-Review+2: lifeless <robertc@robertcollins.net>
+Workflow+1: lifeless <robertc@robertcollins.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 23 Dec 2015 00:27:39 +0000
+Reviewed-on: https://review.openstack.org/257157
+Project: openstack/requirements
+Branch: refs/heads/master
