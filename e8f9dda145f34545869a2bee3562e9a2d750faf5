@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "fa69d971_b3549154",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2015-12-30T13:11:54Z",
+      "side": 1,
+      "message": "Before adding a project to this list to have the global requirements synced to it, you need to add the check-requirements jobs in openstack-infra/project-config/zuul/layout.yaml to ensure that no incompatible requirements can be added to the project.",
+      "revId": "e8f9dda145f34545869a2bee3562e9a2d750faf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa69d971_611dea65",
         "filename": "projects.txt",
         "patchSetId": 1
