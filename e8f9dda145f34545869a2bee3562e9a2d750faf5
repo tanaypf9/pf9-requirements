@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa69d971_010e6e34",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 170,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2015-12-30T09:11:57Z",
+      "side": 1,
+      "message": "alphabetical ordering!",
+      "range": {
+        "startLine": 170,
+        "startChar": 7,
+        "endLine": 170,
+        "endChar": 20
+      },
+      "revId": "e8f9dda145f34545869a2bee3562e9a2d750faf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa69d971_611dea65",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2015-12-30T09:11:57Z",
+      "side": 1,
+      "message": "This list is alphabetically sorted",
+      "range": {
+        "startLine": 111,
+        "startChar": 17,
+        "endLine": 111,
+        "endChar": 30
+      },
+      "revId": "e8f9dda145f34545869a2bee3562e9a2d750faf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
