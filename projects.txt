@@ -108,6 +108,7 @@ openstack/python-keystoneclient
 openstack/python-keystoneclient-kerberos
 openstack/python-magnumclient
 openstack/python-manilaclient
+openstack/python-monascaclient
 openstack/python-mistralclient
 openstack/python-muranoclient
 openstack/python-neutronclient
