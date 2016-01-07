@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa69d971_756b6186",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 204,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-01-07T19:23:53Z",
+      "side": 1,
+      "message": "Have you considered \u003c3.29 instead?\n\nif ryu keeps on sticking to oslo.config\u003e\u003d1.6.0, \u003c\u003d3.0.0, won\u0027t we have this problem for versions newer than 3.29?",
+      "range": {
+        "startLine": 204,
+        "startChar": 15,
+        "endLine": 204,
+        "endChar": 16
+      },
+      "revId": "b166a720a31128d413f83becb83534c19750a70d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
