@@ -1,0 +1,14 @@
+Code-Review+1: Travis Tripp <travis.tripp@hpe.com>
+Code-Review+1: David Lyle <dklyle0@gmail.com>
+Code-Review+1: Brian Rosmaita <brian.rosmaita@rackspace.com>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+1: Steve McLellan <steven.j.mclellan@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 07 Jan 2016 18:24:05 +0000
+Reviewed-on: https://review.openstack.org/255031
+Project: openstack/requirements
+Branch: refs/heads/master
