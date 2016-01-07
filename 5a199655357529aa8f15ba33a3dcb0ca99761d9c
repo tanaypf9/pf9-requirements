@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa69d971_9192bb9e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 279,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2016-01-07T13:11:29Z",
+      "side": 1,
+      "message": "We should probably say which version of the license when appropriate",
+      "revId": "5a199655357529aa8f15ba33a3dcb0ca99761d9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
