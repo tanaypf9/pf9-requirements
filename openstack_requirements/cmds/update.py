@@ -26,6 +26,7 @@ updated to match the global requirements. Requirements not in the global
 files will be dropped.
 """
 
+from datetime import date
 import itertools
 import optparse
 import os
@@ -35,7 +36,7 @@ import sys
 from openstack_requirements import project
 from openstack_requirements import requirement
 
-_setup_py_text = """# Copyright (c) 2013 Hewlett-Packard Development Company, L.P.
+_setup_py_text = """# Copyright (c) %(current_year)d OpenStack Foundation
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -64,7 +65,7 @@ except ImportError:
 setuptools.setup(
     setup_requires=['pbr>=1.8'],
     pbr=True)
-"""
+""" % ({'current_year': date.today().year})
 
 
 # Pure --
