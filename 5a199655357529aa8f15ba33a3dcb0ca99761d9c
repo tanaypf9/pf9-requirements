@@ -16,6 +16,24 @@
       "revId": "5a199655357529aa8f15ba33a3dcb0ca99761d9c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa69d971_94ab89d6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 279,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2016-01-07T13:29:41Z",
+      "side": 1,
+      "message": "Checking in the code, that was relicensed to MIT in 2014",
+      "parentUuid": "fa69d971_9192bb9e",
+      "revId": "5a199655357529aa8f15ba33a3dcb0ca99761d9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
