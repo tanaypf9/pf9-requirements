@@ -171,11 +171,29 @@ Proposing changes
 
 Look at the `Review Guidelines` and make sure your change meets them.
 
-All changes to ``global-requirements.txt`` may dramatically alter the contents
-of ``upper-constraints.txt`` due to adding or removing transitive
-dependencies. As such you should always generate a diff against the current
-merged constraints, otherwise your change may fail if it is incompatible with
-the current tested constraints.
+All changes to ``global-requirements.txt`` may dramatically alter the
+contents of ``upper-constraints.txt`` due to adding or removing
+transitive dependencies. In general, we want to keep the manual
+updates as small as possible while still being accurate.
+
+Simple additions should start with these steps.
+
+1. Add the new dependency to ``global-requirements.txt`` and
+   ``upper-constraints.txt``.
+
+2. Ensure that all of the immediate dependencies of the new package
+   are listed in ``upper-constraints.txt``. Do not add them to
+   ``global-requirements.txt`` unless an OpenStack project directly
+   depends on them.
+
+3. If the installation compatibility tests fail, you may have to
+   adjust the versions of some other entries in
+   ``upper-constraints.txt``. Try to modify as few as possible in your
+   manual change.
+
+A more complete set of updates can be produced by generating a diff
+against the current merged constraints. This should only need needed
+in the most complex cases, however.
 
 Regenerating involves five steps.
 
