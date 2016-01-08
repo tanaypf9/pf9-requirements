@@ -1,0 +1,12 @@
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Code-Review+1: Ken'ichi Ohmichi <ken1ohmichi@gmail.com>
+Code-Review+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+1: Itxaka Serrano Garcia <iserrano@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 08 Jan 2016 10:50:59 +0000
+Reviewed-on: https://review.openstack.org/265025
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
