@@ -14,7 +14,7 @@ Pint===0.6
 PuLP===1.6.1
 PyECLib===1.1.1
 PyKMIP===0.4.1
-PyMySQL===0.6.7
+PyMySQL===0.7.0
 PyYAML===3.11
 Pygments===2.0.2
 Routes===2.2
@@ -155,7 +155,7 @@ jsonrpclib===0.1.7
 jsonschema===2.5.1
 kafka-python===0.9.5
 kazoo===2.2.1
-keyring===7.0.1
+keyring===7.1.1
 keystoneauth1===2.1.0
 keystonemiddleware===4.0.0
 klein===15.3.1
