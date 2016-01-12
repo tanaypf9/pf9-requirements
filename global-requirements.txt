@@ -115,7 +115,8 @@ os-net-config
 os-refresh-config
 os-testr>=0.4.1
 ovs>=2.4.0;python_version=='2.7'        # Apache-2.0
-os-win>=0.0.7                           # Apache-2.0
+# NOTE(mriedem): os-win 0.1.0 breaks nova unit tests
+os-win>=0.0.7,!=0.1.0                   # Apache-2.0
 paramiko>=1.13.0
 Parsley
 passlib>=1.6
