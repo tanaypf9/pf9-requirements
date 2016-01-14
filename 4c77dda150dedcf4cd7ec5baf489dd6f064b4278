@@ -16,6 +16,24 @@
       "revId": "4c77dda150dedcf4cd7ec5baf489dd6f064b4278",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da6ed579_a0dfb567",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 2903
+      },
+      "writtenOn": "2016-01-14T18:05:30Z",
+      "side": 1,
+      "message": "Sure, I\u0027ll add a \u003c\u003d 1.0.0",
+      "parentUuid": "da6ed579_af0ec638",
+      "revId": "4c77dda150dedcf4cd7ec5baf489dd6f064b4278",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
