@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da6ed579_7d1e4dbc",
+        "filename": "doc/source/conf.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-01-14T16:38:23Z",
+      "side": 1,
+      "message": "Why not use subprocess.check_output()?",
+      "revId": "08ad55d23b62f2bec63cdf53b549d74a2d0b0608",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
