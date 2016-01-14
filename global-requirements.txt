@@ -71,6 +71,7 @@ kazoo>=2.2
 keystoneauth1>=2.1.0
 keystonemiddleware>=4.0.0
 packaging>=15.2
+positional # Apache-2.0
 pyScss>=1.3.4  # MIT License
 django-pyscss>=2.0.2  # BSD License (2 clause)
 kombu>=3.0.7
