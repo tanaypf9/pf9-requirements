@@ -181,7 +181,18 @@ Regenerating involves five steps.
 
 1) Install the dependencies needed to compile various Python packages::
 
-    sudo apt-get install $(bindep -b)
+    sudo apt-get install $(bindep -b) libffi-dev libmysqlclient-dev libpq-dev \
+      libkrb5-dev libldap2-dev libsasl2-dev libsqlite3-dev libjpeg-dev \
+      libxml2-dev libxslt1-dev pkg-config libvirt-dev python3-dev \
+      python-dev
+
+As packages are added and deleted, the libraries needed to build those packages
+will change. If you see something missing or that is no longer needed, please
+submit an update to this README.
+
+2) Download, build, and install liberasure code::
+
+    https://bitbucket.org/tsg-/liberasurecode/downloads
 
 2) Create a reference file (do this without your patch applied)::
 

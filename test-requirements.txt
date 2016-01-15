@@ -8,7 +8,6 @@ packaging>=15.2
 testrepository>=0.0.18
 testscenarios>=0.4
 testtools>=1.4.0
-virtualenv
 setuptools>=16.0
 
 # this is required for the docs build jobs
