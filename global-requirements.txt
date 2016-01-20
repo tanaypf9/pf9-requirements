@@ -129,7 +129,7 @@ pika>=0.10.0  # BSD
 pika-pool>=0.1.3  # BSD
 Pillow>=2.4.0  # PIL License
 Pint>=0.5  # BSD
-pip>=6.0  # MIT
+pip>=6.0,<8.0  # MIT
 posix_ipc  # BSD
 PrettyTable>=0.7,<0.8  # BSD
 psutil>=1.1.1,<2.0.0  # BSD
