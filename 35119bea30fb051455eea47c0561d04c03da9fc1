@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a68dd71_ca0cac96",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2016-01-21T18:01:58Z",
+      "side": 1,
+      "message": "Just remove the version number since there\u0027s no release yet...",
+      "revId": "35119bea30fb051455eea47c0561d04c03da9fc1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
