@@ -56,8 +56,8 @@ def check_format(parsed_constraints):
     "Apply the formatting rules to the pre-parsed constraints."
     for name, spec_list in parsed_constraints.items():
         for req, original_line in spec_list:
-            if not req.specifiers.startswith('==='):
-                yield ('Invalid constraint for %s does not have 3 "=": %s' %
+            if not req.specifiers.startswith('<='):
+                yield ('Invalid constraint for %s does not have "<=": %s' %
                        (name, original_line))
 
 

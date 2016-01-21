@@ -50,7 +50,7 @@ class TestCheckCompatible(testtools.TestCase):
 class TestCheckFormat(testtools.TestCase):
 
     def test_ok(self):
-        good_constraints = requirement.parse("foo===1.2.5\n")
+        good_constraints = requirement.parse("foo<=1.2.5\n")
         self.assertEqual(
             [],
             list(constraints.check_format(good_constraints))
