@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_d85a5a50",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-01-28T14:18:59Z",
+      "side": 1,
+      "message": "OK, needed by L693 here:\n\nhttps://review.openstack.org/#/c/273096/2/stack.sh\n\nThe concern I have is whether or not we should cap on this. Especially with:\n\nhttps://review.openstack.org/#/c/273312/\n\nThat will start picking up versions from mitaka which could cause a wedge if os-testr on mitaka has a higher minimum version of something that is above a cap of the same dependency in kilo, and then kaboom.",
+      "revId": "468d5b9ace6c3643a2c7936bcd44c914455822c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
