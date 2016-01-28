@@ -16,6 +16,24 @@
       "revId": "468d5b9ace6c3643a2c7936bcd44c914455822c6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_8be32a33",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-01-28T14:20:05Z",
+      "side": 1,
+      "message": "So you need 0.6.0, so cap at \u003c0.7.",
+      "parentUuid": "7a5de9d1_d85a5a50",
+      "revId": "468d5b9ace6c3643a2c7936bcd44c914455822c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
