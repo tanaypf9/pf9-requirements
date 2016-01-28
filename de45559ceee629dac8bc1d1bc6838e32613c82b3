@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_cb228201",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 171,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-01-28T14:26:46Z",
+      "side": 0,
+      "message": "Why are we removing this? It\u0027s not used, but kind of confusing to the review. Maybe point it out in the commit message? Or just not do it.",
+      "revId": "de45559ceee629dac8bc1d1bc6838e32613c82b3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
