@@ -3,6 +3,7 @@ Babel===2.3.4
 CouchDB===1.0.1
 Django===1.8.13
 Flask===0.10.1
+Flask-Jsonpify===1.5.0
 GitPython===2.0.2
 Jinja2===2.8
 Mako===1.0.4
@@ -229,6 +230,7 @@ ovs===2.5.0;python_version=='2.7'
 ovs===2.6.0.dev1;python_version=='3.4'
 packaging===16.7
 pager===3.3
+pandas===0.17.1
 paramiko===2.0.0
 passlib===1.6.5
 pathlib===1.0.1;python_version=='2.7'
@@ -351,6 +353,7 @@ sphinxcontrib-seqdiag===0.8.5
 sqlalchemy-migrate===0.10.0
 sqlparse===0.1.19
 stevedore===1.13.0
+subunit2sql===1.5.0
 suds-jurko===0.6
 sysv-ipc===0.7.0
 tablib===0.11.2
