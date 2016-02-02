@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_90fc12b9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-02-02T00:08:31Z",
+      "side": 1,
+      "message": "We shouldn\u0027t be raising the minimum.  You\u0027ll need to find a way to make aodh compatible with keystone v3 some other way.",
+      "revId": "f73f7bcd7bf1081edaa1ad41e7b32bc508d7d64a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a5de9d1_d0560acd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-02-02T00:08:31Z",
+      "side": 1,
+      "message": "This should be \u003d\u003d2.2.1 NOT \u003e\u003d2.2.1",
+      "range": {
+        "startLine": 244,
+        "startChar": 23,
+        "endLine": 244,
+        "endChar": 30
+      },
+      "revId": "f73f7bcd7bf1081edaa1ad41e7b32bc508d7d64a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
