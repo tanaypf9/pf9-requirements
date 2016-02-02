@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a5de9d1_f4fe6137",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1179
+      },
+      "writtenOn": "2016-02-02T21:46:32Z",
+      "side": 1,
+      "message": "a) jerasure wasn\u0027t a default - it was one of many options that was often given as an example\nb) what does \"copyright problems\" even mean - unless you\u0027re a lawyer; I\u0027d suggest stick to the technical issues - pyeclib 1.0.8 has better built-in ec plugins that remove the need to reference a 3rd party ec lib in examples",
+      "revId": "2088d9735fb7eb74bfdc39a133d00cff199a77c5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
