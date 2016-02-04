@@ -170,6 +170,8 @@ def write(project, actions, stdout, verbose, noop=False):
             tmpname = fullname + '.tmp'
             with open(tmpname, 'wt') as f:
                 f.write(action.content)
+            if os.path.exists(fullname):
+                os.remove(fullname)
             os.rename(tmpname, fullname)
         elif type(action) is StdOut:
             stdout.write(action.message)
