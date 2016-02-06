@@ -1,0 +1,11 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Lin Hua Cheng <os.lcheng@gmail.com>
+Code-Review+1: Timur Sufiev <tsufiev@mirantis.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 06 Feb 2016 23:22:02 +0000
+Reviewed-on: https://review.openstack.org/275946
+Project: openstack/requirements
+Branch: refs/heads/master
