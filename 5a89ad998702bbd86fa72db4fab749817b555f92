@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_162378a8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-02-06T01:56:52Z",
+      "side": 1,
+      "message": "I understand that this is a security related issue.  Normally we wouldn\u0027t bump the minimum acceptable within a release.  Much less to a version that is outside the cap we\u0027ve already stated.\n\nIIUC Pillow is used in docs generation and isn\u0027t exposed to any APIs or user accessible services.  If that\u0027s correct I don\u0027t think we need this.",
+      "revId": "5a89ad998702bbd86fa72db4fab749817b555f92",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
