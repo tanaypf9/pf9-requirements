@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_b2637e41",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2016-02-07T12:53:58Z",
+      "side": 1,
+      "message": "argparse is wrong here, it\u0027s a python 2.6 project and not needed for 2.7 and newer.",
+      "revId": "78e5c205e0503e9acaf45125de2b0891f1b987d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
