@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a5ae5dd_399bb774",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2016-02-08T23:46:36Z",
+      "side": 1,
+      "message": "please make this \u003e\u003d1.0.1 (follow pattern as in the rest of the file)",
+      "revId": "a218a9588f51124af0820174b9846276f71f97f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
