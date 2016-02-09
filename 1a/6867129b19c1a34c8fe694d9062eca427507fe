@@ -1,0 +1,14 @@
+Code-Review+1: Trevor Vardeman <trevor.vardeman@rackspace.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Mikhail S Medvedev <mihailmed@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Code-Review+1: Rafael Folco <rfolco@br.ibm.com>
+Code-Review+1: Waldemar Znoinski <waldemar.znoinski@intel.com>
+Code-Review+1: Bharath M <bharath.stacker@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 09 Feb 2016 20:33:08 +0000
+Reviewed-on: https://review.openstack.org/277912
+Project: openstack/requirements
+Branch: refs/heads/master
