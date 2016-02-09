@@ -1,0 +1,9 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 09 Feb 2016 04:46:04 +0000
+Reviewed-on: https://review.openstack.org/268197
+Project: openstack/requirements
+Branch: refs/heads/master
