@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a57f1b5_ba06271b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-02-12T00:09:56Z",
+      "side": 1,
+      "message": "nit: it\u0027s be nice to reenforce that this applies to mock (and not mimic) It\u0027s implied by the reference to the std. lib and git blame would also make that clear but still.",
+      "revId": "f18f13c8475246d79abf76a3f18dd75c57117b4a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
