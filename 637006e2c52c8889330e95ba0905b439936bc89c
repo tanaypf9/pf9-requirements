@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae33548_c3789d92",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1207
+      },
+      "writtenOn": "2016-02-14T15:43:08Z",
+      "side": 1,
+      "message": "Details of why, please. I realise that I can chase through the dependency chain and find out, but it should be spelt out here.\n\nThanks",
+      "revId": "637006e2c52c8889330e95ba0905b439936bc89c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
