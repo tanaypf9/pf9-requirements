@@ -337,6 +337,7 @@ Werkzeug>=0.7  # BSD License
 wsgi_intercept>=0.6.1 # MIT License
 xvfbwrapper>=0.1.3 #license: MIT
 zake>=0.1.6 # Apache-2.0
+virtualbmc # Apache-2.0
 
 # Pinned requirements
 #
