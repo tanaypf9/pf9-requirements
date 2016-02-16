@@ -187,7 +187,7 @@ os-refresh-config===0.1.11
 os-testr===0.6.0
 oslo.cache===1.0.0
 oslo.concurrency===3.1.0
-oslo.config===3.1.0
+oslo.config===2.4.0
 oslo.context===1.0.0
 oslo.db===4.1.0
 oslo.i18n===3.1.0
@@ -198,7 +198,7 @@ oslo.policy===1.1.0
 oslo.reports===1.1.0
 oslo.rootwrap===3.1.0
 oslo.serialization===2.1.0
-oslo.service===0.9.1
+oslo.service===0.9.0
 oslo.utils===3.2.0
 oslo.versionedobjects===1.1.0
 oslo.vmware===2.1.0
