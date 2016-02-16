@@ -202,6 +202,7 @@ reno>=0.1.1  # Apache2
 # NOTE(mriedem): requests 2.9.0 breaks IPv6 hostname parsing, see LP 1526413
 requests>=2.8.1,!=2.9.0  # Apache-2.0
 requests-aws>=0.1.4    # BSD License (3 clause)
+requests-unixsocket # Apache-2.0
 requests-kerberos>=0.6;python_version=='2.7' or python_version=='2.6' # MIT
 requestsexceptions>=1.1.1  # Apache-2.0
 rfc3986>=0.2.0  # Apache-2.0
