@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae33548_ee0edd39",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 312,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2016-02-17T11:17:32Z",
+      "side": 1,
+      "message": "Can you please split the pytun as it\u0027s not GPL and we can just deal with it as a separate request?",
+      "revId": "1e44747b0bcc048e9cfb24ac91a699fcd0038f37",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
