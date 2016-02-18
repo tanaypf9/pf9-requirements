@@ -225,7 +225,7 @@ oslo.vmware===2.4.0
 oslosphinx===4.3.0
 oslotest===2.1.0
 osprofiler===1.1.0
-overtest===0.10.0
+overtest===0.11.0
 ovs===2.4.0;python_version=='2.7'
 packaging===16.2
 pager===3.3
