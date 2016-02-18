@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dae33548_d61a387c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 16237
+      },
+      "writtenOn": "2016-02-18T17:28:33Z",
+      "side": 1,
+      "message": "sahara",
+      "range": {
+        "startLine": 7,
+        "startChar": 14,
+        "endLine": 7,
+        "endChar": 20
+      },
+      "revId": "7b275d27b8d097edc3244e1ba2dd45c2da946516",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
