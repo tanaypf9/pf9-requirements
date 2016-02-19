@@ -75,7 +75,7 @@ beautifulsoup4===4.4.1
 betamax===0.5.1
 blockdiag===1.5.3
 boto===2.39.0
-botocore===1.3.27
+botocore===1.3.28
 cachetools===1.1.5
 cassandra-driver===3.0.0
 castellan===0.3.1
@@ -92,7 +92,7 @@ contextlib2===0.5.1
 coverage===4.0.3
 croniter===0.3.11
 cryptography===1.2.2
-dcos===0.3.1
+dcos===0.3.3
 ddt===1.0.1
 debtcollector===1.3.0
 decorator===4.0.9
@@ -118,7 +118,7 @@ dogpile.core===0.4.1
 ecdsa===0.13
 elasticsearch===1.9.0
 enum34===1.1.2
-eventlet===0.18.3
+eventlet===0.18.4
 extras===0.0.3
 fairy-slipper===0.1.0
 falcon===0.3.0
@@ -160,7 +160,7 @@ kafka-python===1.0.0
 kazoo===2.2.1
 keyring===8.4.1
 keystoneauth1===2.3.0
-keystonemiddleware===4.2.0
+keystonemiddleware===4.3.0
 klein===15.3.1
 kombu===3.0.33
 ldap3===1.0.4
@@ -197,7 +197,7 @@ openstacksdk===0.7.4
 ordereddict===1.1
 os-apply-config===0.1.32
 os-brick===1.0.0
-os-client-config===1.14.0
+os-client-config===1.15.0
 os-cloud-config===0.3.0
 os-collect-config===0.1.36
 os-net-config===0.1.6
@@ -225,7 +225,7 @@ oslo.vmware===2.4.0
 oslosphinx===4.3.0
 oslotest===2.1.0
 osprofiler===1.1.0
-overtest===0.10.0
+overtest===0.13.0
 ovs===2.4.0;python_version=='2.7'
 packaging===16.2
 pager===3.3
@@ -290,7 +290,7 @@ python-manilaclient===1.7.0
 python-memcached===1.57
 python-mimeparse===1.5.1
 python-mistralclient===1.2.0
-python-muranoclient===0.8.1
+python-muranoclient===0.8.2
 python-neutronclient===4.0.0
 python-novaclient===3.2.0
 python-openstackclient===2.1.0
@@ -325,7 +325,7 @@ scp===0.10.2
 selenium===2.52.0
 semantic-version===2.5.0
 seqdiag===0.9.5
-service-identity===14.0.0
+service-identity===16.0.0
 simplegeneric===0.8.1
 simplejson===3.8.2
 singledispatch===3.4.0.3
@@ -371,7 +371,7 @@ warlock===1.2.0
 weakrefmethod===1.0.2;python_version=='2.7'
 webcolors===1.5
 websocket-client===0.35.0
-websockify===0.7.0
+websockify===0.8.0
 wheel===0.29.0
 wrapt===1.10.6
 ws4py===0.3.4
