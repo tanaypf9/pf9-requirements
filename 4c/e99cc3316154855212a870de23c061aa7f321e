@@ -1,0 +1,8 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 19 Feb 2016 00:24:24 +0000
+Reviewed-on: https://review.openstack.org/281852
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
