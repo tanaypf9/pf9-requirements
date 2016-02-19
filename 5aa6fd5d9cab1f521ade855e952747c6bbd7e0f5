@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_8c55241f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 293,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2016-02-19T13:16:50Z",
+      "side": 1,
+      "message": "why is the min raised?",
+      "range": {
+        "startLine": 293,
+        "startChar": 14,
+        "endLine": 293,
+        "endChar": 19
+      },
+      "revId": "5aa6fd5d9cab1f521ade855e952747c6bbd7e0f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
