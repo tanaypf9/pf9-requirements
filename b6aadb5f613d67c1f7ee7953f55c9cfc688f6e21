@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_8cb16f92",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-02-20T22:08:55Z",
+      "side": 1,
+      "message": "Please check error:\n\nhttp://logs.openstack.org/80/281880/2/check/gate-requirements-tox-validate/5f57503/console.html.gz#_2016-02-18_22_45_35_716\n\nThis must be defined in the other files too (with the proper pinning).",
+      "revId": "b6aadb5f613d67c1f7ee7953f55c9cfc688f6e21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
