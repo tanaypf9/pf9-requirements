@@ -59,13 +59,6 @@ def check_compatible(global_reqs, constraints):
 
 class TestRequirements(testtools.TestCase):
 
-    def test_constraints_compatible(self):
-        global_req_content = open('global-requirements.txt', 'rt').read()
-        constraints_content = open('upper-constraints.txt', 'rt').read()
-        global_reqs = requirement.parse(global_req_content)
-        constraints = requirement.parse(constraints_content)
-        self.assertEqual([], check_compatible(global_reqs, constraints))
-
     def test_check_compatible(self):
         global_reqs = requirement.parse("foo>=1.2\n")
         good_constraints = requirement.parse("foo===1.2.5\n")
