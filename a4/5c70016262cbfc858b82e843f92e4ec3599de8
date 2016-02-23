@@ -1,0 +1,13 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+1: Alexis Lee <lxsli@hpe.com>
+Code-Review+1: Adelina Tuvenie <atuvenie@cloudbasesolutions.com>
+Code-Review+1: Petrut Lucian <lpetrut@cloudbasesolutions.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 23 Feb 2016 14:59:39 +0000
+Reviewed-on: https://review.openstack.org/279122
+Project: openstack/requirements
+Branch: refs/heads/master
