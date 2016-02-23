@@ -16,6 +16,24 @@
       "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_a8466a4c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2016-02-23T17:58:22Z",
+      "side": 1,
+      "message": "cliff\u003e\u003d1.17.0 does not work for us.\nWe need to avoid cliff 1.16.0 and 1.17.0.\n\nReleased versions which satisfy cliff \u003e\u003d1.15.0 are:\n1.15.0, 1.16.0, 1.17.0, 2.0.0. Versions we can use are only 1.15.0 and 2.0.0.",
+      "parentUuid": "bae84128_a5ecd3f3",
+      "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
