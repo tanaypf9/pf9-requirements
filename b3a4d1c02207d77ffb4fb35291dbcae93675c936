@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_f728429c",
+        "filename": "openstack_requirements/project.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 8119
+      },
+      "writtenOn": "2016-02-23T22:26:36Z",
+      "side": 1,
+      "message": "Won\u0027t the file separator be an issue on Windows too?  Shouldn\u0027t all occurances of \u0027/\u0027 be swapped for os.path.join?",
+      "range": {
+        "startLine": 169,
+        "startChar": 41,
+        "endLine": 169,
+        "endChar": 44
+      },
+      "revId": "b3a4d1c02207d77ffb4fb35291dbcae93675c936",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
