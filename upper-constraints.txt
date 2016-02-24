@@ -322,6 +322,8 @@ rjsmin===1.0.12
 rsa===3.3
 rtslib-fb===2.1.58
 ryu===3.30
+scapy===2.3.2;python_version=='2.7'
+scapy-python3===0.18;python_version=='3.4'
 scp===0.10.2
 selenium===2.52.0
 semantic-version===2.5.0
