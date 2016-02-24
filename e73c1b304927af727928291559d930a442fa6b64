@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_5553a66c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 176,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-02-24T19:32:32Z",
+      "side": 1,
+      "message": "Can you remove this blank line?",
+      "revId": "e73c1b304927af727928291559d930a442fa6b64",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
