@@ -34,6 +34,24 @@
       "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_c3de16dc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-02-24T05:44:05Z",
+      "side": 1,
+      "message": "perhaps dims meant cliff\u003e1.17.0? what would work, though we\u0027d leave 1.15.0 out.",
+      "parentUuid": "bae84128_a5ecd3f3",
+      "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
