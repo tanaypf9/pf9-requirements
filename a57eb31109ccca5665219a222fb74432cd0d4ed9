@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_281664a7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2016-02-25T11:20:43Z",
+      "side": 1,
+      "message": "This would need to be patch to global requirements, not to upper constraints. Upper constraints are generated after every successful build.",
+      "revId": "a57eb31109ccca5665219a222fb74432cd0d4ed9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
