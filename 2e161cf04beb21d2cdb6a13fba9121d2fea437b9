@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "bae84128_4355821b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2016-02-25T13:39:44Z",
+      "side": 1,
+      "message": "Perhaps it\u0027s worth linking the tracking issue too?\n\nhttps://bitbucket.org/pypa/setuptools/issues/502/packaging-164-does-not-allow-whitepace\n\nhttps://github.com/pypa/packaging/issues/65",
+      "revId": "2e161cf04beb21d2cdb6a13fba9121d2fea437b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bae84128_43aaa271",
         "filename": "upper-constraints.txt",
         "patchSetId": 3
