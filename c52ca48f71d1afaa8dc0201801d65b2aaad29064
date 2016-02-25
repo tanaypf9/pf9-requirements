@@ -16,6 +16,24 @@
       "revId": "c52ca48f71d1afaa8dc0201801d65b2aaad29064",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_233afecd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6773
+      },
+      "writtenOn": "2016-02-25T13:24:19Z",
+      "side": 1,
+      "message": "Oh, thanks!\n\nI will update the commit message",
+      "parentUuid": "bae84128_c8a3714e",
+      "revId": "c52ca48f71d1afaa8dc0201801d65b2aaad29064",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
