@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bae84128_43aaa271",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 330,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2016-02-25T13:33:14Z",
+      "side": 1,
+      "message": "The trouble with adding this is that nothing will update it right now. pip freeze does not show the version of this, so there needs to be some other way for this to be updated in the upper-constraints maintenance.",
+      "revId": "2e161cf04beb21d2cdb6a13fba9121d2fea437b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
