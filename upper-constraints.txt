@@ -327,6 +327,7 @@ selenium===2.52.0
 semantic-version===2.5.0
 seqdiag===0.9.5
 service-identity===16.0.0
+setuptools<20.2.1
 simplegeneric===0.8.1
 simplejson===3.8.2
 singledispatch===3.4.0.3
