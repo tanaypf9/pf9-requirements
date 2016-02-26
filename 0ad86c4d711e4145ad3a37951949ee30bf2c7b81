@@ -52,6 +52,24 @@
       "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9aed3d3a_04ab9875",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2016-02-26T06:15:55Z",
+      "side": 1,
+      "message": "cliff \u003e1.17.0 means we use cliff 2.0.0. According to the mailing list thread [1], cliff 2.0.0 has some issue with wrapping lines. I think it is better to keep cliff 1.15.0 as the minimum version.\n\n[1] http://lists.openstack.org/pipermail/openstack-dev/2016-February/087452.html",
+      "parentUuid": "bae84128_c3de16dc",
+      "revId": "0ad86c4d711e4145ad3a37951949ee30bf2c7b81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
