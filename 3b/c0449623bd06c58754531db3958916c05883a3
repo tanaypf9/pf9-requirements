@@ -1,0 +1,9 @@
+Code-Review+1: venkatamahesh <venkatamaheshkotha@gmail.com>
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Workflow+1: Matt Riedemann <mriedem@us.ibm.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Feb 2016 18:15:10 +0000
+Reviewed-on: https://review.openstack.org/281519
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
