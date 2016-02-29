@@ -368,3 +368,4 @@ pep257==0.7.0 # MIT License
 pep8==1.5.7  # MIT
 pyflakes==0.8.1  # MIT
 pylint==1.4.5  # GNU GPL v2
+xmltodict>=0.10.1  # MIT
