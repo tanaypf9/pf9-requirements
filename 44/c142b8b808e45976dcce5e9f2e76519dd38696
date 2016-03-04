@@ -1,0 +1,11 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: amrith <amrith@tesora.com>
+Code-Review+1: Steve Martinelli <stevemar@ca.ibm.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 04 Mar 2016 14:12:43 +0000
+Reviewed-on: https://review.openstack.org/285191
+Project: openstack/requirements
+Branch: refs/heads/master
