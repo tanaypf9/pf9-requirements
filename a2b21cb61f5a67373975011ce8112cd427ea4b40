@@ -22,6 +22,40 @@
       "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_4299161f",
+        "filename": "other-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-05T19:45:21Z",
+      "side": 1,
+      "message": "This must be coming from something else?",
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_82a31e4f",
+        "filename": "other-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-05T19:45:21Z",
+      "side": 1,
+      "message": "Why are these ordered here in the backport but not in https://review.openstack.org/#/c/288858/5/other-requirements.txt ?",
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
