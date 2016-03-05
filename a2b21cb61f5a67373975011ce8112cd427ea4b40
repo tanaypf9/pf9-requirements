@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_e201423b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-05T19:43:00Z",
+      "side": 1,
+      "message": "Is this not the latest patch set on the change? Should this be a9b887b4020431e177fd5f62092ef636a4ec398?",
+      "range": {
+        "startLine": 29,
+        "startChar": 27,
+        "endLine": 29,
+        "endChar": 67
+      },
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
