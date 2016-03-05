@@ -4,7 +4,8 @@ python-all-dev
 python3-all-dev
 libvirt-dev
 libxml2-dev
-libxslt-dev
+libxslt-devel [platform:rpm]
+libxslt1-dev [platform:dpkg]
 libmysqlclient-dev
 libpq-dev
 libnspr4-dev
