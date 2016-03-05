@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "7af24918_05c1d82e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2016-03-05T20:57:41Z",
+      "side": 1,
+      "message": "There\u0027s an additional backport squashed into this. I\u0027ll update the commit message to reflect all 3 with the change-ids and commit hashes per the master branch.",
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_4299161f",
         "filename": "other-requirements.txt",
         "patchSetId": 2
@@ -42,6 +59,23 @@
     },
     {
       "key": {
+        "uuid": "7af24918_65dc1c19",
+        "filename": "other-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2016-03-05T20:57:41Z",
+      "side": 1,
+      "message": "Looks like the file has been copied from the state of the master branch, so this dragged in comment changes from I6b90a3d831704fe40862dcf8421c4ffdbbeab7f7. Should I undo this, or is it crucial to document in the commit message given it\u0027s just changing punctuation of a comment to match the master branch?",
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7af24918_82a31e4f",
         "filename": "other-requirements.txt",
         "patchSetId": 2
@@ -53,6 +87,23 @@
       "writtenOn": "2016-03-05T19:45:21Z",
       "side": 1,
       "message": "Why are these ordered here in the backport but not in https://review.openstack.org/#/c/288858/5/other-requirements.txt ?",
+      "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7af24918_45e120d0",
+        "filename": "other-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2016-03-05T20:57:41Z",
+      "side": 1,
+      "message": "Because it\u0027s also incorporating a backport of Idbbdf7aa905e42eb36733271ef482989120c426f. I\u0027ll make sure to update the commit message with this detail.",
       "revId": "a2b21cb61f5a67373975011ce8112cd427ea4b40",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
