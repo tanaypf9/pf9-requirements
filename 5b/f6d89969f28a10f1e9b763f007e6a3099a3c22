@@ -1,0 +1,9 @@
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 06 Mar 2016 01:45:08 +0000
+Reviewed-on: https://review.openstack.org/288929
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
