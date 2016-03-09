@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5aef4532_d7c8c824",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-03-09T17:03:51Z",
+      "side": 1,
+      "message": "Looks like they just forgot to add \"future\" to their requirements for pysaml2 4.0.4 and this has been fixed with pysaml2 4.0.5\n\nSo this should be pysaml2!\u003d4.0.4",
+      "revId": "4e146476eb94fb349f78d90a90713d4991d7d9c5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
