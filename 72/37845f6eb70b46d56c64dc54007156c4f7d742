@@ -1,0 +1,9 @@
+Code-Review+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Matthew Treinish <mtreinish@kortar.org>
+Workflow+1: Matthew Treinish <mtreinish@kortar.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 09 Mar 2016 23:55:55 +0000
+Reviewed-on: https://review.openstack.org/290877
+Project: openstack/requirements
+Branch: refs/heads/stable/kilo
