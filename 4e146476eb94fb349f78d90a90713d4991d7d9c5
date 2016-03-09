@@ -16,6 +16,24 @@
       "revId": "4e146476eb94fb349f78d90a90713d4991d7d9c5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aef4532_3a959186",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-09T17:08:42Z",
+      "side": 1,
+      "message": "Yeah, but as the comment says, 4.0.5 adds a new transitive dependency on \u0027future\u0027 which isn\u0027t in g-r and I don\u0027t think we want to probably be added that in kilo at this point.",
+      "parentUuid": "5aef4532_d7c8c824",
+      "revId": "4e146476eb94fb349f78d90a90713d4991d7d9c5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
