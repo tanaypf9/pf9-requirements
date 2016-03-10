@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5aef4532_8bb28292",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-03-10T00:26:22Z",
+      "side": 1,
+      "message": "I understand this is a backport but I think in this case a backport is incorrect.\n\nAt the very least the commit messages needs to be updated to reflect what thew change actually does,",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aef4532_2bb9ae79",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-03-10T00:26:22Z",
+      "side": 1,
+      "message": "Probably need a\n\n Related-Bug:\n\nHere.",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aef4532_9ed642ef",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-03-10T00:26:22Z",
+      "side": 1,
+      "message": "We don\u0027t raise the minimum on stable branches, and you commit messages talks about blocking 1.17.0 but you\u0027re clearly doing more than that.",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
