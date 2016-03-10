@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "5aef4532_e3f4cff1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-03-10T23:40:01Z",
+      "side": 1,
+      "message": "So My point is that the change you\u0027re backporting only added a ban on 1.17.0 which is what your commit message says BUT you patch does 3 things\n 1. raises the minimum to \u003e\u003d 1.15.0\n 2. bans 1.16.0\n 3. bans 1.17.0\n\nSo you I think what you want to achieve is ban 1.17.0 (due to the bug in question) but due to the nature of global-requirements that isn\u0027t a backport in the true sense.\n\nSo I suggest just doing a new change and referencing the bug and and thew master change.",
+      "parentUuid": "5aef4532_c0d2695b",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5aef4532_2bb9ae79",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "Is \"Related-Bug\" applicable to the bugs filed against openstack/requirements only? I don\u0027t think the original commit have a bug associated with it. I can create a new one for openstack/requirements if needed. Please let me know.",
       "parentUuid": "5aef4532_2bb9ae79",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aef4532_407f7914",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-03-10T23:40:01Z",
+      "side": 1,
+      "message": "Yes related-Bug is fine for the existing bug",
+      "parentUuid": "5aef4532_e042050e",
       "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
