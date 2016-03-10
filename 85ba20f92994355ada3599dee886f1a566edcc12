@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5aef4532_c0d2695b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2016-03-10T23:11:23Z",
+      "side": 1,
+      "message": "Not sure if I understand. This is because we can run into cliff bug 1539770 in the stable branch (see line 9-10). Can you please suggest what should the commit message looks like?",
+      "parentUuid": "5aef4532_8bb28292",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5aef4532_2bb9ae79",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "5aef4532_e042050e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2016-03-10T23:11:23Z",
+      "side": 1,
+      "message": "Is \"Related-Bug\" applicable to the bugs filed against openstack/requirements only? I don\u0027t think the original commit have a bug associated with it. I can create a new one for openstack/requirements if needed. Please let me know.",
+      "parentUuid": "5aef4532_2bb9ae79",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5aef4532_9ed642ef",
         "filename": "global-requirements.txt",
         "patchSetId": 1
@@ -47,6 +83,24 @@
       "writtenOn": "2016-03-10T00:26:22Z",
       "side": 1,
       "message": "We don\u0027t raise the minimum on stable branches, and you commit messages talks about blocking 1.17.0 but you\u0027re clearly doing more than that.",
+      "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5aef4532_602ef58c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2016-03-10T23:11:23Z",
+      "side": 1,
+      "message": "Good to know. I\u0027ll back out the minimum requirement change.",
+      "parentUuid": "5aef4532_9ed642ef",
       "revId": "85ba20f92994355ada3599dee886f1a566edcc12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
