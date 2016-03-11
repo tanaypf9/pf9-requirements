@@ -230,6 +230,7 @@ oslotest===2.4.0
 osprofiler===1.2.0
 overtest===0.14.0
 ovs===2.5.0;python_version=='2.7'
+ovs===2.6.0.dev1;python_version>='3.4'
 packaging===16.6
 pager===3.3
 paramiko===1.16.0
