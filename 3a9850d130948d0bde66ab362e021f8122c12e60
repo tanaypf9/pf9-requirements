@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3afc51ec_6b20789c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2016-03-11T18:50:31Z",
+      "side": 1,
+      "message": "bug 1539770 is the reason we cannot use cliff 1.17.0.\nThis is not the reason of excluding 1.16.0.\nbug 1543958 is the reason of excluding 1.16.0.\nYou should mention bug 1543958 too.",
+      "range": {
+        "startLine": 10,
+        "startChar": 14,
+        "endLine": 10,
+        "endChar": 30
+      },
+      "revId": "3a9850d130948d0bde66ab362e021f8122c12e60",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3afc51ec_6b6eb8ca",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2016-03-11T18:50:31Z",
+      "side": 1,
+      "message": "I prefer to more generic description. how about 1.20.0?\n\n  There are no further releases in 1.x series after 1.17.0 and ....",
+      "range": {
+        "startLine": 11,
+        "startChar": 17,
+        "endLine": 11,
+        "endChar": 46
+      },
+      "revId": "3a9850d130948d0bde66ab362e021f8122c12e60",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
