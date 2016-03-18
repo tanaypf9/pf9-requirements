@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1af94dfe_a8a12096",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2016-03-18T20:36:26Z",
+      "side": 1,
+      "message": "This should probably be !\u003d1.3 so we don\u0027t omit all future versions as well.  I guess that\u0027s assuming this will be fixed by the next release.",
+      "revId": "35e94350843523bc921a0bf57e1d6e149f22b6fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
