@@ -16,6 +16,24 @@
       "revId": "35e94350843523bc921a0bf57e1d6e149f22b6fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1af94dfe_48985c1c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 6924
+      },
+      "writtenOn": "2016-03-18T20:42:47Z",
+      "side": 1,
+      "message": "right we can do that when its fixed, we dont want to be in a situation where it takes a few releases to fix and we only omitted 1.3. Right now \u003c 1.3 seems correct to me.",
+      "parentUuid": "1af94dfe_a8a12096",
+      "revId": "35e94350843523bc921a0bf57e1d6e149f22b6fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
