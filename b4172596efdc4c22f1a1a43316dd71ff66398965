@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1af94dfe_b1137fb7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-18T01:46:07Z",
+      "side": 1,
+      "message": "How does bumping to 1.3.2 fix this?\n\n(app-emulation/libvirt-1.3.1:0/1.3.1::gentoo, ebuild scheduled for merge) conflicts with\n        app-emulation/libvirt:0/1.2.21 required by (dev-python/libvirt-python-1.2.21:0/0::gentoo, installed)\n\nOr are you just explaining that you have to use upper-constraints for placing caps so you don\u0027t hit that conflict?",
+      "revId": "b4172596efdc4c22f1a1a43316dd71ff66398965",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
