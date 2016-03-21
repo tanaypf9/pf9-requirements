@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa0719c6_7894af36",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-21T19:16:08Z",
+      "side": 1,
+      "message": "Since we can have a list of exclusions, like for oslo.messaging and diskimage-builder below, I generally like to see a note in here about why this version is excluded since it can get lost in git blame, but it\u0027s not a huge issue.",
+      "revId": "6f01bcfd8438d03f4d87bc6d3bec5dce3304e9a8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
