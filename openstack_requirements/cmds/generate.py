@@ -11,6 +11,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+import locale
 import optparse
 import os.path
 import subprocess
@@ -62,6 +63,8 @@ def _freeze(requirements, python):
     :return: A tuple (python_version, list of (package, version)'s)
     """
     output = []
+    output.append(('locale.getpreferredencoding() == "%s"' %
+                   (locale.getpreferredencoding())))
     try:
         version_out = subprocess.check_output(
             [python, "--version"], stderr=subprocess.STDOUT)
@@ -69,6 +72,7 @@ def _freeze(requirements, python):
         version_all = version_out.split()[1]
         version = '.'.join(version_all.split('.')[:2])
         with fixtures.TempDir() as temp:
+            output.append(subprocess.check_output(['locale']))
             output.append(subprocess.check_output(
                 ['virtualenv', '-p', python, temp.path]))
             pip_bin = os.path.join(temp.path, 'bin', 'pip')

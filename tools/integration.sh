@@ -32,6 +32,8 @@ sudo apt-get install -y --force-yes $(bindep -b python -f $root/other-requiremen
 # And use ccache explitly
 export PATH=/usr/lib/ccache:$PATH
 
+locale
+
 tmpdir=$(mktemp -d)
 
 # Set up a wheelhouse
