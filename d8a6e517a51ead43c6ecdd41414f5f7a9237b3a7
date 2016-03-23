@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa0719c6_8c213ea2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-23T01:03:44Z",
+      "side": 1,
+      "message": "Nova doesn\u0027t actually have a requirement on libvirt-python in it\u0027s requirements.txt, so I\u0027m assuming you\u0027re talking about the gentoo nova package?",
+      "range": {
+        "startLine": 14,
+        "startChar": 38,
+        "endLine": 14,
+        "endChar": 42
+      },
+      "revId": "d8a6e517a51ead43c6ecdd41414f5f7a9237b3a7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
