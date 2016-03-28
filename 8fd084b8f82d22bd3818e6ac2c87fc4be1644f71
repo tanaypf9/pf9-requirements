@@ -34,6 +34,24 @@
       "revId": "8fd084b8f82d22bd3818e6ac2c87fc4be1644f71",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_ae06281e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-03-28T20:12:48Z",
+      "side": 1,
+      "message": "This is being updated to reflect the fact that neutron-lib 0.2.0 isn\u0027t part of the mitaka branch, but as we discussed on IRC we don\u0027t want that.",
+      "parentUuid": "ba0121b8_8e9084ee",
+      "revId": "8fd084b8f82d22bd3818e6ac2c87fc4be1644f71",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
