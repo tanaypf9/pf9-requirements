@@ -16,6 +16,24 @@
       "revId": "8fd084b8f82d22bd3818e6ac2c87fc4be1644f71",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba0121b8_c92a767e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 186,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-03-28T20:09:44Z",
+      "side": 1,
+      "message": "Seems this should be 0.0.2 given https://github.com/openstack/releases/blob/master/deliverables/mitaka/neutron-lib.yaml#L9",
+      "parentUuid": "ba0121b8_8e9084ee",
+      "revId": "8fd084b8f82d22bd3818e6ac2c87fc4be1644f71",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
