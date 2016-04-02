@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_73e35006",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-04-02T15:40:09Z",
+      "side": 1,
+      "message": "we have released 4.1.2, if you wanted to bump it up even more, though it does not have anything critical.",
+      "revId": "0a2ca24271b725dfeb949fc6e216d66ddf92f3c9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
