@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_92236905",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-04-04T20:48:52Z",
+      "side": 1,
+      "message": "uh... this isn\u0027t on pypi or tagged yet that I can see...",
+      "revId": "d278f909dd9a9bfc07ed069d61d76ac8260d2049",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
