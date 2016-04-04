@@ -16,6 +16,24 @@
       "revId": "d278f909dd9a9bfc07ed069d61d76ac8260d2049",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a061dce_c6e7e310",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2537
+      },
+      "writtenOn": "2016-04-04T22:21:18Z",
+      "side": 1,
+      "message": "Thanks for your review.\n\nwe\u0027re just waiting on https://review.openstack.org/#/c/301337/  as per the depends on flag in the commit msg.",
+      "parentUuid": "9a061dce_92236905",
+      "revId": "d278f909dd9a9bfc07ed069d61d76ac8260d2049",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
