@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a061dce_ed3ba3cf",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-04-05T23:46:27Z",
+      "side": 1,
+      "message": "We don\u0027t cap in global-requirements, at least since kilo, unless we can\u0027t avoid it. upper-constraints is used for capping in liberty+, and our CI jobs should be using upper-constraints, I know devstack is when installing pip dependencies from global-requirements.",
+      "revId": "fa60a83ffeffce77ecfe2813c8bd9c48c6312626",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
