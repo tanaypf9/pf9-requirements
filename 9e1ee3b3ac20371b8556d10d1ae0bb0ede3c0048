@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a1b2928_457774d4",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 11536
+      },
+      "writtenOn": "2016-04-11T02:29:53Z",
+      "side": 1,
+      "message": "The introduction of this package breaks Magnum.\n\nMagnum Bug: https://bugs.launchpad.net/magnum/+bug/1568427\nCryptography issue: https://github.com/pyca/cryptography/issues/2870",
+      "range": {
+        "startLine": 253,
+        "startChar": 0,
+        "endLine": 253,
+        "endChar": 13
+      },
+      "revId": "9e1ee3b3ac20371b8556d10d1ae0bb0ede3c0048",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
