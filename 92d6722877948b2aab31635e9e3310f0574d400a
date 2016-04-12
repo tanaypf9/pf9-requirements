@@ -54,6 +54,23 @@
     },
     {
       "key": {
+        "uuid": "5a18252c_3c9d0366",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 161,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-12T19:58:35Z",
+      "side": 1,
+      "message": "changes is just the list of changes that were made. It doesn\u0027t affect what\u0027s actually put in the requirements file. The requirements file is created from the contents of output_requirements, which is updated at line 163. That needs to be changed to use a Requirements with extras set, which isn\u0027t being done since ref[0] doesn\u0027t have extras.",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a18252c_3c5343e3",
         "filename": "openstack_requirements/requirement.py",
         "patchSetId": 2
