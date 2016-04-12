@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "5a18252c_ba410e0e",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-12T23:32:47Z",
+      "side": 1,
+      "message": "True, but in this case the comparison is [] \u003d\u003d []: which also seems fine.",
+      "parentUuid": "5a18252c_a6e29d01",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a18252c_9749bfd3",
         "filename": "openstack_requirements/cmds/update.py",
         "patchSetId": 2
@@ -84,6 +102,24 @@
       "side": 1,
       "message": "From memory versions are parsed to a semantic representation with a stable output - not a plain set. Did you actually see a raft of test failures, or is this speculation?",
       "parentUuid": "5a18252c_901d2076",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_3a569ed2",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-12T23:32:47Z",
+      "side": 1,
+      "message": "I saw failures, but i went through a few ways to do this so maybe i got it wrong.",
+      "parentUuid": "5a18252c_e9f626d6",
       "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
