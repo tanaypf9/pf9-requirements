@@ -140,8 +140,9 @@ def to_content(reqs, marker_sep=';', line_prefix='', prefix=True):
         marker = marker_sep + req.markers if req.markers else ''
         package = line_prefix + req.package if req.package else ''
         location = req.location + '#egg=' if req.location else ''
-        lines.append('%s%s%s%s%s\n' % (
-            location, package, req.specifiers, marker, comment))
+        extras = ('[%s]' % ','.join(sorted(req.extras))) if req.extras else ''
+        lines.append('%s%s%s%s%s%s\n' % (
+            location, package, extras, req.specifiers, marker, comment))
     return u''.join(lines)
 
 

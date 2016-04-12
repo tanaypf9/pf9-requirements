@@ -242,6 +242,34 @@ class TestMain(testtools.TestCase):
         update.main(['-o', 'global', '/dev/zero'], _worker=check_params)
 
 
+class TestSameIgnoringExtras(testtools.TestCase):
+    def test_same_extras(self):
+        req = requirement.parse_line(
+            'oslo.db[fixtures,mysql,postgresql]>=4.1.0 # Apache-2.0')
+        ref = requirement.parse_line('oslo.db>=4.1.0 # Apache-2.0')
+        self.assertTrue(update.same_ignoring_extras(req, ref))
+
+    def test_same_no_extras(self):
+        req = requirement.parse_line('oslo.config>=3.9.0 # Apache-2.0')
+        ref = requirement.parse_line('oslo.config>=3.9.0 # Apache-2.0')
+        self.assertTrue(update.same_ignoring_extras(req, ref))
+
+    def test_different_package(self):
+        req = requirement.parse_line('oslo.config>=3.9.0 # Apache-2.0')
+        ref = requirement.parse_line('oslo.db>=3.9.0 # Apache-2.0')
+        self.assertFalse(update.same_ignoring_extras(req, ref))
+
+    def test_different_specifiers(self):
+        req = requirement.parse_line('oslo.config>=3.9.0 # Apache-2.0')
+        ref = requirement.parse_line('oslo.config>=3.10.0 # Apache-2.0')
+        self.assertFalse(update.same_ignoring_extras(req, ref))
+
+    def test_different_comment(self):
+        req = requirement.parse_line('oslo.config>=3.9.0 # Apache-2.0')
+        ref = requirement.parse_line('oslo.config>=3.9.0 # Apache-3.0')
+        self.assertFalse(update.same_ignoring_extras(req, ref))
+
+
 class TestSyncRequirementsFile(testtools.TestCase):
 
     def test_multiple_lines_in_global_one_in_project(self):

@@ -95,6 +95,24 @@ def _check_setup_py(proj):
     return actions
 
 
+def same_ignoring_extras(req, ref):
+    """Compare Requirements ignoring extras.
+
+    Returns True if the Requirements are the same, ignoring extras.
+
+    :param req: Requirement from the project
+    :type req: openstack_requirements.requirement.Requirement
+    :param ref: Reference requirement from global-requirements
+    :type ref: openstack_requirements.requirement.Requirement
+
+    """
+    # NOTE(bknudson): Not sure what the correct behavior is if ref contains
+    # extras. Luckily extras aren't specified in g-r.
+    req_empty_extras = requirement.Requirement(
+        req.package, req.location, req.specifiers, req.markers, req.comment)
+    return req_empty_extras == ref
+
+
 def _sync_requirements_file(
         source_reqs, dest_sequence, dest_label, softupdate, hacking,
         non_std_reqs):
@@ -137,11 +155,17 @@ def _sync_requirements_file(
                 elif not ref:
                     # less in globals
                     changes.append(Change(req[0].package, req[1], ''))
-                elif req[0] != ref[0]:
+                elif not same_ignoring_extras(req[0], ref[0]):
                     # A change on this entry
                     changes.append(Change(req[0].package, req[1], ref[1]))
                 if ref:
-                    output_requirements.append(ref[0])
+                    ref_req = ref[0]
+                    if req:
+                        ref_req = requirement.Requirement(
+                            ref_req.package, ref_req.location,
+                            ref_req.specifiers, ref_req.markers,
+                            ref_req.comment, req[0].extras)
+                    output_requirements.append(ref_req)
         elif softupdate:
             # under softupdate we pass through anything unknown packages,
             # this is intended for ecosystem projects that want to stay in
