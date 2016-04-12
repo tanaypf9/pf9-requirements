@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_9749bfd3",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2016-04-12T06:44:40Z",
+      "side": 1,
+      "message": "I think this would be clear to just do the else block: a small comment noting that global-requirmeents doesn\u0027t specify extras, so they come from the project. Then take ref[1] for everything except extras. (The code below takes req[0].package, which is inconsistent).",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_f7ec7391",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2016-04-12T06:44:40Z",
+      "side": 1,
+      "message": "This is a problematic change: requirement doesn\u0027t just cover the package - its a bunch of stuff. So -1 on the __eq__ part of this change.",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
