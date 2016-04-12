@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5a18252c_a6e29d01",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2016-04-12T21:14:34Z",
+      "side": 1,
+      "message": "this sounds reasonable",
+      "parentUuid": "5a18252c_7cd5bb41",
+      "revId": "92d6722877948b2aab31635e9e3310f0574d400a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a18252c_9749bfd3",
         "filename": "openstack_requirements/cmds/update.py",
         "patchSetId": 2
