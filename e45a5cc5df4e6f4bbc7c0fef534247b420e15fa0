@@ -16,6 +16,24 @@
       "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_892497af",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2537
+      },
+      "writtenOn": "2016-04-13T19:42:42Z",
+      "side": 1,
+      "message": "hey, yes glance_store tests are broken when using py-swiftclient. and yes 0.13.0 should work fine in production environments.\n\nThe catch here is though: if a CI system pulls in glance_store 0.13.0 and py-swiftclient 3.0.0 then it won\u0027t work in their respective downstream gates. This is rather sad as 0.13.0 is a published version for stable/mitaka and there\u0027s no upper cap on swiftclient requirement.\n\nTBH, I don\u0027t quite get what exactly you meant to say in the bottom two paragraphs. You want a keep a bug open for mitaka that indicates that global requirements are what they are currently and let the packagers know that 0.13.1 should be used in their CI system ??",
+      "parentUuid": "5a18252c_ccf36f9d",
+      "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
