@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_ccf36f9d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-04-13T05:35:15Z",
+      "side": 1,
+      "message": "I think this is a fine line technically we haven\u0027t raised the minimum on a stable branch but in reality we have.\n\nWe\u0027ve lost here because we can\u0027t rewrite history and we can really more forward.\n\nIt\u0027s only glance_stores *tests* that are broken right?\n\nglance_store 0.13.0 and python-swiftclient 3.0.0 work together right?\n\nThis is Mitaka where contraints should be well supported and understood, can\u0027t we leave g-r (possibly with a link to the issue/bug) alone and bump u-c to point to the new 0.13.1 release.\n\nThat communicates to downstream that is the 0.13.1 is the endorsed release but 0.13.0 is acceptable and we get the fix in our gate",
+      "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
