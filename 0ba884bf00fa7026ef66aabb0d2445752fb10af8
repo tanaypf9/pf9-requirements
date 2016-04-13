@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a18252c_5bd8971d",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 141,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-13T15:06:57Z",
+      "side": 1,
+      "message": "The comment should be updated since there isn\u0027t necessarily a change on this entry.\n\nIt could be moved down after line 165.",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_5b69b78a",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-13T15:06:57Z",
+      "side": 1,
+      "message": "why use req[0] rather than ref[0] for the package?",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_fbb523ee",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-13T15:06:57Z",
+      "side": 1,
+      "message": "so... the tests are wrong? If so why not fix the tests?",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_5b9c1769",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-13T15:06:57Z",
+      "side": 1,
+      "message": "I think this would make more sense if it was\n\n if req[0].extras:\n\nsince this is really what it\u0027s testing. ref[0].extras is always going to be empty.",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_7bfe3338",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 6486
+      },
+      "writtenOn": "2016-04-13T15:06:57Z",
+      "side": 1,
+      "message": "refactoring this makes the review more difficult since it\u0027s harder to find the change that\u0027s relevant to the bug fix.",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
