@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "5a18252c_87b11be4",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-13T23:04:47Z",
+      "side": 1,
+      "message": "only because the old change() used req[0].package - in the other two conditionals they are used interchangably (line 136, 139). I can change it.",
+      "parentUuid": "5a18252c_5b69b78a",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a18252c_fbb523ee",
         "filename": "openstack_requirements/cmds/update.py",
         "patchSetId": 4
@@ -47,6 +65,24 @@
       "writtenOn": "2016-04-13T15:06:57Z",
       "side": 1,
       "message": "so... the tests are wrong? If so why not fix the tests?",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_6224adae",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-13T23:04:47Z",
+      "side": 1,
+      "message": "they\u0027re not necessarily wrong. they just have expectations, i can fix the tests but i\u0027m not sure that\u0027s more clear.",
+      "parentUuid": "5a18252c_fbb523ee",
       "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -70,6 +106,24 @@
     },
     {
       "key": {
+        "uuid": "5a18252c_4719c387",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-13T23:04:47Z",
+      "side": 1,
+      "message": "i can see a situation where this is not true - for example i\u0027d be happy to see requests[security] required in global-requirements but then this doesn\u0027t handle that case either so ok.",
+      "parentUuid": "5a18252c_5b9c1769",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5a18252c_7bfe3338",
         "filename": "openstack_requirements/requirement.py",
         "patchSetId": 4
@@ -81,6 +135,24 @@
       "writtenOn": "2016-04-13T15:06:57Z",
       "side": 1,
       "message": "refactoring this makes the review more difficult since it\u0027s harder to find the change that\u0027s relevant to the bug fix.",
+      "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_2793e750",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 7191
+      },
+      "writtenOn": "2016-04-13T23:04:47Z",
+      "side": 1,
+      "message": "It\u0027s not just a refactor, i use to_line in update.",
+      "parentUuid": "5a18252c_7bfe3338",
       "revId": "0ba884bf00fa7026ef66aabb0d2445752fb10af8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
