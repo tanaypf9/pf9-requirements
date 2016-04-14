@@ -1,0 +1,11 @@
+Code-Review+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Code-Review+1: Armando Migliaccio <armamig@gmail.com>
+Code-Review+1: Margaret Frances <margaret_frances@cable.comcast.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 14 Apr 2016 02:30:49 +0000
+Reviewed-on: https://review.openstack.org/304691
+Project: openstack/requirements
+Branch: refs/heads/master
