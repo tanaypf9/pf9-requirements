@@ -34,6 +34,24 @@
       "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_3ff00767",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-04-14T06:10:50Z",
+      "side": 1,
+      "message": "You basically have my suggestion right, but I wouldn\u0027t say I \"want\" to do this.\n\nLeave g-r as:\n\n glance_store\u003e\u003d0.13.0\n\nand change u-c to:\n\n glance-store\u003d\u003d\u003d0.13.1\n\nThis mean *our* CI infrastructure will do the right thing and anyone that uses unmodified tox.ini\u0027s *their* CI infrastructure will also do the right thing.\n\nLike I said we\u0027ve already lost and we need to compromise *something*.  I think my proposal (http://paste.openstack.org/show/494017/) strikes a balance between sticking with our commitment (no minimum bumps) and clearly communicating what works (the versions in upper-constratins.txt)\n\nI see that glance_store isn\u0027t using contraints  in tox.ini I\u0027d be happy to help with that after the summit.",
+      "parentUuid": "5a18252c_892497af",
+      "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
