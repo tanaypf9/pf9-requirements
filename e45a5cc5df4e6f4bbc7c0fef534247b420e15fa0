@@ -52,6 +52,24 @@
       "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a18252c_ba3c25c9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-04-14T06:14:27Z",
+      "side": 1,
+      "message": "I can say that as a packager I\u0027m packaging the upper-constraints AND requiring \u003e\u003d what\u0027s in the individual package\u0027s requirements.txt.  changing the UC only worksforme.",
+      "parentUuid": "5a18252c_3ff00767",
+      "revId": "e45a5cc5df4e6f4bbc7c0fef534247b420e15fa0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
