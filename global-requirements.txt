@@ -34,6 +34,8 @@ Django>=1.8,<1.9  # BSD
 django-babel>=0.4.0  # BSD
 django-bootstrap-form  # BSD
 django_compressor>=2.0  # MIT
+django-debug-toolbar>=1.4  # BSD
+django-debug-toolbar-template-profiler  # BSD
 django-formtools  # BSD
 django_openstack_auth>=2.2.0  # Apache-2.0
 dnspython>=1.12.0;python_version<'3.0'  # http://www.dnspython.org/LICENSE
