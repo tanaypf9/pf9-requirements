@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_a304547e",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 156,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2016-04-18T00:18:20Z",
+      "side": 1,
+      "message": "Its not mandatory, but I\u0027d appreciate expanding this to explain that ref[0] may now equal req[0].\n\nOr perhaps better: change the elif to an else, update the ref first with the extras, and then we wouldn\u0027t have what looks like a redundant if test.",
+      "revId": "5033a0f71617cb6b195361f6fd04844b64c7f924",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
