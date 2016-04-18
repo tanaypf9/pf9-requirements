@@ -106,6 +106,8 @@ django-appconf===1.0.1
 django-babel===0.5.1
 django-bootstrap-form===3.2
 django-compressor===2.0
+django-debug-toolbar===1.4
+django-debug-toolbar-template-profiler===1.0.1
 django-formtools===1.0
 django-nose===1.4.3
 django-openstack-auth===2.2.1
