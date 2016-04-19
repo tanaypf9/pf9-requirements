@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_9b8166c6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-04-19T14:59:24Z",
+      "side": 1,
+      "message": "You could provide some more details here. The cap is because testresources 2.0.0 requires pbr\u003e\u003d1.8 and in kilo we cap pbr\u003c1.0.",
+      "revId": "d90253aeb40a0348bab009b7e7f8e929dec5e77c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
