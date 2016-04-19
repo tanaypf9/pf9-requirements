@@ -1,0 +1,8 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 19 Apr 2016 12:19:24 +0000
+Reviewed-on: https://review.openstack.org/307475
+Project: openstack/requirements
+Branch: refs/heads/master
