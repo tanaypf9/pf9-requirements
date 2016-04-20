@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_7053ade2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-04-20T02:14:14Z",
+      "side": 1,
+      "message": "So I guess we don\u0027t cap at \u003c1.2.2 because 1.2.1 doesn\u0027t exist?\n\nWhat about blacklisting 1.2.2 and fixing the bug in DOA stable/kilo and releasing that as 1.2.3?  That would fix this and get it under the \u003c1.3.0 cap we have today.",
+      "range": {
+        "startLine": 9,
+        "startChar": 36,
+        "endLine": 9,
+        "endChar": 41
+      },
+      "revId": "cda5ca2f459779644a0a097782f3852754d88bd9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
