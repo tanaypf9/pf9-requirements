@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_e9acbd8d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-04-20T23:28:01Z",
+      "side": 1,
+      "message": "We don\u0027t raise minimum requirements on stable branches.",
+      "revId": "d00fb65b5da464e34a07a2a6fe1c8c42ca988ca8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_49b211e6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-04-20T23:28:01Z",
+      "side": 1,
+      "message": "This is fine",
+      "revId": "d00fb65b5da464e34a07a2a6fe1c8c42ca988ca8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
