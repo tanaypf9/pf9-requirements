@@ -22,6 +22,30 @@
       "revId": "cda5ca2f459779644a0a097782f3852754d88bd9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_5a8b2868",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 7179
+      },
+      "writtenOn": "2016-04-20T05:54:35Z",
+      "side": 1,
+      "message": "Correct, there is no 1.2.1 available:\n\n\nhttp://paste.openstack.org/show/494729/\n\n\nFixing DOA stable/kilo would be an option. We could change it so that it doesn\u0027t try to use the non-existing option. My initial thought was we probably don\u0027t want to make code changes for things as far back as stable/kilo, so that a requirements cap was more desirable than fixing DOA. But I\u0027m open to debate on that.",
+      "parentUuid": "1a122d0e_7053ade2",
+      "range": {
+        "startLine": 9,
+        "startChar": 36,
+        "endLine": 9,
+        "endChar": 41
+      },
+      "revId": "cda5ca2f459779644a0a097782f3852754d88bd9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
