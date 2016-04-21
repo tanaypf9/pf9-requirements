@@ -108,6 +108,7 @@ openstack/oslotest
 openstack/pycadf
 openstack/python-barbicanclient
 openstack/python-blazarclient
+openstack/python-brick-cinderclient-ext
 openstack/python-ceilometerclient
 openstack/python-cinderclient
 openstack/python-congressclient
