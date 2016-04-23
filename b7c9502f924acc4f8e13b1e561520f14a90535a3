@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_20577103",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-04-23T22:10:28Z",
+      "side": 1,
+      "message": "I\u0027m inclined to say we should just cap at \u003c2.3.0, but then we\u0027d have to sync that out to the projects. So I\u0027m fine with just blacklisting for now.",
+      "revId": "b7c9502f924acc4f8e13b1e561520f14a90535a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
