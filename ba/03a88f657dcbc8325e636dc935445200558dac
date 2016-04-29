@@ -1,0 +1,10 @@
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Workflow+1: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 29 Apr 2016 22:34:06 +0000
+Reviewed-on: https://review.openstack.org/308735
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
