@@ -1,0 +1,11 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Ian Cordasco <ian.cordasco@rackspace.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Workflow+1: Alan Pevec <alan.pevec@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 29 Apr 2016 23:20:50 +0000
+Reviewed-on: https://review.openstack.org/301727
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
