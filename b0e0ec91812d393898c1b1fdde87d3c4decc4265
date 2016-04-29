@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_5ee0ee25",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-04-29T19:30:00Z",
+      "side": 1,
+      "message": "why not \"\u003c\u00273.0\u0027\" then? seems more consistent with commit message.",
+      "revId": "b0e0ec91812d393898c1b1fdde87d3c4decc4265",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
