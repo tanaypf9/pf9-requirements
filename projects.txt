@@ -139,7 +139,9 @@ openstack/python-troveclient
 openstack/python-watcherclient
 openstack/python-zaqarclient
 openstack/rally
+openstack/renderspec
 openstack/requirements
+openstack/rpm-packaging
 openstack/sahara
 openstack/sahara-dashboard
 openstack/sahara-extra
