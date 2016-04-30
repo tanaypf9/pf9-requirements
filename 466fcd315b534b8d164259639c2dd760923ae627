@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_2707e21e",
+        "filename": "tools/integration.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-04-30T02:25:28Z",
+      "side": 1,
+      "message": "We should probably quote/encapsulate the variables used here in `${}` type constructs but overall I don\u0027t really see this commit as fixing anything specifically.\n\nThe code style used for this file could likely use some more general love though, so basically this patch seems too small I guess :|",
+      "revId": "466fcd315b534b8d164259639c2dd760923ae627",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
