@@ -16,6 +16,23 @@
       "revId": "02fe101679b7c3721196c95e4d0300c09bd5008f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_555c3f4c",
+        "filename": "README.rst",
+        "patchSetId": 5
+      },
+      "lineNbr": 235,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-04-30T20:54:39Z",
+      "side": 1,
+      "message": "I\u0027m not sure what the conclusion was, but library deprication was something that we discussed in a couple of sessions at summit.\n\nhttps://etherpad.openstack.org/p/newton-backwards-compat-libs\n\nI walked in late to another session that was also about this, I think the decision was that libraries should support N-1 release, not sure about implimentation details, but could be based on the review in that etherpad.  https://review.openstack.org/#/c/226157/",
+      "revId": "02fe101679b7c3721196c95e4d0300c09bd5008f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
