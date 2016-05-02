@@ -98,6 +98,7 @@ dcos===0.4.4
 ddt===1.0.1
 debtcollector===1.3.0
 decorator===4.0.9
+defusedxml===0.4.1
 demjson===2.2.4
 dib-utils===0.0.8
 discover===0.4.0
