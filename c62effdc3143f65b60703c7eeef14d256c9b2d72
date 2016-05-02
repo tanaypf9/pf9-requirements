@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_43358da6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 7102
+      },
+      "writtenOn": "2016-05-02T21:53:05Z",
+      "side": 1,
+      "message": "can you remove the space between \u003e\u003d and 0.8.2 ?",
+      "revId": "c62effdc3143f65b60703c7eeef14d256c9b2d72",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
