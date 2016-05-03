@@ -16,6 +16,24 @@
       "revId": "78e430f49b919ad8642ea7f4077811b926df1e36",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_d4f791d2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-03T00:02:14Z",
+      "side": 1,
+      "message": "No the aim was to blacklist all of the 0.18.x series.  not just 0.18.0  the other releases all had problems.\n\nI think  it\u0027s probably safe to either do as Jesse suggest which will get us 0.17.4 (as per liberty)  or:\n\n eventlet\u003e\u003d0.16.1,!\u003d0.17.0,!\u003d0.18.0,!\u003d0.18.1,!\u003d0.18.2,!\u003d0.18.3\n\nThat will get us on 0.18.4 which seems to be okay on master and mitaka.  My preference would be Jesse\u0027s original suggestion as it\u0027s inline with liberty",
+      "parentUuid": "1a122d0e_b9279cb4",
+      "revId": "78e430f49b919ad8642ea7f4077811b926df1e36",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
