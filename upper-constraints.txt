@@ -317,7 +317,7 @@ rcssmin===1.0.6
 redis===2.10.5
 repoze.lru===0.6
 repoze.who===2.2
-requests===2.9.1
+requests===2.10.0
 requests-aws===0.1.8
 requests-kerberos===0.8.0;python_version=='2.7'
 requests-mock===0.7.0
