@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_5a91a345",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 264,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-05-04T15:18:20Z",
+      "side": 1,
+      "message": "If you want to get back to the liberty GA level, it would be 1.7.1 per:\n\nhttps://github.com/openstack/requirements/blob/1cc88e0d007acb49d4fa2f7633ed1302b6d2bd4a/upper-constraints.txt#L261\n\nAlthough according to the liberty releases for OSC we should use 1.7.2:\n\nhttps://github.com/openstack/releases/blob/master/deliverables/liberty/python-openstackclient.yaml\n\nSo this is OK for me.",
+      "revId": "bcd9ccdd84a16fb49a697bef3b8a7b3e8db46179",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
