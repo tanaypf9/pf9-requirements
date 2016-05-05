@@ -1,0 +1,13 @@
+Code-Review+2: Matt Riedemann <mriedem@us.ibm.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Corey Bryant <corey.bryant@canonical.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Workflow+1: Alan Pevec <alan.pevec@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 05 May 2016 17:22:33 +0000
+Reviewed-on: https://review.openstack.org/312581
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
