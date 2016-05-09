@@ -178,7 +178,7 @@ mimic===2.0.0
 mock===2.0.0
 monotonic===1.0
 mox===0.5.3
-mox3===0.14.0
+mox3===0.15.0
 msgpack-python===0.4.7
 netaddr===0.7.18
 netifaces===0.10.4
