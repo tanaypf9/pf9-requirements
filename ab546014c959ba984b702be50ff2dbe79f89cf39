@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_05c6c699",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-05-09T13:42:53Z",
+      "side": 1,
+      "message": "Ok, makes sense, if we find a bad release, we need to blacklist it, and not just pin the upper bound",
+      "revId": "ab546014c959ba984b702be50ff2dbe79f89cf39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
