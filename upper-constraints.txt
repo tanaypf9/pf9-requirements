@@ -211,7 +211,7 @@ os-win===0.4.1
 oslo.cache===1.6.0
 oslo.concurrency===3.7.0
 oslo.config===3.9.0
-oslo.context===2.2.0
+oslo.context===2.3.0
 oslo.db===4.7.0
 oslo.i18n===3.6.0
 oslo.log===3.5.0
