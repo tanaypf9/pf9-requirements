@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_2a1c4e69",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 7102
+      },
+      "writtenOn": "2016-05-10T07:57:45Z",
+      "side": 1,
+      "message": "Can you give a short note *why* you want to bump the version?",
+      "revId": "473b2b53921922d567a25f6180bf1dc898ad0acf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
