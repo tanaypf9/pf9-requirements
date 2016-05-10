@@ -1,0 +1,13 @@
+Code-Review+1: Chaoyi Huang <joehuang@huawei.com>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 10 May 2016 18:33:55 +0000
+Reviewed-on: https://review.openstack.org/280295
+Project: openstack/requirements
+Branch: refs/heads/master
