@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_3b844b09",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-05-11T15:53:59Z",
+      "side": 1,
+      "message": "https://github.com/rthalley/dnspython/issues/153 does not have a fix yet, so next release could be broken too?",
+      "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_5bdcaf45",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-05-11T15:53:59Z",
+      "side": 1,
+      "message": "py2 version is broken while py3 is not?",
+      "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
