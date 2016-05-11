@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "dab17558_e992f9f4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 8099
+      },
+      "writtenOn": "2016-05-11T16:33:06Z",
+      "side": 1,
+      "message": "It could, but I am hoping there will be a fix first.\n\nIf it goes a few days with no fix or sign of one, I will submit a less urgent patch to limit us to 1.12.0",
+      "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_5bdcaf45",
         "filename": "global-requirements.txt",
         "patchSetId": 3
@@ -30,6 +47,23 @@
       "writtenOn": "2016-05-11T15:53:59Z",
       "side": 1,
       "message": "py2 version is broken while py3 is not?",
+      "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_c98d75d4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 8099
+      },
+      "writtenOn": "2016-05-11T16:33:06Z",
+      "side": 1,
+      "message": "No they combined the 2 packages in 1.13.0 - dnspython3 will not go higher than 1.12.0",
       "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
