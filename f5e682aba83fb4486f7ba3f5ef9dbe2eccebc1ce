@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_72919b52",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-05-12T15:30:15Z",
+      "side": 1,
+      "message": "The point of the $(bindep -b) command there is to list the dependencies rather than having to embed them in this document. bindep reads the other-requirements.txt file, so if that\u0027s missing info we should update it. And we should probably add the step of installing bindep using pip here.",
+      "revId": "f5e682aba83fb4486f7ba3f5ef9dbe2eccebc1ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
