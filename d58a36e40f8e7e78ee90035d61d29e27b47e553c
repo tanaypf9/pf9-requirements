@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_62a44d4a",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-12T02:41:43Z",
+      "side": 1,
+      "message": "A couple of nits:\n\n s/in/by/\n s/proposing/accepting/",
+      "revId": "d58a36e40f8e7e78ee90035d61d29e27b47e553c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
