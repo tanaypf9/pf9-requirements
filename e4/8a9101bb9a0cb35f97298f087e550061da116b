@@ -1,0 +1,18 @@
+Code-Review+1: Yingzhe Zeng <zengyingzhe@huawei.com>
+Code-Review+1: Eran Gampel <eran@gampel.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: zengchen <chenzeng2@huawei.com>
+Code-Review+1: chenying <ying.chen@huawei.com>
+Code-Review+1: IanSun <sun.jun@99cloud.net>
+Code-Review+1: zhongjun <jun.zhongjun@huawei.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: zhangshuai <446077695@qq.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 12 May 2016 02:52:19 +0000
+Reviewed-on: https://review.openstack.org/301543
+Project: openstack/requirements
+Branch: refs/heads/master
