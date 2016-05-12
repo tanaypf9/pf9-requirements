@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "dab17558_6d3d3abb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-05-12T15:40:17Z",
+      "side": 1,
+      "message": "Wording could be a little confusing here.  Might rephrase it as:\n\nAlso, the intention seems to be that the check-requirements...",
+      "revId": "d58a36e40f8e7e78ee90035d61d29e27b47e553c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dab17558_62a44d4a",
         "filename": "README.rst",
         "patchSetId": 1
