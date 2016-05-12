@@ -85,6 +85,24 @@
       "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_2cf6bc8e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 4190
+      },
+      "writtenOn": "2016-05-12T01:23:01Z",
+      "side": 1,
+      "message": "You\u0027re going to want to remove dnspython3 and make dnspython apply to all python versions in future then...",
+      "parentUuid": "dab17558_c98d75d4",
+      "revId": "3066de55f5ae04d1e9a3f4d997a5732da2f96d9b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
