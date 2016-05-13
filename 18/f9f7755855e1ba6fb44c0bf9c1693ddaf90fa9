@@ -1,0 +1,10 @@
+Code-Review+1: Jens Rosenboom <j.rosenboom@x-ion.de>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 13 May 2016 18:44:09 +0000
+Reviewed-on: https://review.openstack.org/311490
+Project: openstack/requirements
+Branch: refs/heads/master
