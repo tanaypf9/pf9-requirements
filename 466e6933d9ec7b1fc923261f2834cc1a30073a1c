@@ -16,6 +16,24 @@
       "revId": "466e6933d9ec7b1fc923261f2834cc1a30073a1c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_00aebd97",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 9712
+      },
+      "writtenOn": "2016-05-13T15:15:28Z",
+      "side": 1,
+      "message": "2015.1.0 *is* the lower bound. It is much older than 2.0. I can switch them around but I don\u0027t understand how it would make any more sense - changing versioning scheme like this is just broken however you do it :)",
+      "parentUuid": "dab17558_0c07191e",
+      "revId": "466e6933d9ec7b1fc923261f2834cc1a30073a1c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
