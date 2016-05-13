@@ -34,6 +34,24 @@
       "revId": "466e6933d9ec7b1fc923261f2834cc1a30073a1c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dab17558_c3067f84",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 8532
+      },
+      "writtenOn": "2016-05-13T15:39:01Z",
+      "side": 1,
+      "message": "-1 for something that \"doesn\u0027t really matter\"?  Maybe it would be more productive to +1 or +0 with a note of \"If you change this patch, I prefer......\".",
+      "parentUuid": "dab17558_0c07191e",
+      "revId": "466e6933d9ec7b1fc923261f2834cc1a30073a1c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
