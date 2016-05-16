@@ -1,0 +1,10 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 May 2016 20:32:51 +0000
+Reviewed-on: https://review.openstack.org/316433
+Project: openstack/requirements
+Branch: refs/heads/master
