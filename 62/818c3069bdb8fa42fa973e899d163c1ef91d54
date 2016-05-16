@@ -1,0 +1,12 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+1: IanSun <sun.jun@99cloud.net>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 16 May 2016 20:58:20 +0000
+Reviewed-on: https://review.openstack.org/299247
+Project: openstack/requirements
+Branch: refs/heads/master
