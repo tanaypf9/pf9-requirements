@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dab17558_9b0ae088",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-05-16T12:03:56Z",
+      "side": 1,
+      "message": "\u003e\u003d1.15.1 to be precise, from requests 2.10.0 changelog:\n\n* Updated bundled urllib3 to 1.15.1.\n\nOtherwise, IMHO distros should update their python-requests packages asap and not block progress on OpenStack master.\nI\u0027ll update RDO.",
+      "revId": "daa0efe17990559c9967c2afa11546513e10e938",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
