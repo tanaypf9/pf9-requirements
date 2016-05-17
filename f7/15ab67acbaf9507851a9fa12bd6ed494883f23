@@ -1,0 +1,13 @@
+Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: ayoung <ayoung@redhat.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 17 May 2016 13:16:21 +0000
+Reviewed-on: https://review.openstack.org/315793
+Project: openstack/requirements
+Branch: refs/heads/master
