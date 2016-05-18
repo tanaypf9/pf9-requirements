@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_9e2cf74b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-05-18T16:57:49Z",
+      "side": 1,
+      "message": "the fix will have to come from Ryu \u003e4.2, but yes, this is a partial revert of  I39222c6f9d558a0e8d43da38e221afeb6a71b894",
+      "revId": "3009ee2831a3b66976c2158eabac227ed7574195",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
