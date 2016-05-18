@@ -1,0 +1,10 @@
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 18 May 2016 13:25:07 +0000
+Reviewed-on: https://review.openstack.org/317796
+Project: openstack/requirements
+Branch: refs/heads/master
