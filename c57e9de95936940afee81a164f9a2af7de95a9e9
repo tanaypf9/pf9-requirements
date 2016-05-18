@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_8502063d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 9712
+      },
+      "writtenOn": "2016-05-18T09:47:48Z",
+      "side": 0,
+      "message": "os-cloud-config is still used by python-tripleoclient. https://github.com/openstack/python-tripleoclient/blob/master/requirements.txt",
+      "revId": "c57e9de95936940afee81a164f9a2af7de95a9e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
