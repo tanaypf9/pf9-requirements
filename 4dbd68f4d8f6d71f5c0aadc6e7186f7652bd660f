@@ -16,6 +16,24 @@
       "revId": "4dbd68f4d8f6d71f5c0aadc6e7186f7652bd660f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_b44a9daa",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-05-19T08:55:58Z",
+      "side": 1,
+      "message": "i don\u0027t think such a version exists.",
+      "parentUuid": "bab6814e_08c8b421",
+      "revId": "4dbd68f4d8f6d71f5c0aadc6e7186f7652bd660f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
