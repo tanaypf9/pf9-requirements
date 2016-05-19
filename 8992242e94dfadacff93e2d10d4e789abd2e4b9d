@@ -16,6 +16,24 @@
       "revId": "8992242e94dfadacff93e2d10d4e789abd2e4b9d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_30acd933",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 1779
+      },
+      "writtenOn": "2016-05-19T17:03:37Z",
+      "side": 1,
+      "message": "I was just copying what\u0027s already done for os-brick. That fills the same usage scenario as os-vif, but for cinder rather than neutron, so anything done for os-brick should generally also be done for os-vif.",
+      "parentUuid": "bab6814e_35832b9a",
+      "revId": "8992242e94dfadacff93e2d10d4e789abd2e4b9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
