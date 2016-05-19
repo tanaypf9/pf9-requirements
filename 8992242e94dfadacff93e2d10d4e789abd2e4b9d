@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_35832b9a",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 12000
+      },
+      "writtenOn": "2016-05-19T16:49:53Z",
+      "side": 1,
+      "message": "Do you actually want os-vif to be sync\u0027d from global-requirements? It isn\u0027t strictly necessary when you\u0027re adding it to gr and uc.",
+      "revId": "8992242e94dfadacff93e2d10d4e789abd2e4b9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
