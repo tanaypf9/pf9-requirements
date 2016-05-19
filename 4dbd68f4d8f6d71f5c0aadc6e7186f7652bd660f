@@ -52,6 +52,24 @@
       "revId": "4dbd68f4d8f6d71f5c0aadc6e7186f7652bd660f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_a7af0093",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 14605
+      },
+      "writtenOn": "2016-05-19T13:25:18Z",
+      "side": 1,
+      "message": "I have a doubt say If we specify not to take 4.2 then does all the version of 4.2.X series will be ignored Or just the specified version will not be considered? AFAIK, the fix for this issue is out in 4.2.1 (https://pypi.python.org/pypi/ryu/4.2.1) ..",
+      "parentUuid": "bab6814e_2e8ad9bf",
+      "revId": "4dbd68f4d8f6d71f5c0aadc6e7186f7652bd660f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
