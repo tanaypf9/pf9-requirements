@@ -34,6 +34,24 @@
       "revId": "dc01e220db8d0fbab01aa09ae507266224f15c1c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_3b3019e8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-05-20T09:09:13Z",
+      "side": 1,
+      "message": "Daniel, sorry I missed it very badly :(",
+      "parentUuid": "bab6814e_d83913f4",
+      "revId": "dc01e220db8d0fbab01aa09ae507266224f15c1c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
