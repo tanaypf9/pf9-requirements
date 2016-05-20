@@ -225,6 +225,7 @@ def _copy_requires(
     dest_path = 'setup.cfg'
     if suffix:
         dest_path = "%s.%s" % (dest_path, suffix)
+
     actions.append(project.File(
         dest_path, project.merge_setup_cfg(proj['setup.cfg'], output_extras)))
     return actions
@@ -263,6 +264,9 @@ def main(argv=None, stdout=None, _worker=None):
     if len(args) != 1:
         print("Must specify directory to update")
         raise Exception("Must specify one and only one directory to update.")
+    if not os.path.isdir(args[0]):
+        print("%s is not a directory." % (args[0]))
+        raise Exception("%s is not a directory." % (args[0]))
     if stdout is None:
         stdout = sys.stdout
     if _worker is None:
