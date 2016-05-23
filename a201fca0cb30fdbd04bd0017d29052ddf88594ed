@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_e1831b01",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-05-23T17:57:46Z",
+      "side": 1,
+      "message": "isn\u0027t it simpler to use the same version of ovs for 2.7 and 3.4? (as ryu does)",
+      "revId": "a201fca0cb30fdbd04bd0017d29052ddf88594ed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
