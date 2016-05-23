@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_0d9f9f5f",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-23T04:17:55Z",
+      "side": 1,
+      "message": "Is this needed? doesn\u0027t this duplicate the test in lines 159 - 162?",
+      "revId": "b010193fb74d420333364a338000e785c7aecaad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
