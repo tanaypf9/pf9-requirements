@@ -1,0 +1,9 @@
+Code-Review+1: Henry Gessau <HenryG@gessau.net>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 23 May 2016 20:41:35 +0000
+Reviewed-on: https://review.openstack.org/320077
+Project: openstack/requirements
+Branch: refs/heads/master
