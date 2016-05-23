@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "bab6814e_0daddf87",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-23T04:23:32Z",
+      "side": 1,
+      "message": "This should have been:\n\n Change-Id: I146baa3ef94cc8bbf29af371786f3ea95a42cb9f",
+      "revId": "b010193fb74d420333364a338000e785c7aecaad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_0d9f9f5f",
         "filename": "openstack_requirements/tests/test_requirement.py",
         "patchSetId": 1
