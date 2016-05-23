@@ -1,0 +1,9 @@
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 23 May 2016 20:46:36 +0000
+Reviewed-on: https://review.openstack.org/320093
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
