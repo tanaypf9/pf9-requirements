@@ -52,6 +52,24 @@
       "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_40647a48",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6735
+      },
+      "writtenOn": "2016-05-24T11:59:54Z",
+      "side": 1,
+      "message": "Should have put the comment in here otherwise it\u0027s too easy to get lost :)\nYes; if you prefer there is an alternative fix at https://review.openstack.org/#/c/320027/ which you might prefer",
+      "parentUuid": "bab6814e_80eb02b0",
+      "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
