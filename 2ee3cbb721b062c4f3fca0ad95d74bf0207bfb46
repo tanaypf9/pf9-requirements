@@ -16,6 +16,24 @@
       "revId": "2ee3cbb721b062c4f3fca0ad95d74bf0207bfb46",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_10b5b97d",
+        "filename": "test-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-24T01:04:42Z",
+      "side": 1,
+      "message": "My understanding is, It\u0027s shipped with python3[1] but is still available as an external package so the development cycles aren\u0027t tied together.\n\n[1] https://hg.python.org/cpython/file/3.5/Lib/unittest/mock.py[2]\n[2] Note the version is 1.0",
+      "parentUuid": "bab6814e_a6c3f436",
+      "revId": "2ee3cbb721b062c4f3fca0ad95d74bf0207bfb46",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
