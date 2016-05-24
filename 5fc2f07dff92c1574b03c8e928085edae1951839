@@ -70,6 +70,24 @@
       "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_3b2a477f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-05-24T12:03:48Z",
+      "side": 1,
+      "message": "I prefer we avoid enforcing development versions of \u0027ovs\u0027 library onto consumers. So I would stay on safe side and pin ryu until they are able to release a build that allows any non-development build of ovs.",
+      "parentUuid": "bab6814e_40647a48",
+      "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
