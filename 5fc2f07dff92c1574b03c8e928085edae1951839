@@ -16,6 +16,24 @@
       "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_c047ca1b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6735
+      },
+      "writtenOn": "2016-05-24T11:53:14Z",
+      "side": 1,
+      "message": "No, it was not.  upper-constraints prevented 2.6.0 from being installed.",
+      "parentUuid": "bab6814e_c064eae6",
+      "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
