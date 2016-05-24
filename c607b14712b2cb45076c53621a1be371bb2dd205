@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_d295e088",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-05-24T11:17:06Z",
+      "side": 1,
+      "message": "how do we relax here anything? instead, we make the dep more strict (now 2.5 is not allowed on any platform).",
+      "revId": "c607b14712b2cb45076c53621a1be371bb2dd205",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
