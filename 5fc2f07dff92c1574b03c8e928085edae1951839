@@ -34,6 +34,24 @@
       "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_80eb02b0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-05-24T11:57:40Z",
+      "side": 1,
+      "message": "That\u0027s only as long as you use those constraints. (Hint: a lot of projects still don\u0027t, and even if they do, it\u0027s for tox/gate, and users are still able to install other versions of the library.)\n\nAnd you also touch global-requirements, effectively making all openstack projects incompatible with 2.5.0.",
+      "parentUuid": "bab6814e_c047ca1b",
+      "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
