@@ -1,0 +1,9 @@
+Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 24 May 2016 13:42:03 +0000
+Reviewed-on: https://review.openstack.org/320234
+Project: openstack/requirements
+Branch: refs/heads/master
