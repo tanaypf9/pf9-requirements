@@ -16,6 +16,24 @@
       "revId": "a201fca0cb30fdbd04bd0017d29052ddf88594ed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_8b45feb4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 128,
+      "author": {
+        "id": 9200
+      },
+      "writtenOn": "2016-05-24T01:39:41Z",
+      "side": 1,
+      "message": "Hi Russell,\n\nhow about using the same dev version for python 2 and 3?",
+      "parentUuid": "bab6814e_e1831b01",
+      "revId": "a201fca0cb30fdbd04bd0017d29052ddf88594ed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
