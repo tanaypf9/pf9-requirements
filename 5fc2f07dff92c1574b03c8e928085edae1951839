@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_c064eae6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-05-24T11:51:10Z",
+      "side": 1,
+      "message": "still the commit message is misleading: 2.6.0 was allowed to be installed even before. you don\u0027t expand the range of supported versions, you shrink it.",
+      "revId": "5fc2f07dff92c1574b03c8e928085edae1951839",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
