@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_ebce4ab6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-24T01:25:15Z",
+      "side": 1,
+      "message": "Like the new commit message!",
+      "revId": "d66ea6f68aa8e0ee9344fa29524cfe4052298aed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
