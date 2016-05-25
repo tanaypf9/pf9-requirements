@@ -166,7 +166,6 @@ openstack/tap-as-a-service
 openstack/taskflow
 openstack/tempest
 openstack/tempest-lib
-openstack/tooz
 openstack/tosca-parser
 openstack/tripleo-common
 openstack/trove
