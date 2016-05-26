@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_586083cf",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 231,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-26T06:06:09Z",
+      "side": 1,
+      "message": "This is only pulled in for dcos so this can go as well",
+      "revId": "80e1d516520ac6df8ff6cacf51a28e3f401f63c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_f86697eb",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 243,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-26T06:06:09Z",
+      "side": 1,
+      "message": "This is only pulled in for dcos so this can go as well",
+      "revId": "80e1d516520ac6df8ff6cacf51a28e3f401f63c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_186a7bb3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 269,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-26T06:06:09Z",
+      "side": 1,
+      "message": "This is only pulled in for dcos so this can go as well",
+      "revId": "80e1d516520ac6df8ff6cacf51a28e3f401f63c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_b8708fa5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 365,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-05-26T06:06:09Z",
+      "side": 1,
+      "message": "This is only pulled in for dcos so this can go as well",
+      "revId": "80e1d516520ac6df8ff6cacf51a28e3f401f63c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
