@@ -169,6 +169,7 @@ openstack/tempest-lib
 openstack/tooz
 openstack/tosca-parser
 openstack/tripleo-common
+openstack/tripleo-validations
 openstack/trove
 openstack/vmware-nsx
 openstack/watcher

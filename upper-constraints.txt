@@ -371,6 +371,7 @@ traceback2===1.4.0
 treq===15.1.0
 tripleo-common===2.0.0
 tripleo-image-elements===0.8.10
+tripleo-validations===0.0.1
 trollius===2.1
 txaio===2.5.1
 tzlocal===1.2.2
