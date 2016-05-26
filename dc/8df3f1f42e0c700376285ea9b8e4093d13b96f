@@ -1,0 +1,11 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Hemanth Makkapati <hemanth.makkapati@rackspace.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 26 May 2016 04:34:27 +0000
+Reviewed-on: https://review.openstack.org/320703
+Project: openstack/requirements
+Branch: refs/heads/master
