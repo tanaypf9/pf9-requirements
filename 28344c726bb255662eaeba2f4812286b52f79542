@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bab6814e_7f527f36",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-05-26T11:54:59Z",
+      "side": 1,
+      "message": "Dirk, can you please update the commit message to Add pymod2pkg to requirements instead of g-r? since you are updating both g-r and u-c :)",
+      "revId": "28344c726bb255662eaeba2f4812286b52f79542",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
