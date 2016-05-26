@@ -56,7 +56,6 @@ XStatic-roboto-fontface===0.4.3.2
 XStatic-smart-table===1.4.5.3
 XStatic-term.js===0.0.7.0
 XenAPI===1.2
-aioeventlet===0.5.1
 alembic===0.8.6
 amqp===1.4.9
 anyjson===0.3.3
@@ -371,6 +370,7 @@ traceback2===1.4.0
 treq===15.1.0
 tripleo-common===2.0.0
 tripleo-image-elements===0.8.10
+tripleo-validations===0.0.1
 trollius===2.1
 txaio===2.5.1
 tzlocal===1.2.2
