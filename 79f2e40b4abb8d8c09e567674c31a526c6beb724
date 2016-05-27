@@ -16,6 +16,24 @@
       "revId": "79f2e40b4abb8d8c09e567674c31a526c6beb724",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bab6814e_1fcd0c66",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-05-27T01:43:59Z",
+      "side": 1,
+      "message": "I was testing the patchset for adding tripleo-validations, seems like I amended it to this patchset :/",
+      "parentUuid": "bab6814e_7524490c",
+      "revId": "79f2e40b4abb8d8c09e567674c31a526c6beb724",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
