@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "9abb7d3a_e3167a54",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-05-27T07:55:21Z",
+      "side": 1,
+      "message": "the ovs requirement in question was removed on ryu master. [1]\nand a patch release including the change is now available on pypi. [2]\nso you can now add !\u003d4.2.1 to requirements and use 4.2.2.\n\n[1] https://github.com/osrg/ryu/commit/9e3aaaf2d812a08201ff615bec0317d80840f094\n[2] https://pypi.python.org/pypi/ryu/4.2.2",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "a201fca0cb30fdbd04bd0017d29052ddf88594ed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bab6814e_e1831b01",
         "filename": "global-requirements.txt",
         "patchSetId": 1
