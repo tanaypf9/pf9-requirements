@@ -384,7 +384,6 @@ wrapt===1.10.8
 ws4py===0.3.4
 wsgi-intercept===1.2.2
 xattr===0.8.0
-xmltodict===0.10.1
 xvfbwrapper===0.2.8
 yaql===1.1.0
 zake===0.2.2
