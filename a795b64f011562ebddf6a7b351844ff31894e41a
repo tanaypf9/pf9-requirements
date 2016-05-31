@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_c4a4aea7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9796
+      },
+      "writtenOn": "2016-05-31T04:51:31Z",
+      "side": 1,
+      "message": "Fixing the wrong docstring \u0027versionadded\u0027 in https://review.openstack.org/#/c/323113",
+      "range": {
+        "startLine": 9,
+        "startChar": 39,
+        "endLine": 9,
+        "endChar": 43
+      },
+      "revId": "a795b64f011562ebddf6a7b351844ff31894e41a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
