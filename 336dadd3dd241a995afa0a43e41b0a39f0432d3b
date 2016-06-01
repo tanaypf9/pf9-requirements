@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_d4b245e4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 5638
+      },
+      "writtenOn": "2016-06-01T12:34:22Z",
+      "side": 1,
+      "message": "Can you please !\u003d instead of \u003c ?",
+      "revId": "336dadd3dd241a995afa0a43e41b0a39f0432d3b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
