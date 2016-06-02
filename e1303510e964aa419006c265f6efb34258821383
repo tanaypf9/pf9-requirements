@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9abb7d3a_5d71280b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-06-02T06:42:46Z",
+      "side": 1,
+      "message": "Maybe remove those lines?",
+      "revId": "e1303510e964aa419006c265f6efb34258821383",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
