@@ -16,6 +16,24 @@
       "revId": "36cbe38ca54194aadb3f019104bcdb80d3df33b1",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9abb7d3a_7e1fbdb7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-02T09:21:12Z",
+      "side": 1,
+      "message": "Having these lines is important as is documents how this cherry-pick differs from the original SHA.\n\nI agree it\u0027s kind of odd to have a \"conflicts\" for a file not in the review but it is what it is.",
+      "parentUuid": "9abb7d3a_7d57cc25",
+      "revId": "36cbe38ca54194aadb3f019104bcdb80d3df33b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
