@@ -376,5 +376,6 @@ hacking>=0.10.2,<0.11  # Apache-2.0
 mccabe==0.2.1 # MIT License
 pep257==0.7.0 # MIT License
 pep8==1.5.7  # MIT
+pycodestyle==2.0.0  # MIT
 pyflakes==0.8.1  # MIT
 pylint==1.4.5  # GNU GPL v2
