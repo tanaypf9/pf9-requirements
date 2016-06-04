@@ -348,6 +348,7 @@ thrift===0.9.3;python_version=='2.7'
 tooz===1.37.0
 tornado===4.3
 tosca-parser===0.5.0
+tqdm==4.7.2
 traceback2===1.4.0
 tripleo-common===2.0.0
 trollius===2.1
