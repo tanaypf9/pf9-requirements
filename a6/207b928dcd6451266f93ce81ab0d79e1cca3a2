@@ -1,0 +1,8 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 05 Jun 2016 16:19:42 +0000
+Reviewed-on: https://review.openstack.org/325633
+Project: openstack/requirements
+Branch: refs/heads/master
