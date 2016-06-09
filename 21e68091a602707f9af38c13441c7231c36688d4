@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_0ba3c750",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 194,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-06-09T15:30:49Z",
+      "side": 1,
+      "message": "Please add additional \u003d\n\nosc-lib\u003d\u003d\u003d0.1.0",
+      "revId": "21e68091a602707f9af38c13441c7231c36688d4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
