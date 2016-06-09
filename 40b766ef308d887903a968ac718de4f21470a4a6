@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_16248ead",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-09T15:34:13Z",
+      "side": 1,
+      "message": "This is in master (newton) for oslo.concurrency, why isn\u0027t it backported to stable/mitaka for oslo.concurrency and released as 3.7.1?",
+      "revId": "40b766ef308d887903a968ac718de4f21470a4a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
