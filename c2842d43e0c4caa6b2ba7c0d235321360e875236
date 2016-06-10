@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_11ff27ab",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-10T21:38:01Z",
+      "side": 0,
+      "message": "This is higher, but we should check what u-c had when stable/liberty was created because the 1.0.0 could have been from some bad updates that we\u0027re still rolling back.",
+      "revId": "c2842d43e0c4caa6b2ba7c0d235321360e875236",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
