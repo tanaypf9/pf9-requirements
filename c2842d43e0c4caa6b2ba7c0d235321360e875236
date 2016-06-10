@@ -16,6 +16,24 @@
       "revId": "c2842d43e0c4caa6b2ba7c0d235321360e875236",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_91b797f4",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 253,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-10T21:39:01Z",
+      "side": 0,
+      "message": "Yeah this is OK, it should have been 0.8.1.\n\nhttps://github.com/openstack/requirements/blob/1cc88e0d007acb49d4fa2f7633ed1302b6d2bd4a/upper-constraints.txt#L250",
+      "parentUuid": "7aa08908_11ff27ab",
+      "revId": "c2842d43e0c4caa6b2ba7c0d235321360e875236",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
