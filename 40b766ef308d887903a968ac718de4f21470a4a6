@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "7aa08908_09f57382",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-10T02:39:22Z",
+      "side": 1,
+      "message": "To reduce the complexity here this shoudl be 3.7.1 which is based on the mitaka code rather than newton.",
+      "revId": "40b766ef308d887903a968ac718de4f21470a4a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7aa08908_16248ead",
         "filename": "/COMMIT_MSG",
         "patchSetId": 2
@@ -31,6 +48,40 @@
       "side": 1,
       "message": "The backport is here:\n\nhttps://review.openstack.org/#/c/327774/",
       "parentUuid": "7aa08908_16248ead",
+      "revId": "40b766ef308d887903a968ac718de4f21470a4a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_09ce135a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-10T02:39:22Z",
+      "side": 1,
+      "message": "This should be 3.7.1",
+      "revId": "40b766ef308d887903a968ac718de4f21470a4a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_e934674b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 211,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-10T02:39:22Z",
+      "side": 1,
+      "message": "This will be 3.7.1 but wont actually be done in this review.",
       "revId": "40b766ef308d887903a968ac718de4f21470a4a6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
