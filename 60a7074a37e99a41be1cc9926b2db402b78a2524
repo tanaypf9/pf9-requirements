@@ -16,6 +16,24 @@
       "revId": "60a7074a37e99a41be1cc9926b2db402b78a2524",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7aa08908_4a335bf6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 19134
+      },
+      "writtenOn": "2016-06-14T08:37:39Z",
+      "side": 1,
+      "message": "that is the version we use at vitrage\nI couldn\u0027t find an rpm for a newer version",
+      "parentUuid": "7aa08908_9cac75a0",
+      "revId": "60a7074a37e99a41be1cc9926b2db402b78a2524",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
