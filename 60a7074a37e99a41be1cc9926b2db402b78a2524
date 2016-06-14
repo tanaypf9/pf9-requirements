@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_9cac75a0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-06-14T08:04:33Z",
+      "side": 1,
+      "message": "is there a specific reason to keep it lower than u-c?",
+      "revId": "60a7074a37e99a41be1cc9926b2db402b78a2524",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
