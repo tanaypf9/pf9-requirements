@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_b239e641",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-17T04:20:24Z",
+      "side": 1,
+      "message": "Where\u0027s the release meta data?",
+      "revId": "6a033f59df09d4c8247c63781bd667e73fb356cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
