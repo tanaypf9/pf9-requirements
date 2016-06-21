@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a9d85d2_634d026c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 202,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-21T15:19:10Z",
+      "side": 1,
+      "message": "This should probably be left as 1.2.0 since 1.4.0 was released for newton and depends on privsep for newton, not mitaka.",
+      "revId": "37ff342985b2e2dd449587135690152b85fb8f33",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
