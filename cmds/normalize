@@ -55,7 +55,7 @@ def lint(requirements):
         base, extras = base.strip(), extras.strip()
 
         req = pkg_resources.Requirement.parse(base)
-        name = req.key
+        name = req.project_name
         # FIXME: not py3 compliant
         specs = ["%s%s" % x for x in sorted(req.specs, cmp=cmp_specifier)]
         name += ','.join(specs)
