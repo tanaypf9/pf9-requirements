@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_89a8dc8e",
+        "filename": "openstack_requirements/cmds/normalize_requirements.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-06-23T23:36:05Z",
+      "side": 1,
+      "message": "how about using \n\n  print(..., file\u003doutput_file)\n\nhere and just initialize output_file with sys.stdout (or the result of an open() on the given filename)?\n\nI don\u0027t see the advantage of this subfunction with writing to a tmpfile and then renaming it. this doesn\u0027t have to be atomic, does it?",
+      "revId": "4ede8784c9401e81b839a561b70d4ecf9e42f257",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
