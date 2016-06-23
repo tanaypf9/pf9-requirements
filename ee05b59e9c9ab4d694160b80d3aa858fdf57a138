@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_0f2c22aa",
+        "filename": "openstack_requirements/cmds/normalize_requirements.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T08:41:53Z",
+      "side": 1,
+      "message": "Please add a:\n\n  default\u003dFalse\n\nto be explicit",
+      "revId": "ee05b59e9c9ab4d694160b80d3aa858fdf57a138",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_920dd539",
+        "filename": "openstack_requirements/cmds/normalize_requirements.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T08:41:53Z",
+      "side": 1,
+      "message": "The style below is preferred over using a \\\n\n  help\u003d(\u0027save normalized requirements \u0027\n            file instead of displaying it\u0027))",
+      "revId": "ee05b59e9c9ab4d694160b80d3aa858fdf57a138",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
