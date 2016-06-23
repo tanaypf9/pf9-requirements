@@ -16,6 +16,24 @@
       "revId": "61d795eaf815121bafb8b9fbafd85e9beec77f7c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_251f646d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 6962
+      },
+      "writtenOn": "2016-06-23T15:17:27Z",
+      "side": 1,
+      "message": "Yeah, while changing this line, I wondered too, what kind of whirlwind are we going to reap...",
+      "parentUuid": "3aaa91ec_c54140ab",
+      "revId": "61d795eaf815121bafb8b9fbafd85e9beec77f7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
