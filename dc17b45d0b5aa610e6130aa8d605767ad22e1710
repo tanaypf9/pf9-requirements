@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_371a166f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 351,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:54:14Z",
+      "side": 1,
+      "message": "Anything that changes the name we need to handle with care.",
+      "revId": "dc17b45d0b5aa610e6130aa8d605767ad22e1710",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_5c08a92c",
+        "filename": "tools/normalize_requirements.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:54:14Z",
+      "side": 1,
+      "message": "Not sure this is the integration with tox we need.",
+      "revId": "dc17b45d0b5aa610e6130aa8d605767ad22e1710",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
