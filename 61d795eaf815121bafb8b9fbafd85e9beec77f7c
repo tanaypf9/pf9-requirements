@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_c54140ab",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-23T15:13:53Z",
+      "side": 1,
+      "message": "Yikes, what kind of breaking changes are introduced between 2.3 and 2.6?",
+      "revId": "61d795eaf815121bafb8b9fbafd85e9beec77f7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
