@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_d77d926f",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:59:30Z",
+      "side": 1,
+      "message": "Gah the moving of re should have been a separate change,",
+      "revId": "d5efd1554ef7b353f462f3a103df180f6b7a1230",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_b7f726f4",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:59:30Z",
+      "side": 1,
+      "message": "I tried to keep this as close to the original as possible but so I inserted these 2 lines but I don\u0027t really like them",
+      "revId": "d5efd1554ef7b353f462f3a103df180f6b7a1230",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_37e4d639",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:59:30Z",
+      "side": 1,
+      "message": "Ideally this function or similar would be integrated with packaging but that means reading the appropriate PEPs to understand why specifiers are ordered the way they are.",
+      "revId": "d5efd1554ef7b353f462f3a103df180f6b7a1230",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_b7ce06b2",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:59:30Z",
+      "side": 1,
+      "message": "This hunk is certainly a little more complex than I had expected it to be.",
+      "revId": "d5efd1554ef7b353f462f3a103df180f6b7a1230",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
