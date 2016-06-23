@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_7205c978",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T08:49:00Z",
+      "side": 1,
+      "message": "lint doesn\u0027t exist as a testenv target.  I\u0027m quite uncomfortable enabling a target that clobbers the input by default.",
+      "revId": "08ab452bcc9b2a48265afd1b0be8b4d08f491198",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_f2f9b981",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T08:49:00Z",
+      "side": 1,
+      "message": "+1",
+      "revId": "08ab452bcc9b2a48265afd1b0be8b4d08f491198",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
