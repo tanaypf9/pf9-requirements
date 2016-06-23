@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_6deb0a14",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 83,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-23T17:57:43Z",
+      "side": 1,
+      "message": "The other problem with this is it pulls in higher minimum versions of other dependencies:\n\nuser@xubuntu:~/git/oslo.concurrency$ git diff 2.3.0..2.6.1 -- requirements.txt\ndiff --git a/requirements.txt b/requirements.txt\nindex 67df2df..5e66c50 100644\n--- a/requirements.txt\n+++ b/requirements.txt\n@@ -2,13 +2,12 @@\n # of appearance. Changing the order has an impact on the overall integration\n # process, which may cause wedges in the gate later.\n \n-pbr\u003c2.0,\u003e\u003d0.11\n-Babel\u003e\u003d1.3\n+pbr\u003e\u003d1.6\n+Babel!\u003d2.3.0,!\u003d2.3.1,!\u003d2.3.2,!\u003d2.3.3,\u003e\u003d1.3 # BSD\n iso8601\u003e\u003d0.1.9\n-oslo.config\u003e\u003d1.11.0 # Apache-2.0\n+oslo.config\u003e\u003d2.3.0 # Apache-2.0\n oslo.i18n\u003e\u003d1.5.0 # Apache-2.0\n-oslo.utils\u003e\u003d1.6.0 # Apache-2.0\n-posix-ipc\n+oslo.utils!\u003d2.6.0,\u003e\u003d2.0.0 # Apache-2.0\n six\u003e\u003d1.9.0\n fasteners\u003e\u003d0.7 # Apache-2.0\n retrying!\u003d1.3.0,\u003e\u003d1.2.3 # Apache-2.0\nuser@xubuntu:~/git/oslo.concurrency$ \n\nSo pbr, oslo.config and oslo.utils would also be bumped up, and we\u0027d have to then diff what those are pulling in.\n\nI just feel like this is pretty risky in stable/liberty - I\u0027d prefer to just punt on this and make it clear in the CVE notes for this bug that for liberty you need this version of oslo.concurrency, or patch it yourself on whatever version you\u0027re using. Maybe others feel differently, this is a tricky one.",
+      "revId": "97601ce7795c054474b2b9784015b2176c236498",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
