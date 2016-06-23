@@ -1,0 +1,95 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_3c903dec",
+        "filename": "cmds/normalize",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:47:38Z",
+      "side": 1,
+      "message": "This should be in openstack_requirements/cmds/normalize_requirements.py\n\nAnd installed as part of the package.",
+      "revId": "78bf02298b28008a746697a551f00e133dbbe158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_3c74bdfb",
+        "filename": "cmds/normalize",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:47:38Z",
+      "side": 1,
+      "message": "float value not int",
+      "range": {
+        "startLine": 25,
+        "startChar": 19,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "78bf02298b28008a746697a551f00e133dbbe158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_3cf95d4e",
+        "filename": "cmds/normalize",
+        "patchSetId": 2
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:47:38Z",
+      "side": 1,
+      "message": "This is the important part and can be integrated with the openstack_requirements/requirement.py",
+      "revId": "78bf02298b28008a746697a551f00e133dbbe158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_5c50a95d",
+        "filename": "cmds/normalize",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:47:38Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "78bf02298b28008a746697a551f00e133dbbe158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_3c4b1db2",
+        "filename": "cmds/normalize",
+        "patchSetId": 2
+      },
+      "lineNbr": 77,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-06-23T06:47:38Z",
+      "side": 1,
+      "message": "whitespace",
+      "revId": "78bf02298b28008a746697a551f00e133dbbe158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
