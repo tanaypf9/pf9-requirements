@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_aaa13cfa",
+        "filename": "tools/check-install.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-06-24T07:17:56Z",
+      "side": 1,
+      "message": "I inserted garbage whitespaces in setup.cfg to check correctness of the regular expressions. So we\u0027d need to switch to the \u0027*\u0027 quantifier for the whitespace around equal operator. \nIt should also be a raw string.\n\nshould be r\u0027\u0027^(.*?)\\s*\u003d\\s*([^:]*?):.*$\u0027\n\nIf we fix it, I\u0027d change my vote to +1",
+      "revId": "bce889b7d63305ed6681f979c52954fc3191041a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_e7d37dd3",
+        "filename": "tools/check-install.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-06-24T07:17:56Z",
+      "side": 1,
+      "message": "suggestion: since we count the number of failed import, it\u0027d be a nice touch to display it.\nprint(\u0027Failed import modules: %s\u0027 % errors) if errors else print(\u0027Success\u0027).\n\nShould not block the review though",
+      "revId": "bce889b7d63305ed6681f979c52954fc3191041a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
