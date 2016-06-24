@@ -1,0 +1,10 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Jun 2016 16:08:06 +0000
+Reviewed-on: https://review.openstack.org/333721
+Project: openstack/requirements
+Branch: refs/heads/master
