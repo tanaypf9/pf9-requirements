@@ -16,6 +16,24 @@
       "revId": "4ede8784c9401e81b839a561b70d4ecf9e42f257",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_9f8aca19",
+        "filename": "openstack_requirements/cmds/normalize_requirements.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-06-24T00:46:02Z",
+      "side": 1,
+      "message": "well, writing chunk by chunk does not seem appealing.\n\nBesides this is a pattern already used in edit_constraints.py",
+      "parentUuid": "3aaa91ec_89a8dc8e",
+      "revId": "4ede8784c9401e81b839a561b70d4ecf9e42f257",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
