@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_0f779702",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-06-24T23:03:16Z",
+      "side": 1,
+      "message": "And why is this required? I mean, what do we need from libvirt-python 1.3.3 in stable/mitaka?",
+      "revId": "f3d12a0dc5475fd6e36c4cc1cb57fc0b0e674186",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
