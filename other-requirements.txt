@@ -29,3 +29,7 @@ mysql-client
 mysql-server
 postgresql
 postgresql-client
+# NOTE(jamespage): required for dbus-python
+# (keyring >= 9.2.1 -> secretstorage -> dbus-python)
+libdbus-1-dev
+libdbus-glib-1-dev
