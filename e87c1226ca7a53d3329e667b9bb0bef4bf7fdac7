@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_8f405c37",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-06-27T20:08:08Z",
+      "side": 1,
+      "message": "Please explicitly disallow this version with \u0027!\u003d\u0027",
+      "revId": "e87c1226ca7a53d3329e667b9bb0bef4bf7fdac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
