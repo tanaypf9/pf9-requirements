@@ -316,6 +316,7 @@ rsa===3.4.2
 rtslib-fb===2.1.58
 ryu===4.3
 scp===0.10.2
+scikit-learn===0.17.1
 selenium===2.53.5
 semantic-version===2.5.0
 seqdiag===0.9.5
