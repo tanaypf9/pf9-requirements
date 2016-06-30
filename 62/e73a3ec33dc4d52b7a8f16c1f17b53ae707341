@@ -1,0 +1,10 @@
+Code-Review+1: David Subiros Perez <david.perez5@hpe.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 30 Jun 2016 18:59:45 +0000
+Reviewed-on: https://review.openstack.org/335459
+Project: openstack/requirements
+Branch: refs/heads/master
