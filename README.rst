@@ -1,6 +1,6 @@
-============================================
- Global Requirements for OpenStack Projects
-============================================
+==========================================
+Global Requirements for OpenStack Projects
+==========================================
 
 Why Global Requirements?
 ========================
