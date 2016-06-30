@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_750d763d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-06-30T02:34:55Z",
+      "side": 1,
+      "message": "the dependency is better achieved with Depends-On [1]\n\n[1] http://docs.openstack.org/infra/manual/developers.html#multiple-changes",
+      "revId": "c87f86f217d1646a8e95c1243e8cae8921b085fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
