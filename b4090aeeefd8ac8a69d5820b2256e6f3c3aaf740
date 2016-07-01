@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3aaa91ec_958a4619",
+        "filename": "tools/check-install.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 10384
+      },
+      "writtenOn": "2016-07-01T14:00:30Z",
+      "side": 1,
+      "message": "PEP8 reclaims a second line here.\n\nBut I think we\u0027re almost good! +1",
+      "revId": "b4090aeeefd8ac8a69d5820b2256e6f3c3aaf740",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
