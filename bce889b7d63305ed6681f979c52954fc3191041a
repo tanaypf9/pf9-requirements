@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3aaa91ec_aaed6a26",
+        "filename": "tools/check-install.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-07-01T11:40:41Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3aaa91ec_aaa13cfa",
+      "revId": "bce889b7d63305ed6681f979c52954fc3191041a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3aaa91ec_e7d37dd3",
         "filename": "tools/check-install.py",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2016-06-24T07:17:56Z",
       "side": 1,
       "message": "suggestion: since we count the number of failed import, it\u0027d be a nice touch to display it.\nprint(\u0027Failed import modules: %s\u0027 % errors) if errors else print(\u0027Success\u0027).\n\nShould not block the review though",
+      "revId": "bce889b7d63305ed6681f979c52954fc3191041a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3aaa91ec_0ac8fea6",
+        "filename": "tools/check-install.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-07-01T11:40:41Z",
+      "side": 1,
+      "message": "We already print one line per error and I\u0027m  big fan of the old UNIX approach of be silent if things are all good :)",
+      "parentUuid": "3aaa91ec_e7d37dd3",
       "revId": "bce889b7d63305ed6681f979c52954fc3191041a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
