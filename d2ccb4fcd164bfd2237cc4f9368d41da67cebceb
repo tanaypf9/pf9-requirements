@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aa78d24_cddc401b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 319,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-07-02T13:55:48Z",
+      "side": 1,
+      "message": "bug 1589746",
+      "revId": "d2ccb4fcd164bfd2237cc4f9368d41da67cebceb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
