@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: IWAMOTO Toshihiro <iwamoto@valinux.co.jp>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Workflow+1: Thomas Bechtold <tbechtold@suse.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 04 Jul 2016 11:33:19 +0000
+Reviewed-on: https://review.openstack.org/336799
+Project: openstack/requirements
+Branch: refs/heads/master
