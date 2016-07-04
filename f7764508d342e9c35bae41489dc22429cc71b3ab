@@ -33,6 +33,24 @@
       "revId": "f7764508d342e9c35bae41489dc22429cc71b3ab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1aa78d24_300ee734",
+        "filename": "tools/check-install.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 7102
+      },
+      "writtenOn": "2016-07-04T05:41:48Z",
+      "side": 1,
+      "message": "It\u0027s a bit tricky to get metadata from distutils/setuptools/pbr. I wrote something for py2pack (see https://github.com/saschpe/py2pack/blob/master/py2pack/get_metadata.py ).\nThis is a distutil command and can be used for any setup.py with \"python setup.py --command-packages\u003dpy2pack get_metadata -o my_metadata.json\"\n\nThis writes the metadata (including the entry points) into the json file. Maybe that\u0027s a bit more clean that using regex to parse the setup.cfg file?",
+      "parentUuid": "3aaa91ec_dae620af",
+      "revId": "f7764508d342e9c35bae41489dc22429cc71b3ab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
