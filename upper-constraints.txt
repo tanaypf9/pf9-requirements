@@ -87,7 +87,7 @@ coverage===4.0.3
 croniter===0.3.10
 cryptography===1.1.2
 ddt===1.0.1
-debtcollector===1.1.0
+debtcollector===0.8.0
 decorator===4.0.6
 demjson===2.2.3
 dib-utils===0.0.8
@@ -200,7 +200,7 @@ oslo.reports===1.1.0
 oslo.rootwrap===3.1.0
 oslo.serialization===2.1.0
 oslo.service===0.9.1
-oslo.utils===3.2.0
+oslo.utils===2.5.0
 oslo.versionedobjects===1.1.0
 oslo.vmware===2.1.0
 oslosphinx===4.1.0
@@ -304,7 +304,7 @@ sphinxcontrib-pecanwsme===0.8.0
 sphinxcontrib-seqdiag===0.8.5
 sqlalchemy-migrate===0.10.0
 sqlparse===0.1.18
-stevedore===1.10.0
+stevedore===1.8.0
 suds-jurko===0.6
 sysv-ipc===0.6.8
 tablib===0.10.0
