@@ -16,6 +16,24 @@
       "revId": "a55605f35b55bad22eb148a6e3575d5771f7590c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1aa78d24_095198d8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 9044
+      },
+      "writtenOn": "2016-07-06T07:45:52Z",
+      "side": 1,
+      "message": "No. We want hiredis-py because it is much faster.",
+      "parentUuid": "1aa78d24_6e7662a5",
+      "revId": "a55605f35b55bad22eb148a6e3575d5771f7590c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
