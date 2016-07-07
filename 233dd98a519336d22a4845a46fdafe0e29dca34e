@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aa78d24_88f1cb6d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-07-07T02:17:49Z",
+      "side": 1,
+      "message": "You need to provide Change-id of commit not the review url in depends on.",
+      "revId": "233dd98a519336d22a4845a46fdafe0e29dca34e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
