@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aa78d24_7a11b35c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-07-07T09:55:28Z",
+      "side": 1,
+      "message": "it can be changed to projects but not something to hold off for.",
+      "range": {
+        "startLine": 7,
+        "startChar": 23,
+        "endLine": 7,
+        "endChar": 46
+      },
+      "revId": "77fe2cb2482c8e7b59ca1014ca29ed9ec6a74c2f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
