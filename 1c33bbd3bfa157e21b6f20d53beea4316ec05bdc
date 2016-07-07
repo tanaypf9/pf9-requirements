@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "1aa78d24_cbe0b5fd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 10063
+      },
+      "writtenOn": "2016-07-07T20:56:30Z",
+      "side": 1,
+      "message": "Yes, could be 5.0.0. There\u0027s no reason to expect a 3.x or 4.x release since they\u0027re keeping sync with server versions and the next one will be 5.x to keep in line with the rest of Elastic\u0027s products.",
+      "parentUuid": "1aa78d24_8039b6d9",
+      "range": {
+        "startLine": 38,
+        "startChar": 23,
+        "endLine": 38,
+        "endChar": 24
+      },
+      "revId": "1c33bbd3bfa157e21b6f20d53beea4316ec05bdc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1aa78d24_207602a4",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
