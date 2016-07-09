@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 09 Jul 2016 19:23:44 +0000
+Reviewed-on: https://review.openstack.org/336389
+Project: openstack/requirements
+Branch: refs/heads/master
