@@ -237,6 +237,7 @@ sqlalchemy-utils  # BSD License
 stevedore>=1.10.0  # Apache-2.0
 sysv_ipc>=0.6.8  # BSD License
 suds-jurko>=0.6  # LGPLv3+
+supervisor>=3.1.3;python_version!='2.7'  # BSD
 sympy>=0.7.6  # BSD
 taskflow>=1.26.0  # Apache-2.0
 tempest>=12.1.0  # Apache-2.0
