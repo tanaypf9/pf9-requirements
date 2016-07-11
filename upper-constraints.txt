@@ -156,6 +156,7 @@ linecache2===1.0.0
 logilab-common===1.2.2
 logutils===0.3.3
 lxml===3.6.0
+meld3===1.0.2
 microversion-parse===0.1.3
 mistral===2.0.0
 mock===2.0.0
