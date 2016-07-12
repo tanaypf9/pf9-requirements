@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aa78d24_228e26d0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-07-12T04:34:51Z",
+      "side": 1,
+      "message": "provide change id for depends-on and you need to add depends-on for each individual change.",
+      "revId": "bb445471fc60aaa3a293278678725ea5e9be3bfb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
