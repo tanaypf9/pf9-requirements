@@ -16,6 +16,24 @@
       "revId": "86da0be32cccd9149c0141263a87c354ab4cc4e2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1aa78d24_c86f4929",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 20229
+      },
+      "writtenOn": "2016-07-13T00:33:48Z",
+      "side": 1,
+      "message": "Done. I was just looking for it as per @Haikel Guemar\u0027s request.",
+      "parentUuid": "1aa78d24_48a359b2",
+      "revId": "86da0be32cccd9149c0141263a87c354ab4cc4e2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
