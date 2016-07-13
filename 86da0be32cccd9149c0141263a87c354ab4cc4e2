@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aa78d24_48a359b2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-07-13T00:22:21Z",
+      "side": 1,
+      "message": "please mention bug 1599367 and this ML thread:\nhttps://www.mail-archive.com/ryu-devel@lists.sourceforge.net/msg11731.html",
+      "revId": "86da0be32cccd9149c0141263a87c354ab4cc4e2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
