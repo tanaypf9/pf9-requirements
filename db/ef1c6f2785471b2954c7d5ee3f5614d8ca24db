@@ -1,0 +1,13 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+1: Kashyap Chamarthy <kchamart@redhat.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 13 Jul 2016 18:15:50 +0000
+Reviewed-on: https://review.openstack.org/337782
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
