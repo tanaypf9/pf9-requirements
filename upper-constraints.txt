@@ -297,7 +297,7 @@ python-tackerclient===0.4.0
 python-troveclient===2.3.0
 python-watcherclient===0.23.0
 python-zaqarclient===1.1.0
-pytz===2016.4
+pytz===2016.6.1
 pyudev===0.20.0
 pyzabbix===0.7.4
 pyzmq===15.3.0

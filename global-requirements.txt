@@ -212,7 +212,7 @@ python-memcached>=1.56  # PSF
 python-dateutil>=2.4.2  # BSD
 
 # 2013.6 is the first version of pytz that is PEP 440 compatible.
-pytz>=2013.6  # MIT
+pytz>=2016.6.1  # MIT
 pyudev  # LGPLv2.1+
 PyYAML>=3.1.0  # MIT
 qpid-python;python_version=='2.7'  # Apache-2.0
