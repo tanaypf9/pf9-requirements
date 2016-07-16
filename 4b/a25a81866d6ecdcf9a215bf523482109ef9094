@@ -1,0 +1,9 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 16 Jul 2016 16:10:38 +0000
+Reviewed-on: https://review.openstack.org/342678
+Project: openstack/requirements
+Branch: refs/heads/master
