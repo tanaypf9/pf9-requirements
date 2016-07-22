@@ -125,7 +125,12 @@ futures===3.0.5
 futurist===0.16.0
 gabbi===1.24.0
 gitdb===0.6.4
-glance-store===0.14.0
+# NOTE(nikhil): the store release of 0.14.0 results into failure of docs
+# tests. Until we figure out a solution for the failing translations in
+# the doc tests, we need to pin down this release. For more information
+# read the thread:
+# http://lists.openstack.org/pipermail/openstack-docs/2016-July/thread.html#8899
+glance-store===0.13.1
 google-api-python-client===1.5.1
 graphviz===0.4.10
 greenlet===0.4.10
