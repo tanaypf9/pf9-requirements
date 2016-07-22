@@ -1,0 +1,9 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 22 Jul 2016 09:46:08 +0000
+Reviewed-on: https://review.openstack.org/345821
+Project: openstack/requirements
+Branch: refs/heads/master
