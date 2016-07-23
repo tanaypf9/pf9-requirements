@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dada55a8_728e9728",
+        "filename": "tools/integration-test.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-07-23T13:51:40Z",
+      "side": 1,
+      "message": "In the gate you want to use zuul-cloner, which can be told to use a local cache. This avoids some of the network issues we see on a regular basis. See the functions file in the release-tools repo for an example of using it.",
+      "revId": "926ec86cccf1bf5af070231250d5c43cd2eae14e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
