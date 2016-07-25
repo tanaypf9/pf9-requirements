@@ -16,6 +16,24 @@
       "revId": "926ec86cccf1bf5af070231250d5c43cd2eae14e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dada55a8_bc2e0240",
+        "filename": "tools/integration-test.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 3153
+      },
+      "writtenOn": "2016-07-25T13:10:23Z",
+      "side": 1,
+      "message": "right, you can maybe use something like:\nhttps://github.com/openstack/puppet-openstack-integration/blob/master/run_tests.sh#L72-L85",
+      "parentUuid": "dada55a8_728e9728",
+      "revId": "926ec86cccf1bf5af070231250d5c43cd2eae14e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
