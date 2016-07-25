@@ -1,10 +1,10 @@
 alembic>=0.8.4  # MIT
 amqp>=1.4.0,<2.0 # LGPL
 anyjson>=0.3.3  # BSD
-appdirs>=1.3.0  # MIT License
-apscheduler # MIT License
+appdirs>=1.3.0  # MIT
+apscheduler # MIT
 astroid<1.4.0  # LGPLv2.1 # breaks pylint 1.4.4
-autobahn>=0.10.1  # MIT License
+autobahn>=0.10.1  # MIT
 automaton>=0.5.0  # Apache-2.0
 beautifulsoup4  # MIT
 Babel>=2.3.4  # BSD
@@ -13,13 +13,13 @@ boto>=2.32.1  # MIT
 cassandra-driver>=2.1.4 # Apache-2.0
 castellan>=0.4.0 # Apache-2.0
 ceilometermiddleware>=0.1.0  # Apache-2.0
-cachetools>=1.0.0 # MIT License
+cachetools>=1.0.0 # MIT
 cffi  # MIT
 cliff!=1.16.0,!=1.17.0,>=1.15.0  # Apache-2.0
 cmd2>=0.6.7  # MIT
 PuLP>=1.0.4  # MIT
 contextlib2>=0.4.0 # PSF License
-croniter>=0.3.4 # MIT License
+croniter>=0.3.4 # MIT
 cryptography>=1.0,!=1.3.0  # BSD/Apache-2.0
 ddt>=1.0.1  # MIT
 debtcollector>=1.2.0  # Apache-2.0
@@ -50,7 +50,7 @@ funcsigs>=0.4;python_version=='2.7' or python_version=='2.6'  # Apache-2.0
 gitdb>=0.6.4 # BSD License (3 clause)
 glance_store>=0.13.0,!=0.14.0            # Apache-2.0
 google-api-python-client>=1.4.2        # Apache-2.0
-graphviz>=0.4.0 # MIT License
+graphviz>=0.4.0 # MIT
 greenlet>=0.3.2  # MIT
 GitPython>=1.0.1 # BSD License (3 clause)
 happybase>=0.5,!=0.7;python_version=='2.7'  # MIT
@@ -70,7 +70,7 @@ keystonemiddleware>=4.0.0,!=4.1.0,!=4.5.0  # Apache-2.0
 krest>=1.3.1  # Apache-2.0
 packaging>=16.5  # Apache-2.0
 positional>=1.0.1 # Apache-2.0
-pyScss>=1.3.4,!=1.3.5  # MIT License
+pyScss>=1.3.4,!=1.3.5  # MIT
 django-pyscss>=2.0.2  # BSD License (2 clause)
 kombu>=3.0.25  # BSD
 ldap3>=0.9.8.2  # LGPLv3
@@ -152,10 +152,10 @@ pyldap>=2.4 # PSF
 pymemcache>=1.2.9,!=1.3.0  # Apache 2.0 License
 pymod2pkg>=0.4  # Apache-2.0
 pymongo>=3.0.2,!=3.1  # Apache-2.0
-PyMySQL>=0.6.2  # MIT License
+PyMySQL>=0.6.2  # MIT
 python-k8sclient>=0.2.0  # Apache-2.0
 voluptuous>=0.8.9  # BSD License
-pydotplus>=2.0.2   # MIT License
+pydotplus>=2.0.2   # MIT
 crc16>=0.1.1  # LGPLv3+
 pyzabbix>=0.7.4  # LGPL
 
@@ -256,32 +256,32 @@ wmi;sys_platform=='win32'  # MIT
 WSME>=0.8  # MIT
 xattr>=0.4  # MIT
 XenAPI>=1.2  # LGPL
-XStatic>=1.0.0  # MIT License
-XStatic-Angular>=1.3.7  # MIT License
-XStatic-Angular-Bootstrap>=0.11.0.2  # MIT License
-XStatic-Angular-Gettext>=2.1.0.2 # MIT License
-XStatic-Angular-lrdragndrop>=1.0.2.2  # MIT License
+XStatic>=1.0.0  # MIT
+XStatic-Angular>=1.3.7  # MIT
+XStatic-Angular-Bootstrap>=0.11.0.2  # MIT
+XStatic-Angular-Gettext>=2.1.0.2 # MIT
+XStatic-Angular-lrdragndrop>=1.0.2.2  # MIT
 XStatic-Bootstrap-Datepicker>=1.3.1.0  # Apache 2.0 License
 XStatic-Bootstrap-SCSS>=3  # Apache 2.0 License
-XStatic-bootswatch>=3.3.5.3 # MIT License
+XStatic-bootswatch>=3.3.5.3 # MIT
 XStatic-D3>=3.1.6.2  # BSD License (3 clause)
-XStatic-Font-Awesome>=4.3.0  # SIL OFL 1.1 License, MIT License
+XStatic-Font-Awesome>=4.3.0  # SIL OFL 1.1 License, MIT
 XStatic-Hogan>=2.0.0.2  # Apache 2.0 License
-XStatic-Jasmine>=2.1.2.0  # MIT License
-XStatic-jQuery>=1.7.2  # MIT License
-XStatic-JQuery-Migrate>=1.2.1.1  # MIT License
-XStatic-JQuery.quicksearch>=2.0.3.1  # MIT License
-XStatic-JQuery.TableSorter>=2.14.5.1  # MIT License
-XStatic-jquery-ui>=1.10.1  # MIT License
-XStatic-JSEncrypt>=2.0.0.2  # MIT License
+XStatic-Jasmine>=2.1.2.0  # MIT
+XStatic-jQuery>=1.7.2  # MIT
+XStatic-JQuery-Migrate>=1.2.1.1  # MIT
+XStatic-JQuery.quicksearch>=2.0.3.1  # MIT
+XStatic-JQuery.TableSorter>=2.14.5.1  # MIT
+XStatic-jquery-ui>=1.10.1  # MIT
+XStatic-JSEncrypt>=2.0.0.2  # MIT
 XStatic-Magic-Search>=0.2.5.1  # Apache 2.0 License
 XStatic-mdi>=1.4.57.0 # SIL OPEN FONT LICENSE Version 1.1
 XStatic-Rickshaw>=1.5.0  # BSD License (prior)
 XStatic-roboto-fontface>=0.4.3.2 # Apache 2.0 License
-XStatic-smart-table>=1.4.5.3  # MIT License
-XStatic-Spin>=1.2.5.2  # MIT License
-XStatic-term.js>=0.0.4 # MIT License
-XStatic-Angular-FileUpload>=12.0.4.0  # MIT License
+XStatic-smart-table>=1.4.5.3  # MIT
+XStatic-Spin>=1.2.5.2  # MIT
+XStatic-term.js>=0.0.4 # MIT
+XStatic-Angular-FileUpload>=12.0.4.0  # MIT
 yaql>=1.1.0  # Apache 2.0 License
 
 # Testing tools below, which are typically in test-requires.txt
@@ -322,7 +322,7 @@ oslotest>=1.10.0  # Apache-2.0
 proboscis>=1.2.5.3  # Apache-2.0
 psycopg2>=2.5  # LGPL/ZPL
 pysendfile>=2.0.0  # MIT
-python-consul>=0.4.7  # MIT License
+python-consul>=0.4.7  # MIT
 python-subunit>=0.0.18  # Apache-2.0/BSD
 python-pytun>=2.2.1 # MIT
 pyzmq>=14.3.1 # LGPL+BSD
@@ -354,7 +354,7 @@ wrapt>=1.7.0 # BSD License
 WebTest>=2.0  # MIT
 Werkzeug>=0.7  # BSD License
 xmltodict>=0.10.1  # MIT
-wsgi_intercept>=0.6.1 # MIT License
+wsgi_intercept>=0.6.1 # MIT
 xvfbwrapper>=0.1.3 #license: MIT
 zake>=0.1.6 # Apache-2.0
 
@@ -368,8 +368,8 @@ zake>=0.1.6 # Apache-2.0
 flake8>=2.5.4,<2.6.0  # MIT
 flake8_docstrings==0.2.1.post1  # MIT
 hacking>=0.11.0,<0.12  # Apache-2.0
-mccabe==0.2.1 # MIT License
-pep257==0.7.0 # MIT License
+mccabe==0.2.1 # MIT
+pep257==0.7.0 # MIT
 pep8==1.5.7  # MIT
 pyflakes==0.8.1  # MIT
 pylint==1.4.5  # GPLv2
