@@ -141,6 +141,7 @@ ipaddress===1.0.16;python_version=='2.7'
 ironic-lib===2.0.0
 iso8601===0.1.11
 itsdangerous===0.24
+jira===1.0.7
 jsonpatch===1.14
 jsonpath-rw===1.4.0
 jsonpath-rw-ext===1.0.0
