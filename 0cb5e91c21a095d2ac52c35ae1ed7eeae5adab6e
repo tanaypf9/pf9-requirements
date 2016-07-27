@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dada55a8_dbe27cd4",
+        "filename": "tools/check-install.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-07-27T00:47:10Z",
+      "side": 1,
+      "message": "Gah.  I forgot I used the inline editor",
+      "revId": "0cb5e91c21a095d2ac52c35ae1ed7eeae5adab6e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
