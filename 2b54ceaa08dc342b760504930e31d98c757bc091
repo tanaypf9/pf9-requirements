@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_1fff4268",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-07-28T22:49:10Z",
+      "side": 1,
+      "message": "rootwrap should be \u003e\u003d5.0.0 so master grenade pulls it in during upgrade, else grenade isn\u0027t upgrading it and we don\u0027t get the fix.",
+      "revId": "2b54ceaa08dc342b760504930e31d98c757bc091",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

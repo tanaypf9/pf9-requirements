@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_9fdcd213",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-07-28T22:49:10Z",
+      "side": 0,
+      "message": "Hmm, I was going to say os-brick should be bumped to require rootwrap 5.0.0, but brick doesn\u0027t require rootwrap anymore because of privsep, so nevermind.",
+      "range": {
+        "startLine": 116,
+        "startChar": 16,
+        "endLine": 116,
+        "endChar": 23
+      },
+      "revId": "03d87702dbcba5827c8c9067e0c2350c1b998e77",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
