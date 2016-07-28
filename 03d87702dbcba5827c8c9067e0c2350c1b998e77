@@ -45,6 +45,30 @@
       "revId": "03d87702dbcba5827c8c9067e0c2350c1b998e77",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_9ffdf23c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-07-28T22:55:39Z",
+      "side": 0,
+      "message": "Which makes me think, do we need to raise the minimum os-brick to 1.4.0 so that it\u0027s using privsep and latest rootwrap?\n\nThis might not be a problem for grenade as os-brick is capped at 1.2.0 in mitaka but \u003e\u003d1.3.0 is required in newton, so grenade will install 1.4.0 now which uses privsep. Requiring os-brick\u003e\u003d1.4.0 might be more technically correct though as the minimum required version...",
+      "parentUuid": "bacf61ea_ff86aed9",
+      "range": {
+        "startLine": 116,
+        "startChar": 16,
+        "endLine": 116,
+        "endChar": 24
+      },
+      "revId": "03d87702dbcba5827c8c9067e0c2350c1b998e77",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
