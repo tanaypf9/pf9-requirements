@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_7bdff939",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-08-01T16:08:42Z",
+      "side": 1,
+      "message": "Looking at fixing https://review.openstack.org/#/c/349300/ we don\u0027t actually need this, and the dependent change can be simpler without having to handle both versions of neutronclient, so I think I\u0027ll just update.",
+      "revId": "e92debc4a09b5d2d53b8b9a129a3b7b70528b8fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
