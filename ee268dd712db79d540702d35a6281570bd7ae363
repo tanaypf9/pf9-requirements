@@ -57,6 +57,23 @@
       "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_95bc46dd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-05T15:38:17Z",
+      "side": 1,
+      "message": "I\u0027m saying that since openstack only supports python-2.7 and python-3.4 (soon 3.5 I think) we don\u0027t need this since all those versions have sni support (if up to date).  I\u0027m not totally sure about trusty and it\u0027s python, or cent/rh.  But xenial should definitely not need this.",
+      "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
