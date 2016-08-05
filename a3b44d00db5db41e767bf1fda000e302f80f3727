@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_bbf6ad5a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-08-05T11:23:30Z",
+      "side": 1,
+      "message": "you might get a -1\n\ns/global-requirements/requirements",
+      "revId": "a3b44d00db5db41e767bf1fda000e302f80f3727",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
