@@ -74,6 +74,24 @@
       "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_55ac8e8b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2016-08-05T15:40:13Z",
+      "side": 1,
+      "message": "Trusty \u0026 CentOS7 currently use python \u003c 2.7.9\nXenial uses a higher version.\n\nThis is why I think it may be good to add the version requirement so that more modern distributions do not end up with this as a mistaken requirement.",
+      "parentUuid": "bacf61ea_95bc46dd",
+      "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
