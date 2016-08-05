@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bacf61ea_cf0d91e9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2016-08-05T15:11:41Z",
+      "side": 1,
+      "message": "Perhaps I should add \";python_version\u003c\u00272.9\u0027\" to this because python 2.9 and above have native SNI support?",
+      "range": {
+        "startLine": 84,
+        "startChar": 0,
+        "endLine": 84,
+        "endChar": 22
+      },
+      "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
