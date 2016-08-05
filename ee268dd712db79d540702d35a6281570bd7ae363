@@ -22,6 +22,23 @@
       "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_efffb531",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-05T15:18:53Z",
+      "side": 1,
+      "message": "I assume you mean python-2.7.9? if so, then didn\u0027t openstack officially drop support for older pythons (less than 2.7).  I think this would only fix the \u00272.7.0-2.7.9\u0027 gap",
+      "revId": "ee268dd712db79d540702d35a6281570bd7ae363",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
