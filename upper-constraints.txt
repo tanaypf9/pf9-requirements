@@ -112,6 +112,7 @@ doc8===0.7.0
 docker-py===1.7.2
 docutils===0.12
 dogpile.cache===0.6.1
+dogtag-pki===10.3.5.0.1
 elasticsearch===2.3.0
 enum34===1.1.6
 eventlet===0.19.0
@@ -292,6 +293,7 @@ python-monascaclient===1.2.0
 python-muranoclient===0.9.0
 python-neutronclient===5.0.0
 python-novaclient===5.0.0
+python-nss===1.0.0beta1;python_version>=3.0
 python-openstackclient===2.6.0
 python-pytun===2.2.1
 python-qpid-proton===0.10
