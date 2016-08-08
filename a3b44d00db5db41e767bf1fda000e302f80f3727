@@ -34,6 +34,24 @@
       "revId": "a3b44d00db5db41e767bf1fda000e302f80f3727",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bacf61ea_828ce0d7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-08T03:04:47Z",
+      "side": 1,
+      "message": "Why?  We\u0027re adding this to global requirements NOT requirements.txt",
+      "parentUuid": "bacf61ea_bbf6ad5a",
+      "revId": "a3b44d00db5db41e767bf1fda000e302f80f3727",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
