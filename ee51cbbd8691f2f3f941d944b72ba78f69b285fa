@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_84b66eda",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-09T05:33:20Z",
+      "side": 1,
+      "message": "This one shoudl be done via https://review.openstack.org/350866",
+      "revId": "ee51cbbd8691f2f3f941d944b72ba78f69b285fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_64bb7ac5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-09T05:33:20Z",
+      "side": 1,
+      "message": "This once should be done via: https://review.openstack.org/351081",
+      "revId": "ee51cbbd8691f2f3f941d944b72ba78f69b285fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_a4b572ce",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-09T05:33:20Z",
+      "side": 1,
+      "message": "I think we need Neutron folks to ACK this as ovs/ryu can be problematic",
+      "revId": "ee51cbbd8691f2f3f941d944b72ba78f69b285fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_e4c76a43",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 333,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-09T05:33:20Z",
+      "side": 1,
+      "message": "I think we need Neutron folks to ACK this as ovs/ryu can be problematic",
+      "revId": "ee51cbbd8691f2f3f941d944b72ba78f69b285fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
