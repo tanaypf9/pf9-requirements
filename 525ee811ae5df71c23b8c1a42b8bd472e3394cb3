@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_9186b3b7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-09T01:57:17Z",
+      "side": 1,
+      "message": "This was reverted as it causes problems for grenade",
+      "range": {
+        "startLine": 198,
+        "startChar": 0,
+        "endLine": 198,
+        "endChar": 25
+      },
+      "revId": "525ee811ae5df71c23b8c1a42b8bd472e3394cb3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
