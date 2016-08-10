@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_a6cd2887",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-08-10T11:17:39Z",
+      "side": 1,
+      "message": "Can you remove this part. This change set is updating projects only.",
+      "revId": "3171ec53bbd19af543aa3e990b17ea19d45fab06",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
