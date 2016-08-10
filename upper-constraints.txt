@@ -299,7 +299,7 @@ python-qpid-proton===0.10
 python-saharaclient===0.16.0
 python-searchlightclient===0.2.1
 python-senlinclient===0.5.0
-python-smaugclient===0.0.5
+python-karborclient===0.0.5
 python-solumclient===2.0.1
 python-statsd===2.0.0
 python-subunit===1.2.0
