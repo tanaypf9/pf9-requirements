@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_f7ba3a09",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-08-10T06:19:47Z",
+      "side": 1,
+      "message": "Typo: oslo",
+      "revId": "493f29faff343a043509f24ee48d37c93ac9e8b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ad45d7e_9742de0e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-08-10T06:19:47Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "493f29faff343a043509f24ee48d37c93ac9e8b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
