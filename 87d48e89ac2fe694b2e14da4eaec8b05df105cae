@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_ecf8b14b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-08-10T06:04:15Z",
+      "side": 1,
+      "message": "Nitpick: two spaces before \u0027#\u0027",
+      "revId": "87d48e89ac2fe694b2e14da4eaec8b05df105cae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
