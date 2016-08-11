@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9ad45d7e_7d07e881",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-11T16:33:04Z",
+      "side": 1,
+      "message": "s/osle/oslo",
+      "revId": "47fd9a645bd905564bb66c6757bbba648ad2822c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
