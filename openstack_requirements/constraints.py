@@ -20,7 +20,6 @@ from packaging import specifiers
 UNCONSTRAINABLE = set([
     'argparse',
     'pip',
-    'setuptools',
     'wmi',
     'pywin32',
     'pymi',
