@@ -78,7 +78,7 @@ def _freeze(requirements, python):
                 [pip_bin, 'install', '-U', 'pip', 'setuptools', 'wheel']))
             output.append(subprocess.check_output(
                 [pip_bin, 'install', '-r', requirements]))
-            freeze = subprocess.check_output([pip_bin, 'freeze'])
+            freeze = subprocess.check_output([pip_bin, 'freeze', '--all'])
             output.append(freeze)
             return (version, _parse_freeze(freeze))
     except Exception as exc:
