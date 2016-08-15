@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_23ee9d22",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 164,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-15T15:20:51Z",
+      "side": 1,
+      "message": "does python-nss\u003e\u003d1.0.0beta1 not work?",
+      "revId": "c654f450e82d43701dc1e221db2fed4a60621591",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
