@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_f361d7a9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-16T03:24:39Z",
+      "side": 1,
+      "message": "I think this is fine, from their version history...\n\nFrom now on this library uses a semantic versioning scheme. HappyBase is a mature library, but always used 0.x version numbers for no good reason. This has now changed.",
+      "revId": "7ec9c3f5feb096ac0fbee2272a3750aab61ae565",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_5359cbfd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 295,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-08-16T03:24:39Z",
+      "side": 1,
+      "message": "to be added in another review, removing",
+      "revId": "7ec9c3f5feb096ac0fbee2272a3750aab61ae565",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
