@@ -1,0 +1,11 @@
+Code-Review+1: Corey Bryant <corey.bryant@canonical.com>
+Code-Review-1: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Kevin Benton <kevin@benton.pub>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 17 Aug 2016 14:13:56 +0000
+Reviewed-on: https://review.openstack.org/352374
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
