@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_c9a2caad",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-08-17T16:02:23Z",
+      "side": 1,
+      "message": "when is this happening? We have a non-client library freeze soon.",
+      "revId": "5c92198cad5df52dee0968c36b2f8048f8a0c03c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
