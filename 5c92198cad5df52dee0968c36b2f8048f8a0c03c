@@ -16,6 +16,24 @@
       "revId": "5c92198cad5df52dee0968c36b2f8048f8a0c03c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_49dd3adf",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 8410
+      },
+      "writtenOn": "2016-08-17T16:07:36Z",
+      "side": 1,
+      "message": "Hi Russell, can you comment on the planned ovs 2.6.0 release date?",
+      "parentUuid": "3ac371cc_c9a2caad",
+      "revId": "5c92198cad5df52dee0968c36b2f8048f8a0c03c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
