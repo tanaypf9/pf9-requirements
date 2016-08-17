@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3ac371cc_31a8478d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 7787
+      },
+      "writtenOn": "2016-08-17T05:39:51Z",
+      "side": 1,
+      "message": "whoops, this was meant to be 4.7.1.\n\nSo if we don\u0027t raise minimums, what is the recommended way to get a bug fixed in a stable branch?",
+      "parentUuid": "3ac371cc_6e3e63db",
+      "revId": "0d4d092922f834120933336c3332c612d3a4f530",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ac371cc_2e1f4b6d",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
