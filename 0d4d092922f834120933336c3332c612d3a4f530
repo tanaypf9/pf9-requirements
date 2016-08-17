@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ac371cc_6e3e63db",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-17T03:06:44Z",
+      "side": 1,
+      "message": "We don\u0027t raise the minimums on stable branches except in (excuse the pun) exceptional circumstances.\n\nAlso AFAICT 4.1.1 doesn\u0027t exist so this is effectively:\n\n oslo.db\u003e\u003d4.2.0",
+      "revId": "0d4d092922f834120933336c3332c612d3a4f530",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_2e1f4b6d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 214,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-17T03:06:44Z",
+      "side": 1,
+      "message": "This is the same as: I4144c1944e200df2592c08311919f8c9438d2d9b",
+      "revId": "0d4d092922f834120933336c3332c612d3a4f530",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
