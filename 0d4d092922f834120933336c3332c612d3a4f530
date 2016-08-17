@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "3ac371cc_943929f5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 107,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-17T06:22:32Z",
+      "side": 1,
+      "message": "It\u0027s a little artificial but we set upper-constraints to be the fixed version.  That signals to deployers/packagers that they shoudl really use that version.\n\nWhen looking at the release notes for the new oslo.db the bugfix should be called out there.\n\nbut that doesn\u0027t seem to quite be the case.\n\nIn short we land Ihar\u0027s fix ;P",
+      "parentUuid": "3ac371cc_31a8478d",
+      "revId": "0d4d092922f834120933336c3332c612d3a4f530",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ac371cc_2e1f4b6d",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
