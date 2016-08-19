@@ -33,6 +33,24 @@
       "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ac371cc_11edb98e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 7102
+      },
+      "writtenOn": "2016-08-19T04:40:26Z",
+      "side": 1,
+      "message": "If we don\u0027t have this here, setup.cfg in barbican (from https://review.openstack.org/#/c/344232/6/setup.cfg ) will not be updated with the correct version and when running \"tox -epy35\" in barbican then, it will fail because python-nss 0.17 is installed which does not work with python3",
+      "parentUuid": "3ac371cc_d1f041cc",
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
