@@ -51,6 +51,24 @@
       "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_e301006c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:01:03Z",
+      "side": 1,
+      "message": "Ah okay I understand now.  It looks like barbican lacks upper-constraints support.  I\u0027m testing a review to do that.",
+      "parentUuid": "3ac371cc_11edb98e",
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
