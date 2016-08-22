@@ -19,6 +19,47 @@
     },
     {
       "key": {
+        "uuid": "1ac06dbe_e65bcef4",
+        "filename": "bindep.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:38:12Z",
+      "side": 1,
+      "message": "this is pulled in by libnss3-dev on ubuntu.\n\nAlso missing the rpm packages.",
+      "parentUuid": "3ac371cc_91cd2989",
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_c605f2c2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:38:12Z",
+      "side": 1,
+      "message": "10.3.5.1 is the current version on pypi",
+      "range": {
+        "startLine": 40,
+        "startChar": 12,
+        "endLine": 40,
+        "endChar": 22
+      },
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ac371cc_d1f041cc",
         "filename": "global-requirements.txt",
         "patchSetId": 7
@@ -66,6 +107,63 @@
       "side": 1,
       "message": "Ah okay I understand now.  It looks like barbican lacks upper-constraints support.  I\u0027m testing a review to do that.",
       "parentUuid": "3ac371cc_11edb98e",
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_0610aa00",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 165,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:38:12Z",
+      "side": 1,
+      "message": "1.0.0b1 is the canonical form",
+      "range": {
+        "startLine": 165,
+        "startChar": 12,
+        "endLine": 165,
+        "endChar": 22
+      },
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_46faa2be",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:38:12Z",
+      "side": 1,
+      "message": "see comment in g-r",
+      "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_86049ac0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:38:12Z",
+      "side": 1,
+      "message": "This is also needed on py2.7 so there needs to be a constraint there as well",
       "revId": "fac4fbd843773a4d0b8eafdb2f880eecb6d9b705",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
