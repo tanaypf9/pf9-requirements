@@ -69,6 +69,30 @@
       "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_d15daa7a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T06:38:48Z",
+      "side": 1,
+      "message": "Okay in that case we only need one like without the environment marker:\n\n python-nss\u003d\u003d\u003d1.0.0b1\n\nI\u0027ll edit.",
+      "parentUuid": "1ac06dbe_91bdf2d9",
+      "range": {
+        "startLine": 300,
+        "startChar": 0,
+        "endLine": 301,
+        "endChar": 42
+      },
+      "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
