@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ac06dbe_467d821b",
+        "filename": "bindep.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:45:29Z",
+      "side": 1,
+      "message": "I copied these from Ia3276ad4be56d40fddbf458f215ab93e44ed6907 I have no idea if they\u0027re correct",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_a68b961d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T05:45:29Z",
+      "side": 1,
+      "message": "Does 1.0.0b1 work for both py2.7 and py3.X ?",
+      "range": {
+        "startLine": 300,
+        "startChar": 0,
+        "endLine": 301,
+        "endChar": 42
+      },
+      "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
