@@ -231,7 +231,6 @@ openstack/tricircle
 openstack/tripleo-common
 openstack/tripleo-validations
 openstack/trove
-openstack/vitrage
 openstack/vmware-nsx
 openstack/watcher
 openstack/watcher-dashboard
