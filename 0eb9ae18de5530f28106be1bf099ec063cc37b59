@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ac06dbe_31035e44",
+        "filename": "bindep.txt",
+        "patchSetId": 10
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-22T06:40:10Z",
+      "side": 1,
+      "message": "I copied these from Ia3276ad4be56d40fddbf458f215ab93e44ed6907 I have no idea if they\u0027re correct.\n\nThey still need to be verified/checked",
+      "range": {
+        "startLine": 35,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 24
+      },
+      "revId": "0eb9ae18de5530f28106be1bf099ec063cc37b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
