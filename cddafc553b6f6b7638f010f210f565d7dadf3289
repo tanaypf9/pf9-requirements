@@ -45,6 +45,30 @@
       "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1ac06dbe_91bdf2d9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 301,
+      "author": {
+        "id": 7102
+      },
+      "writtenOn": "2016-08-22T06:25:15Z",
+      "side": 1,
+      "message": "yes. 1.0.0b1 added python3 support but also works for py27",
+      "parentUuid": "1ac06dbe_a68b961d",
+      "range": {
+        "startLine": 300,
+        "startChar": 0,
+        "endLine": 301,
+        "endChar": 42
+      },
+      "revId": "cddafc553b6f6b7638f010f210f565d7dadf3289",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
