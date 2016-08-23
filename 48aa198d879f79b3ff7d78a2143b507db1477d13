@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ac06dbe_b2f7eb57",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 12826
+      },
+      "writtenOn": "2016-08-23T13:53:02Z",
+      "side": 1,
+      "message": "This breaks manual compression in Horizon, though it may pass tests. There is already a fixed version (1.4.13.1) released to PyPI, so that should be picked up automagically.",
+      "revId": "48aa198d879f79b3ff7d78a2143b507db1477d13",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
