@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ac06dbe_8e1ab17b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-23T01:57:14Z",
+      "side": 1,
+      "message": "This should be \u003c 1.0.0 to match the commit message *and* allow a 0.35 release.\n\nI know the repo doesn\u0027t have stable/* branches but we should give us as much flexibility as possible",
+      "range": {
+        "startLine": 280,
+        "startChar": 26,
+        "endLine": 280,
+        "endChar": 34
+      },
+      "revId": "102726efa0fa51e49654324e628ca7836752fe2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
