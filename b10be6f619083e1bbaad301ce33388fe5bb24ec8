@@ -16,6 +16,24 @@
       "revId": "b10be6f619083e1bbaad301ce33388fe5bb24ec8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_2c407c56",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-25T23:31:59Z",
+      "side": 0,
+      "message": "Thanks for translating this.  but we typically don\u0027t translate comments like this.",
+      "parentUuid": "1ac06dbe_f7d2635a",
+      "revId": "b10be6f619083e1bbaad301ce33388fe5bb24ec8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
