@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 25 Aug 2016 06:04:56 +0000
+Reviewed-on: https://review.openstack.org/358440
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
