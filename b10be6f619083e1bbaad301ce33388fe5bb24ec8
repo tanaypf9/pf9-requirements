@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ac06dbe_f7d2635a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 23295
+      },
+      "writtenOn": "2016-08-25T09:52:48Z",
+      "side": 0,
+      "message": "当setuptools 不能处理预安装的不兼容版本时，设置个低版本可以使错误信息更明了。不要在setuptools上设置个更高的版本，设置高版本会导致项目发布时出现不可卸载的情况。",
+      "revId": "b10be6f619083e1bbaad301ce33388fe5bb24ec8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
