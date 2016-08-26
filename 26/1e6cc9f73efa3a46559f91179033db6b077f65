@@ -1,0 +1,9 @@
+Code-Review+1: Armando Migliaccio <armamig@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 26 Aug 2016 05:48:36 +0000
+Reviewed-on: https://review.openstack.org/360829
+Project: openstack/requirements
+Branch: refs/heads/master
