@@ -1,29 +1,29 @@
 abclient>=0.2.1  # Apache-2.0
 alembic>=0.8.4  # MIT
-amqp>=1.4.0,<2.0 # LGPL
+amqp>=1.4.0,<2.0  # LGPL
 anyjson>=0.3.3  # BSD
 appdirs>=1.3.0  # MIT License
-apscheduler # MIT License
+apscheduler  # MIT License
 astroid<1.4.0  # LGPLv2.1 # breaks pylint 1.4.4
 autobahn>=0.10.1  # MIT License
 automaton>=0.5.0  # Apache-2.0
 beautifulsoup4  # MIT
 Babel>=2.3.4  # BSD
-betamax>=0.7.0 # Apache-2.0
+betamax>=0.7.0  # Apache-2.0
 boto>=2.32.1  # MIT
-botocore>=1.0.0 # Apache-2.0
-cassandra-driver>=2.1.4,!=3.6.0 # Apache-2.0
-castellan>=0.4.0 # Apache-2.0
+botocore>=1.0.0  # Apache-2.0
+cassandra-driver>=2.1.4,!=3.6.0  # Apache-2.0
+castellan>=0.4.0  # Apache-2.0
 ceilometermiddleware>=0.1.0  # Apache-2.0
-cachetools>=1.1.0 # MIT License
+cachetools>=1.1.0  # MIT License
 cffi  # MIT
 cliff>=2.2.0  # Apache-2.0
 cmd2>=0.6.7  # MIT
 PuLP>=1.4.1  # MIT
-contextlib2>=0.4.0 # PSF License
-croniter>=0.3.4 # MIT License
+contextlib2>=0.4.0  # PSF License
+croniter>=0.3.4  # MIT License
 cryptography>=1.0,!=1.3.0  # BSD/Apache-2.0
-cursive>=0.1.1 # Apache-2.0
+cursive>=0.1.1  # Apache-2.0
 ddt>=1.0.1  # MIT
 debtcollector>=1.2.0  # Apache-2.0
 decorator>=3.4.0  # BSD
@@ -31,37 +31,37 @@ dib-utils  # Apache-2.0
 diskimage-builder>=1.1.2,!=1.6.0,!=1.7.0,!=1.7.1  # Apache-2.0
 Django>=1.8,<1.9  # BSD
 django-babel>=0.5.1  # BSD
-django_compressor>=2.0  # MIT
+django-compressor>=2.0  # MIT
 django-floppyforms>=1,<2  # BSD
 django-formtools  # BSD
-django_openstack_auth>=2.4.0  # Apache-2.0
+django-openstack-auth>=2.4.0  # Apache-2.0
 dnspython>=1.14.0;python_version=='2.7'  # http://www.dnspython.org/LICENSE
 dnspython3>=1.12.0,!=1.13.0,!=1.14.0;python_version>='3.0'  # http://www.dnspython.org/LICENSE
 dogpile.cache>=0.6.2  # BSD
 dogtag-pki>=10.3.5.1  # LGPLv3+
-elasticsearch>=2.0.0,<=3.0.0 # Apache-2.0
+elasticsearch>=2.0.0,<=3.0.0  # Apache-2.0
 enum34;python_version=='2.7' or python_version=='2.6' or python_version=='3.3'  # BSD
 # NOTE: New versions of eventlet should not be accepted lightly
 # as they have earned a reputation of frequently breaking things.
-eventlet!=0.18.3,>=0.18.2  # MIT
+eventlet>=0.18.2,!=0.18.3  # MIT
 extras  # MIT
 fairy-slipper>=0.1.0  # Apache-2.0
 falcon>=0.1.6  # Apache-2.0
 Flask>=0.10,!=0.11,<1.0  # BSD
-fortiosclient>=0.0.2 # Apache-2.0
+fortiosclient>=0.0.2  # Apache-2.0
 futures>=3.0;python_version=='2.7' or python_version=='2.6'  # BSD
 futurist>=0.11.0,!=0.15.0  # Apache-2.0
 funcsigs>=0.4;python_version=='2.7' or python_version=='2.6'  # Apache-2.0
-gitdb>=0.6.4 # BSD License (3 clause)
-glance_store>=0.18.0            # Apache-2.0
-google-api-python-client>=1.4.2        # Apache-2.0
-graphviz>=0.4.0,!=0.5.0 # MIT License
+gitdb>=0.6.4  # BSD License (3 clause)
+glance-store>=0.18.0  # Apache-2.0
+google-api-python-client>=1.4.2  # Apache-2.0
+graphviz>=0.4.0,!=0.5.0  # MIT License
 greenlet>=0.3.2  # MIT
-GitPython>=1.0.1 # BSD License (3 clause)
+GitPython>=1.0.1  # BSD License (3 clause)
 happybase>=0.5,!=0.7;python_version=='2.7'  # MIT
-heat-translator>=0.4.0 # Apache-2.0
+heat-translator>=0.4.0  # Apache-2.0
 httplib2>=0.7.5  # MIT
-icalendar>=3.10 # BSD
+icalendar>=3.10  # BSD
 ironic-lib>=2.2.0  # Apache-2.0
 ipaddress>=1.0.7;python_version<'3.3'  # PSF
 iso8601>=0.1.11  # MIT
@@ -69,33 +69,33 @@ Jinja2>=2.8  # BSD License (3 clause)
 jsonpatch>=1.1  # BSD
 jsonpath-rw>=1.2.0,<2.0  # Apache-2.0
 jsonpath-rw-ext>=0.1.9  # Apache-2.0
-jsonschema>=2.0.0,<3.0.0,!=2.5.0  # MIT
+jsonschema>=2.0.0,!=2.5.0,<3.0.0  # MIT
 kazoo>=2.2  # Apache-2.0
 keystoneauth1>=2.14.0  # Apache-2.0
 keystonemiddleware>=4.2.0,!=4.5.0  # Apache-2.0
 krest>=1.3.1  # Apache-2.0
 kuryr-lib>=0.1.0  # Apache-2.0
 packaging>=16.5  # Apache-2.0
-positional>=1.1.1 # Apache-2.0
+positional>=1.1.1  # Apache-2.0
 pyScss>=1.3.4,!=1.3.5  # MIT License
 django-pyscss>=2.0.2  # BSD License (2 clause)
 kombu>=3.0.25,!=4.0.0  # BSD
 ldap3>=1.0.2  # LGPLv3
-libvirt-python>=1.2.5                   # LGPLv2+
+libvirt-python>=1.2.5  # LGPLv2+
 lxml>=2.3  # BSD
 Mako>=0.4.0  # MIT
 marathon>=0.8.6  # MIT
 microversion-parse>=0.1.2  # Apache-2.0
-mistral!=2015.1.0,>=3.0.0  # Apache-2.0
+mistral>=3.0.0,!=2015.1.0  # Apache-2.0
 monasca-common>=1.0.0  # Apache-2.0
 monasca-statsd>=1.1.0  # Apache-2.0
-monotonic>=0.6                          # Apache-2.0
+monotonic>=0.6  # Apache-2.0
 msgpack-python>=0.4.0  # Apache-2.0
 murano-pkg-check>=0.2.0  # Apache-2.0
 ndg-httpsclient>=0.4.2;python_version<'3.0'  # BSD
 netaddr>=0.7.13,!=0.7.16  # BSD
 netifaces>=0.10.4  # MIT
-netmiko!=0.4.3,>=0.3.0 # MIT
+netmiko>=0.3.0,!=0.4.3  # MIT
 networkx>=1.10  # BSD
 neutron-lib>=1.0.0  # Apache-2.0
 notifier>=1.0.3  # Apache-2.0
@@ -106,24 +106,24 @@ ordereddict  # MIT
 osc-lib>=1.2.0  # Apache-2.0
 oslo.cache>=1.5.0  # Apache-2.0
 oslo.config>=3.14.0,!=3.18.0  # Apache-2.0
-oslo.concurrency>=3.8.0         # Apache-2.0
+oslo.concurrency>=3.8.0  # Apache-2.0
 oslo.context>=2.9.0  # Apache-2.0
 oslo.db>=4.11.0,!=4.13.1,!=4.13.2  # Apache-2.0
 oslo.i18n>=2.1.0  # Apache-2.0
 oslo.log>=3.11.0  # Apache-2.0
 # NOTE(mriedem): oslo.messaging 3.1.0 breaks Ironic
-oslo.messaging>=5.2.0 # Apache-2.0
-oslo.middleware>=3.0.0                  # Apache-2.0
+oslo.messaging>=5.2.0  # Apache-2.0
+oslo.middleware>=3.0.0  # Apache-2.0
 oslo.policy>=1.15.0  # Apache-2.0
 oslo.privsep>=1.9.0  # Apache-2.0
 oslo.reports>=0.6.0  # Apache-2.0
 oslo.rootwrap>=5.0.0  # Apache-2.0
-oslo.serialization>=1.10.0              # Apache-2.0
-oslo.service>=1.10.0                     # Apache-2.0
-oslo.utils>=3.18.0                       # Apache-2.0
-oslo.vmware>=2.11.0                     # Apache-2.0
-oslo.versionedobjects>=1.13.0            # Apache-2.0
-osprofiler>=1.4.0                       # Apache-2.0
+oslo.serialization>=1.10.0  # Apache-2.0
+oslo.service>=1.10.0  # Apache-2.0
+oslo.utils>=3.18.0  # Apache-2.0
+oslo.vmware>=2.11.0  # Apache-2.0
+oslo.versionedobjects>=1.13.0  # Apache-2.0
+osprofiler>=1.4.0  # Apache-2.0
 os-apply-config  # Apache-2.0
 os-brick>=1.8.0  # Apache-2.0
 os-client-config>=1.22.0  # Apache-2.0
@@ -131,36 +131,36 @@ os-cloud-config  # Apache-2.0
 os-collect-config  # Apache-2.0
 os-refresh-config  # Apache-2.0
 os-testr>=0.8.0  # Apache-2.0
-os-vif>=1.3.0                           # Apache-2.0
-ovs>=2.6.1                              # Apache-2.0
-os-win>=1.1.0                           # Apache-2.0
-paramiko>=2.0 # LGPLv2.1+
+os-vif>=1.3.0  # Apache-2.0
+ovs>=2.6.1  # Apache-2.0
+os-win>=1.1.0  # Apache-2.0
+paramiko>=2.0  # LGPLv2.1+
 Parsley  # MIT
 passlib>=1.6  # BSD
 Paste  # MIT
 PasteDeploy>=1.5.0  # MIT
 pbr>=1.8  # Apache-2.0
 pecan>=1.0.0,!=1.0.2,!=1.0.3,!=1.0.4,!=1.2  # BSD
-pexpect>=3.1,!=3.3 # ISC License
+pexpect>=3.1,!=3.3  # ISC License
 pifpaf>=0.10.0  # Apache-2.0
 pika>=0.10.0  # BSD
 pika-pool>=0.1.3  # BSD
 Pillow>=2.4.0  # PIL License
 Pint>=0.5  # BSD
 pip>=6.0  # MIT
-posix_ipc  # BSD
+posix-ipc  # BSD
 PrettyTable>=0.7.1,<0.8  # BSD
 psutil>=1.1.1,<2.0.0  # BSD
 pyasn1  # BSD
 pyasn1-modules  # BSD
 pycadf>=1.1.0,!=2.0.0  # Apache-2.0
 pycrypto>=2.6  # Public Domain
-PyECLib>=1.3.1                          # BSD
+PyECLib>=1.3.1  # BSD
 pyghmi>=1.0.9  # Apache-2.0
-pyinotify>=0.9.6;sys_platform!='win32' and sys_platform!='darwin' and sys_platform!='sunos5' # MIT
+pyinotify>=0.9.6;sys_platform!='win32' and sys_platform!='darwin' and sys_platform!='sunos5'  # MIT
 PyJWT>=1.0.1  # MIT
 pykmip>=0.5.0  # Apache 2.0 License
-pyldap>=2.4.20 # PSF
+pyldap>=2.4.20  # PSF
 pylxd>=2.1.1  # Apache-2.0
 pymemcache>=1.2.9,!=1.3.0  # Apache 2.0 License
 pymod2pkg>=0.6.1  # Apache-2.0
@@ -171,7 +171,7 @@ python-k8sclient>=0.2.0  # Apache-2.0
 typing>=3.5.2.2  # PSF
 voluptuous>=0.8.9  # BSD License
 vmware-nsxlib>=0.2.0  # Apache-2.0
-pydotplus>=2.0.2   # MIT License
+pydotplus>=2.0.2  # MIT License
 crc16>=0.1.1  # LGPLv3+
 pyzabbix>=0.7.4  # LGPL
 
@@ -210,12 +210,12 @@ python-magnumclient>=2.0.0  # Apache-2.0
 python-manilaclient>=1.10.0  # Apache-2.0
 python-mistralclient>=2.0.0  # Apache-2.0
 python-muranoclient>=0.8.2  # Apache-2.0
-python-monascaclient>=1.1.0 # Apache-2.0
+python-monascaclient>=1.1.0  # Apache-2.0
 python-neutronclient>=5.1.0  # Apache-2.0
 python-novaclient>=2.29.0,!=2.33.0  # Apache-2.0
 python-openstackclient>=3.3.0  # Apache-2.0
 python-saharaclient>=0.18.0  # Apache-2.0
-python-searchlightclient>=1.0.0 #Apache-2.0
+python-searchlightclient>=1.0.0  #Apache-2.0
 python-senlinclient>=0.3.0  # Apache-2.0
 python-smaugclient>=0.0.5  # Apache-2.0
 python-solumclient>=1.2.7  # Apache-2.0
@@ -235,15 +235,15 @@ PyYAML>=3.10.0  # MIT
 qpid-python;python_version=='2.7'  # Apache-2.0
 reno>=1.8.0  # Apache-2.0
 requests>=2.10.0  # Apache-2.0
-requests-aws>=0.1.4    # BSD License (3 clause)
+requests-aws>=0.1.4  # BSD License (3 clause)
 requests-kerberos>=0.6  # ISC
 requestsexceptions>=1.1.1  # Apache-2.0
 rfc3986>=0.2.2  # Apache-2.0
 Routes>=1.12.3,!=2.0,!=2.1,!=2.3.0;python_version=='2.7'  # MIT
 Routes>=1.12.3,!=2.0,!=2.3.0;python_version!='2.7'  # MIT
 rtslib-fb>=2.1.43,!=2.1.60,!=2.1.61  # Apache-2.0
-ryu>=3.30,!=4.1,!=4.2,!=4.2.1,!=4.4 # Apache-2.0
-semantic_version>=2.3.1  # BSD
+ryu>=3.30,!=4.1,!=4.2,!=4.2.1,!=4.4  # Apache-2.0
+semantic-version>=2.3.1  # BSD
 fasteners>=0.7  # Apache-2.0
 simplejson>=2.2.0  # MIT
 six>=1.9.0  # MIT
@@ -253,23 +253,23 @@ SQLAlchemy>=1.0.10,<1.1.0  # MIT
 SQLAlchemy-Utils  # BSD License
 sqlalchemy-migrate>=0.9.6  # Apache-2.0
 stevedore>=1.17.1  # Apache-2.0
-sysv_ipc>=0.6.8  # BSD License
+sysv-ipc>=0.6.8  # BSD License
 suds-jurko>=0.6  # LGPLv3+
 sympy>=0.7.6  # BSD
 taskflow>=1.26.0  # Apache-2.0
 tempest>=12.1.0  # Apache-2.0
 tempest-lib>=0.14.0  # Apache-2.0
-tooz>=1.28.0 # Apache-2.0
+tooz>=1.28.0  # Apache-2.0
 tosca-parser>=0.5.0  # Apache-2.0
 tripleo-common>=5.0.0  # Apache-2.0
 urllib3>=1.15.1  # MIT
-unicodecsv>=0.8.0;python_version<'3.0' # BSD
+unicodecsv>=0.8.0;python_version<'3.0'  # BSD
 warlock>=1.0.1,!=1.3.0,<2  # Apache-2.0
 WebOb>=1.6.0  # MIT
-websocket-client>=0.32.0 # LGPLv2+
+websocket-client>=0.32.0  # LGPLv2+
 websockify>=0.8.0  # LGPLv3
 wheel  # MIT
-PyMI>=1.0.0;sys_platform=='win32' # Apache 2.0 License
+PyMI>=1.0.0;sys_platform=='win32'  # Apache 2.0 License
 wmi;sys_platform=='win32'  # MIT
 WSME>=0.8  # MIT
 xattr>=0.4  # MIT
@@ -277,13 +277,13 @@ XenAPI>=1.2  # LGPL
 XStatic>=1.0.0  # MIT License
 XStatic-Angular>=1.3.7  # MIT License
 XStatic-Angular-Bootstrap>=0.11.0.2  # MIT License
-XStatic-Angular-Gettext>=2.1.0.2 # MIT License
+XStatic-Angular-Gettext>=2.1.0.2  # MIT License
 XStatic-Angular-lrdragndrop>=1.0.2.2  # MIT License
-XStatic-Angular-Schema-Form>=0.8.13.0 # MIT
+XStatic-Angular-Schema-Form>=0.8.13.0  # MIT
 XStatic-angular-ui-router>=0.3.1.2  # MIT
 XStatic-Bootstrap-Datepicker>=1.3.1.0  # Apache 2.0 License
 XStatic-Bootstrap-SCSS>=3.1.1.1  # Apache 2.0 License
-XStatic-bootswatch>=3.3.5.3 # MIT License
+XStatic-bootswatch>=3.3.5.3  # MIT License
 XStatic-D3>=3.1.6.2  # BSD License (3 clause)
 XStatic-Font-Awesome>=4.3.0  # SIL OFL 1.1 License, MIT License
 XStatic-Hogan>=2.0.0.2  # Apache 2.0 License
@@ -295,25 +295,25 @@ XStatic-JQuery.TableSorter>=2.14.5.1  # MIT License
 XStatic-jquery-ui>=1.10.4.1  # MIT License
 XStatic-JSEncrypt>=2.0.0.2  # MIT License
 XStatic-Magic-Search>=0.2.5.1  # Apache 2.0 License
-XStatic-mdi>=1.4.57.0 # SIL OPEN FONT LICENSE Version 1.1
-XStatic-objectpath>=1.2.1.0 # MIT
+XStatic-mdi>=1.4.57.0  # SIL OPEN FONT LICENSE Version 1.1
+XStatic-objectpath>=1.2.1.0  # MIT
 XStatic-Rickshaw>=1.5.0  # BSD License (prior)
-XStatic-roboto-fontface>=0.4.3.2 # Apache 2.0 License
+XStatic-roboto-fontface>=0.4.3.2  # Apache 2.0 License
 XStatic-smart-table>=1.4.5.3,!=1.4.13.0  # MIT License
 XStatic-Spin>=1.2.5.2  # MIT License
-XStatic-term.js>=0.0.4.1 # MIT License
-XStatic-tv4>=1.2.7.0 # MIT
+XStatic-term.js>=0.0.4.1  # MIT License
+XStatic-tv4>=1.2.7.0  # MIT
 XStatic-Angular-FileUpload>=12.0.4.0  # MIT License
 yaql>=1.1.0  # Apache 2.0 License
 
 # Testing tools below, which are typically in test-requires.txt
 
 bandit>=1.1.0  # Apache-2.0
-bashate>=0.2 # Apache-2.0
+bashate>=0.2  # Apache-2.0
 cliff-tablib>=1.0  # Apache-2.0
-couchdb>=0.8 # Apache-2.0
+couchdb>=0.8  # Apache-2.0
 coverage>=4.0  # Apache-2.0
-demjson # GLGPLv3+
+demjson  # GLGPLv3+
 docker-py>=1.6.0,<1.8.0  # Apache-2.0
 discover  # BSD
 django-nose>=1.4.4  # BSD
@@ -321,22 +321,22 @@ doc8  # Apache-2.0
 fixtures>=3.0.0  # Apache-2.0/BSD
 freezegun  # Apache-2.0
 gabbi>=1.26.1  # Apache-2.0
-kafka-python>=0.9.5,<1.0.0 # Apache-2.0
+kafka-python>=0.9.5,<1.0.0  # Apache-2.0
 keyring>=5.5.1  # MIT/PSF
-ldappool>=2.0.0 # MPL
+ldappool>=2.0.0  # MPL
 # Do not make mock conditional on Python version: we depend on newer code than
 # in [most] releases of the Python std library.
 mock>=2.0  # BSD
 mox>=0.5.3  # Apache-2.0
 mox3>=0.7.0  # Apache-2.0
 MySQL-python;python_version=='2.7'  # GPL with FOSS exception
-nodeenv>=0.9.4 # BSD License  # BSD
+nodeenv>=0.9.4  # BSD License  # BSD
 nose  # LGPL
 nose-exclude  # LGPL
 nosehtmloutput>=0.0.3  # Apache-2.0
 nosexcover  # BSD
 openstack-doc-tools>=0.23  # Apache-2.0
-openstack.nose_plugin>=0.7  # Apache-2.0
+openstack.nose-plugin>=0.7  # Apache-2.0
 openstacksdk>=0.9.7  # Apache-2.0
 os-api-ref>=1.0.0  # Apache-2.0
 oslosphinx>=4.7.0  # Apache-2.0
@@ -346,14 +346,14 @@ psycopg2>=2.5  # LGPL/ZPL
 pysendfile>=2.0.0  # MIT
 python-consul>=0.4.7  # MIT License
 python-subunit>=0.0.18  # Apache-2.0/BSD
-python-pytun>=2.2.1 # MIT
-pyzmq>=14.3.1 # LGPL+BSD
+python-pytun>=2.2.1  # MIT
+pyzmq>=14.3.1  # LGPL+BSD
 redis>=2.10.0  # MIT
 hiredis>=0.2.0  # BSD
 requests-mock>=1.1  # Apache-2.0
 tenacity>=3.2.1  # Apache-2.0
-retrying>=1.2.3,!=1.3.0 # Apache-2.0
-spec_cleaner>=0.8.2  # BSD
+retrying>=1.2.3,!=1.3.0  # Apache-2.0
+spec-cleaner>=0.8.2  # BSD
 selenium>=2.50.1  # Apache-2.0
 # While setuptools cannot deal with pre-installed incompatible versions,
 # setting a lower bound is not harmful - it makes error messages cleaner. DO
@@ -361,7 +361,7 @@ selenium>=2.50.1  # Apache-2.0
 # situations as progressive releases of projects are done.
 setuptools>=16.0,!=24.0.0  # PSF/ZPL
 sphinx>=1.2.1,!=1.3b1,<1.4  # BSD
-sphinx-testing # BSD License
+sphinx-testing  # BSD License
 sphinxcontrib-blockdiag  # BSD
 sphinxcontrib-httpdomain  # BSD
 sphinxcontrib-seqdiag  # BSD
@@ -375,13 +375,13 @@ trollius>=1.0  # Apache-2.0
 ujson>=1.35  # BSD
 unittest2  # BSD
 virtualenv  # MIT
-wrapt>=1.7.0 # BSD License
+wrapt>=1.7.0  # BSD License
 WebTest>=2.0  # MIT
 Werkzeug>=0.7  # BSD License
 xmltodict>=0.10.1  # MIT
-wsgi_intercept>=1.4.1 # MIT License
-xvfbwrapper>=0.1.3 #license: MIT
-zake>=0.1.6 # Apache-2.0
+wsgi-intercept>=1.4.1  # MIT License
+xvfbwrapper>=0.1.3  #license: MIT
+zake>=0.1.6  # Apache-2.0
 
 # Pinned requirements
 #
@@ -391,10 +391,10 @@ zake>=0.1.6 # Apache-2.0
 # because they are way too disruptive beyond that. Ideally nothing
 # beyond this list would ever use a ==
 flake8>=2.5.4,<2.6.0  # MIT
-flake8_docstrings==0.2.1.post1  # MIT
+flake8-docstrings==0.2.1.post1  # MIT
 hacking>=0.12.0,<0.13  # Apache-2.0
-mccabe==0.2.1 # MIT License
-pep257==0.7.0 # MIT License
+mccabe==0.2.1  # MIT License
+pep257==0.7.0  # MIT License
 pep8==1.5.7  # MIT
 pyflakes==0.8.1  # MIT
 pylint==1.4.5  # GPLv2
