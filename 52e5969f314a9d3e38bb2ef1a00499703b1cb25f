@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_a6c20751",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-08-30T16:37:22Z",
+      "side": 1,
+      "message": "BTW if it were following semver, new feature should have bumped MINOR and not PATCH version part [1]\n\n[1] http://semver.org/",
+      "range": {
+        "startLine": 9,
+        "startChar": 51,
+        "endLine": 9,
+        "endChar": 75
+      },
+      "revId": "52e5969f314a9d3e38bb2ef1a00499703b1cb25f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
