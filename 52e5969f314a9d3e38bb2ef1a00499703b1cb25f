@@ -22,6 +22,30 @@
       "revId": "52e5969f314a9d3e38bb2ef1a00499703b1cb25f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_dc1a7e7c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2016-08-30T17:33:22Z",
+      "side": 1,
+      "message": "concerns I have with semver (besides that I\u0027d have to make a huge change to my versioning model and get all my users to adjust to it) include: \n\n* At the very least, SQLAlchemy would be at version 11 now, and version 1.0 would have been in 2006 when I had only put about six months of work into it, the project was ridiculously immature, and had at least six or seven full-blown refactorings in its future.   I prefer projects to stay in a \"0.x\" status for several years until they\u0027ve gained enough widespread adoption that they are proven for production use.  \"1.0\" means a lot to people and semver forces you into it an order of magnitude too soon.    Semver\u0027s solution of keeping all changes on minor version while you\u0027re in 0.x.y means SQLAlchemy would have made it to 0.103.0, which lacks critical context that we did major API changes in 0.2.x, 0.3.x, 0.4.x, etc.    I\u0027d like that last digit to be available, basically.\n\n* semver has a rigid notion of \"backwards incompatible\" - any change can be backwards-incompatible, esp. if you have a granular API like that of SQLAlchemy or Alembic.  I almost never add truly \"backwards incompatible\" changes to an API, but for a fine-grained API it is unavoidable that a large portion of improvements will affect someone that was relying on previously undefined, broken, or sub-optimal behavior.   Alembic added the feature of being able to compare INTEGER/BIGINT types distinctly, rather than not being able to tell the difference.  In the vast majority of cases, this is a good thing, but Nova had a rigid requirement on this comparison failing: https://review.openstack.org/#/c/253859/ hence that release broke the world.  My projects would all be at version 425.0.0 if i truly had to do this for every feature that could conceivably surprise a project that was relying on things incorrectly.",
+      "parentUuid": "fa7ab95a_a6c20751",
+      "range": {
+        "startLine": 9,
+        "startChar": 51,
+        "endLine": 9,
+        "endChar": 75
+      },
+      "revId": "52e5969f314a9d3e38bb2ef1a00499703b1cb25f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
