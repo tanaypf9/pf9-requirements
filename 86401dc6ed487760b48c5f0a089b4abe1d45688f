@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_113f56d7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 332,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-31T02:07:24Z",
+      "side": 1,
+      "message": "Invalid constraint for tenacity does not have 3 \"\u003d\": tenacity\u003d\u003d3.0.0\n\nhttp://logs.openstack.org/50/363150/1/check/gate-requirements-tox-validate-ubuntu-xenial/54b32ae/console.html#_2016-08-30_19_19_44_721952",
+      "revId": "86401dc6ed487760b48c5f0a089b4abe1d45688f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
