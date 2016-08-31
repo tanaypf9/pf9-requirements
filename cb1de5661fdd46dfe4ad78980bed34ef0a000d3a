@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_34ed018f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 13
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-08-31T14:27:21Z",
+      "side": 1,
+      "message": "Hold on, it\u0027s breaking the world: https://review.openstack.org/#/c/362991/2",
+      "revId": "cb1de5661fdd46dfe4ad78980bed34ef0a000d3a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
