@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_9c19bd7c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-08-31T02:12:05Z",
+      "side": 1,
+      "message": "+1 to this plan!",
+      "revId": "d1c8c60d6dadebc2ed63d3a306c55a8d9b8d8f79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
