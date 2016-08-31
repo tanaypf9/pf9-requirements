@@ -302,7 +302,7 @@ python-pytun===2.2.1
 python-qpid-proton===0.10
 python-saharaclient===0.18.0
 python-searchlightclient===0.2.1
-python-senlinclient===0.5.0
+python-senlinclient===1.0.0
 python-smaugclient===0.0.5
 python-solumclient===2.0.1
 python-statsd===2.0.0
