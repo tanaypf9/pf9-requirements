@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_1cdd5f70",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:53:37Z",
+      "side": 1,
+      "message": "This is a mitaka release but so is 2.0.0 and the delta is minimal so it shoudl be safe.",
+      "revId": "0b02daafc9abf34b1660396e2854d4a87c55e1b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
