@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_f182a4c7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 291,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:27:18Z",
+      "side": 1,
+      "message": "Sure.  We didn\u0027t get the \u0027new-release\u0027 review due to a misconfiguration in openstack/releases",
+      "revId": "266ebc4469b8125ab429ee722bdc42497a2e350e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_d114c0a0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:27:18Z",
+      "side": 1,
+      "message": "We can\u0027t do this as it breaks Horizon.  Let track it in https://review.openstack.org/#/c/363516/",
+      "revId": "266ebc4469b8125ab429ee722bdc42497a2e350e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_712054f8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 300,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:27:18Z",
+      "side": 1,
+      "message": "Lets track this in https://review.openstack.org/#/c/363542/",
+      "revId": "266ebc4469b8125ab429ee722bdc42497a2e350e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_316dec32",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 304,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:27:18Z",
+      "side": 1,
+      "message": "Sure.  We didn\u0027t get the \u0027new-release\u0027 review due to a misconfiguration in openstack/releases",
+      "revId": "266ebc4469b8125ab429ee722bdc42497a2e350e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_d162003d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-01T03:27:18Z",
+      "side": 1,
+      "message": "Okay this is a bit strange  2.1.0 is a mitaka release and shouldn\u0027t be in newton/master",
+      "revId": "266ebc4469b8125ab429ee722bdc42497a2e350e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
