@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "fa7ab95a_356754b8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2016-09-02T02:28:45Z",
+      "side": 1,
+      "message": "Yeah, good call. Might as well raise it to 1.6.1 since that has other benefits.",
+      "parentUuid": "fa7ab95a_1a2d1fa8",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 26
+      },
+      "revId": "7b4b16d89c79f8a0cca71cad55cf57ba9e32ba43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa7ab95a_3a2ae390",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
