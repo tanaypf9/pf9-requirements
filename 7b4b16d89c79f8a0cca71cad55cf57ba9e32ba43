@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_1a2d1fa8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-02T02:19:28Z",
+      "side": 1,
+      "message": "I think that 1.6.1 is a better default and allows nova and cinder to remove the compatibility with 15.x and 1.6.X",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 26
+      },
+      "revId": "7b4b16d89c79f8a0cca71cad55cf57ba9e32ba43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_3a2ae390",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-02T02:19:28Z",
+      "side": 1,
+      "message": "I\u0027m pretty sure that 1.6.0 will still fail in the nova unit tests\n\nFor instance we\u0027ll still see: http://logs.openstack.org/39/360739/2/check/gate-cross-nova-python27-db-ubuntu-xenial/bb19321/console.html#_2016-08-31_02_20_59_089114\n\nThat can be fixed now that we have os-brick 1.6.1",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 51
+      },
+      "revId": "7b4b16d89c79f8a0cca71cad55cf57ba9e32ba43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
