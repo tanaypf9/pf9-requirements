@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa7ab95a_9164adb9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 211,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-02T07:20:04Z",
+      "side": 0,
+      "message": "We need to keep this around until all projects that use python-smaugclient have been switched to use python-karnborclient in *requirements.txt",
+      "revId": "80bc426daaf4cb05bb3f59c915b0488dcc657252",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa7ab95a_316a0182",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 306,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-02T07:20:04Z",
+      "side": 0,
+      "message": "As with the g-r update we can\u0027t remove this yet.",
+      "revId": "80bc426daaf4cb05bb3f59c915b0488dcc657252",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
