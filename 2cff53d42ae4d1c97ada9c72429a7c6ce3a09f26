@@ -16,6 +16,23 @@
       "revId": "2cff53d42ae4d1c97ada9c72429a7c6ce3a09f26",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_93a3559e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 212,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-09-04T22:36:26Z",
+      "side": 1,
+      "message": "I suppose it doesn\u0027t mater because it\u0027s the first/only version on pypi, but if gr is getting updated anyway...",
+      "revId": "2cff53d42ae4d1c97ada9c72429a7c6ce3a09f26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
