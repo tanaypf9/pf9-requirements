@@ -16,6 +16,24 @@
       "revId": "f8022dfacc77243963d283f4a6e7166894561b8f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_5d1e0164",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 15750
+      },
+      "writtenOn": "2016-09-06T08:46:03Z",
+      "side": 1,
+      "message": "Heh, that\u0027s about the last time I used it ;)",
+      "parentUuid": "9a89bdaa_850d9940",
+      "revId": "f8022dfacc77243963d283f4a6e7166894561b8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
