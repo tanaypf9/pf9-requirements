@@ -22,6 +22,30 @@
       "revId": "ded14156bfca8fe98c58bc3c9ae486aab78838e9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_d531050d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 9555
+      },
+      "writtenOn": "2016-09-06T10:07:25Z",
+      "side": 1,
+      "message": "I can\u0027t, I\u0027m afraid. However, the linked cryptography bug notes (sardonically), that the change was introduced in a security fix. From my personal testing I can confirm that cryptography 1.1.2 does not build against the latest openssl. This is going to affect anybody who stays on top of openssl patches, which is hopefully everybody :)",
+      "parentUuid": "9a89bdaa_34f24170",
+      "range": {
+        "startLine": 13,
+        "startChar": 9,
+        "endLine": 13,
+        "endChar": 66
+      },
+      "revId": "ded14156bfca8fe98c58bc3c9ae486aab78838e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
