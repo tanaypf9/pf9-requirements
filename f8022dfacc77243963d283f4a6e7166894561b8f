@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_850d9940",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-09-06T07:29:34Z",
+      "side": 1,
+      "message": "fyi SuSE was renamed to SUSE 11 years ago.. ;-)",
+      "revId": "f8022dfacc77243963d283f4a6e7166894561b8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
