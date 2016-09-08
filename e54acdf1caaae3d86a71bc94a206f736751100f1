@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_7384560a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 6
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-09-08T08:48:40Z",
+      "side": 1,
+      "message": "Well, any older version of the library fails with the pymysql release, so are we going to block everything below that point? I would say, we then need to bump minimal version to 4.13.3 once it\u0027s released.",
+      "revId": "e54acdf1caaae3d86a71bc94a206f736751100f1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
