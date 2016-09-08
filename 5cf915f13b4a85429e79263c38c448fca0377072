@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_3bb28ee5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-09-08T14:32:45Z",
+      "side": 1,
+      "message": "it\u0027s needed ONLY when pymysql 0.7.7 is used (currently blocked). Otherwise we should only block .1 and .2.",
+      "revId": "5cf915f13b4a85429e79263c38c448fca0377072",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
