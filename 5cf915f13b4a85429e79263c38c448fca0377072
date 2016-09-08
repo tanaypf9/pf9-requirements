@@ -16,6 +16,23 @@
       "revId": "5cf915f13b4a85429e79263c38c448fca0377072",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_bb1a1ec4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-09-08T14:34:26Z",
+      "side": 1,
+      "message": "I had the pymysql unblocking patch depend on this so 0.7.7 can be allowed",
+      "revId": "5cf915f13b4a85429e79263c38c448fca0377072",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
