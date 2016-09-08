@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a89bdaa_2e88a570",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-09-08T09:01:23Z",
+      "side": 1,
+      "message": "You then must also bump the minimal version of oslo.db to 4.13.3+ here, because all releases before 4.13.1 are known to be broken by pymyql 0.7.7, and 4.13.[12] releases are breaking gnocchi.",
+      "revId": "25c2b0d06872aa852cfd968e45fd0cf734c01b16",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
