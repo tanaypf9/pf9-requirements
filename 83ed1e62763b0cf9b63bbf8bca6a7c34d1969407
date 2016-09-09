@@ -16,6 +16,24 @@
       "revId": "83ed1e62763b0cf9b63bbf8bca6a7c34d1969407",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a89bdaa_9aad018b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 268,
+      "author": {
+        "id": 11536
+      },
+      "writtenOn": "2016-09-09T20:21:50Z",
+      "side": 1,
+      "message": "I changed it according to the result of:\n$ generate-constraints -p /usr/bin/python2.7 -p /usr/bin/python3 \\\n  -b blacklist.txt -r global-requirements.txt \u003e baseline\n$ generate-constraints -p /usr/bin/python2.7 -p /usr/bin/python3 \\\n  -b blacklist.txt -r global-requirements.txt \u003e updated\n$ diff -p baseline updated\n\nIf you are sure this is unrelated, I can remove it.",
+      "parentUuid": "9a89bdaa_da5a9cf1",
+      "revId": "83ed1e62763b0cf9b63bbf8bca6a7c34d1969407",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
