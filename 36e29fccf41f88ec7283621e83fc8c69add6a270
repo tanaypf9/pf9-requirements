@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_d86275ad",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-09-13T19:23:28Z",
+      "side": 1,
+      "message": "Taking into account what was actually released, this could be simplified to keystonemiddleware\u003e\u003d4.2.0,!\u003d4.5.0\nor even keystonemiddleware\u003e\u003d4.9.0 to ensure latest stable/newton release?",
+      "revId": "36e29fccf41f88ec7283621e83fc8c69add6a270",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
