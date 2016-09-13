@@ -16,6 +16,24 @@
       "revId": "36e29fccf41f88ec7283621e83fc8c69add6a270",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_18721de6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2016-09-13T19:37:07Z",
+      "side": 1,
+      "message": "i\u0027m good with keystonemiddleware\u003e\u003d4.2.0,!\u003d4.5.0",
+      "parentUuid": "7a8ec9b2_d86275ad",
+      "revId": "36e29fccf41f88ec7283621e83fc8c69add6a270",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
