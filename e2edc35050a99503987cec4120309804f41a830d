@@ -39,6 +39,24 @@
       "revId": "e2edc35050a99503987cec4120309804f41a830d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_2f647c20",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-09-15T14:16:00Z",
+      "side": 1,
+      "message": "This is just FYI for requirements reviewers, we have the bug tag on the dependent nova change.",
+      "parentUuid": "7a8ec9b2_2f89dc26",
+      "revId": "e2edc35050a99503987cec4120309804f41a830d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
