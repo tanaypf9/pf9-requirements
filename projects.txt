@@ -32,7 +32,6 @@ openstack/fuxi
 openstack/gce-api
 openstack/glance
 openstack/glance_store
-openstack/gluon
 openstack/heat
 openstack/heat-translator
 openstack/horizon
