@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_b744731b",
+        "filename": "requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-21T02:43:59Z",
+      "side": 1,
+      "message": "No this are managed by the bot/other tools.  This will break them",
+      "revId": "3be6cae6efbee4abbbfad86caf2b742b46770562",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_d74bbf29",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-21T02:43:59Z",
+      "side": 1,
+      "message": "No this are managed by the bot/other tools.  This will break them",
+      "revId": "3be6cae6efbee4abbbfad86caf2b742b46770562",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
