@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_e328cf35",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-09-21T15:10:30Z",
+      "side": 1,
+      "message": "this (docker-pycreds) is not tracked in global requirements, not so sure about that...",
+      "revId": "ecdbd1a6e90360f08680f4bba06671fd6203dd47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
