@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_9a3b1eeb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-21T03:29:00Z",
+      "side": 1,
+      "message": "Since this is a new tools why not just start with 0.2.0 as the minimum",
+      "range": {
+        "startLine": 89,
+        "startChar": 18,
+        "endLine": 89,
+        "endChar": 23
+      },
+      "revId": "be28274987da5a3eea95176b6c4eecaa0785a5f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
