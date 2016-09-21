@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a8ec9b2_752663bb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-21T03:35:56Z",
+      "side": 1,
+      "message": "If this came from OpenStack code it\u0027d be great to get this back on OpenStack infrastructure as seperate repo.  But that wont hold up inclusion",
+      "range": {
+        "startLine": 18,
+        "startChar": 14,
+        "endLine": 18,
+        "endChar": 57
+      },
+      "revId": "4d5c22cc0c33e3108492cd349a83a273b8ac2714",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_555ec712",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-21T03:35:56Z",
+      "side": 1,
+      "message": "This already merged.",
+      "range": {
+        "startLine": 48,
+        "startChar": 2,
+        "endLine": 48,
+        "endChar": 43
+      },
+      "revId": "4d5c22cc0c33e3108492cd349a83a273b8ac2714",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
