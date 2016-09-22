@@ -68,7 +68,8 @@ UPDATE="$tmpdir/all_requirements/bin/update-requirements"
 # that is being proposed.
 $tmpdir/all_requirements/bin/generate-constraints -p /usr/bin/python2.7 \
     -p /usr/bin/python3 -b $REPODIR/requirements/blacklist.txt \
-    -r $REPODIR/requirements/global-requirements.txt
+    -r $REPODIR/requirements/global-requirements.txt \
+    --version-map 3.5:3.4 --version-map 3.4:3.5
 
 for PROJECT in $PROJECTS ; do
     SHORT_PROJECT=$(basename $PROJECT)
