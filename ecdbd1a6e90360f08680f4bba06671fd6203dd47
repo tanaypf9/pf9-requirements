@@ -16,6 +16,24 @@
       "revId": "ecdbd1a6e90360f08680f4bba06671fd6203dd47",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a8ec9b2_a6231cbc",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T00:16:18Z",
+      "side": 1,
+      "message": "It doesn\u0027t need to be.  It\u0027s a requirement of the new docker-py version.\n\nIt\u0027s analogous to python-nss appearing when we added dogtag-pki",
+      "parentUuid": "7a8ec9b2_e328cf35",
+      "revId": "ecdbd1a6e90360f08680f4bba06671fd6203dd47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
