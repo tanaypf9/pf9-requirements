@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_c6b9b3ee",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 0,
+      "message": "We need this.  We\u0027ll have to manually put them back until we can solve the 3 pythons issue",
+      "revId": "d2d49b2e92e5c4ca51f9d111202ed26ec5e170b6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_e6beafd3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 236,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 0,
+      "message": "We need this.  We\u0027ll have to manually put them back until we can solve the 3 pythons issue",
+      "revId": "d2d49b2e92e5c4ca51f9d111202ed26ec5e170b6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

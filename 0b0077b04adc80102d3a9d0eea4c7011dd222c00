@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_c678d3fb",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 1,
+      "message": "+1 from the DIB team (on IRC)",
+      "revId": "0b0077b04adc80102d3a9d0eea4c7011dd222c00",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_86db2b1b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 1,
+      "message": "This shoudl be taken via: https://review.openstack.org/#/c/373506/",
+      "revId": "0b0077b04adc80102d3a9d0eea4c7011dd222c00",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_869fab5e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 1,
+      "message": "This is needed by the senlin gate but we shoudl get it via https://review.openstack.org/#/c/374469/",
+      "revId": "0b0077b04adc80102d3a9d0eea4c7011dd222c00",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_263a5737",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 1,
+      "message": "Hmm interesting why did we not get the automatic constraint bump",
+      "revId": "0b0077b04adc80102d3a9d0eea4c7011dd222c00",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_663c5f30",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 378,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-22T08:33:50Z",
+      "side": 1,
+      "message": "Hmm interesting why did we not get the automatic constraint bump",
+      "revId": "0b0077b04adc80102d3a9d0eea4c7011dd222c00",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
