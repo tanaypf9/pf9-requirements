@@ -22,6 +22,30 @@
       "revId": "be28274987da5a3eea95176b6c4eecaa0785a5f6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_353264f2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 9377
+      },
+      "writtenOn": "2016-09-22T15:30:38Z",
+      "side": 1,
+      "message": "Basically, as a developer of this tool I can release it with any version) I tested integration with murano on version 0.1.1 and I\u0027m sure that it works fine",
+      "parentUuid": "7a8ec9b2_9a3b1eeb",
+      "range": {
+        "startLine": 89,
+        "startChar": 18,
+        "endLine": 89,
+        "endChar": 23
+      },
+      "revId": "be28274987da5a3eea95176b6c4eecaa0785a5f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
