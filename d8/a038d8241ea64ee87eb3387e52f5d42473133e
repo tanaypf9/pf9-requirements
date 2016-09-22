@@ -1,0 +1,10 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 22 Sep 2016 20:04:56 +0000
+Reviewed-on: https://review.openstack.org/373276
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
