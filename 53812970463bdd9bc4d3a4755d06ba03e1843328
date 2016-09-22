@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_06f800e5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-09-22T06:25:01Z",
+      "side": 1,
+      "message": "Can you add a Related-bug: entry here?",
+      "revId": "53812970463bdd9bc4d3a4755d06ba03e1843328",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
