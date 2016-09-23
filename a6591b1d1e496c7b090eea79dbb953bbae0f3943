@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_aa07cb1a",
+        "filename": "openstack_requirements/project.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-23T07:18:59Z",
+      "side": 1,
+      "message": "We should look at exactly what \u0027Safe\u0027 gives us and decide if we can just risk it and use ConfigParser in both py2 and py3",
+      "revId": "a6591b1d1e496c7b090eea79dbb953bbae0f3943",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
