@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_5dee1c8c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 21648
+      },
+      "writtenOn": "2016-09-23T02:34:09Z",
+      "side": 1,
+      "message": "I think you\u0027d better list some cases, like https://review.openstack.org/#/c/360177/",
+      "range": {
+        "startLine": 20,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 15
+      },
+      "revId": "5b28a61809ee5fcca54c9097078674fb0895136a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
