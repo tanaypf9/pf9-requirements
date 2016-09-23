@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_de45bcb3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-23T07:38:18Z",
+      "side": 0,
+      "message": "manual fix needed :(",
+      "revId": "b3b2e65fa4eb508fa6ab316a6dcce3f2c6743e89",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_be4ab0c3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 236,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-23T07:38:18Z",
+      "side": 0,
+      "message": "manual fix needed :(",
+      "revId": "b3b2e65fa4eb508fa6ab316a6dcce3f2c6743e89",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
