@@ -195,6 +195,7 @@ notifier===1.0.3
 numpy===1.11.1
 oauth2client===3.0.0
 oauthlib===2.0.0
+ofpstr===0.2.0
 openstack-doc-tools===1.1.0
 openstack.nose-plugin===0.11
 openstackdocstheme===1.5.0
