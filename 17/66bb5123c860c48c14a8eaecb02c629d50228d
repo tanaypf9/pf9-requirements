@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Wang Hui <wanghui71@huawei.com>
+Code-Review+1: lichunyu <li.chunyu@eisoo.com>
+Code-Review+1: zhangshuai <446077695@qq.com>
+Code-Review+1: 黄振 <huangzhen@awcloud.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 26 Sep 2016 11:26:56 +0000
+Reviewed-on: https://review.openstack.org/375191
+Project: openstack/requirements
+Branch: refs/heads/master
