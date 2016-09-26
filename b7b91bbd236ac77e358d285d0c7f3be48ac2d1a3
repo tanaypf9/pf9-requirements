@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_ddb730f3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-09-26T09:45:41Z",
+      "side": 1,
+      "message": "FYI, you can parse on-wire messages with ryu:\n\n  from ryu.ofproto import ofproto_parser\n  from ryu.ofproto import ofproto_protocol\n\n  (version, msg_type, msg_len, xid) \u003d ofproto_parser.header(wire_msg)\n  dp \u003d ofproto_protocol.ProtocolDesc(version\u003dversion)\n  msg \u003d ofproto_parser.msg(dp, version, msg_type, msg_len, xid, wire_msg)\n  print msg\n  print msg.to_jsondict()",
+      "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
