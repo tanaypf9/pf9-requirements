@@ -70,6 +70,24 @@
       "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_f6177842",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11159
+      },
+      "writtenOn": "2016-09-27T01:43:54Z",
+      "side": 1,
+      "message": "Yes, for now, we just wan to parse the error message in the OFPErrorMsg",
+      "parentUuid": "5a8bc5a2_3331f25a",
+      "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
