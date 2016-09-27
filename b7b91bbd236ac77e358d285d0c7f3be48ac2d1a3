@@ -34,6 +34,24 @@
       "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_73345bfb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-09-27T01:07:58Z",
+      "side": 1,
+      "message": "parser of some of controller-to-switch messages are not implemented in ryu, as it mainly aims for the controller side implementation. (vs switch side)\nso you\u0027re right, it doesn\u0027t suite for your purpose. (pretty print \"data\" in error message)",
+      "parentUuid": "5a8bc5a2_66404035",
+      "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
