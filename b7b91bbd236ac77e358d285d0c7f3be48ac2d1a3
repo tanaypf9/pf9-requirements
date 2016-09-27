@@ -106,6 +106,24 @@
       "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_d6927cf5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6854
+      },
+      "writtenOn": "2016-09-27T02:16:39Z",
+      "side": 1,
+      "message": "toshihiro,\n\ni don\u0027t remember but it sounds plausible.",
+      "parentUuid": "5a8bc5a2_f6ecd8bc",
+      "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
