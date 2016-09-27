@@ -88,6 +88,24 @@
       "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a8bc5a2_f6ecd8bc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 9200
+      },
+      "writtenOn": "2016-09-27T02:05:25Z",
+      "side": 1,
+      "message": "\u003e parser of some of controller-to-switch messages are not implemented in ryu\n\nIt seems wire_msg is truncated at 64 bytes (see openflow-spec-v1.3.2 page 97), all ryu needs might be a nice error handling. Do you remember, Yamamoto-san?",
+      "parentUuid": "5a8bc5a2_73345bfb",
+      "revId": "b7b91bbd236ac77e358d285d0c7f3be48ac2d1a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
