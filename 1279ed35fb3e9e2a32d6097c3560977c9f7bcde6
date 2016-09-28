@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_c0d7b7bd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-28T11:40:53Z",
+      "side": 1,
+      "message": "This justification is now only partially true.  We\u0027re switching from SafeConfigParser to ConfigParser because we\u0027re we\u0027re not explicitly using the \u0027Safe\u0027 functionality. So it make the code potentially neater if SafeConfigParser is even de-aliased in python3",
+      "revId": "1279ed35fb3e9e2a32d6097c3560977c9f7bcde6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
