@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_3a87bfd8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 10881
+      },
+      "writtenOn": "2016-09-28T03:31:19Z",
+      "side": 1,
+      "message": "This change reverts a patch.  See http://git.openstack.org/cgit/openstack/django_openstack_auth/commit/?id\u003d55ebf6b792571709f292cdb0d3dac228680b1961\n\nI don\u0027t (yet) know why this is required, but will keep digging.",
+      "range": {
+        "startLine": 110,
+        "startChar": 28,
+        "endLine": 110,
+        "endChar": 29
+      },
+      "revId": "37ed9498c18d528354274ebce8d5cd15120978de",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
