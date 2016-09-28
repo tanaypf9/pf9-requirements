@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a8bc5a2_97c9895d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-09-28T06:12:51Z",
+      "side": 1,
+      "message": "python-k8sclient is an OpenStack project.  Rather than walk awaty from it it\u0027s a much better idea to work on it.  If python-k8sclient really cannot be made to work for fuel-cpp and that\u0027s been disscussed in the community then we can look at taking this.\n\nAnother option would be that python-k8sclient could be a user of pykube, but aagin that needs to be discussed in the community.",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 41,
+        "endChar": 10
+      },
+      "revId": "92a2ea7f0e3493abe38c9aafc43a5fb28ef69ee8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
