@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_7b1669f2",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-09-29T17:09:32Z",
+      "side": 1,
+      "message": "I\u0027d appreciate it if you added \u0027dev-libs/liberasurecode [platform:gentoo]\u0027 as well",
+      "revId": "21f8f5c7d364380c3dcd49749add78d4bd2953b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
