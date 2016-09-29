@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 29 Sep 2016 13:21:09 +0000
+Reviewed-on: https://review.openstack.org/378734
+Project: openstack/requirements
+Branch: refs/heads/master
