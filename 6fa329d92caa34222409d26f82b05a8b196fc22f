@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_3a921fa0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 329,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-09-29T16:13:51Z",
+      "side": 1,
+      "message": "Great that you spotted a bug, but this is imho exactly the wrong fix. The #BSD License part should be removed instead.\n\nThis looks like a bug in our validate check, if you can fix that there it would even be better.",
+      "revId": "6fa329d92caa34222409d26f82b05a8b196fc22f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
