@@ -22,6 +22,24 @@
       "revId": "14a9b9772b0b1ba2f2151d09e3a3fcbb3e014d90",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_3df632f9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-02T18:59:56Z",
+      "side": 0,
+      "message": "we can add back the 2.7, although I don\u0027t see why it would make a difference. \n\nPlease note that those are two different packages, dnspython and dnspython3",
+      "parentUuid": "3a98d1f4_a24781ba",
+      "revId": "14a9b9772b0b1ba2f2151d09e3a3fcbb3e014d90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
