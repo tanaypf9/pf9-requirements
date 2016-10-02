@@ -1,0 +1,14 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Michal Jastrzebski (inc0) <michal.jastrzebski@intel.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: zhubingbing <1392607554@qq.com>
+Code-Review+1: Steven Dake <stdake@cisco.com>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 02 Oct 2016 20:10:05 +0000
+Reviewed-on: https://review.openstack.org/366948
+Project: openstack/requirements
+Branch: refs/heads/master
