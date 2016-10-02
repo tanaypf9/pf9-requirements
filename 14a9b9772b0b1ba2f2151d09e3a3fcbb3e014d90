@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_a24781ba",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2016-10-02T16:33:08Z",
+      "side": 0,
+      "message": "it\u0027s no 1.15.0 for both python2 and 3, do you want to remove the duplication? Or add back 2.7?",
+      "range": {
+        "startLine": 113,
+        "startChar": 18,
+        "endLine": 113,
+        "endChar": 40
+      },
+      "revId": "14a9b9772b0b1ba2f2151d09e3a3fcbb3e014d90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
