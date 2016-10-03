@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3a98d1f4_e280858d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-03T17:19:32Z",
+      "side": 1,
+      "message": "Sphinx 1.3.x",
+      "parentUuid": "3a98d1f4_3629d38a",
+      "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a98d1f4_562c9f98",
         "filename": "upper-constraints.txt",
         "patchSetId": 7
@@ -30,6 +48,24 @@
       "writtenOn": "2016-10-03T15:51:22Z",
       "side": 1,
       "message": "and this",
+      "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_a27afdba",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-03T17:19:32Z",
+      "side": 1,
+      "message": "dependency of sphinxmark 0.1.14",
+      "parentUuid": "3a98d1f4_562c9f98",
       "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "3a98d1f4_a28cbdda",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-03T17:19:32Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a98d1f4_761fdb5a",
+      "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a98d1f4_9622a7a1",
         "filename": "upper-constraints.txt",
         "patchSetId": 7
@@ -70,6 +124,24 @@
     },
     {
       "key": {
+        "uuid": "3a98d1f4_e2fb2545",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-03T17:19:32Z",
+      "side": 1,
+      "message": "Sphinx 1.3.x  - should have been in the uncapping sphinx review instead. I think this needs to be a jenkins job :(",
+      "parentUuid": "3a98d1f4_9622a7a1",
+      "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3a98d1f4_b63de3c5",
         "filename": "upper-constraints.txt",
         "patchSetId": 7
@@ -81,6 +153,24 @@
       "writtenOn": "2016-10-03T15:51:22Z",
       "side": 1,
       "message": "and this?",
+      "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_2298ad1b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 360,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-03T17:19:32Z",
+      "side": 1,
+      "message": "Sphinx 1.3.x",
+      "parentUuid": "3a98d1f4_b63de3c5",
       "revId": "2552827dc15e5885762242c1217261b0e1c15f4c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
