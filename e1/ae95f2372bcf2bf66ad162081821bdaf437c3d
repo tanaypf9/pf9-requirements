@@ -1,0 +1,9 @@
+Code-Review+1: Sylvain Bauza <sbauza@redhat.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 03 Oct 2016 13:31:35 +0000
+Reviewed-on: https://review.openstack.org/381039
+Project: openstack/requirements
+Branch: refs/heads/stable/liberty
