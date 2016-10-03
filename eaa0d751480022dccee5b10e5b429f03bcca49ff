@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_ae2f6a86",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-03T00:08:55Z",
+      "side": 1,
+      "message": "+1",
+      "revId": "eaa0d751480022dccee5b10e5b429f03bcca49ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_ce4e766e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-03T00:08:55Z",
+      "side": 1,
+      "message": "+1\n\nI\u0027m leaning towards doing this change in a separate review so we can communicate effectively with affected parties *and* have a really easy wa to rollback if 1.15.0 is broken.\n\nWe *should* not alter g-r until we\u0027re confident 1.15.0 is good",
+      "revId": "eaa0d751480022dccee5b10e5b429f03bcca49ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

@@ -40,6 +40,24 @@
       "revId": "14a9b9772b0b1ba2f2151d09e3a3fcbb3e014d90",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_0e6cdece",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-03T00:08:55Z",
+      "side": 0,
+      "message": "Now that dnspython supports both py2 and py3 in a single install we want dnspython wo be installable on both and dnspython3 only on 3.4 and 3.5 *while we transition*  Once designate and swift have updated requirements.txt to only mention dnspython we can remove dnspython3 altoigether",
+      "parentUuid": "3a98d1f4_3df632f9",
+      "revId": "14a9b9772b0b1ba2f2151d09e3a3fcbb3e014d90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
