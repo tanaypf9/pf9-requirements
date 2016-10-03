@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_a8b81f2b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-10-03T17:24:27Z",
+      "side": 1,
+      "message": "how do we feel about the case change here?",
+      "revId": "5e68f353c9ba8a530537bfad38065d19053394fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
