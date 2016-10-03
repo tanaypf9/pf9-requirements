@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_4e98a6c0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-03T00:10:33Z",
+      "side": 1,
+      "message": "I believe that PS2 was correct we don\u0027t want this as it makes it impossible to transition python3 requirements to the \"base\" version",
+      "range": {
+        "startLine": 114,
+        "startChar": 18,
+        "endLine": 114,
+        "endChar": 40
+      },
+      "revId": "df4aa2e12854a1a75a69451161286638f745fca9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
