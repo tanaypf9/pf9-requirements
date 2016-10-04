@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_14575dca",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-04T01:42:52Z",
+      "side": 1,
+      "message": "This is bumping the minimum by stealth which we can\u0027t do.\n\nFor better or worse the minimum supported version of os-testr on newton is 0.7.0\n\nWe have the ability to to bump the minimum version for a critcal security bug but that\u0027s unlikely in this case",
+      "revId": "765769b41a5d4e976f516d0a160f11f597c02255",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a98d1f4_74f7c1d2",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-04T01:42:52Z",
+      "side": 1,
+      "message": "+1",
+      "revId": "765769b41a5d4e976f516d0a160f11f597c02255",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
