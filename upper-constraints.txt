@@ -332,7 +332,7 @@ redis===2.10.5
 reno===1.8.0
 repoze.lru===0.6
 repoze.who===2.3
-requests===2.11.1
+requests===2.10.0
 requests-aws===0.1.8
 requests-kerberos===0.10.0
 requests-mock===1.1.0
