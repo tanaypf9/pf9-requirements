@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a98d1f4_5f572f26",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 234,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-04T11:59:41Z",
+      "side": 1,
+      "message": "please add caps after the min version",
+      "revId": "a96894b1feb2601e8fee95159f4faca6de594174",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
