@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a95cdbc_85722f7b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-05T00:11:00Z",
+      "side": 1,
+      "message": "This part will be handled by the release team via an automated tool",
+      "revId": "7821a6d46d054092be4e84aeb57ab97a0b0355d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
