@@ -1,0 +1,9 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 05 Oct 2016 13:25:07 +0000
+Reviewed-on: https://review.openstack.org/382188
+Project: openstack/requirements
+Branch: refs/heads/master
