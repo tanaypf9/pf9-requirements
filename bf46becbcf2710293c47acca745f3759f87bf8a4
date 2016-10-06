@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a95cdbc_749bdc72",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 329,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-06T01:43:06Z",
+      "side": 0,
+      "message": "As dirk says.  This is the hunk that shoudl be removed.  \u0027BSD License\u0027 may be more correct but for better or worse the std. in this file is \u0027BSD\u0027",
+      "range": {
+        "startLine": 329,
+        "startChar": 15,
+        "endLine": 329,
+        "endChar": 30
+      },
+      "revId": "bf46becbcf2710293c47acca745f3759f87bf8a4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

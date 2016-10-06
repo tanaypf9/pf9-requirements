@@ -16,6 +16,24 @@
       "revId": "6fa329d92caa34222409d26f82b05a8b196fc22f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a95cdbc_3478742b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 329,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-06T01:43:06Z",
+      "side": 1,
+      "message": "A quick check shows this is the only instance of that particular bug:\n\n balder:requirements tony8129$ git grep -E \u0027.*#.+#\u0027 origin/master -- global-requirements.txt\n origin/master:global-requirements.txt:7:astroid\u003c1.4.0  # LGPLv2.1 # breaks pylint 1.4.4\n origin/master:global-requirements.txt:329:nodeenv\u003e\u003d0.9.4 # BSD License  # BSD",
+      "parentUuid": "3a98d1f4_3a921fa0",
+      "revId": "6fa329d92caa34222409d26f82b05a8b196fc22f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
