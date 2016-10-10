@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_3dcb5b74",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-10T19:31:31Z",
+      "side": 1,
+      "message": "\u003e\u003d 0.1.0",
+      "revId": "c04b656d9d1c7d6b56dd0a11b9e085f6a156a9d7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_9da0e7a7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 400,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-10T19:31:31Z",
+      "side": 1,
+      "message": "0.1.0",
+      "revId": "c04b656d9d1c7d6b56dd0a11b9e085f6a156a9d7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
