@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_85476c1c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-12T03:45:39Z",
+      "side": 0,
+      "message": "Interesting",
+      "revId": "9bea042ff66a101713d44425af018756bb8c854f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_c55164da",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-12T03:45:39Z",
+      "side": 0,
+      "message": "Also interesting",
+      "revId": "9bea042ff66a101713d44425af018756bb8c854f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
