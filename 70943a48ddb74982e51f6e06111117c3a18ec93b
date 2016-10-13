@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_07ba390a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 22837
+      },
+      "writtenOn": "2016-10-13T12:09:07Z",
+      "side": 1,
+      "message": "Is this really needed?",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 68
+      },
+      "revId": "70943a48ddb74982e51f6e06111117c3a18ec93b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
