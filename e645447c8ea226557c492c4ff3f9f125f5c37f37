@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_4d6140d2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 18893
+      },
+      "writtenOn": "2016-10-17T13:21:35Z",
+      "side": 1,
+      "message": "Nit: add a closing quote after \"typing\".",
+      "revId": "e645447c8ea226557c492c4ff3f9f125f5c37f37",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
