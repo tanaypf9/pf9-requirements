@@ -1,0 +1,11 @@
+Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Chuck Short <chuck.short@canonical.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Oct 2016 04:02:09 +0000
+Reviewed-on: https://review.openstack.org/384745
+Project: openstack/requirements
+Branch: refs/heads/master
