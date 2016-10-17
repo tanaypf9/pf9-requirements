@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: afazekas <afazekas@redhat.com>
+Workflow+1: Chuck Short <chuck.short@canonical.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 17 Oct 2016 18:34:17 +0000
+Reviewed-on: https://review.openstack.org/380055
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
