@@ -49,6 +49,24 @@
     },
     {
       "key": {
+        "uuid": "fa6399be_25ca20a2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-10-18T20:06:54Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa6399be_a2fc663f",
+      "revId": "1edea54e047a515df83a53879f297e61c120d504",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa6399be_85123357",
         "filename": "tox.ini",
         "patchSetId": 2
