@@ -39,6 +39,24 @@
       "revId": "1edea54e047a515df83a53879f297e61c120d504",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_c548abcf",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-18T01:56:24Z",
+      "side": 1,
+      "message": "Yup pretty much.\n\nOn master we dup\u0027d it in https://review.openstack.org/#/c/378728/ then fixed up project-config in https://review.openstack.org/#/c/378732/ and then removed the dupe in https://review.openstack.org/#/c/378732/\n\nWe messed up and didn\u0027t block the project-config change until the we\u0027d landed the dupe on stable/.*  So now the new job is failing with:\n\nhttp://logs.openstack.org/98/379198/2/check/gate-requirements-tox-py27-check-uc-ubuntu-xenial/e9da70a/console.html.gz#_2016-10-04_14_21_11_077923\n\nWe\u0027d really like to make it voting so we need to make sure that the target exists on all branches.",
+      "parentUuid": "fa6399be_85123357",
+      "revId": "1edea54e047a515df83a53879f297e61c120d504",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
