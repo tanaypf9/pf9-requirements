@@ -22,6 +22,23 @@
       "revId": "1edea54e047a515df83a53879f297e61c120d504",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_85123357",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-10-18T01:22:01Z",
+      "side": 1,
+      "message": "Why do we rename this on stable but on master it\u0027s a copy of an existing target but with the shorter name? Straddling project names in project-config while removing the older longer name on master?",
+      "revId": "1edea54e047a515df83a53879f297e61c120d504",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
