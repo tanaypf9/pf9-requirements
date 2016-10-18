@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "fa6399be_a2fc663f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2016-10-18T19:55:51Z",
+      "side": 1,
+      "message": "This looks indeed wrong. Dirk, can you double check and fix, please?",
+      "parentUuid": "fa6399be_5211c35c",
+      "range": {
+        "startLine": 15,
+        "startChar": 27,
+        "endLine": 15,
+        "endChar": 67
+      },
+      "revId": "1edea54e047a515df83a53879f297e61c120d504",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa6399be_85123357",
         "filename": "tox.ini",
         "patchSetId": 2
