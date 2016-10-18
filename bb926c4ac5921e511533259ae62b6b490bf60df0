@@ -1,0 +1,96 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_eb78f9fa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-10-18T21:30:38Z",
+      "side": 1,
+      "message": "So this is https://review.openstack.org/#/c/378728/",
+      "range": {
+        "startLine": 14,
+        "startChar": 27,
+        "endLine": 14,
+        "endChar": 67
+      },
+      "revId": "bb926c4ac5921e511533259ae62b6b490bf60df0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_4b8645dc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-10-18T21:30:38Z",
+      "side": 1,
+      "message": "And this is: https://review.openstack.org/#/c/378734/",
+      "range": {
+        "startLine": 15,
+        "startChar": 27,
+        "endLine": 15,
+        "endChar": 67
+      },
+      "revId": "bb926c4ac5921e511533259ae62b6b490bf60df0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_cbe09599",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-10-18T21:30:38Z",
+      "side": 1,
+      "message": "I0927ae81148d15256bd4dfe2a5e48b1819bbe2af",
+      "range": {
+        "startLine": 17,
+        "startChar": 19,
+        "endLine": 17,
+        "endChar": 60
+      },
+      "revId": "bb926c4ac5921e511533259ae62b6b490bf60df0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa6399be_abe521a9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2016-10-18T21:30:38Z",
+      "side": 1,
+      "message": "https://review.openstack.org/#/c/378734/",
+      "range": {
+        "startLine": 18,
+        "startChar": 11,
+        "endLine": 18,
+        "endChar": 52
+      },
+      "revId": "bb926c4ac5921e511533259ae62b6b490bf60df0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
