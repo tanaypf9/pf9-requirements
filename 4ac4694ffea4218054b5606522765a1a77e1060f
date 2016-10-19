@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa6399be_dd585459",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-10-19T04:43:32Z",
+      "side": 1,
+      "message": "MIke?  Can you explain where this will be used?  Ideally with a pointer to a change that depends on this one but that\u0027s optional",
+      "range": {
+        "startLine": 32,
+        "startChar": 4,
+        "endLine": 32,
+        "endChar": 37
+      },
+      "revId": "4ac4694ffea4218054b5606522765a1a77e1060f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
