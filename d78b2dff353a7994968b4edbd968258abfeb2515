@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5da102_4c921f59",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2016-10-26T09:01:43Z",
+      "side": 1,
+      "message": "You\u0027ll have to update the constraints list, too.",
+      "revId": "d78b2dff353a7994968b4edbd968258abfeb2515",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
