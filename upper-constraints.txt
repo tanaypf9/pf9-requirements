@@ -3,7 +3,7 @@ Babel===2.3.4
 CouchDB===1.1
 Django===1.8.15
 Flask===0.11.1
-GitPython===2.0.9
+GitPython===2.1.0
 Jinja2===2.8
 Mako===1.0.4
 MarkupSafe===0.23
@@ -11,7 +11,7 @@ MySQL-python===1.2.5;python_version=='2.7'
 Parsley===1.3
 Paste===2.0.3
 PasteDeploy===1.5.2
-Pillow===3.4.1
+Pillow===3.4.2
 Pint===0.7.2
 PuLP===1.6.1
 PyJWT===1.4.2
@@ -76,7 +76,7 @@ beautifulsoup4===4.5.1
 betamax===0.8.0
 blockdiag===1.5.3
 boto===2.43.0
-botocore===1.4.63
+botocore===1.4.67
 bottle===0.12.10
 cachetools===2.0.0
 cassandra-driver===3.7.0
@@ -159,7 +159,7 @@ jsonpointer===1.10
 jsonschema===2.5.1
 kafka-python===0.9.5
 kazoo===2.2.1
-keyring===9.3.1
+keyring===10.0.2
 keystoneauth1===2.14.0
 keystonemiddleware===4.10.0
 kombu===3.0.37
@@ -172,7 +172,7 @@ linecache2===1.0.0
 logilab-common===1.2.2
 logutils===0.3.3
 lxml===3.6.4
-marathon===0.8.6
+marathon===0.8.7
 microversion-parse===0.1.4
 mistral===3.0.2
 mock===2.0.0
@@ -187,7 +187,7 @@ murano-pkg-check===0.2.0
 ndg-httpsclient===0.4.2;python_version=='2.7'
 netaddr===0.7.18
 netifaces===0.10.5
-netmiko===1.0.0
+netmiko===1.1.0
 networkx===1.11
 neutron-lib===0.4.0
 nodeenv===1.0.0
@@ -221,7 +221,7 @@ oslo.config===3.18.0
 oslo.context===2.10.0
 oslo.db===4.14.0
 oslo.i18n===3.10.0
-oslo.log===3.16.0
+oslo.log===3.17.0
 oslo.messaging===5.11.0
 oslo.middleware===3.20.0
 oslo.policy===1.16.0
@@ -234,7 +234,7 @@ oslo.utils===3.17.0
 oslo.versionedobjects===1.18.0
 oslo.vmware===2.15.0
 oslosphinx===4.8.0
-oslotest===2.10.0
+oslotest===2.11.0
 osprofiler===1.4.0
 ovs===2.6.0
 packaging===16.7
@@ -261,7 +261,7 @@ pyScss===1.3.4
 pyasn1===0.1.9
 pyasn1-modules===0.0.8
 pycadf===2.4.0
-pycparser===2.14
+pycparser===2.16
 pycrypto===2.6.1
 pydotplus===2.0.2
 pyeclib===1.3.1
@@ -269,7 +269,7 @@ pyghmi===1.0.11
 pyinotify===0.9.6
 pykerberos===1.1.13
 pyldap===2.4.25.1
-pylxd===2.1.1
+pylxd===2.1.2
 pymemcache===1.3.8
 pymod2pkg===0.6.1
 pymongo===3.3.0
@@ -298,7 +298,7 @@ python-ironicclient===1.7.0
 python-k8sclient===0.3.0
 python-karborclient===0.1.0
 python-keystoneclient===3.6.0
-python-magnumclient===2.3.0
+python-magnumclient===2.3.1
 python-manilaclient===1.11.0
 python-memcached===1.58
 python-mimeparse===1.6.0
@@ -352,11 +352,11 @@ selenium===3.0.1
 semantic-version===2.6.0
 seqdiag===0.9.5
 simplegeneric===0.8.1
-simplejson===3.8.2
+simplejson===3.9.0
 singledispatch===3.4.0.3;python_version=='2.7'
 six===1.10.0
 smmap===0.9.0
-smmap2===2.0.0
+smmap2===2.0.1
 snowballstemmer===1.2.1
 spec-cleaner===0.9.0
 sphinx-rtd-theme===0.1.9
@@ -365,9 +365,9 @@ sphinxcontrib-blockdiag===1.5.5
 sphinxcontrib-httpdomain===1.5.0
 sphinxcontrib-pecanwsme===0.8.0
 sphinxcontrib-seqdiag===0.8.5
-sphinxmark===0.1.14
+sphinxmark===0.1.15
 sqlalchemy-migrate===0.10.0
-sqlparse===0.2.1
+sqlparse===0.2.2
 sseclient===0.0.12
 stevedore===1.18.0
 suds-jurko===0.6
@@ -377,7 +377,7 @@ tablib===0.11.2
 taskflow===2.7.0
 tempest===13.0.0
 tempest-lib===1.0.0
-tenacity===3.2.1
+tenacity===3.3.0
 termcolor===1.1.0
 testrepository===0.0.20
 testresources===2.0.1
@@ -387,7 +387,7 @@ thriftpy===0.3.9;python_version=='2.7'
 tooz===1.44.0
 tosca-parser===0.6.0
 traceback2===1.4.0
-tripleo-common===5.2.0
+tripleo-common===5.3.0
 trollius===2.1
 txaio===2.5.1
 typing===3.5.2.2
@@ -400,7 +400,7 @@ urllib3===1.18
 virtualenv===15.0.3
 vmware-nsxlib===0.1.0
 voluptuous===0.9.3
-waitress===1.0.0
+waitress===1.0.1
 warlock===1.2.0
 weakrefmethod===1.0.3;python_version=='2.7'
 webcolors===1.5
@@ -409,7 +409,7 @@ websockify===0.8.0
 wrapt===1.10.8
 ws4py===0.3.4
 wsgi-intercept===1.4.1
-xattr===0.8.0
+xattr===0.9.1
 xmltodict===0.10.2
 xvfbwrapper===0.2.8
 yaql===1.1.1
