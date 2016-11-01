@@ -54,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "ba5da102_94e031fc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-11-01T17:23:07Z",
+      "side": 1,
+      "message": "That\u0027s fine with me if we proceed with the patch. That said, it seems like the reason why the gate started to fail is because we up-cap amqp to 1.x which is incompatible with kombu 4.0.0. Ideally, we would not need to cap amqp to 1.x and allow newer kombu to pull in 2.x. Actually, the reason why amqp was up-capped in the first place was that at that time there was no kombu release compatible with 2.x. Now that it\u0027s clearly not the case, we can probably just uncap amqp and allow pip to pick the right version for the used kombu.\n\nI proposed a patch to do just that with: https://review.openstack.org/392245\n\nI agree it\u0027s probably not nice to block other gates while we play with better alternatives that may themselves reveal more issues to solve, so I am ok to proceed with this patch as short term fix.",
+      "parentUuid": "ba5da102_34ebe514",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba5da102_b2a54da3",
         "filename": "/COMMIT_MSG",
         "patchSetId": 2
@@ -83,6 +101,24 @@
       "side": 1,
       "message": "Not yet, but you can see this discussion for more details: https://github.com/celery/kombu/issues/641",
       "parentUuid": "ba5da102_b2a54da3",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5da102_34bcc5db",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-11-01T17:23:07Z",
+      "side": 1,
+      "message": "Seems like the actual issue is amqp being capped but not kombu. I am fine with the solution you proposed, even if I think we should move away of caps.",
+      "parentUuid": "ba5da102_658051f8",
       "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
