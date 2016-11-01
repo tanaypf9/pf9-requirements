@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5da102_b27e2d17",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-11-01T15:01:36Z",
+      "side": 1,
+      "message": "why doesn\u0027t oslo.messaging apply constraints to its gate?",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5da102_b2a54da3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2016-11-01T15:01:36Z",
+      "side": 1,
+      "message": "have we reported a bug for kombu to add the missing dependency?",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
