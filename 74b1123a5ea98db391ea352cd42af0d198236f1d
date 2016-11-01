@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "ba5da102_52515135",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 20864
+      },
+      "writtenOn": "2016-11-01T15:22:37Z",
+      "side": 1,
+      "message": "Of course, we can, but I think that adding it to global requirements first, and then making it percolate to other projects is better, since others project may also be affected.",
+      "parentUuid": "ba5da102_b27e2d17",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba5da102_b2a54da3",
         "filename": "/COMMIT_MSG",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2016-11-01T15:01:36Z",
       "side": 1,
       "message": "have we reported a bug for kombu to add the missing dependency?",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5da102_658051f8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 20864
+      },
+      "writtenOn": "2016-11-01T15:22:37Z",
+      "side": 1,
+      "message": "Not yet, but you can see this discussion for more details: https://github.com/celery/kombu/issues/641",
+      "parentUuid": "ba5da102_b2a54da3",
       "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
