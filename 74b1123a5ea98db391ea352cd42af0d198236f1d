@@ -37,6 +37,23 @@
     },
     {
       "key": {
+        "uuid": "ba5da102_34ebe514",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12000
+      },
+      "writtenOn": "2016-11-01T17:18:32Z",
+      "side": 1,
+      "message": "Ihar, would oslo.messaging be able to arbitrarily fix all projects that depend on the currently released version of oslo.messaging? If each adds its own requirement, their CI will fail for not matching g-r. Currently this patch will fix aodh, ceilometer, and glance (if not more projects). It\u0027s also apparent that the upstream does not consider this a bug on their end, but a bug on our end. Let\u0027s unblock our colleagues and let this patch move forward.",
+      "revId": "74b1123a5ea98db391ea352cd42af0d198236f1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba5da102_b2a54da3",
         "filename": "/COMMIT_MSG",
         "patchSetId": 2
