@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5da102_5af87849",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-02T02:28:23Z",
+      "side": 1,
+      "message": "Wait what?  global-requirements currently has MySQL-python[1] and PyMySQL[2] both of which cover exactly this.  In fact you already stated that mysqlclient is a replacement of MySQL-python\n\n[1] The old thing we\u0027re trying to remove\n[2] The new thing we\u0027re trying to replace it with",
+      "revId": "99e4b098cafed145a0ba6a9db6dc8355736c27a8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
