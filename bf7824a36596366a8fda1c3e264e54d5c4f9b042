@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5da102_92cc708a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 283,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-11-03T13:38:41Z",
+      "side": 1,
+      "message": "two spaces between version and \u0027#\u0027 please",
+      "revId": "bf7824a36596366a8fda1c3e264e54d5c4f9b042",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
