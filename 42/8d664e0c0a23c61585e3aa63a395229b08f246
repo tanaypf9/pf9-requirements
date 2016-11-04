@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Gevorg Davoian <gdavoian@mirantis.com>
+Code-Review+1: John Eckersberg <jeckersb@redhat.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 04 Nov 2016 23:47:37 +0000
+Reviewed-on: https://review.openstack.org/393212
+Project: openstack/requirements
+Branch: refs/heads/master
