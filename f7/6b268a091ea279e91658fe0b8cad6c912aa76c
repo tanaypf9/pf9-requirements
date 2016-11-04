@@ -1,0 +1,10 @@
+Code-Review+1: Chuck Short <chuck.short@canonical.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 04 Nov 2016 09:38:05 +0000
+Reviewed-on: https://review.openstack.org/393493
+Project: openstack/requirements
+Branch: refs/heads/master
