@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5da102_5b03810f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 159,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-07T05:43:05Z",
+      "side": 1,
+      "message": "We can\u0027t bump minimum versions on stable branches",
+      "revId": "f6fd79fbb3fdec2b587a902fbb48748c9611810f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5da102_8d03200d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-07T05:43:05Z",
+      "side": 1,
+      "message": "+1",
+      "revId": "f6fd79fbb3fdec2b587a902fbb48748c9611810f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
