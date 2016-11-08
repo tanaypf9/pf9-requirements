@@ -69,6 +69,24 @@
       "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_7fdc8812",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-11-08T23:41:48Z",
+      "side": 1,
+      "message": "Agreed. Thanks for the insight.",
+      "parentUuid": "9a629dbe_dfa4b4ba",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
