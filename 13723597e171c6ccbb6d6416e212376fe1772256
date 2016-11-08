@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_06ba726e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-11-08T20:08:47Z",
+      "side": 1,
+      "message": "failing how? Can you provide a link to the failure? I can\u0027t find anything in [1].\n\nhttps://review.openstack.org/#/q/owner:%22OpenStack+Proposal+Bot%22+project:openstack/networking-bgpvpn+status:open",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_fa3a6e97",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 748
+      },
+      "writtenOn": "2016-11-08T20:08:47Z",
+      "side": 1,
+      "message": "I might be mistaken, but if you want this dependency in master g-r (besides checking it complies with the rules), you need to unjam the situation you got yourself in. For newton [1] you need to go back to doing what you were doing in mitaka [2], otherwise this change needs to be backported, and I am not sure this can be allowed. Ihar may know better though, as he understands this stuff much better than I do.\n\n[1] https://github.com/openstack/networking-bgpvpn/blob/stable/newton/test-requirements.txt\n[2] https://github.com/openstack/networking-bgpvpn/blob/stable/mitaka/test-requirements.txt#L21",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
