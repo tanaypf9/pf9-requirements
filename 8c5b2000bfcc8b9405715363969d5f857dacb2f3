@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_3018b584",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-08T04:47:51Z",
+      "side": 1,
+      "message": "Actually I didn\u0027t look at this very hard.  The commit message and the change don\u0027t mesh the commit message is all about ensuring that  2.1.2 isn\u0027t used on the stable/newton branch *BUT* the change moves the pin from 2.0.3 to 2.1.1.\n\nI looked and nova-lxd doesn\u0027t use constraints so this will be a noop and not resolve the bug.\n\n\nI\u0027ve created I9cea14812c1beb1491ec20587e1cfdec199a564e which I *think* is the correct solution assuming the nova-lxd team agree it\u0027ll need to be backported to stable/* (which I\u0027m happy to do) and *that* should resolve the issue\n\nHaving said that I\u0027m now even more confused as the nova-lxd gate seems to be working with pylxd\u003d\u003d2.1.2 [1]\n\n[1] http://logs.openstack.org/53/390953/3/check/gate-nova-lxd-python27-ubuntu-xenial/b03d244/tox/py27-3.log.txt",
+      "revId": "8c5b2000bfcc8b9405715363969d5f857dacb2f3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
