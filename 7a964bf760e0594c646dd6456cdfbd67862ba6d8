@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_24ce89b4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 395,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-08T22:49:44Z",
+      "side": 1,
+      "message": "I *think* this is okay as we typically only run hacking checks in isolated jobs not integration testing.  If that wasn\u0027t the case we\u0027d need to be more careful.",
+      "revId": "7a964bf760e0594c646dd6456cdfbd67862ba6d8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
