@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a629dbe_ffab3887",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-08T23:37:26Z",
+      "side": 1,
+      "message": "Basically the bot is trying to sync global-requiremnets.txt -\u003e networking-bgpvpn and failing because networking-bagpipe isn\u0027t in glocbal-requirements.txt\n\nhttp://logs.openstack.org/ab/ab39f6a3600e0405171e9ffd00e0719e60d7c94d/post/propose-requirements-updates/dda43fc/console.html#_2016-11-08_21_49_32_029720",
+      "parentUuid": "9a629dbe_06ba726e",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a629dbe_fa3a6e97",
         "filename": "/COMMIT_MSG",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2016-11-08T20:08:47Z",
       "side": 1,
       "message": "I might be mistaken, but if you want this dependency in master g-r (besides checking it complies with the rules), you need to unjam the situation you got yourself in. For newton [1] you need to go back to doing what you were doing in mitaka [2], otherwise this change needs to be backported, and I am not sure this can be allowed. Ihar may know better though, as he understands this stuff much better than I do.\n\n[1] https://github.com/openstack/networking-bgpvpn/blob/stable/newton/test-requirements.txt\n[2] https://github.com/openstack/networking-bgpvpn/blob/stable/mitaka/test-requirements.txt#L21",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_dfa4b4ba",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-08T23:37:26Z",
+      "side": 1,
+      "message": "I think in this case we\u0027d be fine to add networking-bagpipe to global-requirements on the stable/* branches\n\nHowever .... How tightly coupled are networking-bagpipe and networking-bgpvpn?  If they\u0027re very tightly coupled, for the near term, it might be better to use the approach used in other networking-* projects (like I80eabaf859aabb3a440f4ef2e95a4d779b2286c1)",
+      "parentUuid": "9a629dbe_fa3a6e97",
       "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
