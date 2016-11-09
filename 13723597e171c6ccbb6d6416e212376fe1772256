@@ -87,6 +87,24 @@
       "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_5d06e2ce",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2016-11-09T08:49:02Z",
+      "side": 1,
+      "message": "Thanks Tony.\n\nWe are actually already using the approach relying on zuul_cloner to import neutron and horizon.  That was important to not have too long test runs (cloning these repos is heavy).\n\nWe hadn\u0027t find the need for a small repo like networking-bagpipe, but indeed we can nevertheless apply the same approach for this test dependency.\n\nWe will have to do it in both our master and our stable/* branches, or the requirement checks will not be effective in these branches.",
+      "parentUuid": "9a629dbe_7fdc8812",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
