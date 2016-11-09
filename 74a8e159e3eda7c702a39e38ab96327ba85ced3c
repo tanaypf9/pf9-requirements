@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_21511663",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-09T02:05:21Z",
+      "side": 1,
+      "message": "I was told that this was because the build time requirements on PBR are different from the runtime requirements.  but looking at:\n\n git log --no-merges --oneline 1.6.0..1.8.0\n daa905c Strip comments present in setup.cfg\n 6757913 Protect WSGI application with a critical section\n 8047f2f Have pbr egg_info.writer check PBR is enabled\n e19572e Support Sphinx \u003e\u003d1.3 new protoype and warnings\n\nThe differences are minimal and perhaps that statement was incorrect.",
+      "revId": "74a8e159e3eda7c702a39e38ab96327ba85ced3c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
