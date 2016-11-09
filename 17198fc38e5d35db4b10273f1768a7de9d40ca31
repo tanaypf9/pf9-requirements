@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_dbf2e8d1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 14760
+      },
+      "writtenOn": "2016-11-09T15:07:51Z",
+      "side": 1,
+      "message": "Should the \u0027normalize\u0027 command convert underscores to hyphens?",
+      "revId": "17198fc38e5d35db4b10273f1768a7de9d40ca31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_3bbe84d4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 14760
+      },
+      "writtenOn": "2016-11-09T15:07:51Z",
+      "side": 1,
+      "message": "Should the \u0027normalize\u0027 command convert underscores to hyphens?",
+      "revId": "17198fc38e5d35db4b10273f1768a7de9d40ca31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_9b215050",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 356,
+      "author": {
+        "id": 14760
+      },
+      "writtenOn": "2016-11-09T15:07:51Z",
+      "side": 1,
+      "message": "Should the \u0027normalize\u0027 command convert underscores to hyphens?",
+      "revId": "17198fc38e5d35db4b10273f1768a7de9d40ca31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_db04a8c1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 382,
+      "author": {
+        "id": 14760
+      },
+      "writtenOn": "2016-11-09T15:07:51Z",
+      "side": 1,
+      "message": "Should the \u0027normalize\u0027 command convert underscores to hyphens?",
+      "revId": "17198fc38e5d35db4b10273f1768a7de9d40ca31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_7b139c0d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 394,
+      "author": {
+        "id": 14760
+      },
+      "writtenOn": "2016-11-09T15:07:51Z",
+      "side": 1,
+      "message": "Should the \u0027normalize\u0027 command convert underscores to hyphens?",
+      "revId": "17198fc38e5d35db4b10273f1768a7de9d40ca31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
