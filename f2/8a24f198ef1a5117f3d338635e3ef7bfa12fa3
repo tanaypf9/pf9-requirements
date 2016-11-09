@@ -1,0 +1,17 @@
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: John Eckersberg <jeckersb@redhat.com>
+Code-Review+1: Corey Bryant <corey.bryant@canonical.com>
+Code-Review+1: Michele Baldessari <michele@acksyn.org>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Workflow+1: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+2: Ihar Hrachyshka <ihrachys@redhat.com>
+Workflow+1: Ihar Hrachyshka <ihrachys@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 09 Nov 2016 17:17:21 +0000
+Reviewed-on: https://review.openstack.org/393864
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
