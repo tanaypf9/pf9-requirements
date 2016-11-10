@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_1bcdf684",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-11-10T23:11:23Z",
+      "side": 1,
+      "message": "Belatedly I realized that novaclient 2.35 was not released from stable/liberty branch, 2.30.x is Novaclient Liberty series: https://releases.openstack.org/liberty/\n\nLooks like generate-constraints bot proposal targeting master was merged on stable/liberty post-GA and that\u0027s how novaclient 2.35.0 ended up in Liberty u-c: https://review.openstack.org/232918\n\n@TonyB I think we should revert this one and restore novaclient to 2.31.2 and probably others.\nDoug had revert of 232918 in https://review.openstack.org/264831 but that was abandoned.\n\nBut question is it worth doing that just before EOL...",
+      "revId": "bfba201f7850967c318cecaf6b3c597a832df436",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
