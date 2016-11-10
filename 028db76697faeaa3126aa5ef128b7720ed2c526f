@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_fba682ac",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2016-11-10T23:15:48Z",
+      "side": 1,
+      "message": "Same as https://review.openstack.org/#/c/361116/2//COMMIT_MSG@12\n\ncinderclient 1.5.0 is Mitaka series: https://releases.openstack.org/mitaka/#mitaka-python-cinderclient\n\nand it should have never been included in Liberty u-c.",
+      "revId": "028db76697faeaa3126aa5ef128b7720ed2c526f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
