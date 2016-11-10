@@ -105,6 +105,24 @@
       "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_ed943f44",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-10T00:19:57Z",
+      "side": 1,
+      "message": "Don\u0027t get me wrong.  I\u0027m not saying \"go down the zuul-cloner\" path I just wanted to make sure that you\u0027ve looked at it and decided that the 2 projects are sufficiently independent that you can wait for features to land and be released in networking-bagpipe before testing them in networking-bgpvpn.\n\nIf you\u0027re fine with that then #winning\n\nI checked http://logs.openstack.org/66/395466/2/check/gate-networking-bgpvpn-python27-db-ubuntu-xenial/3e26626/console.html and the installdeps tox phase only took 2 mins which includes the zuul-clone (from cache) of neutron and horizon",
+      "parentUuid": "9a629dbe_5d06e2ce",
+      "revId": "13723597e171c6ccbb6d6416e212376fe1772256",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
