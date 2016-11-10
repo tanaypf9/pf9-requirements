@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_47733f15",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-10T08:09:27Z",
+      "side": 1,
+      "message": "https://review.openstack.org/395895",
+      "revId": "96b516d2b9ff9532cdebbba03ab8d57bbc0b52ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_e756135b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-10T08:09:27Z",
+      "side": 1,
+      "message": "Hmm that\u0027s a newton release but I think it shoudl still work",
+      "revId": "96b516d2b9ff9532cdebbba03ab8d57bbc0b52ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_0754e750",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-10T08:09:27Z",
+      "side": 1,
+      "message": "https://review.openstack.org/388365",
+      "revId": "96b516d2b9ff9532cdebbba03ab8d57bbc0b52ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_c7d4afbe",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-10T08:09:27Z",
+      "side": 1,
+      "message": "https://review.openstack.org/393210",
+      "revId": "96b516d2b9ff9532cdebbba03ab8d57bbc0b52ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
