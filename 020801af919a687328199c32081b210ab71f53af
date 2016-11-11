@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_31e73b41",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-11T00:41:51Z",
+      "side": 1,
+      "message": "So I *think* the next release will be 1.3.3.0 so it makes sense to use \u003c 1.3.3.0 as the cap that way if a security issue (LOL)  is found in 0.11.0.8 you can patch/release it without having to do a requirements update.\n\nDoes that makes sense?",
+      "range": {
+        "startLine": 262,
+        "startChar": 36,
+        "endLine": 262,
+        "endChar": 46
+      },
+      "revId": "020801af919a687328199c32081b210ab71f53af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
