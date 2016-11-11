@@ -22,6 +22,24 @@
       "revId": "020801af919a687328199c32081b210ab71f53af",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_d1b6fff7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 12071
+      },
+      "writtenOn": "2016-11-11T00:51:46Z",
+      "side": 1,
+      "message": "Great point!\n\nThe next release will be 2.2.0.0. I will double-check the angular-bootstrap project to see when they broke compatibility to see how far I can raise the upper limit.",
+      "parentUuid": "9a629dbe_31e73b41",
+      "revId": "020801af919a687328199c32081b210ab71f53af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
