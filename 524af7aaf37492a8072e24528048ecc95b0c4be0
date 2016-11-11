@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_4c6c169c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 348,
+      "author": {
+        "id": 9200
+      },
+      "writtenOn": "2016-11-11T01:47:41Z",
+      "side": 1,
+      "message": "ryu-4.8 might cause tinyrpc import error.\n-1-ing this patch while checking..",
+      "revId": "524af7aaf37492a8072e24528048ecc95b0c4be0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
