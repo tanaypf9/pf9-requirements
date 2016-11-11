@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_4c4ed6c1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-11T02:08:24Z",
+      "side": 1,
+      "message": "If the compatibility was broken in 0.14.0 doesn\u0027t that mean you want to cap up to but not including that release?\n\nUnrelated to this specific case but we try to use \u0027\u003c\u0027 in caps (as opposed to \u0027\u003c\u003d\u0027) as that gives us some additional wiggle room",
+      "range": {
+        "startLine": 262,
+        "startChar": 37,
+        "endLine": 262,
+        "endChar": 38
+      },
+      "revId": "08dde42689e3470f2329382353592de692affb02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
