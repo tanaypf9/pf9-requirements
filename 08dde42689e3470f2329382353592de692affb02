@@ -22,6 +22,24 @@
       "revId": "08dde42689e3470f2329382353592de692affb02",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a629dbe_07ce7962",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 12071
+      },
+      "writtenOn": "2016-11-11T02:50:11Z",
+      "side": 1,
+      "message": "Ugh, yes, braino on my part! Thanks for catching that.",
+      "parentUuid": "9a629dbe_4c4ed6c1",
+      "revId": "08dde42689e3470f2329382353592de692affb02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
