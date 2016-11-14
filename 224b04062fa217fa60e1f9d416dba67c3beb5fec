@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a629dbe_5caf1294",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-11-14T13:49:41Z",
+      "side": 1,
+      "message": "Nit: remove trailing \u0027.\u0027",
+      "revId": "224b04062fa217fa60e1f9d416dba67c3beb5fec",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
