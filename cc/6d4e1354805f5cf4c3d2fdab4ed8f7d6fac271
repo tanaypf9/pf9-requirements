@@ -1,0 +1,10 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Igor Yozhikov <iyozhikov@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 14 Nov 2016 15:00:18 +0000
+Reviewed-on: https://review.openstack.org/396572
+Project: openstack/requirements
+Branch: refs/heads/master
