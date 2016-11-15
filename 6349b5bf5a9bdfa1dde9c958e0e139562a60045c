@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a77a97e_442bcc30",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-15T02:12:33Z",
+      "side": 1,
+      "message": "Please answer the questions covered at http://git.openstack.org/cgit/openstack/requirements/tree/README.rst#n256 in the commit message",
+      "revId": "6349b5bf5a9bdfa1dde9c958e0e139562a60045c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a77a97e_62799b2f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-15T02:12:33Z",
+      "side": 1,
+      "message": "/me mumbles something like \"what\u0027s wrong with semver\"",
+      "revId": "6349b5bf5a9bdfa1dde9c958e0e139562a60045c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
