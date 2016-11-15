@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a77a97e_e7e85a19",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-11-15T02:48:28Z",
+      "side": 1,
+      "message": "I assume you\u0027re referring to I9fa2d93afdf6eb3afdb2b688c4215ddafee40fca which seems to be unclear about the dogpile.cache or cachecontrol?\n\nWould that be a fair assessment?",
+      "revId": "178e763c4dfbe68df122915e84f79d33b22fcfbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
