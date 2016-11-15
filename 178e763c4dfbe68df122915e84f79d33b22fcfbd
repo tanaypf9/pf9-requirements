@@ -16,6 +16,23 @@
       "revId": "178e763c4dfbe68df122915e84f79d33b22fcfbd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a77a97e_a1af19e2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 12000
+      },
+      "writtenOn": "2016-11-15T13:09:03Z",
+      "side": 1,
+      "message": "So that is the first attempt at implementing caching for cratonclient with what was already in global-requirements. The keystoneclient change I\u0027m referring to is I8d0dc1229309aac68586042d1e0d97efb161970f",
+      "revId": "178e763c4dfbe68df122915e84f79d33b22fcfbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
