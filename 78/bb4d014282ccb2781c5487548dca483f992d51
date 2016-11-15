@@ -1,0 +1,9 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 15 Nov 2016 19:26:07 +0000
+Reviewed-on: https://review.openstack.org/397553
+Project: openstack/requirements
+Branch: refs/heads/master
