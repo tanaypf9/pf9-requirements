@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a77a97e_6d3f5687",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11105
+      },
+      "writtenOn": "2016-11-17T05:51:47Z",
+      "side": 1,
+      "message": "I think this is not correct format for cross project dependencies.\n\n[1] http://docs.openstack.org/infra/manual/developers.html#multiple-changes",
+      "revId": "ff79d53e13336cbc2851ab35480637ca3aa45b9f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
