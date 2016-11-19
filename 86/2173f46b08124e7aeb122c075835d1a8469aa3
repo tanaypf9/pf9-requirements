@@ -1,0 +1,11 @@
+Code-Review+1: Steve Martinelli <s.martinelli@gmail.com>
+Code-Review+1: Dean Troyer <dtroyer@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 19 Nov 2016 01:46:25 +0000
+Reviewed-on: https://review.openstack.org/399227
+Project: openstack/requirements
+Branch: refs/heads/master
