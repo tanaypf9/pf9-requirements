@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a74a57a_1208d82b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-11-25T07:46:17Z",
+      "side": 1,
+      "message": "Should be 1.7.0",
+      "revId": "c94bc3114c185340dbba7c313b0b02b11f350965",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a74a57a_b2164453",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-11-25T07:46:17Z",
+      "side": 1,
+      "message": "Should be 1.7.0",
+      "revId": "c94bc3114c185340dbba7c313b0b02b11f350965",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
