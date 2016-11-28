@@ -22,6 +22,24 @@
       "revId": "8245bf179485ddc9757469ed5287eee131fd9607",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5a74a57a_bbade1ea",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 5046
+      },
+      "writtenOn": "2016-11-28T19:14:57Z",
+      "side": 1,
+      "message": "I decided to use https://review.openstack.org/#/c/403815/ as a shim in order to get keystone to work with passlib 1.6.5 and 1.7.0. The way I was thinking about it was that the shim would land first, making keystone compatible with each version of passlib, then merge the requirements bump, then we can clean up the multi-version fix in keystone with steve\u0027s patch.\n\nSo, to summarize the merge order as I see it would be:\n\n- https://review.openstack.org/#/c/403815/\n- This patch\n- https://review.openstack.org/#/c/403514/\n\nDoes that make sense or did you mean something else?",
+      "parentUuid": "5a74a57a_0ff7748b",
+      "revId": "8245bf179485ddc9757469ed5287eee131fd9607",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
