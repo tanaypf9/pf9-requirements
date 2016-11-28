@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a74a57a_0ff7748b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16687
+      },
+      "writtenOn": "2016-11-28T17:35:10Z",
+      "side": 1,
+      "message": "Should this pull in Id574221f65d72a763b8205df0891b6e300856230 instead, which is [1] per Steve\u0027s comment above?",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 53
+      },
+      "revId": "8245bf179485ddc9757469ed5287eee131fd9607",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
