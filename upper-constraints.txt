@@ -62,7 +62,7 @@ XStatic-tv4===1.2.7.0
 XenAPI===1.2
 abclient===0.2.3
 alabaster===0.7.9
-alembic===0.8.8
+alembic===0.8.9
 amqp===1.4.9
 anyjson===0.3.3
 aodhclient===0.7.0
@@ -102,7 +102,7 @@ decorator===4.0.10
 demjson===2.2.4
 dib-utils===0.0.11
 discover===0.4.0
-diskimage-builder===1.22.1
+diskimage-builder===1.22.2
 django-appconf===1.0.2
 django-babel===0.5.1
 django-compressor===2.1
@@ -115,7 +115,8 @@ dnspython===1.15.0
 dnspython3===1.15.0;python_version=='3.4'
 dnspython3===1.15.0;python_version=='3.5'
 doc8===0.7.0
-docker-py===1.7.2
+docker-py===1.10.6
+docker-pycreds===0.2.1
 docutils===0.12
 dogpile.cache===0.6.2
 dogtag-pki===10.3.5.1
@@ -135,7 +136,7 @@ funcsigs===1.0.2;python_version=='2.7'
 functools32===3.2.3.post2;python_version=='2.7'
 futures===3.0.5
 futurist===0.19.0
-gabbi===1.27.1
+gabbi===1.28.0
 gitdb===0.6.4
 gitdb2===2.0.0
 glance-store===0.18.0
@@ -200,8 +201,8 @@ nosexcover===1.0.11
 notifier===1.0.3
 numpy===1.11.2
 oauth2client===3.0.0
-oauthlib===2.0.0
-openstack-doc-tools===1.2.0
+oauthlib===2.0.1
+openstack-doc-tools===1.2.1
 openstack.nose-plugin===0.11
 openstackdocstheme===1.5.0
 openstacksdk===0.9.10
@@ -293,7 +294,7 @@ python-congressclient===1.5.0
 python-consul===0.6.1
 python-dateutil===2.6.0
 python-designateclient===2.3.0
-python-editor===1.0.1
+python-editor===1.0.3
 python-etcd===0.4.3
 python-freezerclient===1.0.0
 python-glanceclient===2.5.0
@@ -353,7 +354,7 @@ ryu===4.8.1
 scikit-learn===0.18.1
 scipy===0.18.1
 scp===0.10.2
-selenium===3.0.1
+selenium===3.0.2
 semantic-version===2.6.0
 seqdiag===0.9.5
 simplegeneric===0.8.1
@@ -383,7 +384,7 @@ tablib===0.11.2
 taskflow===2.7.0
 tempest===13.0.0
 tempest-lib===1.0.0
-tenacity===3.3.0
+tenacity===3.4.0
 termcolor===1.1.0
 testrepository===0.0.20
 testresources===2.0.1
@@ -394,7 +395,7 @@ tinyrpc===0.5
 tooz===1.44.0
 tosca-parser===0.6.0
 traceback2===1.4.0
-tripleo-common===5.4.0
+tripleo-common===5.5.0
 trollius===2.1
 txaio===2.5.2
 typing===3.5.2.2
@@ -410,7 +411,7 @@ voluptuous===0.9.3
 waitress===1.0.1
 warlock===1.2.0
 weakrefmethod===1.0.3;python_version=='2.7'
-webcolors===1.5
+webcolors===1.7
 websocket-client===0.37.0
 websockify===0.8.0
 wrapt===1.10.8
