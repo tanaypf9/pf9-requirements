@@ -1,0 +1,13 @@
+Code-Review+1: Berezovsky Irena <irenab.dev@gmail.com>
+Code-Review+1: Ilya Chukhnakov <ichukhnakov@mirantis.com>
+Code-Review+1: Louise Daly <louise.m.daly@intel.com>
+Code-Review+1: Marco Chiappero <marco.chiappero@intel.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 30 Nov 2016 22:50:29 +0000
+Reviewed-on: https://review.openstack.org/404619
+Project: openstack/requirements
+Branch: refs/heads/master
