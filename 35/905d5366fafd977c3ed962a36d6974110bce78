@@ -1,0 +1,11 @@
+Code-Review+1: Chuck Short <chuck.short@canonical.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Dec 2016 16:19:19 +0000
+Reviewed-on: https://review.openstack.org/405513
+Project: openstack/requirements
+Branch: refs/heads/master
