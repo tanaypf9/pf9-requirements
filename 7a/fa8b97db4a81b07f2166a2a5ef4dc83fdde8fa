@@ -1,0 +1,10 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 02 Dec 2016 06:13:24 +0000
+Reviewed-on: https://review.openstack.org/405284
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
