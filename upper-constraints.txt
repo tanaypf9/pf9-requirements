@@ -79,6 +79,7 @@ blockdiag===1.5.3
 boto===2.43.0
 botocore===1.4.81
 bottle===0.12.10
+bunch===1.0.1
 cachetools===2.0.0
 cassandra-driver===3.7.1
 castellan===0.4.0
