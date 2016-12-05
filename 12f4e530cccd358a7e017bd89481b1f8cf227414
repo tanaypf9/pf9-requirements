@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_d8e58d38",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-05T03:19:05Z",
+      "side": 1,
+      "message": "I prefer to add this in to tox-inucbated-tools and treat is as pure data.  It *will* grow and contract in complexity over the next 2 or 3 cycles.",
+      "revId": "12f4e530cccd358a7e017bd89481b1f8cf227414",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a71b18c_d88e6d78",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-05T03:19:05Z",
+      "side": 1,
+      "message": "We can\u0027t default to constrained installs for our gate checks. which is what this will do.",
+      "revId": "12f4e530cccd358a7e017bd89481b1f8cf227414",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
