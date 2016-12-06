@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 06 Dec 2016 23:22:42 +0000
+Reviewed-on: https://review.openstack.org/406441
+Project: openstack/requirements
+Branch: refs/heads/master
