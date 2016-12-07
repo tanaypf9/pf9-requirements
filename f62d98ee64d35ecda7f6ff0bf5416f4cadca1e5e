@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_5192b3a0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 237,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-12-07T15:08:10Z",
+      "side": 1,
+      "message": "since this change merged this will not merge",
+      "revId": "f62d98ee64d35ecda7f6ff0bf5416f4cadca1e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a71b18c_718faf75",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 396,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2016-12-07T15:08:10Z",
+      "side": 1,
+      "message": "this too",
+      "revId": "f62d98ee64d35ecda7f6ff0bf5416f4cadca1e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
