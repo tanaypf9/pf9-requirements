@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_0132c9a6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-07T03:05:05Z",
+      "side": 1,
+      "message": "I checked https://review.openstack.org/#/q/is:open+project:openstack/cinder and I don\u0027t see a change to use this.",
+      "range": {
+        "startLine": 32,
+        "startChar": 0,
+        "endLine": 32,
+        "endChar": 25
+      },
+      "revId": "8812772457119b048a63ddb3887058151a941d0e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
