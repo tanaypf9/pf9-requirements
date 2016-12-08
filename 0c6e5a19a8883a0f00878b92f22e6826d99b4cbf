@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_d7074cc7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-12-08T22:04:43Z",
+      "side": 1,
+      "message": "To most extend what I can see in the proposed pull request the functionality this library provides is already covered in collections.namedtuple() which is part of the standard library. I am somewhat skeptical there is a lot of value in adding yet another dep to openstack.",
+      "revId": "0c6e5a19a8883a0f00878b92f22e6826d99b4cbf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
