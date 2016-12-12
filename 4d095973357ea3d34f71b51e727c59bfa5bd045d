@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_e35435c7",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-12T09:59:19Z",
+      "side": 1,
+      "message": "Sure, as long as you\u0027re vouching for the fact the newer hacking checks don\u0027t break anything.",
+      "revId": "4d095973357ea3d34f71b51e727c59bfa5bd045d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a71b18c_c3d81956",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-12T09:59:19Z",
+      "side": 1,
+      "message": "This is already in the format the bot generates.  So if we change this the bot will just change it back next tim it runs.",
+      "revId": "4d095973357ea3d34f71b51e727c59bfa5bd045d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
