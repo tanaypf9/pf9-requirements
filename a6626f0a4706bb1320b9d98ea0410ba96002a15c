@@ -22,6 +22,30 @@
       "revId": "a6626f0a4706bb1320b9d98ea0410ba96002a15c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a6eadb0_ab1aaf15",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-12T22:08:46Z",
+      "side": 0,
+      "message": "Global-requirements is the *input* format which is typically in a human parseable \"natural\" format but as long as it\u0027s valid it doesn\u0027t matter.  There is a bot that keeps the files managed by the requirements team in sync.  As that format is machine parseable it\u0027s slightly different from the input format.\n\nWe\u0027ve tried in the past to normalise the formats but that always generates a large number of patches in downstream projects and is therefore considered unacceptable.\nI hope that helps.",
+      "parentUuid": "3a71b18c_ae1dbdbf",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 32
+      },
+      "revId": "a6626f0a4706bb1320b9d98ea0410ba96002a15c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
