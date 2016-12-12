@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a71b18c_ae1dbdbf",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 9796
+      },
+      "writtenOn": "2016-12-12T12:57:58Z",
+      "side": 0,
+      "message": "This is different in format https://github.com/openstack/requirements/blob/master/global-requirements.txt#L370\n\nwhat\u0027s the right format",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 32
+      },
+      "revId": "a6626f0a4706bb1320b9d98ea0410ba96002a15c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
