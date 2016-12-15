@@ -94,7 +94,7 @@ contextlib2===0.5.4
 coverage===4.2
 crc16===0.1.1
 croniter===0.3.13
-cryptography===1.7
+cryptography===1.7.1
 cursive===0.1.1
 ddt===1.1.1
 debtcollector===1.10.0
@@ -206,7 +206,7 @@ oauthlib===2.0.1
 openstack-doc-tools===1.2.1
 openstack.nose-plugin===0.11
 openstackdocstheme===1.5.0
-openstacksdk===0.9.10
+openstacksdk===0.9.11
 ordereddict===1.1
 os-api-ref===1.1.0
 os-apply-config===5.0.0
@@ -297,7 +297,7 @@ python-dateutil===2.6.0
 python-designateclient===2.3.0
 python-editor===1.0.3
 python-etcd===0.4.3
-python-freezerclient===1.0.0
+python-freezerclient===1.1.0
 python-glanceclient===2.5.0
 python-heatclient===1.6.1
 python-ironic-inspector-client===1.10.0
