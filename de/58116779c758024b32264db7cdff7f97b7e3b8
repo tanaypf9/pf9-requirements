@@ -1,0 +1,9 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 15 Dec 2016 18:26:06 +0000
+Reviewed-on: https://review.openstack.org/411319
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
