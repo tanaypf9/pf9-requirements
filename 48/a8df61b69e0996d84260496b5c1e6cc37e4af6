@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 17 Dec 2016 21:28:25 +0000
+Reviewed-on: https://review.openstack.org/411518
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
