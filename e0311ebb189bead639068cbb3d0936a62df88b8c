@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a6eadb0_ab754f33",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-19T06:02:55Z",
+      "side": 1,
+      "message": "So if the company is gone who has the rights to keep publishing this?\n\nTo whom are contributors assigning copyright?",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a6eadb0_6b941744",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-19T06:02:55Z",
+      "side": 1,
+      "message": "AFAICT the code is AGPL:\n\n https://github.com/rethinkdb/rethinkdb/blob/next/COPYRIGHT#L10-L11\n\nAt the very least this makes inclusion complex.  Where are you seeing ssertions that this the Apache-2.0 licensed?",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
