@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a6eadb0_868faf74",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 8
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2016-12-19T02:21:09Z",
+      "side": 1,
+      "message": "So we need to get to the bottom of how this is flipping in the gate. Then what cinder is doing to expose this.",
+      "revId": "64cbe0619cb3bb964bddf7c791ffe8e5ff2f32b8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
