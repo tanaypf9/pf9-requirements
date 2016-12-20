@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a6eadb0_aa67c0b5",
+        "filename": "CONTRIBUTING.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-12-20T11:59:18Z",
+      "side": 1,
+      "message": "https://bugs.launchpad.net/openstack-requirements",
+      "revId": "c1280a707719a5b5b9d898880bba1fc64f6f01fb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
