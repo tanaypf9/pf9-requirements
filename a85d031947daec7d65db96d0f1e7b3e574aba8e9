@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da4df55a_a0ed6490",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-12-21T22:01:24Z",
+      "side": 1,
+      "message": "could you improve the git commit summary? this is not very helpful to understand what you did.",
+      "revId": "a85d031947daec7d65db96d0f1e7b3e574aba8e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
