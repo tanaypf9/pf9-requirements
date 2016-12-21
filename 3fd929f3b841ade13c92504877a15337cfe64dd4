@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a6eadb0_d0a0e6f6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24257
+      },
+      "writtenOn": "2016-12-21T16:34:06Z",
+      "side": 1,
+      "message": "Apart from zhmclient, I see a lot of other entries too. Do wee need those dependency modules too? what would be the usage?",
+      "revId": "3fd929f3b841ade13c92504877a15337cfe64dd4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
