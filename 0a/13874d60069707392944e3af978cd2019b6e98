@@ -1,0 +1,11 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Michael Johnson <johnsomor@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 23 Dec 2016 03:06:21 +0000
+Reviewed-on: https://review.openstack.org/414354
+Project: openstack/requirements
+Branch: refs/heads/master
