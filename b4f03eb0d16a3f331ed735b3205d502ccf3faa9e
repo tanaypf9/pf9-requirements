@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da4df55a_aa1248b2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-12-23T17:14:40Z",
+      "side": 1,
+      "message": "Typo openstacksdk",
+      "revId": "b4f03eb0d16a3f331ed735b3205d502ccf3faa9e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da4df55a_0a10b4a7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2016-12-23T17:14:40Z",
+      "side": 1,
+      "message": "Unrelated bug?",
+      "revId": "b4f03eb0d16a3f331ed735b3205d502ccf3faa9e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
