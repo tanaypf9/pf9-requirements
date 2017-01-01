@@ -16,6 +16,24 @@
       "revId": "71a8745f11a7f4236396357e08a3c193c546c1c7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_266a4e81",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1653
+      },
+      "writtenOn": "2017-01-01T09:50:13Z",
+      "side": 1,
+      "message": "I hope that my explanation suffices.",
+      "parentUuid": "ba5201f7_465e72ea",
+      "revId": "71a8745f11a7f4236396357e08a3c193c546c1c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
