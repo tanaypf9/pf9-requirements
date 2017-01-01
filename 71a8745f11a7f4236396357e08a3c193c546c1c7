@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_465e72ea",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-01-01T09:43:41Z",
+      "side": 1,
+      "message": "Is there a reason/rationale? Shouldn\u0027t this commit message state why you\u0027re excluding 2.3.1 instead?",
+      "revId": "71a8745f11a7f4236396357e08a3c193c546c1c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
