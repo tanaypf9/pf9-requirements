@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "ba5201f7_2507931d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T03:49:53Z",
+      "side": 1,
+      "message": "Neither am I but speaks to the longevity of the code so understanding who this position is key",
+      "parentUuid": "da4df55a_9c721fac",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a6eadb0_6b941744",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "RethinkDB database itself is AGPL, the python bindings are licensed under Apache2\n\nhttps://github.com/rethinkdb/rethinkdb/tree/next/drivers/python",
       "parentUuid": "1a6eadb0_6b941744",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_481bce72",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T03:49:53Z",
+      "side": 1,
+      "message": "Again I just don\u0027t see that.  I see \"# Copyright 2010-2015 RethinkDB, all rights reserved.\" and:\n\n balder:rethinkdb$ git grep -i apache -- drivers/python/\n balder:rethinkdb$ \n\nThere is no license classifier in the trove (https://pypi.python.org/pypi/rethinkdb/2.3.0)\n\nCan you help us understand where you\u0027re seeing an Apache License?",
+      "parentUuid": "1a6eadb0_df5c01f3",
       "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
