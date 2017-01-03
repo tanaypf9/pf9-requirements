@@ -1,0 +1,95 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_94ab0b89",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T08:45:48Z",
+      "side": 1,
+      "message": "we need to check the chnagelog",
+      "revId": "00ed71c33e0ff438168663cc8e2b508943d908b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_34efbfe9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T08:45:48Z",
+      "side": 1,
+      "message": "Ergh.  We need to do this very carefully and not part of this bump.\n\nOne of the tasks we have is how do we coordinate a change like this as the last time we bumped it we had a string of gate failures that was very un-fun.",
+      "revId": "00ed71c33e0ff438168663cc8e2b508943d908b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_94b4ebf2",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T08:45:48Z",
+      "side": 1,
+      "message": "as with eventlet",
+      "revId": "00ed71c33e0ff438168663cc8e2b508943d908b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_74bf87d0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 219,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T08:45:48Z",
+      "side": 1,
+      "message": "I\u0027m pretty sure these are newton releases so we need to verify these are okay for master",
+      "range": {
+        "startLine": 217,
+        "startChar": 0,
+        "endLine": 219,
+        "endChar": 25
+      },
+      "revId": "00ed71c33e0ff438168663cc8e2b508943d908b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_14c9db78",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 318,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T08:45:48Z",
+      "side": 1,
+      "message": "we know this is broken",
+      "revId": "00ed71c33e0ff438168663cc8e2b508943d908b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
