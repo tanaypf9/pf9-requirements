@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_056b6f1f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-03T03:21:42Z",
+      "side": 1,
+      "message": "Due to the issue is six this needs to be 2.9.2 ... See https://github.com/influxdata/influxdb-python/issues/252",
+      "range": {
+        "startLine": 71,
+        "startChar": 10,
+        "endLine": 71,
+        "endChar": 15
+      },
+      "revId": "830288544379d5a86accbdcb66ead1c385ffa092",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
