@@ -1,0 +1,11 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: yuhui <yuhui@inspur.com>
+Code-Review+1: YuYang <yuyangwang1985@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 03 Jan 2017 09:22:37 +0000
+Reviewed-on: https://review.openstack.org/416016
+Project: openstack/requirements
+Branch: refs/heads/master
