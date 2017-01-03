@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_5360e0ce",
+        "filename": "projects.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 20382
+      },
+      "writtenOn": "2017-01-03T01:23:28Z",
+      "side": 1,
+      "message": "good !",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 26
+      },
+      "revId": "c225f8a75284dcf13d644b3b3feecd83ff3c7ae9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
