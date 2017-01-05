@@ -105,6 +105,24 @@
       "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_574a1727",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 23766
+      },
+      "writtenOn": "2017-01-05T17:00:10Z",
+      "side": 1,
+      "message": "Please see:\n\nhttps://github.com/rethinkdb/rethinkdb/blob/next/drivers/COPYRIGHT\n\nIt is also stated in their FAQ:\n\nhttps://www.rethinkdb.com/faq/#how-is-rethinkdb-licensed",
+      "parentUuid": "ba5201f7_481bce72",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
