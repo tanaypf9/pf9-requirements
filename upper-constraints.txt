@@ -124,7 +124,7 @@ dulwich===0.16.1
 elasticsearch===2.4.1
 enum-compat===0.0.2
 enum34===1.1.6
-eventlet===0.19.0
+eventlet===0.20.1
 extras===1.0.0
 fairy-slipper===0.2.0
 falcon===1.1.0
@@ -145,7 +145,7 @@ glance-store===0.19.0
 gnocchiclient===2.7.0
 google-api-python-client===1.5.5
 graphviz===0.5.2
-greenlet===0.4.10
+greenlet===0.4.11
 gunicorn===19.6.0
 happybase===0.9;python_version=='2.7'
 heat-translator===0.6.0
