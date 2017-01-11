@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_fe896dcb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-11T05:50:43Z",
+      "side": 1,
+      "message": "This needs to be:\n\n Jinja2\u003e\u003d2.8,!\u003d2.9.0,!\u003d2.9.1,!\u003d2.9.2,!\u003d2.9.3,!\u003d2.9.4\n\nas we don\u0027t cap where we can avoid it.",
+      "range": {
+        "startLine": 75,
+        "startChar": 0,
+        "endLine": 75,
+        "endChar": 16
+      },
+      "revId": "288f7d4c73a6a5e47f3b93b848c877a772715827",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
