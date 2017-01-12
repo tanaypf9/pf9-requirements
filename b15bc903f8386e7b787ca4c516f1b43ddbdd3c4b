@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "9a57fde8_523492dd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 21224
+      },
+      "writtenOn": "2017-01-12T08:00:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba5201f7_ac1dd163",
+      "range": {
+        "startLine": 200,
+        "startChar": 0,
+        "endLine": 200,
+        "endChar": 26
+      },
+      "revId": "b15bc903f8386e7b787ca4c516f1b43ddbdd3c4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba5201f7_4c18e575",
         "filename": "upper-constraints.txt",
         "patchSetId": 3
@@ -36,6 +60,30 @@
       "writtenOn": "2017-01-11T20:53:30Z",
       "side": 1,
       "message": "This is conceptually fine",
+      "range": {
+        "startLine": 292,
+        "startChar": 22,
+        "endLine": 292,
+        "endChar": 27
+      },
+      "revId": "b15bc903f8386e7b787ca4c516f1b43ddbdd3c4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a57fde8_f25bc62c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 21224
+      },
+      "writtenOn": "2017-01-12T08:00:09Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ba5201f7_4c18e575",
       "range": {
         "startLine": 292,
         "startChar": 22,
