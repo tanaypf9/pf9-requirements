@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba5201f7_5096a84c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 331,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-01-12T05:42:46Z",
+      "side": 1,
+      "message": "We typically express that as \u003e\u003d 1.8.$x It\u0027d functionally the same as \u003e1.8.0 but simpler to parse.",
+      "range": {
+        "startLine": 331,
+        "startChar": 9,
+        "endLine": 331,
+        "endChar": 10
+      },
+      "revId": "a5dded0bd0d823550a449b8a65e8b347e3581811",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
