@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a3c09a3_a17384b0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 16679
+      },
+      "writtenOn": "2017-01-13T14:17:45Z",
+      "side": 1,
+      "message": "Or : \u003c2.9, until an upper version will be valid",
+      "revId": "177f687ec30d725dea21a6d0022df7c6d800ddeb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
