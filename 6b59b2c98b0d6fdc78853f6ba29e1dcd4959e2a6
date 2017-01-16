@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a3c09a3_12544c1f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 9545
+      },
+      "writtenOn": "2017-01-16T20:40:36Z",
+      "side": 1,
+      "message": "Should it be updated as well?",
+      "range": {
+        "startLine": 228,
+        "startChar": 22,
+        "endLine": 228,
+        "endChar": 29
+      },
+      "revId": "6b59b2c98b0d6fdc78853f6ba29e1dcd4959e2a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a3c09a3_f22d00a9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 322,
+      "author": {
+        "id": 9545
+      },
+      "writtenOn": "2017-01-16T20:40:36Z",
+      "side": 1,
+      "message": "without bumping version of OSC, this patch will break the world again.",
+      "range": {
+        "startLine": 322,
+        "startChar": 25,
+        "endLine": 322,
+        "endChar": 30
+      },
+      "revId": "6b59b2c98b0d6fdc78853f6ba29e1dcd4959e2a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
