@@ -22,6 +22,30 @@
       "revId": "c0f487c845d7c39bf791fb7950fedadfbf50352e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a3c09a3_6d8131c3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 328,
+      "author": {
+        "id": 9545
+      },
+      "writtenOn": "2017-01-16T20:58:57Z",
+      "side": 1,
+      "message": "ok, it looks good;)",
+      "parentUuid": "7a3c09a3_8d23bda6",
+      "range": {
+        "startLine": 328,
+        "startChar": 25,
+        "endLine": 328,
+        "endChar": 30
+      },
+      "revId": "c0f487c845d7c39bf791fb7950fedadfbf50352e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
