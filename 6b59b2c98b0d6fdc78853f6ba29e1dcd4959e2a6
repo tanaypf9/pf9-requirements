@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "7a3c09a3_8d0c9d3c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2017-01-16T20:41:59Z",
+      "side": 1,
+      "message": "yeah, but we can do that in a separate patch i think?",
+      "parentUuid": "7a3c09a3_12544c1f",
+      "range": {
+        "startLine": 228,
+        "startChar": 22,
+        "endLine": 228,
+        "endChar": 29
+      },
+      "revId": "6b59b2c98b0d6fdc78853f6ba29e1dcd4959e2a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a3c09a3_f22d00a9",
         "filename": "upper-constraints.txt",
         "patchSetId": 6
@@ -36,6 +60,30 @@
       "writtenOn": "2017-01-16T20:40:36Z",
       "side": 1,
       "message": "without bumping version of OSC, this patch will break the world again.",
+      "range": {
+        "startLine": 322,
+        "startChar": 25,
+        "endLine": 322,
+        "endChar": 30
+      },
+      "revId": "6b59b2c98b0d6fdc78853f6ba29e1dcd4959e2a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a3c09a3_2d01e905",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 322,
+      "author": {
+        "id": 6482
+      },
+      "writtenOn": "2017-01-16T20:41:59Z",
+      "side": 1,
+      "message": "oops, needs a rebase, this is actually bumped",
+      "parentUuid": "7a3c09a3_f22d00a9",
       "range": {
         "startLine": 322,
         "startChar": 25,
