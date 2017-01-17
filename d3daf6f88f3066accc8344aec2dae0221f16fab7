@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a3c09a3_806534b6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 9796
+      },
+      "writtenOn": "2017-01-17T06:34:26Z",
+      "side": 0,
+      "message": "We make kombu \u003c4.0.0 in https://github.com/openstack/requirements/commit/86f758b6d3f80631f17d0355d81b2c8eb4b58bde\n\nwe need make sure this change doesn\u0027t trigger the bug https://launchpad.net/bugs/1650517 again",
+      "range": {
+        "startLine": 92,
+        "startChar": 0,
+        "endLine": 92,
+        "endChar": 21
+      },
+      "revId": "d3daf6f88f3066accc8344aec2dae0221f16fab7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
