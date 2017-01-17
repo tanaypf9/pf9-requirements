@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a3c09a3_b986f8d8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 303,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2017-01-17T00:52:53Z",
+      "side": 1,
+      "message": "This one is a release from stable/newton branch\nhttps://releases.openstack.org/newton/index.html#newton-python-ironic-inspector-client\nIronic team probably wants to release something newer from master branch, if nothing else than to have a higher major version to ensure upgrades.",
+      "revId": "8864c8fc17ddf554ae85dafbd5a97f904881db70",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
