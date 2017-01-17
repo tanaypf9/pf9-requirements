@@ -1,0 +1,11 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 17 Jan 2017 17:44:31 +0000
+Reviewed-on: https://review.openstack.org/416103
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
