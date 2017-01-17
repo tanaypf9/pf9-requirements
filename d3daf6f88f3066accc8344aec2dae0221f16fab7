@@ -22,6 +22,30 @@
       "revId": "d3daf6f88f3066accc8344aec2dae0221f16fab7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a3c09a3_29b29a94",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 6537
+      },
+      "writtenOn": "2017-01-17T14:06:03Z",
+      "side": 0,
+      "message": "i\u0027m aware of this bug -- i\u0027m one of the people blocking 4.0[1]. i was trying to find a way to get this to merge and allow my dependent patch to follow. if you notice. i want kombu\u003e\u003d4.0 and amqp\u003e\u003d2.0 but i don\u0027t know how to get the ordering done.\n\n[1] https://github.com/openstack/requirements/commit/e319ef70dfd666c98f33ccad732406d128186fd7",
+      "parentUuid": "7a3c09a3_806534b6",
+      "range": {
+        "startLine": 92,
+        "startChar": 0,
+        "endLine": 92,
+        "endChar": 21
+      },
+      "revId": "d3daf6f88f3066accc8344aec2dae0221f16fab7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
