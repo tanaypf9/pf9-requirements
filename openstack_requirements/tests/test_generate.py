@@ -151,3 +151,24 @@ class TestClone(testtools.TestCase):
         generate._clone_versions(freezes, options)
 
         self.assertEqual(expected_freezes, freezes)
+
+
+class TestSortKey(testtools.TestCase):
+
+    def test_oslo(self):
+        self.assertEqual(
+            'rootwrap-oslo',
+            generate._make_sort_key('oslo.rootwrap'),
+        )
+
+    def test_oslo_no_dot(self):
+        self.assertEqual(
+            'test-oslo',
+            generate._make_sort_key('oslotest'),
+        )
+
+    def test_client(self):
+        self.assertEqual(
+            'novaclient',
+            generate._make_sort_key('python-novaclient'),
+        )
