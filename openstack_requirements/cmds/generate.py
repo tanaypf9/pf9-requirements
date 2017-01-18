@@ -214,5 +214,11 @@ def main(argv=None, stdout=None):
         _freeze(options.requirements, python) for python in options.pythons]
     _clone_versions(freezes, options)
     blacklist = _parse_blacklist(options.blacklist)
-    stdout.writelines(_combine_freezes(freezes, blacklist))
+    stdout.writelines(
+        # Insert a blank line after every real input line to reduce
+        # the chances of a merge conflict when several patches try to
+        # update the output file at one time.
+        l + '\n'
+        for l in _combine_freezes(freezes, blacklist)
+    )
     stdout.flush()
