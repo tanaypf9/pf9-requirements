@@ -103,6 +103,7 @@ ddt===1.1.1
 debtcollector===1.11.0
 decorator===4.0.11
 demjson===2.2.4
+devstack-tools==0.1.3
 dib-utils===0.0.11
 discover===0.4.0
 diskimage-builder===1.26.1
