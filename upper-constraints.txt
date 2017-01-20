@@ -188,6 +188,7 @@ lxml===3.7.2
 marathon===0.8.10
 microversion-parse===0.1.4
 mistral===3.0.2
+mitrmproxy===0.18.3
 mock===2.0.0
 monasca-common===1.3.0
 monasca-statsd===1.5.0
