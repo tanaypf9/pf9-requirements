@@ -2,4 +2,3 @@
 # <dependency that is incompatible>==<version>;<list,of,affected,packages>
 
 pyparsing==2.1.10;pulp
-psutil==5.0.1;os-refresh-config
