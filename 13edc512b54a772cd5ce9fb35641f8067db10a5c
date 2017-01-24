@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a3905b3_17506e0a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-01-24T00:49:19Z",
+      "side": 1,
+      "message": "looks like pykafka pulled in gevent, not sure how others feel about this",
+      "revId": "13edc512b54a772cd5ce9fb35641f8067db10a5c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
