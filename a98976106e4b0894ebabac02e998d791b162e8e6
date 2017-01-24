@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a3905b3_4e0b2b7d",
+        "filename": "setup.cfg",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-01-24T10:47:19Z",
+      "side": 1,
+      "message": "spaces instead tab?",
+      "revId": "a98976106e4b0894ebabac02e998d791b162e8e6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
