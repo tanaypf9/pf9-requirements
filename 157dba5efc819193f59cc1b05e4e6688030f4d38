@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a461143_e729048b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12000
+      },
+      "writtenOn": "2017-01-26T15:46:44Z",
+      "side": 1,
+      "message": "Two periods here, also please add a reference to https://github.com/shazow/urllib3/issues/1104",
+      "range": {
+        "startLine": 10,
+        "startChar": 45,
+        "endLine": 10,
+        "endChar": 47
+      },
+      "revId": "157dba5efc819193f59cc1b05e4e6688030f4d38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
