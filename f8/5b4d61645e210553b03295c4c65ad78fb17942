@@ -1,0 +1,15 @@
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Bernard Cafarelli <bcafarel@redhat.com>
+Code-Review+1: Luigi Toscano <ltoscano@redhat.com>
+Code-Review+1: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Jerry Zhao <xyzjerry@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Vitaly Gridnev <vgridnev@mirantis.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 31 Jan 2017 13:07:49 +0000
+Reviewed-on: https://review.openstack.org/426796
+Project: openstack/requirements
+Branch: refs/heads/master
