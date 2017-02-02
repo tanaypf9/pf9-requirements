@@ -1,0 +1,13 @@
+Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+1: gordon chung <gord@live.ca>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 02 Feb 2017 23:32:07 +0000
+Reviewed-on: https://review.openstack.org/425132
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
