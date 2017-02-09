@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a430d35_8f234cbc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-02-09T06:23:40Z",
+      "side": 1,
+      "message": "Could you clarify that this raises the minimum version rather than allowing the newer version?",
+      "revId": "5fc4d93f7a11f02bbdc563ab950e79c6ddbc4f6f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
