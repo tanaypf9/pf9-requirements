@@ -1,0 +1,11 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: gordon chung <gord@live.ca>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 10 Feb 2017 23:59:14 +0000
+Reviewed-on: https://review.openstack.org/410176
+Project: openstack/requirements
+Branch: refs/heads/master
