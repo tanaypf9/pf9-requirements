@@ -123,6 +123,24 @@
       "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba5201f7_359d810a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-02-14T06:13:29Z",
+      "side": 1,
+      "message": "Thanks.  We\u0027ll need legal advise on that as the intent is documented. As many files have explicit copyright notices I think they supersede the generic COPYRIGHT file.\n\nI suggest you bring this up on http://lists.openstack.org/cgi-bin/mailman/listinfo/legal-discuss",
+      "parentUuid": "ba5201f7_574a1727",
+      "revId": "e0311ebb189bead639068cbb3d0936a62df88b8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
