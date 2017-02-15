@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa31d9ce_37582256",
+        "filename": "tools/grep-all.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-02-15T06:46:13Z",
+      "side": 1,
+      "message": "Is the -w really needed? Seems redundant to me with the added anchors given that you\u0027re anyway only matching at the beginning of the line",
+      "revId": "cab79376bd1646262b555e33214ea10008a836f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
