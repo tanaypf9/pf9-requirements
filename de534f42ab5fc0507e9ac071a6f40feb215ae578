@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa31d9ce_af4a9d25",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-02-16T21:50:12Z",
+      "side": 1,
+      "message": "Is this a side effect of raising kombu? Might be good to mention it in the commit message.",
+      "range": {
+        "startLine": 3,
+        "startChar": 7,
+        "endLine": 3,
+        "endChar": 8
+      },
+      "revId": "de534f42ab5fc0507e9ac071a6f40feb215ae578",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
