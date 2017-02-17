@@ -1,0 +1,15 @@
+Code-Review+1: Julie Pichon <jpichon@redhat.com>
+Code-Review+1: Juan Antonio Osorio Robles <jaosorior@redhat.com>
+Code-Review+1: Brad P. Crochet <brad@redhat.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Dougal Matthews <dougal@redhat.com>
+Code-Review+1: Ana Krivokapic <akrivoka@redhat.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 17 Feb 2017 17:55:02 +0000
+Reviewed-on: https://review.openstack.org/421543
+Project: openstack/requirements
+Branch: refs/heads/stable/mitaka
