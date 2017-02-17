@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa31d9ce_c68fb373",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1955
+      },
+      "writtenOn": "2017-02-17T02:58:31Z",
+      "side": 1,
+      "message": "This was not correct, Fedora package review was opened only after this and is currently under review: https://bugzilla.redhat.com/show_bug.cgi?id\u003d1422123",
+      "revId": "c1749152a85a80180198a5985d34d3ab86aeb722",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
