@@ -199,6 +199,8 @@ def _pass_through(req_line, permit_urls=False):
 def to_reqs(content, permit_urls=False):
     for content_line in content.splitlines(True):
         req_line = content_line.strip()
+        if req_line.startswith('#'):
+            continue
         if _pass_through(req_line, permit_urls=permit_urls):
             yield None, content_line
         else:
