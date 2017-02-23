@@ -16,6 +16,24 @@
       "revId": "096240ce3518ea60ffa316bef4b7ae2f25e74dc4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da36d5c6_3f33c4f7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16168
+      },
+      "writtenOn": "2017-02-23T11:49:26Z",
+      "side": 1,
+      "message": "Yeah, sorry I located 0.3.0 as the release where everything goes to hell, after there\u0027s 1.0.0 and everything goes ok.",
+      "parentUuid": "da36d5c6_a4c16956",
+      "revId": "096240ce3518ea60ffa316bef4b7ae2f25e74dc4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
