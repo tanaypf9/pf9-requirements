@@ -184,7 +184,7 @@ html2text===2016.9.19;python_version=='3.5'
 XStatic-JQuery.quicksearch===2.0.3.1
 mpmath===0.19
 XStatic-JQuery-Migrate===1.2.1.1
-appdirs===1.4.0
+appdirs===1.4.2
 tinyrpc===0.5
 influxdb===4.0.0
 funcparserlib===0.3.6
