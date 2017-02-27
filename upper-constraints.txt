@@ -11,7 +11,7 @@ Routes===2.4.1
 rtslib-fb===2.1.62
 smmap===0.9.0
 XStatic-Angular-Bootstrap===2.2.0.0
-WebOb===1.6.3
+WebOb===1.7.1
 pecan===1.2.1
 ryu===4.11
 os-api-ref===1.2.0
@@ -36,7 +36,7 @@ pbr===1.10.0
 microversion-parse===0.1.4
 Pint===0.7.2
 oslo.i18n===3.12.0
-jsonpath-rw-ext===1.0.0
+jsonpath-rw-ext===1.1.0
 python-mistralclient===3.0.0
 oslo.context===2.12.1
 python-senlinclient===1.2.0
@@ -126,7 +126,7 @@ pyroute2===0.4.13
 kazoo===2.2.1
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
-eventlet===0.19.0
+eventlet===0.20.1
 openstack-doc-tools===1.4.0
 frozendict===1.2
 oslo.messaging===5.17.0
@@ -163,6 +163,7 @@ django-compressor===2.1.1
 libvirt-python===3.0.0
 tzlocal===1.3
 python-novaclient===7.1.0
+bcrypt===3.1.3
 os-client-config===1.26.0
 XStatic-Angular-Gettext===2.3.8.0
 Pygments===2.2.0
@@ -175,7 +176,7 @@ Jinja2===2.9.5
 XStatic-Bootstrap-SCSS===3.3.7.1
 pyzabbix===0.7.4
 ptyprocess===0.5.1
-amqp===1.4.9
+amqp===2.1.4
 ruamel.yaml===0.13.14;python_version=='3.4'
 ruamel.yaml===0.13.14;python_version=='3.5'
 websockify===0.8.0
@@ -184,7 +185,7 @@ html2text===2016.9.19;python_version=='3.5'
 XStatic-JQuery.quicksearch===2.0.3.1
 mpmath===0.19
 XStatic-JQuery-Migrate===1.2.1.1
-appdirs===1.4.0
+appdirs===1.4.2
 tinyrpc===0.5
 influxdb===4.0.0
 funcparserlib===0.3.6
@@ -209,7 +210,7 @@ castellan===0.5.0
 oslo.versionedobjects===1.21.0
 webcolors===1.7
 aodhclient===0.8.0
-autobahn===0.17.1
+autobahn===0.17.2
 SQLAlchemy-Utils===0.32.12
 coverage===4.3.4
 freezegun===0.3.8
@@ -233,7 +234,7 @@ XStatic-mdi===1.4.57.0
 django-pyscss===2.0.2
 uritemplate===3.0.0
 django-babel===0.5.1
-docutils===0.12
+docutils===0.13.1
 notifier===1.0.3
 pycrypto===2.6.1
 ujson===1.35
@@ -305,7 +306,7 @@ os-collect-config===5.1.0
 python-qpid-proton===0.16.0
 pysaml2===4.0.2
 oslo.reports===1.17.0
-ceilometermiddleware===1.0.0
+ceilometermiddleware===1.0.1
 python-nss===1.0.0
 testrepository===0.0.20
 sympy===1.0
@@ -315,7 +316,7 @@ python-consul===0.7.0
 seqdiag===0.9.5
 numpy===1.12.0
 repoze.who===2.3
-Sphinx===1.3.6
+Sphinx===1.5.3
 oslo.config===3.22.0
 tempest===15.0.0
 django-floppyforms===1.7.0
@@ -343,7 +344,7 @@ fortiosclient===0.0.2
 stevedore===1.20.0
 botocore===1.5.18
 xmltodict===0.10.2
-pyasn1===0.2.2
+pyasn1===0.2.3
 python-utils===2.0.1
 oslo.rootwrap===5.4.0
 Django===1.8.17
@@ -355,6 +356,7 @@ click===6.7
 docker-pycreds===0.2.1
 XStatic-smart-table===1.4.13.2
 kuryr-lib===0.3.0
+scrypt===0.8.0
 jsonpatch===1.15
 os-testr===0.8.0
 stomp.py===4.1.17
@@ -366,7 +368,7 @@ h2===2.5.2;python_version=='3.4'
 h2===2.5.2;python_version=='3.5'
 dulwich===0.16.3
 pykafka===2.5.0
-kombu===3.0.37
+kombu===4.0.2
 mitmproxy===2.0.0;python_version=='3.4'
 mitmproxy===2.0.0;python_version=='3.5'
 yaql===1.1.2
@@ -493,5 +495,3 @@ pytz===2016.10
 XStatic-D3===3.5.17.0
 sysv-ipc===0.7.0
 scikit-learn===0.18.1
-bcrypt===3.1.3
-scrypt===0.8.0
