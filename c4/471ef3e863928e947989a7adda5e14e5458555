@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Craig Bryant <craig.bryant@hpe.com>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 27 Feb 2017 05:00:26 +0000
+Reviewed-on: https://review.openstack.org/437263
+Project: openstack/requirements
+Branch: refs/heads/master
