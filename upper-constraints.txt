@@ -32,7 +32,7 @@ pykerberos===1.1.14
 certifi===2017.1.23
 requests-aws===0.1.8
 alabaster===0.7.9
-pbr===1.10.0
+pbr===2.0.0
 microversion-parse===0.1.4
 Pint===0.7.2
 oslo.i18n===3.12.0
@@ -253,7 +253,7 @@ warlock===1.2.0
 sphinxcontrib-httpdomain===1.5.0
 murano-pkg-check===0.3.0
 oslo.vmware===2.17.0
-sqlalchemy-migrate===0.10.0
+sqlalchemy-migrate===0.11.0
 gitdb===0.6.4
 python-monascaclient===1.5.0
 ldap3===2.2.1
