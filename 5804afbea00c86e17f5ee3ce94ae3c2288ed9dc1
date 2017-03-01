@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba2be162_ab7c3f73",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 281,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2017-03-01T14:22:39Z",
+      "side": 1,
+      "message": "Make this line\n\n  stevedore\u003e\u003d1.20.0  # Apache-2.0",
+      "revId": "5804afbea00c86e17f5ee3ce94ae3c2288ed9dc1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
