@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba2be162_0d354ef6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-01T21:09:07Z",
+      "side": 1,
+      "message": "why is that necessary here? I think pbr\u003e\u003d2.0.0 is only needed when we bump to sphinx \u003e\u003d 1.5.x, so that should come together with the sphinx bump in https://review.openstack.org/#/c/435810/",
+      "revId": "1d357f779117d804f066f6fd0e615e05c3cfcb84",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba2be162_2d3cd2e1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-01T21:09:07Z",
+      "side": 1,
+      "message": "similarly here..",
+      "revId": "1d357f779117d804f066f6fd0e615e05c3cfcb84",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
