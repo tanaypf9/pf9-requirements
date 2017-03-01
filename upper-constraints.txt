@@ -110,7 +110,7 @@ sphinxcontrib-blockdiag===1.5.5
 kaitaistruct===0.6;python_version=='3.4'
 kaitaistruct===0.6;python_version=='3.5'
 thrift===0.10.0;python_version=='2.7'
-gnocchiclient===3.1.0
+gnocchiclient===3.1.1
 wcwidth===0.1.7
 jsonpath-rw===1.4.0
 prettytable===0.7.2
