@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba2be162_47de1a12",
+        "filename": "global-requirements.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-03-02T13:25:26Z",
+      "side": 0,
+      "message": "this needs to stay in so that tests pass AFAIU",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 57
+      },
+      "revId": "6a8aac8216e5e6fb5f47254a259b276fcdf766fb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
