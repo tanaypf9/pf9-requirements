@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "ba2be162_3cd797c0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-02T03:28:46Z",
+      "side": 1,
+      "message": "To be fair is isn\u0027t needed but it\u0027s a little strange without it.\n\nI\u0027m a little on the fence with this line as this is pretty hard to revert if needed.\n\nHaving said that I\u0027m erring on the side of keeping it all together as the gate really hasn\u0027t been that bad after the release of 2.0.0[1]\n\n\n[1] Sure it could have been better ....",
+      "parentUuid": "ba2be162_0d354ef6",
+      "revId": "1d357f779117d804f066f6fd0e615e05c3cfcb84",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ba2be162_2d3cd2e1",
         "filename": "global-requirements.txt",
         "patchSetId": 12
@@ -30,6 +48,24 @@
       "writtenOn": "2017-03-01T21:09:07Z",
       "side": 1,
       "message": "similarly here..",
+      "revId": "1d357f779117d804f066f6fd0e615e05c3cfcb84",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba2be162_3c9f9751",
+        "filename": "global-requirements.txt",
+        "patchSetId": 12
+      },
+      "lineNbr": 263,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-02T03:28:46Z",
+      "side": 1,
+      "message": "No this is needed if we want to use pbr 2.0.0 (i.e. in u-c) as all previous versions will fail the co-installability check",
+      "parentUuid": "ba2be162_2d3cd2e1",
       "revId": "1d357f779117d804f066f6fd0e615e05c3cfcb84",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
