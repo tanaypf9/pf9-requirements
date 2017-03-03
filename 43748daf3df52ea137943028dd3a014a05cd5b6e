@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba2be162_e7b9a77a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 242,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-03T03:28:54Z",
+      "side": 1,
+      "message": "We need this in python 3.4 also",
+      "revId": "43748daf3df52ea137943028dd3a014a05cd5b6e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
