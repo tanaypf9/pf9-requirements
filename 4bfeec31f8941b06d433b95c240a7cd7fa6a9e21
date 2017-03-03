@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba2be162_d7bd0d69",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2017-03-03T18:48:31Z",
+      "side": 1,
+      "message": "1.1.6 is out and has openstack-specific performance enhancements.  can be bump?",
+      "revId": "4bfeec31f8941b06d433b95c240a7cd7fa6a9e21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
