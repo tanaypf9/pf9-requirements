@@ -93,6 +93,30 @@
       "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a30ddce_326a7b81",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 5756
+      },
+      "writtenOn": "2017-03-07T22:18:03Z",
+      "side": 1,
+      "message": "Weird, copy paste error. I used the generate-constraints stuff and did a diff, but middle-click copy paste and ^C/^V screwed me.",
+      "parentUuid": "9a30ddce_72523315",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 19
+      },
+      "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
