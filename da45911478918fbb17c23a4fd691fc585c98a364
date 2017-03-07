@@ -22,6 +22,30 @@
       "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a30ddce_04661eed",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 5756
+      },
+      "writtenOn": "2017-03-07T19:27:31Z",
+      "side": 1,
+      "message": "Yes. It hasn\u0027t had an official release yet. This is what a release using pbr looks like w/o a release tag. This is the minimum dev release that actually works. After an official release is made, this\u0027ll be updated. We used to have a dev release for the ovs lib a while back because it was the only one with py3 support.",
+      "parentUuid": "9a30ddce_de1133ae",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 19
+      },
+      "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
