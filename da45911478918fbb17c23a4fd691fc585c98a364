@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a30ddce_de1133ae",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 17120
+      },
+      "writtenOn": "2017-03-07T18:57:47Z",
+      "side": 1,
+      "message": "I don\u0027t have knowledge about versions, is this one different because of new project ?",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 19
+      },
+      "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
