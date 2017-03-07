@@ -46,6 +46,53 @@
       "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a30ddce_72523315",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2017-03-07T22:12:42Z",
+      "side": 1,
+      "message": "I wonder if pip version ordering rules will pick next dev versions that you may release.",
+      "parentUuid": "9a30ddce_04661eed",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 19
+      },
+      "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a30ddce_f23e23b7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 9656
+      },
+      "writtenOn": "2017-03-07T22:12:42Z",
+      "side": 1,
+      "message": "it must be \u003d\u003d",
+      "range": {
+        "startLine": 152,
+        "startChar": 8,
+        "endLine": 152,
+        "endChar": 10
+      },
+      "revId": "da45911478918fbb17c23a4fd691fc585c98a364",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
