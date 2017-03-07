@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a30ddce_324c3bc7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 370,
+      "author": {
+        "id": 17120
+      },
+      "writtenOn": "2017-03-07T22:28:50Z",
+      "side": 1,
+      "message": "if pip may not work would it work here ??",
+      "range": {
+        "startLine": 370,
+        "startChar": 8,
+        "endLine": 370,
+        "endChar": 10
+      },
+      "revId": "67bf8f9365f23f62c3a35ccf4015612187826233",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
