@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a30ddce_26ee8aec",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-09T04:25:05Z",
+      "side": 1,
+      "message": "As long as you understand the you\u0027re opting up until the global-requirements at least catches up with you.\n\nHaving said that IIUC Craton doesn\u0027t really *need* to be co-installable with nova/neurton etc.  It runs alongside the cloud services not amongst them",
+      "range": {
+        "startLine": 14,
+        "startChar": 3,
+        "endLine": 14,
+        "endChar": 21
+      },
+      "revId": "7851e7f782c395704affcbf2583243587e8a329c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
