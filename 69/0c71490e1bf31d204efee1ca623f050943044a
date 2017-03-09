@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Hanxi Liu <hanxi.liu@easystack.cn>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Mar 2017 21:53:40 +0000
+Reviewed-on: https://review.openstack.org/442913
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
