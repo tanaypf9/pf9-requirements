@@ -1,0 +1,11 @@
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 09 Mar 2017 22:44:44 +0000
+Reviewed-on: https://review.openstack.org/438454
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
