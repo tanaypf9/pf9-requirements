@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a30ddce_6b682288",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-09T21:32:08Z",
+      "side": 1,
+      "message": "It might be better to simplify this as sys_platform \u003d\u003d \u0027linux\u0027 but I have to admin I\u0027m not certain that\u0027s a thing.\n\nEither way it\u0027s good for a followup patch",
+      "range": {
+        "startLine": 178,
+        "startChar": 17,
+        "endLine": 178,
+        "endChar": 119
+      },
+      "revId": "e12c987b6b1ea54213c4f0d1121037b3bd2c6065",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
