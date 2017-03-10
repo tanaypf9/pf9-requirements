@@ -22,6 +22,23 @@
       "revId": "e12c987b6b1ea54213c4f0d1121037b3bd2c6065",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a30ddce_a5e782aa",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-03-10T16:42:58Z",
+      "side": 1,
+      "message": "the actual value looks like it\u0027s linux2, but I agree, I\u0027m not certian it won\u0027t work on bsd, but given we don\u0027t target bsd that I know of changing it to \u0027\u003d\u003dlinux2\u0027 should be fine",
+      "revId": "e12c987b6b1ea54213c4f0d1121037b3bd2c6065",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
