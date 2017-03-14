@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1ff146_96c42a41",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 275,
+      "author": {
+        "id": 2750
+      },
+      "writtenOn": "2017-03-14T19:49:37Z",
+      "side": 1,
+      "message": "I think the big question from tonyb is can this be fully removed.",
+      "range": {
+        "startLine": 275,
+        "startChar": 18,
+        "endLine": 275,
+        "endChar": 25
+      },
+      "revId": "65c20d640f3692f24db55836a7f8f98bb2855c69",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
