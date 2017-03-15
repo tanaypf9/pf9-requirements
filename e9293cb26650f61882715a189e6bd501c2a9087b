@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1ff146_f1255dae",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-15T03:22:29Z",
+      "side": 1,
+      "message": "This does appear related to me.\n\nI know nova wants this.",
+      "range": {
+        "startLine": 16,
+        "startChar": 4,
+        "endLine": 16,
+        "endChar": 44
+      },
+      "revId": "e9293cb26650f61882715a189e6bd501c2a9087b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
