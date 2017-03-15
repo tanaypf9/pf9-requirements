@@ -39,6 +39,24 @@
       "revId": "e12c987b6b1ea54213c4f0d1121037b3bd2c6065",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1ff146_96c17f83",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-03-15T03:21:13Z",
+      "side": 1,
+      "message": "Right, that\u0027s why I don\u0027t want to do it now.  It has the potential to break things and requires more research but in the mean time this patch addresses an issue for developers working on cygwin.\n\nBased on[1,2,3,4] we probably want \"sys_platform\u003d\u003d\u0027linux\u0027 or sys_platform\u003d\u003d\u0027linux2\u0027\"\n\nInteresting that \u0027sunos5\u0027 doesn\u0027t seem to be listed as a platform for py2.7\n\n\n[1] https://www.python.org/dev/peps/pep-0496/\n[2] https://docs.python.org/2/library/sys.html#sys.platform\n[3] https://docs.python.org/3/library/sys.html#sys.platform\n[4] https://pypi.python.org/pypi/pyinotify",
+      "parentUuid": "9a30ddce_a5e782aa",
+      "revId": "e12c987b6b1ea54213c4f0d1121037b3bd2c6065",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
