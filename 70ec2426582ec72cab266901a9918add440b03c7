@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3a1ff146_f08a74be",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-16T12:34:57Z",
+      "side": 1,
+      "message": "separate review for that exists",
+      "revId": "70ec2426582ec72cab266901a9918add440b03c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1ff146_3095ecdd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 286,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-16T12:34:57Z",
+      "side": 1,
+      "message": "there is a separate review for that",
+      "revId": "70ec2426582ec72cab266901a9918add440b03c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1ff146_d0bad86d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 444,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-16T12:34:57Z",
+      "side": 1,
+      "message": "this is a large jump",
+      "revId": "70ec2426582ec72cab266901a9918add440b03c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3a1ff146_10ad5031",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 460,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-16T12:34:57Z",
+      "side": 1,
+      "message": "separate review exists for this one",
+      "revId": "70ec2426582ec72cab266901a9918add440b03c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
