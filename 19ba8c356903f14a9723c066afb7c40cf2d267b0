@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a1ced50_c80f6186",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-21T13:19:44Z",
+      "side": 1,
+      "message": "Could you change that to kuryr-lib, which seems to be the actual name of the dependency changed here?",
+      "revId": "19ba8c356903f14a9723c066afb7c40cf2d267b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
