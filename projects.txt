@@ -12,6 +12,7 @@ openstack/bifrost
 openstack/blazar
 openstack/blazar-nova
 openstack/castellan
+openstack/castellan-ui
 openstack/ceilometer-powervm
 openstack/cinder
 openstack/cliff
