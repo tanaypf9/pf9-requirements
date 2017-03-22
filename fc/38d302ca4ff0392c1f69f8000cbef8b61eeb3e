@@ -1,0 +1,17 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Eric Brown <browne@vmware.com>
+Code-Review+1: Eric Berglund <esberglu@us.ibm.com>
+Code-Review+1: Eric Fried <efried@us.ibm.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>
+Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Mar 2017 17:45:52 +0000
+Reviewed-on: https://review.openstack.org/443558
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
