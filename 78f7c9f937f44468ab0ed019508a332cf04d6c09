@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffe62b97_5d6a3a80",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 280,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-03-25T03:29:38Z",
+      "side": 1,
+      "message": "Master is currently at SQLAlchemy\u003d\u003d\u003d1.0.17 for UC.  This will break things unless UC is bumped first.",
+      "revId": "78f7c9f937f44468ab0ed019508a332cf04d6c09",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
