@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffe62b97_5959b232",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-03-28T21:08:46Z",
+      "side": 1,
+      "message": "Might be good to mention this one in the commit message too. But meh.",
+      "revId": "0ec23cc74772fdd95e36edb4304771abe4eeeee6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
