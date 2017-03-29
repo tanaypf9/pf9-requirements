@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffe62b97_21a57a47",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-03-29T11:15:10Z",
+      "side": 1,
+      "message": "NIT: extra whitespace around version",
+      "revId": "86d9f84d954438a7d4ea2c5f532abffd770fd626",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
