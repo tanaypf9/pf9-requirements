@@ -2,6 +2,40 @@
   "comments": [
     {
       "key": {
+        "uuid": "ffe62b97_f5f50958",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2017-03-29T13:30:40Z",
+      "side": 1,
+      "message": "Nit: jmespath",
+      "revId": "86d9f84d954438a7d4ea2c5f532abffd770fd626",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ffe62b97_75d8d9ed",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2017-03-29T13:30:40Z",
+      "side": 1,
+      "message": "Nit: jmespath",
+      "revId": "86d9f84d954438a7d4ea2c5f532abffd770fd626",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ffe62b97_21a57a47",
         "filename": "global-requirements.txt",
         "patchSetId": 1
