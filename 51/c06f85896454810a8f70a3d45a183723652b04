@@ -1,0 +1,11 @@
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 29 Mar 2017 11:42:39 +0000
+Reviewed-on: https://review.openstack.org/451196
+Project: openstack/requirements
+Branch: refs/heads/master
