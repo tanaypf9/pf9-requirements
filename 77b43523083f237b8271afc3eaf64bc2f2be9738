@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfeb2761_493b759b",
+        "filename": "requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2017-04-03T17:23:46Z",
+      "side": 1,
+      "message": "You removed the package name, too.",
+      "revId": "77b43523083f237b8271afc3eaf64bc2f2be9738",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
