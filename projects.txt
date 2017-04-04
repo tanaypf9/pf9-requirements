@@ -16,9 +16,6 @@ openstack/cliff
 openstack/compute-hyperv
 openstack/congress
 openstack/debtcollector
-openstack/designate
-openstack/designate-dashboard
-openstack/designate-tempest-plugin
 openstack/diskimage-builder
 openstack/django_openstack_auth
 openstack/dragonflow
