@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfeb2761_d318181f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-04-05T07:04:06Z",
+      "side": 1,
+      "message": "NIT: this is no longer true",
+      "revId": "88a8e8ddcb484d1aa40ec334bccf772c5967623c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
