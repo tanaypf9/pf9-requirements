@@ -41,6 +41,8 @@ openstack/horizon-cisco-ui
 openstack/i18n
 openstack/instack
 openstack/instack-undercloud
+openstack/iotronic
+openstack/iotronic-lightning-rod
 openstack/ironic
 openstack/ironic-inspector
 openstack/ironic-lib
@@ -204,6 +206,7 @@ openstack/python-freezerclient
 openstack/python-glanceclient
 openstack/python-glareclient
 openstack/python-heatclient
+openstack/python-iotronicclient
 openstack/python-ironic-inspector-client
 openstack/python-ironicclient
 openstack/python-karborclient

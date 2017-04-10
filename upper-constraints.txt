@@ -510,3 +510,4 @@ XStatic-D3===3.5.17.0
 sysv-ipc===0.7.0
 scikit-learn===0.18.1
 systemd-python===234
+Twisted===16.6.0
