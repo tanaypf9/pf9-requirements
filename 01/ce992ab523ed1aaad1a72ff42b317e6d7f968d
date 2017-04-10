@@ -1,0 +1,11 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Workflow+1: Alan Pevec <alan.pevec@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 10 Apr 2017 00:38:50 +0000
+Reviewed-on: https://review.openstack.org/427549
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
