@@ -190,6 +190,7 @@ mpmath===0.19
 XStatic-JQuery-Migrate===1.2.1.1
 appdirs===1.4.3
 tinyrpc===0.5
+flask-oslolog===0.1
 Flask-SQLAlchemy===2.2
 influxdb===4.0.0
 funcparserlib===0.3.6
