@@ -22,6 +22,30 @@
       "revId": "09fa0124aa26e101bf9639b5e88c295f993820e6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bff0334d_7ede86da",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 10273
+      },
+      "writtenOn": "2017-04-11T19:14:12Z",
+      "side": 1,
+      "message": "Ah, thanks. I didn\u0027t see it, but that\u0027s useful!",
+      "parentUuid": "bff0334d_d29c7ec1",
+      "range": {
+        "startLine": 31,
+        "startChar": 0,
+        "endLine": 31,
+        "endChar": 39
+      },
+      "revId": "09fa0124aa26e101bf9639b5e88c295f993820e6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
