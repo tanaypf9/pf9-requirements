@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bff0334d_f853e337",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-04-11T08:14:31Z",
+      "side": 1,
+      "message": "nit: can you replace the tab?\n\nalso because u.c is \u003d\u003d0.1 maybe we can replace it with \u003e\u003d0.1 here",
+      "revId": "70add925cdbf32808d96049a180fd3409358323c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
