@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ffa3b31_861a4ec9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 10608
+      },
+      "writtenOn": "2017-04-20T13:16:02Z",
+      "side": 1,
+      "message": "replace with \"Allow pypowervm 1.1.2\" ?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 25
+      },
+      "revId": "a58ec10a82d7fd37f2c5a28ecc52d08e6d7b3ecd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ffa3b31_86312e5d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 10608
+      },
+      "writtenOn": "2017-04-20T13:16:02Z",
+      "side": 1,
+      "message": "s/requirement/upper constraint/",
+      "range": {
+        "startLine": 9,
+        "startChar": 19,
+        "endLine": 9,
+        "endChar": 30
+      },
+      "revId": "a58ec10a82d7fd37f2c5a28ecc52d08e6d7b3ecd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
