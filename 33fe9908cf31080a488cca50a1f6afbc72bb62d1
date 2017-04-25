@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_fdb1f190",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 7012
+      },
+      "writtenOn": "2017-04-25T20:44:51Z",
+      "side": 1,
+      "message": "I think it would be good to explain why this requirements bump is needed.",
+      "revId": "33fe9908cf31080a488cca50a1f6afbc72bb62d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
