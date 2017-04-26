@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_4e649bb9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-04-26T09:22:29Z",
+      "side": 1,
+      "message": "Can you replace the tab with spaces?",
+      "revId": "8db54de9725f1dda2b708e84e2e2c74cd101903d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
