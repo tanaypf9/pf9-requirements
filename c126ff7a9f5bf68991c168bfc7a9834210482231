@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_30d8761c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-04-26T20:57:55Z",
+      "side": 1,
+      "message": "There is a separate review for that",
+      "revId": "c126ff7a9f5bf68991c168bfc7a9834210482231",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_10d57ae5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 386,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-04-26T20:57:55Z",
+      "side": 1,
+      "message": "Same here",
+      "revId": "c126ff7a9f5bf68991c168bfc7a9834210482231",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
