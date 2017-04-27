@@ -1,0 +1,13 @@
+Code-Review+1: dane-fichter <dane.fichter@jhuapl.edu>
+Code-Review+1: Jackie Truong <jacklyn.truong@jhuapl.edu>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: ChangBo Guo(gcb) <glongwave@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 27 Apr 2017 08:03:49 +0000
+Reviewed-on: https://review.openstack.org/459851
+Project: openstack/requirements
+Branch: refs/heads/master
