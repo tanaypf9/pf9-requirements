@@ -1,4 +1,4 @@
-ntlm-auth===1.0.2
+ntlm-auth===1.0.3
 voluptuous===0.10.5
 chardet===3.0.2
 enum-compat===0.0.2
@@ -48,7 +48,7 @@ oslo.context===2.13.0
 python-senlinclient===1.3.0
 rcssmin===1.0.6
 pycadf===2.5.0
-grpcio===1.2.1
+grpcio===1.3.0
 pysendfile===2.0.1
 fixtures===3.0.0
 neutron-lib===1.5.0
@@ -59,7 +59,7 @@ click-spinner===0.1.7
 nosehtmloutput===0.0.5
 waitress===1.0.2
 mistral===4.0.0
-os-refresh-config===6.0.0
+os-refresh-config===6.1.0
 jsbeautifier===1.6.12;python_version=='3.4'
 jsbeautifier===1.6.12;python_version=='3.5'
 pysnmp===4.3.5
@@ -80,7 +80,7 @@ networkx===1.11
 bashate===0.5.1
 XStatic-Angular===1.5.8.0
 pyngus===2.2.0
-Pillow===4.1.0
+Pillow===4.1.1
 python-mimeparse===1.6.0
 tripleo-common===7.0.0
 Tempita===0.5.2
@@ -134,7 +134,7 @@ pyroute2===0.4.13
 kazoo===2.2.1
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
-eventlet===0.20.1
+eventlet===0.21.0
 openstack-doc-tools===1.5.0
 frozendict===1.2
 oslo.messaging===5.22.0
@@ -146,8 +146,8 @@ reno===2.2.0
 unicodecsv===0.14.1;python_version=='2.7'
 imagesize===0.7.1
 pathlib===1.0.1;python_version=='2.7'
-urllib3===1.20
-graphviz===0.6
+urllib3===1.21
+graphviz===0.7
 PyKMIP===0.6.0
 python-subunit===1.2.0
 tornado===4.4.3;python_version=='3.4'
@@ -162,7 +162,7 @@ backports.ssl-match-hostname===3.5.0.1
 pylxd===2.2.3
 anyjson===0.3.3
 requests-mock===1.3.0
-os-apply-config===6.0.0
+os-apply-config===6.1.0
 oslosphinx===4.12.0
 mox3===0.21.0
 gunicorn===19.7.1
@@ -171,7 +171,7 @@ django-compressor===2.1.1
 libvirt-python===3.2.0
 python-zunclient===0.2.0
 tzlocal===1.4
-python-novaclient===7.1.0
+python-novaclient===8.0.0
 bcrypt===3.1.3
 os-client-config===1.27.0
 XStatic-Angular-Gettext===2.3.8.0
@@ -230,7 +230,7 @@ pyperclip===1.5.27;python_version=='3.5'
 cassandra-driver===3.9.0
 mox===0.5.3
 XStatic-Angular-Schema-Form===0.8.13.0
-gabbi===1.33.0
+gabbi===1.34.0
 nwdiag===1.0.4
 XStatic-bootswatch===3.3.7.0
 XStatic-term.js===0.0.7.0
@@ -244,12 +244,12 @@ brotlipy===0.6.0;python_version=='3.5'
 XStatic-mdi===1.4.57.0
 django-pyscss===2.0.2
 uritemplate===3.0.0
-django-babel===0.5.1
+django-babel===0.6.0
 docutils===0.13.1
 notifier===1.0.3
 pycrypto===2.6.1
 ujson===1.35
-selenium===3.4.0
+selenium===3.4.1
 python-glareclient===0.3.1
 mypy===0.501;python_version=='3.4'
 mypy===0.501;python_version=='3.5'
@@ -272,7 +272,7 @@ oslo.vmware===2.19.0
 sqlalchemy-migrate===0.11.0
 gitdb===0.6.4
 python-monascaclient===1.6.0
-ldap3===2.2.2
+ldap3===2.2.3
 requests-ntlm===1.0.0
 automaton===1.9.0
 argh===0.26.2;python_version=='3.4'
@@ -289,7 +289,7 @@ txaio===2.7.0
 elasticsearch===2.4.1
 django-nose===1.4.4
 XStatic-JQuery.TableSorter===2.14.5.1
-pifpaf===0.27.0
+pifpaf===1.1.0
 pysmi===0.1.2
 blockdiag===1.5.3
 testtools===2.2.0
@@ -306,7 +306,7 @@ os-traits===0.2.0
 SecretStorage===2.3.1
 XStatic-Rickshaw===1.5.0.0
 iso8601===0.1.11
-tooz===1.54.0
+tooz===1.55.0
 linecache2===1.0.0
 oauth2client===3.0.0
 idna===2.5
@@ -321,7 +321,7 @@ pika===0.10.0
 oslo.cache===1.20.0
 WebTest===2.0.27
 openstack.nose-plugin===0.11
-os-collect-config===6.0.0
+os-collect-config===6.1.0
 python-qpid-proton===0.17.0
 pysaml2===4.0.2
 oslo.reports===1.19.0
@@ -336,7 +336,7 @@ seqdiag===0.9.5
 numpy===1.12.1
 repoze.who===2.3
 Sphinx===1.5.5
-oslo.config===3.24.0
+oslo.config===4.0.0
 tempest===16.0.0
 django-floppyforms===1.7.0
 openstackdocstheme===1.7.0
@@ -344,11 +344,11 @@ progressbar2===3.18.1
 zake===0.2.2
 python-solumclient===2.3.0
 PyMySQL===0.7.11
-kubernetes===1.0.0
+kubernetes===2.0.0b1
 httplib2===0.10.3
 bottle===0.12.13
 betamax===0.8.0
-construct===2.8.11
+construct===2.8.12
 pyparsing===2.2.0
 dogpile.cache===0.6.2
 python-barbicanclient===4.2.0
@@ -359,8 +359,8 @@ msgpack-python===0.4.8
 proboscis===1.2.6.0
 fortiosclient===0.0.2
 stevedore===1.21.0
-botocore===1.5.43
-xmltodict===0.10.2
+botocore===1.5.45
+xmltodict===0.11.0
 pyasn1===0.2.3
 python-utils===2.1.0
 oslo.rootwrap===5.7.0
@@ -383,15 +383,15 @@ stomp.py===4.1.17
 xattr===0.9.2
 systemd-python===234
 python-memcached===1.58
-openstacksdk===0.9.14
+openstacksdk===0.9.16
 six===1.10.0
 h2===2.6.2;python_version=='3.4'
 h2===2.6.2;python_version=='3.5'
 dulwich===0.17.3
 pykafka===2.5.0
 kombu===4.0.1
-mitmproxy===2.0.1;python_version=='3.4'
-mitmproxy===2.0.1;python_version=='3.5'
+mitmproxy===2.0.2;python_version=='3.4'
+mitmproxy===2.0.2;python_version=='3.5'
 betamax-matchers===0.4.0
 yaql===1.1.3
 requestsexceptions===1.2.0
@@ -428,7 +428,7 @@ tempest-lib===1.0.0
 spec-cleaner===0.9.4
 repoze.lru===0.6
 rfc3986===0.4.1
-tenacity===4.0.1
+tenacity===4.1.0
 logilab-common===1.4.0
 XStatic-Magic-Search===0.2.5.1
 python-designateclient===2.6.0
@@ -439,7 +439,7 @@ functools32===3.2.3.post2;python_version=='2.7'
 watchdog===0.8.3;python_version=='3.4'
 watchdog===0.8.3;python_version=='3.5'
 gevent===1.2.1
-os-vif===1.4.0
+os-vif===1.4.1
 Werkzeug===0.12.1
 pyasn1-modules===0.0.8
 APScheduler===3.3.1
@@ -468,7 +468,7 @@ prompt-toolkit===1.0.14
 pathtools===0.1.2;python_version=='3.4'
 pathtools===0.1.2;python_version=='3.5'
 qpid-python===0.32.1;python_version=='2.7'
-contextlib2===0.5.4
+contextlib2===0.5.5
 XStatic-Angular-lrdragndrop===1.0.2.2
 python-congressclient===1.6.0
 ovsdbapp===0.3.0
@@ -514,7 +514,7 @@ XStatic-jquery-ui===1.12.0.1
 monasca-statsd===1.6.0
 python-dateutil===2.6.0
 virtualenv===15.1.0
-colorama===0.3.7
+colorama===0.3.9
 ironic-lib===2.7.0
 pytz===2017.2
 XStatic-D3===3.5.17.0
