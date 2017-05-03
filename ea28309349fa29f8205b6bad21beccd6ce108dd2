@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_f2a14497",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 409,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2017-05-03T16:24:59Z",
+      "side": 1,
+      "message": "unrelated?",
+      "revId": "ea28309349fa29f8205b6bad21beccd6ce108dd2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
