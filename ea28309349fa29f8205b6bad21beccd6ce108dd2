@@ -34,6 +34,23 @@
       "revId": "ea28309349fa29f8205b6bad21beccd6ce108dd2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f044301_1f6dea97",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 409,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-05-04T14:55:44Z",
+      "side": 1,
+      "message": "If it\u0027s brought in as a dependency of pydot3, that\u0027d explain it\u0027s appearance.",
+      "revId": "ea28309349fa29f8205b6bad21beccd6ce108dd2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
