@@ -16,6 +16,24 @@
       "revId": "ea28309349fa29f8205b6bad21beccd6ce108dd2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f044301_e47875f9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 409,
+      "author": {
+        "id": 18653
+      },
+      "writtenOn": "2017-05-04T14:45:35Z",
+      "side": 1,
+      "message": "Followed the guidelines for generating[1], this is what I\u0027ve got as a result; but dunno.\n\n[1] https://docs.openstack.org/developer/requirements/#proposing-changes",
+      "parentUuid": "5ff73747_f2a14497",
+      "revId": "ea28309349fa29f8205b6bad21beccd6ce108dd2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
