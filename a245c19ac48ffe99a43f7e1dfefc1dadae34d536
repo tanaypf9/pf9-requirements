@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f044301_3ce2d8d6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 525,
+      "author": {
+        "id": 14525
+      },
+      "writtenOn": "2017-05-05T10:06:44Z",
+      "side": 1,
+      "message": "need to have 3 \u0027\u003d\u0027 not 2",
+      "range": {
+        "startLine": 525,
+        "startChar": 5,
+        "endLine": 525,
+        "endChar": 7
+      },
+      "revId": "a245c19ac48ffe99a43f7e1dfefc1dadae34d536",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
