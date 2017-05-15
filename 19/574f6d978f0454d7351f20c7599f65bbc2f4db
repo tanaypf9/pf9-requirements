@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Witold Bedyk <witold.bedyk@est.fujitsu.com>
+Code-Review+1: Lee Yarwood <lyarwood@redhat.com>
+Code-Review+1: Jay Pipes <jaypipes@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 15 May 2017 18:31:17 +0000
+Reviewed-on: https://review.openstack.org/464664
+Project: openstack/requirements
+Branch: refs/heads/master
