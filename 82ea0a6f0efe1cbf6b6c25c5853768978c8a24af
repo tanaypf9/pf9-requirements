@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f013ff3_d9455719",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 151,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-05-15T16:51:00Z",
+      "side": 1,
+      "message": "Why do we care about this if ceilometer isn\u0027t using upper-constraints?\n\nhttps://github.com/openstack/ceilometer/blob/stable/ocata/tox.ini#L9\n\nJust for signaling?",
+      "revId": "82ea0a6f0efe1cbf6b6c25c5853768978c8a24af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
