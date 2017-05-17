@@ -1,0 +1,10 @@
+Code-Review+2: Sean Dague <sean@dague.net>
+Code-Review+1: Gage Hugo <gagehugo@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 17 May 2017 03:29:06 +0000
+Reviewed-on: https://review.openstack.org/465172
+Project: openstack/requirements
+Branch: refs/heads/master
