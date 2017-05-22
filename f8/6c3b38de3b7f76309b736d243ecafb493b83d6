@@ -1,0 +1,13 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: chenying <ying.chen@huawei.com>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 May 2017 20:07:28 +0000
+Reviewed-on: https://review.openstack.org/418225
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
