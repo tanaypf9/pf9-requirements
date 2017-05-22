@@ -1,0 +1,14 @@
+Code-Review+1: Julien Danjou <julien@danjou.info>
+Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Matt Riedemann <mriedem.os@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 May 2017 19:43:14 +0000
+Reviewed-on: https://review.openstack.org/448549
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
