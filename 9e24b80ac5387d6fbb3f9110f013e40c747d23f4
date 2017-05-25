@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_34b590ce",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-05-25T18:23:43Z",
+      "side": 1,
+      "message": "s/maintence/maintenance/",
+      "range": {
+        "startLine": 160,
+        "startChar": 14,
+        "endLine": 160,
+        "endChar": 23
+      },
+      "revId": "9e24b80ac5387d6fbb3f9110f013e40c747d23f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
