@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff0f0b1f_e1199522",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 172,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2017-05-25T19:19:50Z",
+      "side": 1,
+      "message": "The phrasing here may not be conveying the intended meaning. To emphasize the important part, I suggest rewording it to say \n\n  In stable branches, we usually only update constraints for projects managed \n  within the OpenStack community. Exceptions are made for other projects\n  when there are gate issues. Those updates must be proposed by hand.",
+      "revId": "3db834b265d81d50c8cf73951149d10d629058aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff0f0b1f_c1eb31da",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 179,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2017-05-25T19:19:50Z",
+      "side": 1,
+      "message": "The requirements team",
+      "range": {
+        "startLine": 179,
+        "startChar": 2,
+        "endLine": 179,
+        "endChar": 18
+      },
+      "revId": "3db834b265d81d50c8cf73951149d10d629058aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
