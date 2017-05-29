@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_cd191b89",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-29T09:25:50Z",
+      "side": 1,
+      "message": "ContextualVersionConflict: (SQLAlchemy 1.1.10 (/home/jenkins/workspace/gate-requirements-tox-py27-check-uc-ubuntu-xenial/.tox/py27-check-uc/lib/python2.7/site-packages), Requirement.parse(\u0027SQLAlchemy\u003c1.1.0,\u003e\u003d1.0.10\u0027), set([\u0027mistral\u0027]))",
+      "revId": "96cf057de2a754c9ada8448d991933427a05e5e8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
