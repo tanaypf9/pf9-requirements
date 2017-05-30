@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "df140735_b73856d3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2017-05-30T15:37:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df140735_09a48756",
+      "range": {
+        "startLine": 34,
+        "startChar": 22,
+        "endLine": 34,
+        "endChar": 36
+      },
+      "revId": "62113870733489228f6e0ec8e536949eed84424c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df140735_69be6366",
         "filename": "/COMMIT_MSG",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2017-05-30T15:04:59Z",
       "side": 1,
       "message": "exapbg -\u003e exabgp (or ExaBGP)",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 6
+      },
+      "revId": "62113870733489228f6e0ec8e536949eed84424c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_973552dd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2017-05-30T15:37:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "df140735_69be6366",
       "range": {
         "startLine": 40,
         "startChar": 0,
