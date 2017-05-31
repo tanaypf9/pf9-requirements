@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_4309252f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-31T09:35:41Z",
+      "side": 1,
+      "message": "Typo in warening?",
+      "revId": "ffe217a1053c871aa8052c2c9649cfa1bbc8654b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_be09382d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-31T09:35:41Z",
+      "side": 1,
+      "message": "Typo in referencs?",
+      "revId": "ffe217a1053c871aa8052c2c9649cfa1bbc8654b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_1e182473",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-31T09:35:41Z",
+      "side": 1,
+      "message": "Typo in requiremites?",
+      "revId": "ffe217a1053c871aa8052c2c9649cfa1bbc8654b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
