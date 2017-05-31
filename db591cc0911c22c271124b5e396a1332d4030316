@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_1df497f1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-05-31T20:08:54Z",
+      "side": 1,
+      "message": "I shouldn\u0027t have to see the bug for details. The commit message should explain the issue, so people using git log can sort it out later without having to use launchpad.\n\nWhat happened in 5.25.0 (and/or 5.24.2) that is causing issues? There is no indication from the bug report what the actual failure is, or what the cause is, i.e. is someone able to revert the suspect change and run it through to see if it fixes the issue? Why is this only a problem for magnum and not other projects like nova/cinder/etc?",
+      "revId": "db591cc0911c22c271124b5e396a1332d4030316",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
