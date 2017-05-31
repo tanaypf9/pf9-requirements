@@ -16,6 +16,24 @@
       "revId": "db591cc0911c22c271124b5e396a1332d4030316",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_00e1ccfe",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 20498
+      },
+      "writtenOn": "2017-05-31T20:52:49Z",
+      "side": 1,
+      "message": "The problem occurred after release 5.25.0 which contains this [1] patch.\n\n[1] https://review.openstack.org/#/c/463673/",
+      "parentUuid": "df140735_1df497f1",
+      "revId": "db591cc0911c22c271124b5e396a1332d4030316",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
