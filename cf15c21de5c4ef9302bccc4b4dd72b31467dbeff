@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_18c14e81",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-31T15:47:07Z",
+      "side": 1,
+      "message": "I think that how it is now will avoid 5.25 but not 5.24.2. If this is expected maybe you can update the bug and the description?",
+      "revId": "cf15c21de5c4ef9302bccc4b4dd72b31467dbeff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
