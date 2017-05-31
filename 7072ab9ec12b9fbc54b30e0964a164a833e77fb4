@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_add110d0",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 325,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-05-31T08:29:20Z",
+      "side": 1,
+      "message": "OpenStack?",
+      "revId": "7072ab9ec12b9fbc54b30e0964a164a833e77fb4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
