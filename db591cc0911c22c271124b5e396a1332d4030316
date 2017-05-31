@@ -34,6 +34,24 @@
       "revId": "db591cc0911c22c271124b5e396a1332d4030316",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_a02220ff",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 20498
+      },
+      "writtenOn": "2017-05-31T21:00:24Z",
+      "side": 1,
+      "message": "I can\u0027t update the commit message until we now the exact reason. This is why there is the unfriendly commit message. I hope we can find out soon, any help is welcome.",
+      "parentUuid": "df140735_00e1ccfe",
+      "revId": "db591cc0911c22c271124b5e396a1332d4030316",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
