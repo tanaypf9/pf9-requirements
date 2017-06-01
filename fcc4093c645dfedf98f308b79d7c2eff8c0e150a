@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_ff79c592",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2017-06-01T12:05:58Z",
+      "side": 1,
+      "message": "You\u0027re missing a comma before this requirement",
+      "range": {
+        "startLine": 11,
+        "startChar": 117,
+        "endLine": 11,
+        "endChar": 123
+      },
+      "revId": "fcc4093c645dfedf98f308b79d7c2eff8c0e150a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
