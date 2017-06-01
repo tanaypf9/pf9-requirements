@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_3fb4dd34",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 6816
+      },
+      "writtenOn": "2017-06-01T12:08:52Z",
+      "side": 1,
+      "message": "This is a duplicate of https://review.openstack.org/469810 and that one has a more complete commit message. :)",
+      "revId": "c48145643ddd474c1122f156910c8a2c6931ef16",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
