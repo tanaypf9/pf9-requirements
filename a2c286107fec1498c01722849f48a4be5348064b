@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_6a521115",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-06T12:15:13Z",
+      "side": 1,
+      "message": "Requirement.parse(\u0027SQLAlchemy\u003c1.1.0,\u003e\u003d1.0.10\u0027), set([\u0027mistral\u0027]))",
+      "revId": "a2c286107fec1498c01722849f48a4be5348064b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
