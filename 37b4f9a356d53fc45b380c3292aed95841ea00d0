@@ -16,6 +16,24 @@
       "revId": "37b4f9a356d53fc45b380c3292aed95841ea00d0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_5e7cb770",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2017-06-06T10:03:27Z",
+      "side": 1,
+      "message": "Ahem, well, I should have removed the comment indeed :)",
+      "parentUuid": "df140735_de3327f5",
+      "revId": "37b4f9a356d53fc45b380c3292aed95841ea00d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
