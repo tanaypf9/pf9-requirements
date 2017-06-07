@@ -285,7 +285,7 @@ semantic_version>=2.3.1  # BSD
 fasteners>=0.7  # Apache-2.0
 scrypt>=0.8.0  # BSD
 simplejson>=2.2.0  # MIT
-six>=1.9.0  # MIT
+six>=1.9.0,!=1.10.0  # MIT
 scipy>=0.17.1  # BSD
 scikit-learn>=0.17.1  # BSD
 # NOTE(yamahata):
