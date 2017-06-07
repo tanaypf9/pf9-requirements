@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_d512b862",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-07T12:27:21Z",
+      "side": 1,
+      "message": "six?",
+      "revId": "0ed84c42a43e795b8c415226e5958cdaee493a47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_781d210e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-07T12:27:21Z",
+      "side": 1,
+      "message": "I do no understand the error. `six.moves.urllib` is there since long time ago, is 1.10.0 moving it away?\n\nFor me looks like a problem in six.moves.urllib.parse, maybe related with (not sure how)\n\nhttps://github.com/benjaminp/six/commit/2c3492a9f16d294cd5e6b43d6110c5a3a2e58b4c\n\nSo I think that the commit message is not correct",
+      "revId": "0ed84c42a43e795b8c415226e5958cdaee493a47",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
