@@ -134,6 +134,13 @@ class UpdateTest(testtools.TestCase):
         msg = u"'thisisnotarealdependency' is not in global-requirements.txt"
         self.assertEqual([project.Error(message=msg)], errors)
 
+    def test_requirement_in_blacklist(self):
+        actions = update._process_project(
+            common.bad_project, common.global_reqs, None, None, None, False,
+            blacklist={'thisisnotarealdepedency': None})
+        errors = [a for a in actions if type(a) is project.Error]
+        self.assertEqual([], errors)
+
     def test_requirement_not_in_global_non_fatal(self):
         reqs = common.project_file(
             self.fail, common.bad_project, 'requirements.txt',
