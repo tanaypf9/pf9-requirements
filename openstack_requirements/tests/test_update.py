@@ -131,13 +131,13 @@ class UpdateTest(testtools.TestCase):
         actions = update._process_project(
             common.bad_project, common.global_reqs, None, None, None, False)
         errors = [a for a in actions if type(a) is project.Error]
-        msg = u"'thisisnotarealdepedency' is not in global-requirements.txt"
+        msg = u"'thisisnotarealdependency' is not in global-requirements.txt"
         self.assertIn(msg, errors[0].message)
 
     def test_requirement_in_blacklist(self):
         actions = update._process_project(
             common.bad_project, common.global_reqs, None, None, None, False,
-            blacklist={'thisisnotarealdepedency': None})
+            blacklist={'thisisnotarealdependency': None})
         errors = [a for a in actions if type(a) is project.Error]
         self.assertEqual([], errors)
 
@@ -151,7 +151,7 @@ class UpdateTest(testtools.TestCase):
         reqs = common.project_file(
             self.fail, common.bad_project, 'requirements.txt',
             softupdate=True)
-        self.assertIn("thisisnotarealdepedency", reqs)
+        self.assertIn("thisisnotarealdependency", reqs)
 
     # testing output
     def test_non_verbose_output(self):
