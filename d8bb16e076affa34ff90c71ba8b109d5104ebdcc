@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_11a922de",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 533,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2017-06-13T19:28:29Z",
+      "side": 1,
+      "message": "Whoops, rebase error",
+      "revId": "d8bb16e076affa34ff90c71ba8b109d5104ebdcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
