@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_a76ae97d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2017-06-15T15:55:46Z",
+      "side": 0,
+      "message": "Are we using astroid from somewhere other than pylint?\nBumping this to the latest breaks pylint and vise versa.",
+      "revId": "e6ae6a25e67623c89dc2d89b234157e52c64a9fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
