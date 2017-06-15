@@ -1,0 +1,11 @@
+Code-Review+1: Cao Xuan Hoang <hoangcx@vn.fujitsu.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 15 Jun 2017 16:19:45 +0000
+Reviewed-on: https://review.openstack.org/474044
+Project: openstack/requirements
+Branch: refs/heads/master
