@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f231b9d_23cd9030",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-16T12:09:48Z",
+      "side": 1,
+      "message": "Requirement.parse(\u0027pyasn1\u003e\u003d0.2.3\u0027), set([\u0027pysnmp\u0027])",
+      "revId": "2221b8397939128316db990887f0ff6f42a02799",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f231b9d_e3eb1875",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-16T12:09:48Z",
+      "side": 1,
+      "message": "XFAIL while checking conflicts for tripleo-common: SQLAlchemy 1.1.10 conflicts with SQLAlchemy\u003c1.1.0,\u003e\u003d1.0.10\n\nXFAIL while checking conflicts for mistral: SQLAlchemy 1.1.10 conflicts with SQLAlchemy\u003c1.1.0,\u003e\u003d1.0.10\n\nI guess not relevant now",
+      "revId": "2221b8397939128316db990887f0ff6f42a02799",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
