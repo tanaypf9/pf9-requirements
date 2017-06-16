@@ -16,6 +16,24 @@
       "revId": "0ff1b83cafa4f91b5795f020e77718e0053719d6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f231b9d_1311d152",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 358,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-06-16T03:51:55Z",
+      "side": 1,
+      "message": "If it\u0027s only used as part of a toxenv used in testing then we can probably make a case for a followup patch to remove it.",
+      "parentUuid": "7f231b9d_e138c6a0",
+      "revId": "0ff1b83cafa4f91b5795f020e77718e0053719d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }

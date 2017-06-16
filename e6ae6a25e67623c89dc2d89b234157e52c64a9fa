@@ -16,6 +16,24 @@
       "revId": "e6ae6a25e67623c89dc2d89b234157e52c64a9fa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f231b9d_182330bf",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-06-16T03:51:55Z",
+      "side": 0,
+      "message": "Doesn\u0027t look like it[1].  This seems to only be here to help pylint so we could make a followup change to remove it.\n\nhttp://codesearch.openstack.org/?q\u003dimport%20astroid\u0026i\u003dnope\u0026files\u003d\u0026repos\u003d",
+      "parentUuid": "7f231b9d_a76ae97d",
+      "revId": "e6ae6a25e67623c89dc2d89b234157e52c64a9fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
