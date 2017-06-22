@@ -1,0 +1,10 @@
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 22 Jun 2017 21:25:19 +0000
+Reviewed-on: https://review.openstack.org/476504
+Project: openstack/requirements
+Branch: refs/heads/master
