@@ -16,6 +16,24 @@
       "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_84c15e83",
+        "filename": "doc/source/conf.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 19737
+      },
+      "writtenOn": "2017-06-23T17:56:24Z",
+      "side": 1,
+      "message": "Subprocess.Popen will return byte string type, but os.popen does not. I am not sure this commit is necessary now. Maybe utf-8 type is better.",
+      "parentUuid": "5f201791_3e55fb1d",
+      "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
