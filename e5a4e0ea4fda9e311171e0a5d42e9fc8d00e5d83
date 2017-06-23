@@ -34,6 +34,23 @@
       "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_f1021109",
+        "filename": "doc/source/conf.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-06-23T20:55:01Z",
+      "side": 1,
+      "message": "In python 3.4 I get the following\n\n\u003e\u003e\u003e import subprocess\n\u003e\u003e\u003e p \u003d subprocess.Popen(\u0027/bin/ls\u0027, stdout\u003dsubprocess.PIPE)\n\u003e\u003e\u003e p.stdout.read()\nb\u0027file1\\nfile2\\n\u0027\n\nI think the behavior changed at some point in the 3.x releases.  In any case I think this is a good change and the worst it could do is pass it through an additional decode. (tested in py2.7 and 3.4)",
+      "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
