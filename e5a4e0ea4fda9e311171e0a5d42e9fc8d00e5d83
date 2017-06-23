@@ -51,6 +51,24 @@
       "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_b15a5927",
+        "filename": "doc/source/conf.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-23T21:03:16Z",
+      "side": 1,
+      "message": "But this is `os` no `subprocess`. Internally `os.popen()` is using the one for `subprocess`:\n\nhttps://github.com/python/cpython/blob/3.6/Lib/os.py#L985\n\nBut as you can see is wrapper into io.TextIOWrapper.",
+      "parentUuid": "5f201791_f1021109",
+      "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
