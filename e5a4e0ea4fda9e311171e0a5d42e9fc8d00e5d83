@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_3e55fb1d",
+        "filename": "doc/source/conf.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-23T16:59:10Z",
+      "side": 1,
+      "message": "Actually I am not sure:\n\n    Python 3.6.1\n    \u003e\u003e\u003e p \u003d os.popen(\u0027ls\u0027)\n    \u003e\u003e\u003e out \u003d p.read()\n    \u003e\u003e\u003e type(out)\n    \u003cclass \u0027str\u0027\u003e",
+      "revId": "e5a4e0ea4fda9e311171e0a5d42e9fc8d00e5d83",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
