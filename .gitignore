@@ -1,4 +1,3 @@
-*.egg-info
 *.pyc
 .*.swp
 *~
@@ -9,5 +8,5 @@ AUTHORS
 ChangeLog
 dist
 .eggs
-*.egg
+*.egg*
 *.pot
