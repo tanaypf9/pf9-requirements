@@ -16,6 +16,24 @@
       "revId": "5180c56ab123cf949837e3d0edf7f05fd3cc047a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_57992e1d",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 439,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-06-29T05:52:19Z",
+      "side": 1,
+      "message": "Yes in some cases upper-constraints wasn\u0027t enough to fix it.  As we get closer to 100% coverage with constraints I expect this will become vanishingly small.",
+      "parentUuid": "3f1d235d_9773464e",
+      "revId": "5180c56ab123cf949837e3d0edf7f05fd3cc047a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
