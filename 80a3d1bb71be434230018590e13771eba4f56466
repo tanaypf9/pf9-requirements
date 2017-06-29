@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_bef17d98",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-06-29T01:35:42Z",
+      "side": 1,
+      "message": "Nits in case you need to update for some other reason:\n\ns/Havign/Having/\n\ns/guidlines/guidelines/",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 6
+      },
+      "revId": "80a3d1bb71be434230018590e13771eba4f56466",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
