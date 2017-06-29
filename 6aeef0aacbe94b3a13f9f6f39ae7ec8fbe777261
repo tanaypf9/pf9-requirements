@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_8093f34f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-06-29T13:02:56Z",
+      "side": 1,
+      "message": "Requirement.parse(\u0027pyasn1\u003e\u003d0.2.3\u0027), set([\u0027pysnmp\u0027]))\n\nBut there there is 0.2.2",
+      "revId": "6aeef0aacbe94b3a13f9f6f39ae7ec8fbe777261",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
