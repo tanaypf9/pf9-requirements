@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_189bc9c9",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 436,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-06-29T22:11:03Z",
+      "side": 1,
+      "message": "s,be.,be:,",
+      "revId": "0d46d7c9d3ceffc355ab3fa316a9611e6be802fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_b882954e",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 437,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-06-29T22:11:03Z",
+      "side": 1,
+      "message": "Add the .txt suffix to g-r",
+      "revId": "0d46d7c9d3ceffc355ab3fa316a9611e6be802fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_58914199",
+        "filename": "README.rst",
+        "patchSetId": 3
+      },
+      "lineNbr": 439,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-06-29T22:11:03Z",
+      "side": 1,
+      "message": "s,and and,and,",
+      "revId": "0d46d7c9d3ceffc355ab3fa316a9611e6be802fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
