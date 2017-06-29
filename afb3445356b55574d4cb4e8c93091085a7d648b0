@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f201791_1e38713b",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 428,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-06-29T01:37:46Z",
+      "side": 1,
+      "message": "security",
+      "range": {
+        "startLine": 428,
+        "startChar": 45,
+        "endLine": 428,
+        "endChar": 53
+      },
+      "revId": "afb3445356b55574d4cb4e8c93091085a7d648b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f201791_de39d93f",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 439,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-06-29T01:37:46Z",
+      "side": 1,
+      "message": "required",
+      "range": {
+        "startLine": 439,
+        "startChar": 43,
+        "endLine": 439,
+        "endChar": 52
+      },
+      "revId": "afb3445356b55574d4cb4e8c93091085a7d648b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
