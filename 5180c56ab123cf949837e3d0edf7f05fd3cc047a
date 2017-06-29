@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_9773464e",
+        "filename": "README.rst",
+        "patchSetId": 2
+      },
+      "lineNbr": 439,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-06-29T05:33:46Z",
+      "side": 1,
+      "message": "and update all projects that require it.\n\nI wonder if you\u0027re saying that updating uc isn\u0027t enough (e.g. fixing the pip install situation rather than just the ci environment)",
+      "revId": "5180c56ab123cf949837e3d0edf7f05fd3cc047a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
