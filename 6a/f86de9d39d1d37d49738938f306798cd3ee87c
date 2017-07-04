@@ -1,0 +1,9 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 04 Jul 2017 21:26:30 +0000
+Reviewed-on: https://review.openstack.org/479940
+Project: openstack/requirements
+Branch: refs/heads/master
