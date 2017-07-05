@@ -1,0 +1,10 @@
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 05 Jul 2017 20:12:24 +0000
+Reviewed-on: https://review.openstack.org/480588
+Project: openstack/requirements
+Branch: refs/heads/master
