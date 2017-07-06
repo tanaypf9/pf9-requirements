@@ -1,0 +1,11 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Major Hayden <major@mhtx.net>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 06 Jul 2017 02:08:06 +0000
+Reviewed-on: https://review.openstack.org/480577
+Project: openstack/requirements
+Branch: refs/heads/master
