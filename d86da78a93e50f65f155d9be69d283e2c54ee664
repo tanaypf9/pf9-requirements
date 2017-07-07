@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_749f8865",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-07-07T11:58:16Z",
+      "side": 1,
+      "message": "Requirement.parse(\u0027pyasn1\u003e\u003d0.2.3\u0027), set([\u0027pysnmp\u0027])",
+      "revId": "d86da78a93e50f65f155d9be69d283e2c54ee664",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
