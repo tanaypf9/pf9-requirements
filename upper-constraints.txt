@@ -4,7 +4,7 @@ chardet===3.0.4
 enum-compat===0.0.2
 rsa===3.4.2
 restructuredtext-lint===1.0.1
-netmiko===1.4.1
+netmiko===1.4.2
 instack-undercloud===7.1.0
 PasteDeploy===1.5.2
 typing===3.6.1
@@ -64,7 +64,7 @@ waitress===1.0.2
 os-refresh-config===7.0.0
 jsbeautifier===1.6.14;python_version=='3.4'
 jsbeautifier===1.6.14;python_version=='3.5'
-pysnmp===4.3.3
+pysnmp===4.3.8
 sphinxcontrib-websupport===1.0.1
 Mako===1.0.6
 XStatic-angular-ui-router===0.3.1.2
@@ -134,6 +134,7 @@ virtualbmc===1.1.0
 deprecation===1.0.1
 SQLAlchemy===1.1.11
 pyroute2===0.4.17
+google-auth===1.0.1
 kazoo===2.4.0
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
@@ -208,13 +209,13 @@ passlib===1.7.1
 dib-utils===0.0.11
 xlwt===1.2.0
 cliff===2.7.0
-os-brick===1.13.1
+os-brick===1.15.0
 trollius===2.1
 scp===0.10.2
 xlrd===1.0.0
 python-zaqarclient===1.6.0
 funcsigs===1.0.2;python_version=='2.7'
-zhmcclient===0.13.0
+zhmcclient===0.14.0
 dnspython3===1.15.0;python_version=='3.4'
 dnspython3===1.15.0;python_version=='3.5'
 ldappool===2.1.0
@@ -236,7 +237,7 @@ pyperclip===1.5.27
 cassandra-driver===3.10
 mox===0.5.3
 XStatic-Angular-Schema-Form===0.8.13.0
-gabbi===1.34.1
+gabbi===1.35.0
 nwdiag===1.0.4
 XStatic-bootswatch===3.3.7.0
 XStatic-term.js===0.0.7.0
@@ -322,7 +323,7 @@ oauth2client===4.1.2
 idna===2.5
 python-karborclient===0.3.0
 weakrefmethod===1.0.3;python_version=='2.7'
-PuLP===1.6.5
+PuLP===1.6.6
 crc16===0.1.1
 protobuf===3.3.0
 os-dpm===1.0.0
@@ -358,7 +359,7 @@ progressbar2===3.30.2
 zake===0.2.2
 python-solumclient===2.4.0
 PyMySQL===0.7.11
-kubernetes===2.0.0
+kubernetes===3.0.0a1
 httplib2===0.10.3
 bottle===0.12.13
 betamax===0.8.0
@@ -381,7 +382,7 @@ python-utils===2.1.0
 oslo.rootwrap===5.7.0
 Django===1.10.7
 pexpect===4.2.1
-cmd2===0.7.4
+cmd2===0.7.5
 redis===2.10.5
 jmespath===0.9.3
 click===6.7
