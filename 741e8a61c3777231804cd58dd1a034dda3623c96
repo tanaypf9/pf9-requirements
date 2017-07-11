@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_529d7155",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-07-11T07:12:42Z",
+      "side": 1,
+      "message": "I think we removed this a while ago (at least we don\u0027t package it anymore in gentoo)",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_32ac358b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 407,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-07-11T07:12:42Z",
+      "side": 1,
+      "message": "salt seems kinda big as a dep, not sure about it",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_12a7f9a9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 442,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-07-11T07:12:42Z",
+      "side": 1,
+      "message": "iirc we\u0027ve removed linters from gate, though yamllint wasn\u0027t removed in that I don\u0027t think we want to add it still",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
