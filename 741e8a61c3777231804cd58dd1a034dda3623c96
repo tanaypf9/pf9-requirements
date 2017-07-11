@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_71ebabdb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-07-11T23:35:24Z",
+      "side": 1,
+      "message": "As Matthew says we don\u0027t want this so your project will need to be updated to not need it.",
+      "parentUuid": "3f1d235d_529d7155",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_32ac358b",
         "filename": "global-requirements.txt",
         "patchSetId": 4
@@ -36,6 +54,24 @@
     },
     {
       "key": {
+        "uuid": "3f1d235d_11ab5789",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 407,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-07-11T23:35:24Z",
+      "side": 1,
+      "message": "So this is the main point of this review.  We\u0027d need this to be handled as a seperate request as documented here:\n\nhttp://git.openstack.org/cgit/openstack/requirements/tree/README.rst#n265\n\nHaving said that it\u0027s akin to adding ansible here so it\u0027d need to be considered here *very carefully*",
+      "parentUuid": "3f1d235d_32ac358b",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f1d235d_12a7f9a9",
         "filename": "global-requirements.txt",
         "patchSetId": 4
@@ -47,6 +83,24 @@
       "writtenOn": "2017-07-11T07:12:42Z",
       "side": 1,
       "message": "iirc we\u0027ve removed linters from gate, though yamllint wasn\u0027t removed in that I don\u0027t think we want to add it still",
+      "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f1d235d_f1ad7b9b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 442,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-07-11T23:35:24Z",
+      "side": 1,
+      "message": "I think this should probably be added to blacklist.txt",
+      "parentUuid": "3f1d235d_12a7f9a9",
       "revId": "741e8a61c3777231804cd58dd1a034dda3623c96",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
