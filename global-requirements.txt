@@ -38,7 +38,7 @@ django_compressor>=2.0  # MIT
 django-floppyforms>=1,<2  # BSD
 django-formtools  # BSD
 django_openstack_auth>=3.5.0  # Apache-2.0
-dnspython>=1.14.0;python_version=='2.7'  # http://www.dnspython.org/LICENSE
+dnspython>=1.14.0;python_version<'3.0'  # http://www.dnspython.org/LICENSE
 dnspython3>=1.12.0,!=1.13.0,!=1.14.0;python_version>='3.0'  # http://www.dnspython.org/LICENSE
 # Note(tonyb): We don't actually directly depend on docutils but we pull it in
 # indirectly and we needed to blacklist 0.13.1 for problems with
@@ -48,7 +48,7 @@ dogpile.cache>=0.6.2  # BSD
 dogtag-pki>=10.3.5.1  # LGPLv3+
 dulwich>=0.15.0  # Apache-2.0
 elasticsearch>=2.0.0,<=3.0.0 # Apache-2.0
-enum34;python_version=='2.7' or python_version=='2.6' or python_version=='3.3'  # BSD
+enum34;python_version<'3.0'  # BSD
 # NOTE: New versions of eventlet should not be accepted lightly
 # as they have earned a reputation of frequently breaking things.
 # NOTE(sdague): before allowing in >= 0.21 please be sure
@@ -63,9 +63,9 @@ flask-oslolog    # Apache-2.0
 Flask-RESTful>=0.3.5     # BSD
 Flask-SQLAlchemy>=2.0    # BSD
 fortiosclient>=0.0.2 # Apache-2.0
-futures>=3.0;python_version=='2.7' or python_version=='2.6'  # BSD
+futures>=3.0;python_version<'3.0'  # BSD
 futurist>=0.11.0,!=0.15.0  # Apache-2.0
-funcsigs>=0.4;python_version=='2.7' or python_version=='2.6'  # Apache-2.0
+funcsigs>=0.4;python_version<'3.0'  # Apache-2.0
 gitdb>=0.6.4 # BSD License (3 clause)
 glance_store>=0.22.0            # Apache-2.0
 google-api-python-client>=1.4.2        # Apache-2.0
@@ -73,7 +73,7 @@ graphviz>=0.4.0,!=0.5.0 # MIT License
 greenlet>=0.3.2  # MIT
 GitPython>=1.0.1 # BSD License (3 clause)
 gunicorn>=19.0  # MIT
-happybase>=0.5,!=0.7,!=1.0.0;python_version=='2.7'  # MIT
+happybase>=0.5,!=0.7,!=1.0.0;python_version<'3.0'  # MIT
 heat-translator>=0.4.0 # Apache-2.0
 httplib2>=0.7.5  # MIT
 icalendar>=3.10 # BSD
@@ -208,7 +208,7 @@ pydotplus>=2.0.2   # MIT License
 crc16>=0.1.1  # LGPLv3+
 pyzabbix>=0.7.4  # LGPL
 statsd>=3.2.1  # MIT
-weakrefmethod>=1.0.2;python_version=='2.7'  # PSF
+weakrefmethod>=1.0.2;python_version<'3.0'  # PSF
 
 # NOTE(flaper87): This added 2 packages to `integration.sh`
 # uuid-dev and swig
@@ -277,7 +277,7 @@ python-dateutil>=2.4.2  # BSD
 pytz>=2013.6  # MIT
 pyudev  # LGPLv2.1+
 PyYAML>=3.10.0  # MIT
-qpid-python;python_version=='2.7'  # Apache-2.0
+qpid-python;python_version<'3.0'  # Apache-2.0
 reno>=1.8.0,!=2.3.1  # Apache-2.0
 requests>=2.14.2  # Apache-2.0
 requests-aws>=0.1.4    # BSD License (3 clause)
@@ -380,7 +380,7 @@ ldappool>=2.0.0 # MPL
 mock>=2.0  # BSD
 mox>=0.5.3  # Apache-2.0
 mox3>=0.7.0,!=0.19.0  # Apache-2.0
-MySQL-python;python_version=='2.7'  # GPL with FOSS exception
+MySQL-python;python_version<'3.0'  # GPL with FOSS exception
 nodeenv>=0.9.4  # BSD
 nose  # LGPL
 nose-exclude  # LGPL
