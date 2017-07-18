@@ -1,0 +1,14 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Gorka Eguileor <geguileo@redhat.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 18 Jul 2017 01:26:54 +0000
+Reviewed-on: https://review.openstack.org/484342
+Project: openstack/requirements
+Branch: refs/heads/master
