@@ -1,0 +1,10 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 20 Jul 2017 10:23:28 +0000
+Reviewed-on: https://review.openstack.org/485221
+Project: openstack/requirements
+Branch: refs/heads/master
