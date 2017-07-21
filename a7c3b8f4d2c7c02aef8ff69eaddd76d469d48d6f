@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f1a1f67_a5a821db",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 516,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-07-21T06:02:50Z",
+      "side": 1,
+      "message": "This thing just wont stay gone :(\n\nActually this is probably an issue.  Both docker and docker-py install into the same namespace so we have *something* in our broader eco-system that could cause a conflict down the path",
+      "revId": "a7c3b8f4d2c7c02aef8ff69eaddd76d469d48d6f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
