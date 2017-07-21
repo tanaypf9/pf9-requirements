@@ -16,6 +16,24 @@
       "revId": "a7c3b8f4d2c7c02aef8ff69eaddd76d469d48d6f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f1a1f67_527d8ce5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 516,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-07-21T08:40:28Z",
+      "side": 1,
+      "message": "I can\u0027t find it now, but I thought we were down to one project that still had docker instead of docker-py (or maybe the other way around?) and the patch for that finally went through to switch it.\n\nQuite possible I have that wrong though.",
+      "parentUuid": "1f1a1f67_a5a821db",
+      "revId": "a7c3b8f4d2c7c02aef8ff69eaddd76d469d48d6f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
