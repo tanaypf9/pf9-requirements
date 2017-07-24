@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_1af05690",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-07-24T15:02:20Z",
+      "side": 1,
+      "message": "huh? missing 3rd \u003d ?",
+      "revId": "919bc5e368fb0c71bcb7c47585b70a65a6bc4322",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_7a3e422a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 325,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-07-24T15:02:20Z",
+      "side": 1,
+      "message": "this is a separate review already",
+      "revId": "919bc5e368fb0c71bcb7c47585b70a65a6bc4322",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
