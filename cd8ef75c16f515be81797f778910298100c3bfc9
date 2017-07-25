@@ -34,6 +34,23 @@
       "revId": "cd8ef75c16f515be81797f778910298100c3bfc9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_8dc73646",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-07-25T22:04:18Z",
+      "side": 1,
+      "message": "I was talking about when uwsgi is updated, but since we don\u0027t track uwsgi I guess we need to block it here.",
+      "revId": "cd8ef75c16f515be81797f778910298100c3bfc9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
