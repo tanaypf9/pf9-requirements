@@ -16,6 +16,24 @@
       "revId": "cd8ef75c16f515be81797f778910298100c3bfc9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff346bd7_ad98babf",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-07-25T21:50:51Z",
+      "side": 1,
+      "message": "It will be fixed in 2.0.1, but imho that doesn\u0027t.mean that 2.0 should suddenly not be blacklisted anymore. So \u0027never\u0027 would bw the comment..",
+      "parentUuid": "ff346bd7_9bdbf319",
+      "revId": "cd8ef75c16f515be81797f778910298100c3bfc9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
