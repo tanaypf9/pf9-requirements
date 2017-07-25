@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_9bdbf319",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-07-25T21:31:09Z",
+      "side": 1,
+      "message": "I\u0027d like to have a comment here to know when we can remove the block",
+      "revId": "cd8ef75c16f515be81797f778910298100c3bfc9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
