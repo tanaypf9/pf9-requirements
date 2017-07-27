@@ -1,0 +1,13 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+1: Alexandra Settle <a.settle@outlook.com>
+Code-Review+1: Nam Nguyen Hoai <namnh@vn.fujitsu.com>
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 27 Jul 2017 19:00:45 +0000
+Reviewed-on: https://review.openstack.org/487714
+Project: openstack/requirements
+Branch: refs/heads/master
