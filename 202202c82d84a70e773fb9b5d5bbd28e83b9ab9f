@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_33497d30",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-07-27T18:21:52Z",
+      "side": 1,
+      "message": "so this is specifically compatibility with which django version?",
+      "revId": "202202c82d84a70e773fb9b5d5bbd28e83b9ab9f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
