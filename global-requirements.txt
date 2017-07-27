@@ -209,6 +209,7 @@ crc16>=0.1.1  # LGPLv3+
 pyzabbix>=0.7.4  # LGPL
 statsd>=3.2.1  # MIT
 weakrefmethod>=1.0.2;python_version=='2.7'  # PSF
+opentracing>=1.2.2 # MIT
 
 # NOTE(flaper87): This added 2 packages to `integration.sh`
 # uuid-dev and swig
