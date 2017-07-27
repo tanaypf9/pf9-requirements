@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_ba41b9ab",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-07-27T21:29:26Z",
+      "side": 1,
+      "message": "This will also need to wait on the upper constraints being raised.",
+      "revId": "4eb9259e13af19ccb65571589e3caed68a636988",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
