@@ -1,0 +1,10 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+1: Jeremy Liu <liujiong@gohighsec.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 27 Jul 2017 19:00:53 +0000
+Reviewed-on: https://review.openstack.org/487793
+Project: openstack/requirements
+Branch: refs/heads/master
