@@ -36,7 +36,7 @@ cursive===0.1.2
 oslo.service===1.25.0
 django-appconf===1.0.2
 pykerberos===1.1.14
-certifi===2017.4.17
+certifi===2017.7.27.1
 sphinxcontrib-nwdiag===0.9.5
 requests-aws===0.1.8
 alabaster===0.7.10
@@ -134,7 +134,6 @@ virtualbmc===1.1.0
 deprecation===1.0.1
 SQLAlchemy===1.1.12
 pyroute2===0.4.18
-google-auth===1.0.1
 kazoo===2.4.0
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
@@ -214,7 +213,7 @@ os-brick===1.15.1
 trollius===2.1
 scp===0.10.2
 xlrd===1.0.0
-python-zaqarclient===1.6.0
+python-zaqarclient===1.7.0
 funcsigs===1.0.2;python_version=='2.7'
 zhmcclient===0.14.0
 dnspython3===1.15.0;python_version=='3.4'
@@ -318,7 +317,7 @@ XStatic-Spin===1.2.5.2
 os-traits===0.3.3
 SecretStorage===2.3.1
 XStatic-Rickshaw===1.5.0.0
-iso8601===0.1.11
+iso8601===0.1.12
 tooz===1.58.0
 linecache2===1.0.0
 oauth2client===4.1.2
@@ -377,7 +376,7 @@ msgpack-python===0.4.8
 proboscis===1.2.6.0
 fortiosclient===0.0.2
 stevedore===1.25.0
-botocore===1.5.89
+botocore===1.5.90
 xmltodict===0.11.0
 pyasn1===0.3.1
 python-utils===2.2.0
@@ -437,7 +436,7 @@ wrapt===1.10.10
 oslo.privsep===1.22.0
 zope.interface===4.4.2
 oslo.policy===1.25.0
-python-muranoclient===0.13.0
+python-muranoclient===0.14.0
 pyeclib===1.5.0
 django-openstack-auth===3.5.0
 wsgi-intercept===1.5.0
@@ -514,7 +513,6 @@ Flask===0.12.2
 pymod2pkg===0.8.2
 happybase===1.1.0;python_version=='2.7'
 marathon===0.9.0
-docker-py===1.10.6
 fasteners===0.14.1
 sortedcontainers===1.5.7;python_version=='3.4'
 sortedcontainers===1.5.7;python_version=='3.5'
