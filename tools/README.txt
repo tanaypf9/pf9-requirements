@@ -51,6 +51,11 @@ integration.sh
 
 Used in the gate!  Install all the "$PROJECTS" to verify that g-r and the each project are compatible
 
+noop-change.sh
+--------------
+
+Generate a bulk no-op changes in supplied projects.  Usful if we have a risky chnage in global-requirements or upper-constraints and we want to test impacted projects.
+
 what-broke.py
 -------------
 figure out what requirements change likely broke us.
