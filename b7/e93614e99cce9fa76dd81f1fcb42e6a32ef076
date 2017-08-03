@@ -1,0 +1,10 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: wanghongtaozz <wanghongtaozz@inspur.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 03 Aug 2017 01:22:17 +0000
+Reviewed-on: https://review.openstack.org/489411
+Project: openstack/requirements
+Branch: refs/heads/master
