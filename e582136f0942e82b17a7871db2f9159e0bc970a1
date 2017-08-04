@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df3967d1_9a0cbfec",
+        "filename": "tools/noop-change.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-04T03:13:49Z",
+      "side": 1,
+      "message": "Needs work:\n\n contrib/heat_docker/heat_docker/__init__.py:1:1: H104  File contains nothing but comments\n\nhttp://logs.openstack.org/87/490687/1/check/gate-heat-pep8-ubuntu-xenial/9449d3d/console.html#_2017-08-04_00_40_41_187316",
+      "range": {
+        "startLine": 118,
+        "startChar": 4,
+        "endLine": 118,
+        "endChar": 63
+      },
+      "revId": "e582136f0942e82b17a7871db2f9159e0bc970a1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
