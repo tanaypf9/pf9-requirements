@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf3e73b7_8419b689",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-05T00:34:13Z",
+      "side": 1,
+      "message": "It looks to me like that\u0027s a catch-all bug and not specific to your issue.  but okay",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 19
+      },
+      "revId": "d1848a60fefde1a1618b5bfa55eed6e285939a84",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
