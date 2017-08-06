@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf3e73b7_28abf1d6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-06T23:15:55Z",
+      "side": 1,
+      "message": "I know Matthew, tried to get some momentum on the pycryptodome vs cryptography transition but I don\u0027t think we got there :(\n\nIs there any chance you can spend \u003c15mins checking on the state of this.  At the very least update the comment to remove the reference to mitaka with is well EOLd?",
+      "revId": "34bc1c724dea7ff8532cf485ba96efd4bdf472b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf3e73b7_e8b4c937",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 388,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-06T23:15:55Z",
+      "side": 1,
+      "message": "This should be 1.6.0 if we\u0027re bumping it anyway.  I know I looked at removing it altogether but decided that wasn\u0027t possible.  Don\u0027t recall why now :(",
+      "revId": "34bc1c724dea7ff8532cf485ba96efd4bdf472b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
