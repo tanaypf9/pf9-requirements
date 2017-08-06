@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf3e73b7_08914d9a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-06T23:17:28Z",
+      "side": 1,
+      "message": "Any chance you can add a no-op chnage to u-c so we trigger the cross-* jobs so we can see that in CI?\n\nI don\u0027t mind if it\u0027s a DNM patch on top of this one so this is still mergeable",
+      "range": {
+        "startLine": 7,
+        "startChar": 41,
+        "endLine": 7,
+        "endChar": 51
+      },
+      "revId": "571a0621c7008d4c84bb261b8f88b09437f350c0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
