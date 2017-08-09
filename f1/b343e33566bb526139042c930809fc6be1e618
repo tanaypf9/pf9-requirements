@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 09 Aug 2017 19:17:42 +0000
+Reviewed-on: https://review.openstack.org/492106
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
