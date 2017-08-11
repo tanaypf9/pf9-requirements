@@ -10,7 +10,7 @@
 #    License for the specific language governing permissions and limitations
 #    under the License.
 
-import os.path
+import os
 import shutil
 
 import fixtures
@@ -18,6 +18,37 @@ import fixtures
 from openstack_requirements.cmds import update
 from openstack_requirements import project
 from openstack_requirements import requirement
+
+
+_TRUE_VALUES = ('True', 'true', '1', 'yes')
+
+
+class OutputStreamCapture(fixtures.Fixture):
+    """Capture output streams during tests.
+
+    This fixture captures errant printing to stderr / stdout during
+    the tests and lets us see those streams at the end of the test
+    runs instead. Useful to see what was happening during failed
+    tests.
+    """
+    def setUp(self):
+        super(OutputStreamCapture, self).setUp()
+        if os.environ.get('OS_STDOUT_CAPTURE') in _TRUE_VALUES:
+            self.out = self.useFixture(fixtures.StringStream('stdout'))
+            self.useFixture(
+                fixtures.MonkeyPatch('sys.stdout', self.out.stream))
+        if os.environ.get('OS_STDERR_CAPTURE') in _TRUE_VALUES:
+            self.err = self.useFixture(fixtures.StringStream('stderr'))
+            self.useFixture(
+                fixtures.MonkeyPatch('sys.stderr', self.err.stream))
+
+    @property
+    def stderr(self):
+        return self.err._details["stderr"].as_text()
+
+    @property
+    def stdout(self):
+        return self.out._details["stdout"].as_text()
 
 
 def _file_to_list(fname):
