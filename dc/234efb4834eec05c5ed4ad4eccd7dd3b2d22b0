@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Sean Dague <sean@dague.net>
+Workflow+1: Sean Dague <sean@dague.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sat, 12 Aug 2017 14:02:38 +0000
+Reviewed-on: https://review.openstack.org/493117
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
