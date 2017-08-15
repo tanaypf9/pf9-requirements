@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_92d36804",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-15T23:24:35Z",
+      "side": 1,
+      "message": "Please include the std. answers:\n\n    [Q] Is the library actively maintained?\n    [A] \n    \n    [Q] Is the library good code?\n    [A] \n    \n    [Q] Is the library python 3 compatible?\n    [A] \n    \n    [Q] Is the library license compatible?\n    [A] \n    \n    [Q] Is the library already packaged in the distros we target (Ubuntu latest / Fedora latest)?\n    [A]\n    \n    [Q] Is the function of this library already covered by other libraries in global-requirements.txt?\n    [A]\n    \n    [Q] Is the library required for OpenStack project or related dev or infrastructure setup? (Answer to this should be Yes,\n        of course) Which?\n    [A] \n\n\nThey should be pretty simple for an OpenStack project",
+      "revId": "db41737dad6adf85e738d6a1fe1a77b5731751d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_72a00491",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-15T23:24:35Z",
+      "side": 1,
+      "message": "Package doesn\u0027t currently sync from global requirements.  While this isn\u0027t mandatory it\u0027s strinly advised fro OpenStack projects.",
+      "range": {
+        "startLine": 112,
+        "startChar": 0,
+        "endLine": 112,
+        "endChar": 13
+      },
+      "revId": "db41737dad6adf85e738d6a1fe1a77b5731751d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_f28f5427",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-15T23:24:35Z",
+      "side": 1,
+      "message": "This needs to be a real release not a pre-release. I see [1] so we can probably do this once 5.0.0 is cut  But only on master\n\n[1] http://git.openstack.org/cgit/openstack/releases/tree/deliverables/pike/mistral.yaml",
+      "range": {
+        "startLine": 112,
+        "startChar": 15,
+        "endLine": 112,
+        "endChar": 24
+      },
+      "revId": "db41737dad6adf85e738d6a1fe1a77b5731751d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
