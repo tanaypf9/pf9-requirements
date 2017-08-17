@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_ac937a00",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-08-17T20:43:26Z",
+      "side": 1,
+      "message": "No isn\u0027t quite correct here, is it? After all it is a fork of testr and isn\u0027t ostestr also similar as well as nose and all the other runners?",
+      "revId": "7ae761f2af63a2de777371189159c4b281e630c8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
