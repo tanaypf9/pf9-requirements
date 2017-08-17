@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_2109d030",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-17T23:59:48Z",
+      "side": 1,
+      "message": "Was this intentional?  If so should it be part of the first patch in this series?",
+      "range": {
+        "startLine": 66,
+        "startChar": 0,
+        "endLine": 66,
+        "endChar": 14
+      },
+      "revId": "15d4d65b4006992584a19bc61d312cbc1ef67edd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_041b7a73",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 281,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-08-17T23:59:48Z",
+      "side": 1,
+      "message": "Clearly this will clash with: https://review.openstack.org/490151",
+      "revId": "15d4d65b4006992584a19bc61d312cbc1ef67edd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
