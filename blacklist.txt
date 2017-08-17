@@ -10,3 +10,6 @@ pep257
 pep8
 pyflakes
 pylint
+# os-service-types is similar to tzdata - the latest version is always the
+# desired version
+os-service-types
