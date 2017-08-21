@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_9c4f8969",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-08-21T06:31:05Z",
+      "side": 1,
+      "message": "Should this be docker instead of docker-py?",
+      "revId": "96912d7336096c15e2b953d9c1a8cad4f8a3579c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f436f4f_3c409d35",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-08-21T06:31:05Z",
+      "side": 1,
+      "message": "Did you mean 2.4.2? Otherwise this makes no sense to me",
+      "revId": "96912d7336096c15e2b953d9c1a8cad4f8a3579c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
