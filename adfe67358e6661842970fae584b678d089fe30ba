@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_9da8ef77",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 366,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-08-22T11:38:41Z",
+      "side": 1,
+      "message": "Requirement.parse(\u0027websocket-client\u003c\u003d0.40.0,\u003e\u003d0.32.0\u0027), set([\u0027kubernetes\u0027])), but we have websocket-client 0.44",
+      "revId": "adfe67358e6661842970fae584b678d089fe30ba",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
