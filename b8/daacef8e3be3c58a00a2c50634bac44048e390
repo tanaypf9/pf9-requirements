@@ -1,0 +1,11 @@
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+1: David Moreau Simard <dms@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 29 Aug 2017 08:27:41 +0000
+Reviewed-on: https://review.openstack.org/498521
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
