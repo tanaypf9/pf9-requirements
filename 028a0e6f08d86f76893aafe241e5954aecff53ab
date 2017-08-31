@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_3d0fc988",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 18142
+      },
+      "writtenOn": "2017-08-31T10:31:11Z",
+      "side": 1,
+      "message": "plz add Closes-Bug: #1714206",
+      "revId": "028a0e6f08d86f76893aafe241e5954aecff53ab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
