@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Kevin Benton <kevin@benton.pub>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 01 Sep 2017 11:36:35 +0000
+Reviewed-on: https://review.openstack.org/499485
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
