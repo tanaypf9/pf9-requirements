@@ -133,7 +133,7 @@ semantic-version===2.6.0
 tablib===0.12.1
 virtualbmc===1.2.0
 deprecation===1.0.1
-SQLAlchemy===1.1.12
+SQLAlchemy===1.1.13
 pyroute2===0.4.21
 google-auth===1.0.2
 kazoo===2.4.0
@@ -323,7 +323,7 @@ XStatic-Spin===1.2.5.2
 os-traits===0.3.3
 SecretStorage===2.3.1
 XStatic-Rickshaw===1.5.0.0
-iso8601===0.1.11
+iso8601===0.1.12
 tooz===1.58.0
 linecache2===1.0.0
 oauth2client===4.1.2
@@ -336,7 +336,7 @@ protobuf===3.4.0
 os-dpm===1.1.0
 sushy===1.1.0
 python-neutronclient===6.5.0
-pika===0.10.0
+pika===0.11.0
 oslo.cache===1.25.0
 WebTest===2.0.28
 openstack.nose-plugin===0.11
@@ -366,7 +366,7 @@ progressbar2===3.34.2
 zake===0.2.2
 python-solumclient===2.5.0
 PyMySQL===0.7.11
-kubernetes===2.0.0
+kubernetes===3.0.0
 httplib2===0.10.3
 bottle===0.12.13
 betamax===0.8.0
