@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_07a2ecae",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 145,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-09-06T18:43:30Z",
+      "side": 1,
+      "message": "Looks like cinder unit tests are failing here too:\n\nhttp://logs.openstack.org/70/500770/9/check/gate-cross-cinder-python27-ubuntu-xenial/1b40c85/console.html#_2017-09-06_18_33_51_290254",
+      "revId": "27cead1bdf0469a3da6a02a2789c8a3d6886e109",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_c70bc4d2",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 367,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-09-06T18:43:30Z",
+      "side": 1,
+      "message": "This is blowing up too:\n\nhttp://logs.openstack.org/70/500770/9/check/gate-requirements-tox-py27-check-uc-ubuntu-xenial/abd8845/console.html#_2017-09-06_18_34_09_080151\n\nContextualVersionConflict: (websocket-client 0.44.0 (/home/jenkins/workspace/gate-requirements-tox-py27-check-uc-ubuntu-xenial/.tox/py27-check-uc/lib/python2.7/site-packages), Requirement.parse(\u0027websocket-client\u003c\u003d0.40.0,\u003e\u003d0.32.0\u0027), set([\u0027kubernetes\u0027]))\n\nAnd we have: websocket-client\u003d\u003d\u003d0.44.0",
+      "revId": "27cead1bdf0469a3da6a02a2789c8a3d6886e109",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
