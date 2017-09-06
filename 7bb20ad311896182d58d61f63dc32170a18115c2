@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_0eeb2edc",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 337,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-09-06T15:35:08Z",
+      "side": 1,
+      "message": "This is breaking keystone:\n\nhttp://logs.openstack.org/70/500770/6/check/gate-tempest-dsvm-neutron-full-ubuntu-xenial/b3ffc6b/logs/screen-keystone.txt.gz#_Sep_06_11_01_57_971542",
+      "revId": "7bb20ad311896182d58d61f63dc32170a18115c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
