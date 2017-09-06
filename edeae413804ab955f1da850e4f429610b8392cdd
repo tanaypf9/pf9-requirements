@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f287b81_61c9a057",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-09-06T17:34:00Z",
+      "side": 1,
+      "message": "Something in here is breaking cinder:\n\nhttp://logs.openstack.org/70/500770/7/check/gate-tempest-dsvm-neutron-full-ubuntu-xenial/b813494/logs/screen-c-api.txt.gz?level\u003dTRACE#_Sep_06_17_25_08_182255",
+      "revId": "edeae413804ab955f1da850e4f429610b8392cdd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
