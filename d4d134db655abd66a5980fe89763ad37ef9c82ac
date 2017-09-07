@@ -16,6 +16,29 @@
       "revId": "d4d134db655abd66a5980fe89763ad37ef9c82ac",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_42a7a9be",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 12
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2017-09-07T13:10:52Z",
+      "side": 1,
+      "message": "These are not actually needed since one is merged and the other two are for oslo.messaging, which was moved out of this patch.",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 53
+      },
+      "revId": "d4d134db655abd66a5980fe89763ad37ef9c82ac",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
