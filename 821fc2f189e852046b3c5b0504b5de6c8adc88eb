@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_dfdac1e7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-09-11T22:25:27Z",
+      "side": 1,
+      "message": "Hmm interesting.  That\u0027s clearly not the case now,  I get that\u0027s it\u0027s hard to generate minimums without this data.",
+      "range": {
+        "startLine": 10,
+        "startChar": 11,
+        "endLine": 10,
+        "endChar": 37
+      },
+      "revId": "821fc2f189e852046b3c5b0504b5de6c8adc88eb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
