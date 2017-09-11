@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 11 Sep 2017 20:15:52 +0000
+Reviewed-on: https://review.openstack.org/491176
+Project: openstack/requirements
+Branch: refs/heads/master
