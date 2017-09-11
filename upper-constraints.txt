@@ -147,7 +147,6 @@ extras===1.0.0
 PyJWT===1.5.3
 et-xmlfile===1.0.1
 paramiko===2.2.1
-ordereddict===1.1
 reno===2.5.0
 unicodecsv===0.14.1
 imagesize===0.7.1
