@@ -194,3 +194,22 @@ class TestToDict(testtools.TestCase):
         req = requirement.Requirement('Foo_bar', '', '', '', '')
         self.assertEqual(
             {'foo-bar': [(req, '')]}, requirement.to_dict([(req, '')]))
+
+
+class TestReqPolicy(testtools.TestCase):
+
+    def test_requirements_policy_pass(self):
+        content = textwrap.dedent("""\
+            cffi>=1.1.1,!=1.1.2
+            """)
+        reqs = requirement.parse(content)
+        policy_check = [x for x in requirement.check_reqs_bounds_policy(reqs)]
+        self.assertEqual(len(policy_check), 0)
+
+    def test_requirements_policy_fail(self):
+        content = textwrap.dedent("""\
+            cffi>=1.1.1,!=1.1.0
+            """)
+        reqs = requirement.parse(content)
+        policy_check = [x for x in requirement.check_reqs_bounds_policy(reqs)]
+        self.assertEqual(len(policy_check), 1)
