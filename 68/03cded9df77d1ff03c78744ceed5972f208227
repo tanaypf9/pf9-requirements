@@ -1,0 +1,13 @@
+Code-Review+1: Matthew Edmonds <edmondsw@us.ibm.com>
+Code-Review+1: Eric Berglund <esberglu@us.ibm.com>
+Code-Review+1: Charles Volzka <cjvolzka@us.ibm.com>
+Code-Review+1: Matt Rabe <mdrabe@us.ibm.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 12 Sep 2017 13:57:53 +0000
+Reviewed-on: https://review.openstack.org/502048
+Project: openstack/requirements
+Branch: refs/heads/master
