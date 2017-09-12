@@ -34,6 +34,23 @@
       "revId": "f570c6dff94dc145a3dbc7527a0b377063f9fc80",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_1f84b3b0",
+        "filename": "openstack_requirements/tests/test_requirement.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 211,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-09-12T18:27:25Z",
+      "side": 1,
+      "message": "No, I think it\u0027s a good test, maybe we need more failure case and success tests (with comments stating why each is being done).",
+      "revId": "f570c6dff94dc145a3dbc7527a0b377063f9fc80",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
