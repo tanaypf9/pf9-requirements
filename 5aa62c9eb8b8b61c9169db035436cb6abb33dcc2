@@ -22,6 +22,30 @@
       "revId": "5aa62c9eb8b8b61c9169db035436cb6abb33dcc2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f2577a7_322f8540",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 2903
+      },
+      "writtenOn": "2017-09-13T16:14:04Z",
+      "side": 1,
+      "message": "I figured this addition can be un-WIP\u0027d once the spec is approved. I don\u0027t see a need to add PyJWT to g-r if we\u0027re not going to use it.\n\nIf we were to be landing this prior to the spec, I 100% agree with the wording change.",
+      "parentUuid": "5f2577a7_b24b7529",
+      "range": {
+        "startLine": 9,
+        "startChar": 58,
+        "endLine": 10,
+        "endChar": 6
+      },
+      "revId": "5aa62c9eb8b8b61c9169db035436cb6abb33dcc2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
