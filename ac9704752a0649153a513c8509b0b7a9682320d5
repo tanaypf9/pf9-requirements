@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f2577a7_bb9ad7b5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-09-18T12:26:54Z",
+      "side": 1,
+      "message": "This doesn\u0027t match what\u0027s being proposed with the change.",
+      "range": {
+        "startLine": 7,
+        "startChar": 15,
+        "endLine": 7,
+        "endChar": 28
+      },
+      "revId": "ac9704752a0649153a513c8509b0b7a9682320d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
