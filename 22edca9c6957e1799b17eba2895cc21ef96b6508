@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf57530f_8bb43137",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 149,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-09-20T00:13:32Z",
+      "side": 1,
+      "message": "This worries me :/",
+      "revId": "22edca9c6957e1799b17eba2895cc21ef96b6508",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf57530f_ab901597",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 189,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-09-20T00:13:32Z",
+      "side": 1,
+      "message": ":(  More bad meta-data in openstack/releases",
+      "revId": "22edca9c6957e1799b17eba2895cc21ef96b6508",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
