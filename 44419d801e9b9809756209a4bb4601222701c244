@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf57530f_7370ae73",
+        "filename": "tools/publish_constraints.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2017-09-20T19:34:51Z",
+      "side": 1,
+      "message": "If we\u0027re going to run the job from the periodic queue, we could just run it out of master and not worry about trying to run it on the actual stable branches. If we do that, this array could be built by asking for the list of stable branches present in the repo and publishing the content from them dynamically.",
+      "revId": "44419d801e9b9809756209a4bb4601222701c244",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
