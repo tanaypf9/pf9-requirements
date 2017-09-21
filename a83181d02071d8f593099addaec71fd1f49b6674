@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f5c4f37_a7f4ab5c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 416,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-09-21T17:49:55Z",
+      "side": 1,
+      "message": "Why?",
+      "revId": "a83181d02071d8f593099addaec71fd1f49b6674",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f5c4f37_c7ef9f85",
+        "filename": "test-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-09-21T17:49:55Z",
+      "side": 1,
+      "message": "This is a managed file and doesn\u0027t need to be updated",
+      "revId": "a83181d02071d8f593099addaec71fd1f49b6674",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
