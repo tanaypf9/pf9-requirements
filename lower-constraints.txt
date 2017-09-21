@@ -272,6 +272,7 @@ retrying===1.2.3
 shade===1.17.0
 pathlib2===2.1.0
 pydotplus===2.0.2
+pydot===1.2.4
 flask-oslolog===0.1
 stestr===1.0.0
 urwid===1.3.1
