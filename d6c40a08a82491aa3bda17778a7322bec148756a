@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f515b1d_7174319a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 338,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-09-22T13:35:43Z",
+      "side": 1,
+      "message": "ContextualVersionConflict: (pika 0.11.0 (/home/jenkins/workspace/gate-requirements-tox-py35-check-uc-ubuntu-xenial/.tox/py35-check-uc/lib/python3.5/site-packages), Requirement.parse(\u0027pika\u003c0.11,\u003e\u003d0.9\u0027), {\u0027pika-pool\u0027})",
+      "revId": "d6c40a08a82491aa3bda17778a7322bec148756a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
