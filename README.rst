@@ -1,5 +1,5 @@
 ========================
-Team and repository tags
+Team and repository Tags
 ========================
 
 .. image:: https://governance.openstack.org/tc/badges/requirements.svg
