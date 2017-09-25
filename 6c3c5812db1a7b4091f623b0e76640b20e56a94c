@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f515b1d_bff36073",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-09-25T19:04:24Z",
+      "side": 1,
+      "message": "Nit: Version number is wrong here",
+      "revId": "6c3c5812db1a7b4091f623b0e76640b20e56a94c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
