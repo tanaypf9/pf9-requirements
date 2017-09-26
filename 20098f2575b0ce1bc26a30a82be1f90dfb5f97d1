@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f515b1d_ef87bf60",
+        "filename": "tools/publish_constraints.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-09-26T17:58:59Z",
+      "side": 1,
+      "message": "mkdir -p already doesn\u0027t fail if it already exists, the || true is not needed",
+      "revId": "20098f2575b0ce1bc26a30a82be1f90dfb5f97d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f515b1d_cf7e436a",
+        "filename": "tools/publish_constraints.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-09-26T17:58:59Z",
+      "side": 1,
+      "message": "should this be rm -R (since the above comment mentions a tree)?",
+      "revId": "20098f2575b0ce1bc26a30a82be1f90dfb5f97d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
