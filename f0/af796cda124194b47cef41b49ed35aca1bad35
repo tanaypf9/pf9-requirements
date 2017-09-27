@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Numan Siddique <nusiddiq@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 27 Sep 2017 22:58:35 +0000
+Reviewed-on: https://review.openstack.org/507893
+Project: openstack/requirements
+Branch: refs/heads/master
