@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 28 Sep 2017 06:58:07 +0000
+Reviewed-on: https://review.openstack.org/508031
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
