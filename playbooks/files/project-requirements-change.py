@@ -119,7 +119,7 @@ def tempdir():
 
 def install_and_load_requirements(reqroot, reqdir):
     sha = run_command("git --git-dir %s/.git rev-parse HEAD" % reqdir)[0]
-    print "requirements git sha: %s" % sha
+    print("requirements git sha: %s" % sha)
     req_venv = os.path.join(reqroot, 'venv')
     req_pip = os.path.join(req_venv, 'bin/pip')
     req_lib = os.path.join(req_venv, 'lib/python2.7/site-packages')
@@ -138,10 +138,10 @@ def _is_requirement_in_global_reqs(req, global_reqs):
     # example: oslo.db[xyz]<1.2.3
     for req2 in global_reqs:
         if (req.package == req2.package and
-                    req.location == req2.location and
-                    req.specifiers == req2.specifiers and
-                    req.markers == req2.markers and
-                    req.comment == req2.comment):
+           req.location == req2.location and
+           req.specifiers == req2.specifiers and
+           req.markers == req2.markers and
+           req.comment == req2.comment):
             return True
     return False
 
@@ -153,25 +153,9 @@ def main():
 
     # build a list of requirements from the global list in the
     # openstack/requirements project so we can match them to the changes
+    reqdir = os.path.expanduser(
+        '~/src/git.openstack.org/openstack/requirements')
     with tempdir() as reqroot:
-        # Only clone requirements repo if no local repo is specified
-        # on the command line.
-        if args.reqs is None:
-            reqdir = os.path.join(reqroot, "openstack/requirements")
-            if args.zc is not None:
-                zc = args.zc
-            else:
-                zc = '/usr/zuul-env/bin/zuul-cloner'
-            out, err = run_command("%(zc)s "
-                                   "--cache-dir /opt/git "
-                                   "--workspace %(root)s "
-                                   "git://git.openstack.org "
-                                   "openstack/requirements"
-                                   % dict(zc=zc, root=reqroot))
-            print out
-            print err
-        else:
-            reqdir = args.reqs
 
         install_and_load_requirements(reqroot, reqdir)
         global_reqs = requirement.parse(
@@ -219,7 +203,7 @@ def main():
             for name, reqs in freqs.items():
                 counts = {}
                 if (name in branch_reqs.reqs and
-                            reqs == branch_reqs.reqs[name]):
+                   reqs == branch_reqs.reqs[name]):
                     # Unchanged [or a change that preserves a current value]
                     continue
                 if name in blacklist:
@@ -255,7 +239,6 @@ def main():
                                   name,
                                   ('[%s]' % extra) if extra else '',
                                   len(global_reqs[name])))
-
 
     # report the results
     if failed or head_reqs.failed or branch_reqs.failed:
