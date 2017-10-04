@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f515b1d_fb4a2c81",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 160,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-04T22:18:53Z",
+      "side": 1,
+      "message": "ZOMG we can soo kill that shortly after this lands \\o/\n\nThat\u0027s been on our TODO list for years!",
+      "range": {
+        "startLine": 160,
+        "startChar": 8,
+        "endLine": 160,
+        "endChar": 37
+      },
+      "revId": "bcdb298d7133380166229de77c86d68125c34c27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
