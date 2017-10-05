@@ -34,6 +34,24 @@
       "revId": "a1fbc5600ef1c68f3a25f467d69a518c3ef2c529",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f515b1d_d4b96c15",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 545,
+      "author": {
+        "id": 10459
+      },
+      "writtenOn": "2017-10-05T11:44:05Z",
+      "side": 1,
+      "message": "No, I disagree: other packages use it unconstrained, which means that they are using a much newer version. \nSo the version should be at least the last one, but that would break cinder anyway if https://review.openstack.org/#/c/509755/ is applied. So no point in fixing it just for cinder if most users of pylint are happy being unconstrained.",
+      "parentUuid": "7f515b1d_34dc4073",
+      "revId": "a1fbc5600ef1c68f3a25f467d69a518c3ef2c529",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
