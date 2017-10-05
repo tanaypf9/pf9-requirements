@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f515b1d_949d34bd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 545,
+      "author": {
+        "id": 10459
+      },
+      "writtenOn": "2017-10-05T11:40:04Z",
+      "side": 1,
+      "message": "I think that this is too old; cinder (and the other users which hardcode the old version) should be fixed instead.",
+      "revId": "a1fbc5600ef1c68f3a25f467d69a518c3ef2c529",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
