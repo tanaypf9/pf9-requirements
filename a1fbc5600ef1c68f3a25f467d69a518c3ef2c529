@@ -16,6 +16,24 @@
       "revId": "a1fbc5600ef1c68f3a25f467d69a518c3ef2c529",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f515b1d_34dc4073",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 545,
+      "author": {
+        "id": 24162
+      },
+      "writtenOn": "2017-10-05T11:41:57Z",
+      "side": 1,
+      "message": "I don\u0027t argue with that, but first we need to list it here, do you agree? If people can agree on any version, I would gladly use that and fix cinder after.",
+      "parentUuid": "7f515b1d_949d34bd",
+      "revId": "a1fbc5600ef1c68f3a25f467d69a518c3ef2c529",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
