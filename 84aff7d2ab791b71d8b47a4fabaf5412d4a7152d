@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f4e5783_a72a70e4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-10-10T13:53:33Z",
+      "side": 1,
+      "message": "u-c is at 1.26.0, so this should be OK.",
+      "revId": "84aff7d2ab791b71d8b47a4fabaf5412d4a7152d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
