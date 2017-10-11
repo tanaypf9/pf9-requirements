@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f4e5783_2333efad",
+        "filename": "tools/noop-change.sh",
+        "patchSetId": 5
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-10-11T12:03:58Z",
+      "side": 1,
+      "message": "spacing at the end of line 147",
+      "revId": "b5c2172cae29cac3f6ba54cd486de771a2e1efe6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
