@@ -118,6 +118,8 @@ def tempdir():
 
 
 def install_and_load_requirements(reqroot, reqdir):
+    print(reqroot)
+    print(reqdir)
     sha = run_command("git --git-dir %s/.git rev-parse HEAD" % reqdir)[0]
     print("requirements git sha: %s" % sha)
     req_venv = os.path.join(reqroot, 'venv')
