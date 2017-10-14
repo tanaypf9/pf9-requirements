@@ -1,3 +1,10 @@
+# Just for testing of this change
+- project:
+    name: openstack/requirements
+    check:
+      jobs:
+        - requirements-check
+
 - project-template:
     name: check-requirements
     check:
