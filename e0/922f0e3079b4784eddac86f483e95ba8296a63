@@ -1,0 +1,13 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+1: Zuul
+Workflow+1: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Sun, 15 Oct 2017 15:33:36 +0000
+Reviewed-on: https://review.openstack.org/510991
+Project: openstack/requirements
+Branch: refs/heads/master
