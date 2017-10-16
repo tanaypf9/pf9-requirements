@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f4e5783_33caa14d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-10-16T17:33:09Z",
+      "side": 1,
+      "message": "Please include the details for new requirements listed here:\n\nhttps://docs.openstack.org/requirements/latest/#for-new-requirements",
+      "revId": "57f100648e4670ca6f7fe0a333f2a69e5055276e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
