@@ -1,5 +1,5 @@
 - hosts: all
-  name: Autoconverted job legacy-cross-nova-func from old job gate-cross-nova-func-ubuntu-xenial
+  name: Run requirements checkout against a nova master tox -e functional environment
   tasks:
 
     - name: Ensure legacy workspace directory
@@ -27,6 +27,8 @@
           # same in here.
           if [[ "openstack/$ZUUL_SHORT_PROJECT_NAME" != "openstack/requirements" ]]; then
           cat >> $CLONEMAP << EOF
+            - name: openstack/nova
+              dest: $REQS_DIR
             - name: openstack/requirements
               dest: $REQS_DIR
           EOF
@@ -52,6 +54,19 @@
           if [ -x tools/test-setup.sh ] ; then
             tools/test-setup.sh
           fi
+        chdir: '{{ ansible_user_dir }}/workspace'
+      environment: '{{ zuul | zuul_legacy_vars }}'
+
+    - shell:
+        cmd: |
+          set -e
+          set -x
+
+          ls -la . ../
+
+          ls -l src/
+
+          exit 1
         chdir: '{{ ansible_user_dir }}/workspace'
       environment: '{{ zuul | zuul_legacy_vars }}'
 
