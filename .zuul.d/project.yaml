@@ -2,161 +2,53 @@
     name: openstack/requirements
     check:
       jobs:
-        - legacy-requirements-integration-dsvm-ubuntu-trusty:
-            branches: ^stable/newton$
-        - legacy-requirements-integration-dsvm
-        - legacy-requirements-tox-babel:
-            files:
-              - ^babel-test/.*
-              - ^tox.ini
-              - ^upper-constraints.txt
-        - legacy-requirements-tox-py27-check-uc:
-            files: ^upper-constraints.*txt$
-        - legacy-requirements-tox-py35-check-uc:
-            branches: ^(?!stable/(newton|ocata|pike)).*$
-            files: ^upper-constraints.*txt$
         - openstack-tox-validate
-        - legacy-requirements-tox-validate-projects:
-            branches: master
-        - legacy-grenade-dsvm-neutron-multinode:
-            branches: ^(?!stable/newton).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - legacy-cross-cinder-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-cinder-python35:
+        - cross-cinder-py27
+        - cross-cinder-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-glance-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-glance-python35:
+        - cross-glance-py27
+        - cross-glance-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python35:
+        - cross-horizon-py27
+        - cross-horizon-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python35:
+        - cross-keystone-py27
+        - cross-keystone-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python35:
+        - cross-neutron-py27
+        - cross-neutron-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-python35:
+        - cross-nova-py27
+        - cross-nova-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-func:
-            files: ^upper-constraints.txt$
-        - legacy-cross-swift-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-swift-python35:
+        - cross-nova-functional
+        - cross-swift-py27
+        - cross-swift-py35
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-tempest-dsvm-neutron-full:
-            branches: ^(?!driverfixes/).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - legacy-grenade-dsvm-neutron:
-            branches: ^(?!stable/newton).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
     gate:
       queue: integrated
       jobs:
-        - legacy-requirements-integration-dsvm-ubuntu-trusty:
-            branches: ^stable/newton$
-        - legacy-requirements-integration-dsvm
-        - legacy-requirements-tox-babel:
-            files:
-              - ^babel-test/.*
-              - ^tox.ini
-              - ^upper-constraints.txt
-        - legacy-requirements-tox-py27-check-uc:
-            files: ^upper-constraints.*txt$
-        - legacy-requirements-tox-py35-check-uc:
-            branches: ^(?!stable/(newton|ocata|pike)).*$
-            files: ^upper-constraints.*txt$
         - openstack-tox-validate
-        - legacy-requirements-tox-validate-projects:
-            branches: master
-        - legacy-grenade-dsvm-neutron-multinode:
-            branches: ^(?!stable/newton).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - legacy-cross-cinder-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-cinder-python35:
+        - cross-cinder-py27
+        - cross-cinder-py35:
+            branches: ^(?!stable/(newton|ocata)).*$
+        - cross-glance-py27
+        - cross-glance-py35:
+            branches: ^(?!stable/(newton|ocata)).*$
+        - cross-horizon-py27
+        - cross-horizon-py35:
+            branches: ^(?!stable/(newton|ocata)).*$
+        - cross-keystone-py27
+        - cross-keystone-py35:
+            branches: ^(?!stable/(newton|ocata)).*$
+        - cross-neutron-py27
+        - cross-neutron-py35:
+            branches: ^(?!stable/(newton|ocata)).*$
+        - cross-nova-py27
+        - cross-nova-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-glance-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-glance-python35:
+        - cross-nova-functional
+        - cross-swift-py27
+        - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python35:
-            branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python35:
-            branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python35:
-            branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-python35:
-            branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-cross-nova-func:
-            files: ^upper-constraints.txt$
-        - legacy-cross-swift-python27:
-            files: ^upper-constraints.txt$
-        - legacy-cross-swift-python35:
-            branches: ^(?!stable/(newton|ocata)).*$
-            files: ^upper-constraints.txt$
-        - legacy-tempest-dsvm-neutron-full:
-            branches: ^(?!driverfixes/).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - legacy-grenade-dsvm-neutron:
-            branches: ^(?!stable/newton).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-    post:
-      jobs:
-        - propose-updates:
-            vars:
-              update_target: requirements
-    experimental:
-      jobs:
-        - legacy-tempest-dsvm-neutron-pg-full:
-            voting: false
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - legacy-tempest-dsvm-neutron-full-opensuse-423:
-            voting: false
-            branches: ^(?!stable/(newton|ocata)).*$
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-
