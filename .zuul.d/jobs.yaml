@@ -1,0 +1,10 @@
+- job:
+    name: cross-nova-func
+    parent: openstack-tox
+    run: playbooks/cross-nova-func/run
+    post-run: playbooks/cross-nova-func/post
+    timeout: 3000
+    files: ^upper-constraints.*txt$
+    required-projects:
+      - openstack/requirements
+      - openstack/nova
