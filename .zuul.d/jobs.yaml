@@ -7,3 +7,23 @@
     required-projects:
       - openstack/requirements
       - openstack/nova
+
+- job:
+    name: cross-cinder-tox-py27
+    parent: openstack-tox
+    run: playbooks/cross-cinder-tox-py27/run
+    post-run: playbooks/cross-cinder-tox-py27/post
+    timeout: 3000
+    required-projects:
+      - openstack/requirements
+      - openstack/cinder
+
+- job:
+    name: cross-cinder-tox-py35
+    parent: openstack-tox
+    run: playbooks/cross-cinder-tox-py35/run
+    post-run: playbooks/cross-cinder-tox-py35/post
+    timeout: 3000
+    required-projects:
+      - openstack/requirements
+      - openstack/cinder
