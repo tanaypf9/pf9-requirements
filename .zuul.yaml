@@ -8,6 +8,29 @@
         - requirements-check
 
 - job:
+    name: requirements-cross-test
+    parent: openstack-tox
+    description: |
+      A parent job to perform cross-repository tests.
+
+      Inherit from this job, and add the intended project to
+      ``required-projects``.
+
+      Also, set the following variable:
+
+      .. zuul:jobvar:: tox_envlist
+
+         Use the specified tox environments (``ALL`` selects all).
+
+- job:
+    name: requirements-cross-nova-py27
+    parent: requirements-cross-test
+    description: Run cross-project tests on nova with py27.
+    required-projects: openstack/nova
+    vars:
+      tox_envlist: py27
+
+- job:
     name: requirements-check
     parent: unittests
     required-projects:
@@ -17,3 +40,9 @@
       - ^.*requirements.txt$
       - ^.*requirements-py[2,3].txt$
       - playbooks/requirements-check.yaml
+
+- project:
+    name: openstack/requirements
+    check:
+      jobs:
+        - requirements-cross-nova-py27
