@@ -41,41 +41,41 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
-        - legacy-cross-cinder-python27:
+        - cross-cinder-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-cinder-python35:
+        - cross-cinder-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-glance-python27:
+        - cross-glance-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-glance-python35:
+        - cross-glance-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python27:
+        - cross-horizon-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python35:
+        - cross-horizon-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python27:
+        - cross-keystone-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python35:
+        - cross-keystone-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python27:
+        - cross-neutron-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python35:
+        - cross-neutron-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-python27:
+        - cross-nova-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-python35:
+        - cross-nova-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-func:
+        - cross-nova-functional:
             files: ^upper-constraints.txt$
-        - legacy-cross-swift-python27:
+        - cross-swift-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-swift-python35:
+        - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
         - legacy-tempest-dsvm-neutron-full:
@@ -114,41 +114,45 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
-        - legacy-cross-cinder-python27:
+        - cross-cinder-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-cinder-python35:
+        - cross-cinder-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-glance-python27:
+        - cross-glance-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-glance-python35:
+        - cross-glance-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python27:
+        - cross-horizon-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-horizon-python35:
+        - cross-horizon-py35:
+            files: ^upper-constraints.*txt$
+        - cross-horizon-py27:
+            files: ^upper-constraints.*txt$
+        - cross-horizon-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python27:
+        - cross-keystone-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-keystone-python35:
+        - cross-keystone-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python27:
+        - cross-neutron-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-neutron-python35:
+        - cross-neutron-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-python27:
+        - cross-nova-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-python35:
+        - cross-nova-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
-        - legacy-cross-nova-func:
+        - cross-nova-functional:
             files: ^upper-constraints.txt$
-        - legacy-cross-swift-python27:
+        - cross-swift-py27:
             files: ^upper-constraints.txt$
-        - legacy-cross-swift-python35:
+        - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
             files: ^upper-constraints.txt$
         - legacy-tempest-dsvm-neutron-full:
@@ -179,4 +183,3 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
-
