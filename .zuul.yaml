@@ -8,6 +8,15 @@
         - requirements-check
 
 - job:
+    name: requirements-cross-test
+    parent: openstack-tox
+
+- job:
+    name: requirements-cross-nova-py27
+    parent: requirements-cross-test
+    required-projects: nova
+
+- job:
     name: requirements-check
     parent: unittests
     required-projects:
@@ -17,3 +26,9 @@
       - ^.*requirements.txt$
       - ^.*requirements-py[2,3].txt$
       - playbooks/requirements-check.yaml
+
+- project:
+    name: openstack/requirements
+    check:
+      jobs:
+        - requirements-cross-nova-py27
