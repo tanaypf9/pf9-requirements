@@ -16,6 +16,23 @@
       "revId": "b33953eeecb40fffdbfbca8f8d13182df10b65cf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_2a408935",
+        "filename": "playbooks/requirements-cross-test.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-10-18T17:32:35Z",
+      "side": 1,
+      "message": "It\u0027s undefined -- but this should (theoretically) work as long as there is only one project added to required-projects.  The project associated with the change (openstack/requirements in this case) does not have the \u0027required\u0027 flag set to true.  So this should pull out only openstack/nova from the list.\n\nAs for the error, I don\u0027t yet know if it\u0027s because this expression is wrong, or some other reason.",
+      "revId": "b33953eeecb40fffdbfbca8f8d13182df10b65cf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
