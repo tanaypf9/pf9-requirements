@@ -33,6 +33,23 @@
       "revId": "b33953eeecb40fffdbfbca8f8d13182df10b65cf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_452616ba",
+        "filename": "playbooks/requirements-cross-test.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-10-18T18:01:50Z",
+      "side": 1,
+      "message": "Oh I see the problem.  Because we\u0027re inheriting from openstack-tox, openstack/requirements *is* a required project, so it does match this selector.",
+      "revId": "b33953eeecb40fffdbfbca8f8d13182df10b65cf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
