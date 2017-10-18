@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_d98e75cf",
+        "filename": "playbooks/requirements-cross-test.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2017-10-18T16:36:54Z",
+      "side": 1,
+      "message": "How is the ordering of projects in this list defined? Seems we cannot really rely on [0] being what we want.",
+      "revId": "b33953eeecb40fffdbfbca8f8d13182df10b65cf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
