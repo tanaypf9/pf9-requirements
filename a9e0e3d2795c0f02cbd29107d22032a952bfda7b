@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_3160eece",
+        "filename": ".zuul.d/project-template.yaml",
+        "patchSetId": 9
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T06:47:33Z",
+      "side": 1,
+      "message": "This a project-template and in the right spot.\n\nThe rest shouldn\u0027t be in this file, it should be in project.yaml or perhaps even cross-jobs.yaml",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 8,
+        "endChar": 28
+      },
+      "revId": "a9e0e3d2795c0f02cbd29107d22032a952bfda7b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_6e0a0727",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 9
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T06:47:33Z",
+      "side": 1,
+      "message": "que?",
+      "revId": "a9e0e3d2795c0f02cbd29107d22032a952bfda7b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
