@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_7112edb3",
+        "filename": ".zuul.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T00:41:49Z",
+      "side": 1,
+      "message": "I think we need a:\n\n    files:\n      - ^upper-constraints.txt$\n\nHere so we only run these jobs on upper-constraints changes which IIRC matches what we do in v2.",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_5127f113",
+        "filename": ".zuul.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T00:41:49Z",
+      "side": 1,
+      "message": "in v2 we run the nova py27 and functional tests so IIUC we can add functional to tox_envlist to get the same behaviour?",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_3124750d",
+        "filename": "playbooks/requirements-cross-test.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T00:41:49Z",
+      "side": 1,
+      "message": "Not that it matters for right now but don\u0027t we inherit this from openstack-tox ?\n\nhttp://git.openstack.org/cgit/openstack-infra/openstack-zuul-jobs/tree/zuul.d/jobs.yaml#n216",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
