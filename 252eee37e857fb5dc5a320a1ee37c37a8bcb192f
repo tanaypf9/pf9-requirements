@@ -19,6 +19,52 @@
     },
     {
       "key": {
+        "uuid": "3f4b6375_71c2e687",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-19T06:53:04Z",
+      "side": 1,
+      "message": "leave this in project-config",
+      "range": {
+        "startLine": 3,
+        "startChar": 1,
+        "endLine": 22,
+        "endChar": 28
+      },
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_51bfeafa",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 95,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-19T06:53:04Z",
+      "side": 1,
+      "message": "leave in project-config",
+      "range": {
+        "startLine": 94,
+        "startChar": 0,
+        "endLine": 95,
+        "endChar": 28
+      },
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_8e0d4340",
         "filename": "tox.ini",
         "patchSetId": 5
