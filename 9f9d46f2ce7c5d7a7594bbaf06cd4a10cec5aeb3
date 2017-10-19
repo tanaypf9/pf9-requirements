@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_c1277712",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-19T20:42:56Z",
+      "side": 1,
+      "message": "add here the files list, thus you only define it once.",
+      "revId": "9f9d46f2ce7c5d7a7594bbaf06cd4a10cec5aeb3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_c13e5728",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-19T20:42:56Z",
+      "side": 1,
+      "message": "why not add this to the job itself? let me show you where...",
+      "range": {
+        "startLine": 7,
+        "startChar": 12,
+        "endLine": 7,
+        "endChar": 42
+      },
+      "revId": "9f9d46f2ce7c5d7a7594bbaf06cd4a10cec5aeb3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
