@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_ce133b66",
+        "filename": ".zuul.d/project-template.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T06:40:48Z",
+      "side": 1,
+      "message": "You can\u0027t remove this file it\u0027s used by $lots of projects",
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_8e0d4340",
+        "filename": "tox.ini",
+        "patchSetId": 5
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-19T06:40:48Z",
+      "side": 1,
+      "message": "Why? What is this for?",
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
