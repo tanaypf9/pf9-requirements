@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3f4b6375_71f66692",
+        "filename": ".zuul.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-19T07:12:20Z",
+      "side": 1,
+      "message": "you want that in the template rather than the job? it is in the job now.",
+      "parentUuid": "3f4b6375_7112edb3",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_5127f113",
         "filename": ".zuul.yaml",
         "patchSetId": 5
@@ -30,6 +48,24 @@
       "writtenOn": "2017-10-19T00:41:49Z",
       "side": 1,
       "message": "in v2 we run the nova py27 and functional tests so IIUC we can add functional to tox_envlist to get the same behaviour?",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_112bb2eb",
+        "filename": ".zuul.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-19T07:12:20Z",
+      "side": 1,
+      "message": "I looked elsewhere and duplication seems to be the solution.",
+      "parentUuid": "3f4b6375_5127f113",
       "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
