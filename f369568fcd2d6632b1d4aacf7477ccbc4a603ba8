@@ -22,6 +22,30 @@
       "revId": "f369568fcd2d6632b1d4aacf7477ccbc4a603ba8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_ef825f4f",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 7
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-19T19:51:25Z",
+      "side": 1,
+      "message": "you only rename the cross jobs, not the others.",
+      "parentUuid": "3f4b6375_82ae322c",
+      "range": {
+        "startLine": 5,
+        "startChar": 2,
+        "endLine": 32,
+        "endChar": 3
+      },
+      "revId": "f369568fcd2d6632b1d4aacf7477ccbc4a603ba8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
