@@ -86,6 +86,23 @@
       "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_4e7619a7",
+        "filename": "playbooks/requirements-cross-test.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-10-19T17:48:46Z",
+      "side": 1,
+      "message": "I think you\u0027re right, and we can also probably move zuul_work_dir into our parent job definition.",
+      "revId": "98504b6cb97cd8709afc3924e3a868c6bc4b1368",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
