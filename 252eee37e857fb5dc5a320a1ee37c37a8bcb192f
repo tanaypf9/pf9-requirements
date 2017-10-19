@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3f4b6375_91732281",
+        "filename": ".zuul.d/project-template.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-19T06:54:15Z",
+      "side": 1,
+      "message": "they specifically include that location? I was told that .zuul.yaml and .zuul.d/* is exactly treated identical. are there file references to this location? where?",
+      "parentUuid": "3f4b6375_ce133b66",
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_71c2e687",
         "filename": ".zuul.d/project.yaml",
         "patchSetId": 5
@@ -76,6 +94,24 @@
       "writtenOn": "2017-10-19T06:40:48Z",
       "side": 1,
       "message": "Why? What is this for?",
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_51548aca",
+        "filename": "tox.ini",
+        "patchSetId": 5
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-19T06:54:15Z",
+      "side": 1,
+      "message": "We currently run all cross checks against the local repo. so there needs to be a functional tox env so that legacy-cross-nova-func passes (it runs tox -e functional on requirements repo). once we have landed teh followup patch this can be removed again.",
+      "parentUuid": "3f4b6375_8e0d4340",
       "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
