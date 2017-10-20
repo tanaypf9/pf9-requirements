@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "3f4b6375_10a6f3c2",
+        "filename": ".zuul.d/project-template.yaml",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-20T01:40:15Z",
+      "side": 1,
+      "message": "I was just confused by the gerrit UI.  I see you haven\u0027t removed the file.\n\nSorry.",
+      "parentUuid": "3f4b6375_91732281",
+      "revId": "252eee37e857fb5dc5a320a1ee37c37a8bcb192f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_71c2e687",
         "filename": ".zuul.d/project.yaml",
         "patchSetId": 5
