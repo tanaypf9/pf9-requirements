@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_909f834f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 15
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-20T01:46:45Z",
+      "side": 1,
+      "message": "Ok.  I guess that makes sense.  I\u0027d rather you did it in a separate change the Depends-On this one or is branched from here.",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 27
+      },
+      "revId": "1009443f66d76bd113f6d20fe47b00ffc0ecf1b8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
