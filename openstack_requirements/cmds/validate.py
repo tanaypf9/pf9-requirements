@@ -67,6 +67,19 @@ def main():
         print(msg)
         error_count += 1
 
+    # Check that global requirements are uniformly sorted
+    print('\nValidating uniform formatting on %s' % args.global_requirements)
+    with open(args.global_requirements, 'rt') as f:
+        for line in f:
+            if not line.strip():
+                continue
+            req = requirement.parse_line(line)
+            normed_req = req.to_line(comment_prefix='  ', sort_specifiers=True)
+            read_req = req.to_line(comment_prefix='  ')
+            if read_req != normed_req:
+                print("-%s\n+%s" % (read_req.rstrip(), normed_req.rstrip()))
+                error_count += 1
+
     # Check that all of the items in the global-requirements list
     # appear in exactly one of the constraints file or the blacklist.
     print('\nChecking %s' % args.blacklist)
