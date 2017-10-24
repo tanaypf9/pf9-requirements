@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_01f64bfa",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-10-24T15:13:08Z",
+      "side": 1,
+      "message": "some projects probably still bring in pyflakes and pep8, we should keep them",
+      "revId": "72f1aa0cc40e6c5d055c76fdf0ec34cd8dd69288",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
