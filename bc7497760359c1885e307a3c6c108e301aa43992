@@ -16,6 +16,24 @@
       "revId": "bc7497760359c1885e307a3c6c108e301aa43992",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_0c11db52",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-24T19:51:53Z",
+      "side": 1,
+      "message": "merely the order is changed.. the idea isthat the lower bound is always first, as is with most of the g-r entries already.",
+      "parentUuid": "3f4b6375_fcb874e5",
+      "revId": "bc7497760359c1885e307a3c6c108e301aa43992",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
