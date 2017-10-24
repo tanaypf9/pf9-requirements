@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_fcb874e5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-10-24T15:48:26Z",
+      "side": 1,
+      "message": "changed this to 0.18.2?",
+      "revId": "bc7497760359c1885e307a3c6c108e301aa43992",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
