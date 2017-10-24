@@ -34,6 +34,23 @@
       "revId": "72f1aa0cc40e6c5d055c76fdf0ec34cd8dd69288",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_8c0b8bd4",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-10-24T20:04:50Z",
+      "side": 1,
+      "message": "https://git.openstack.org/cgit/openstack/neutron-lib/tree/test-requirements.txt#n20\nopenstack-ansible too\n\nbut more a more complete list is this search.\n\nhttp://codesearch.openstack.org/?q\u003dpep8\u0026i\u003dnope\u0026files\u003d.*requirements.*\u0026repos\u003d",
+      "revId": "72f1aa0cc40e6c5d055c76fdf0ec34cd8dd69288",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
