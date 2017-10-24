@@ -16,6 +16,24 @@
       "revId": "72f1aa0cc40e6c5d055c76fdf0ec34cd8dd69288",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_8137d4ff",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-24T19:47:46Z",
+      "side": 1,
+      "message": "care to make an example? I did look at codesearch.openstack.org and there is no \"real\" user anymore. furthermore even if somebody *is* using it, there still is a good way to solve it.",
+      "parentUuid": "3f4b6375_01f64bfa",
+      "revId": "72f1aa0cc40e6c5d055c76fdf0ec34cd8dd69288",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
