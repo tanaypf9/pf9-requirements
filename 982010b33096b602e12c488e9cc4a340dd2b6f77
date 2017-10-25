@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_7e2463af",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2017-10-25T09:15:09Z",
+      "side": 1,
+      "message": "this will consider lines like \u0027   \\n\u0027 as OK, do you want to catch them as errors too?",
+      "revId": "982010b33096b602e12c488e9cc4a340dd2b6f77",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
