@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_0496474d",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-25T05:39:45Z",
+      "side": 1,
+      "message": "why is this needed?  \u003d\u003d\u003d is a constraint and shouldn\u0027t be used in a requirement file",
+      "range": {
+        "startLine": 37,
+        "startChar": 14,
+        "endLine": 37,
+        "endChar": 19
+      },
+      "revId": "26586b707f32d4c8d160d40a79ae39efb238ffde",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
