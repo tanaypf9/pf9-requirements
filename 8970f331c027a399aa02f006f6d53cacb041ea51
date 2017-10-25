@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_3454c752",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-10-25T12:40:55Z",
+      "side": 1,
+      "message": "Carrying over alberto\u0027s comment\n\nthis will consider lines like \u0027   \\n\u0027 as OK, do you want to catch them as errors too?\n\nit\u0027d be better to disallow it, but should not prevent this patch from merging imo",
+      "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
