@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_a471b346",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-25T05:42:12Z",
+      "side": 1,
+      "message": "That doesn\u0027t really match my understanding.",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 24
+      },
+      "revId": "7fda7a2b1b71d52f98569d7c501eb3b401931cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_44967f40",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-25T05:42:12Z",
+      "side": 1,
+      "message": "Do we really want an open requirement here?",
+      "range": {
+        "startLine": 43,
+        "startChar": 7,
+        "endLine": 43,
+        "endChar": 14
+      },
+      "revId": "7fda7a2b1b71d52f98569d7c501eb3b401931cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
