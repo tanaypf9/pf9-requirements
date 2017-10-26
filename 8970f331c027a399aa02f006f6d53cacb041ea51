@@ -57,6 +57,24 @@
       "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_ceeb8275",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-26T12:02:51Z",
+      "side": 1,
+      "message": "sorry, missed it.",
+      "parentUuid": "3f4b6375_b7ab0773",
+      "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
