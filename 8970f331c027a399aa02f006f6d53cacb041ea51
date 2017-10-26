@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "3f4b6375_97b92b16",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-26T00:29:42Z",
+      "side": 1,
+      "message": "nit: this isn\u0027t sorting anything perhaps \u0027formatted\u0027 is better here.",
+      "range": {
+        "startLine": 70,
+        "startChar": 51,
+        "endLine": 70,
+        "endChar": 57
+      },
+      "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_3454c752",
         "filename": "openstack_requirements/cmds/validate.py",
         "patchSetId": 4
@@ -13,6 +36,24 @@
       "writtenOn": "2017-10-25T12:40:55Z",
       "side": 1,
       "message": "Carrying over alberto\u0027s comment\n\nthis will consider lines like \u0027   \\n\u0027 as OK, do you want to catch them as errors too?\n\nit\u0027d be better to disallow it, but should not prevent this patch from merging imo",
+      "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_b7ab0773",
+        "filename": "openstack_requirements/cmds/validate.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-10-26T00:29:42Z",
+      "side": 1,
+      "message": "Yup that\u0027s good to a follow-up patch.\n\nWe don\u0027t have any instances of it now and they\u0027d get caught by other validate checks but it a specific error message in that case would be nice for consumers.",
+      "parentUuid": "3f4b6375_3454c752",
       "revId": "8970f331c027a399aa02f006f6d53cacb041ea51",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
