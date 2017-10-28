@@ -1,0 +1,9 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 28 Oct 2017 05:41:22 +0000
+Reviewed-on: https://review.openstack.org/514833
+Project: openstack/requirements
+Branch: refs/heads/master
