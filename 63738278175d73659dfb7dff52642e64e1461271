@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_942545ae",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 195,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-10-30T16:51:28Z",
+      "side": 1,
+      "message": "We can actually use \"\u0027get checkout %s\u0027 % branch\" here, since in zuulv3, the branch contains the change under test.  It\u0027s minor, but it\u0027s nice in that it leaves the repo in a good state rather than detached head.  It\u0027s also pontentially more compatible with local usage.",
+      "revId": "63738278175d73659dfb7dff52642e64e1461271",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
