@@ -187,11 +187,11 @@ def main():
         if not args.local:
             # build a list of requirements already in the target branch,
             # so that we can create a diff and identify what's being changed
-            run_command("git checkout %s" % branch)
+            run_command("git checkout HEAD^1")
             branch_proj = project.read(cwd)
 
             # switch back to the proposed change now
-            run_command("git checkout %s" % head)
+            run_command("git checkout %s" % branch)
         else:
             branch_proj = {'root': cwd}
         branch_reqs = RequirementsList(branch, branch_proj)
