@@ -151,6 +151,7 @@ def main():
     args = grab_args()
     branch = args.branch
     os.chdir(args.src_dir)
+    print("Running in %s" % args.src_dir)
     failed = False
 
     # build a list of requirements from the global list in the
@@ -192,6 +193,8 @@ def main():
 
             # switch back to the proposed change now
             run_command("git checkout %s" % head)
+            # Show what we test
+            run_command("git show")
         else:
             branch_proj = {'root': cwd}
         branch_reqs = RequirementsList(branch, branch_proj)
