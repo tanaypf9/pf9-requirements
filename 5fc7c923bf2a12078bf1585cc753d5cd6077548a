@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3f4b6375_8e7531fd",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-30T20:22:59Z",
+      "side": 1,
+      "message": "does that assumes that there is only one commit? is that a valid assumption? what if there are multiple commits chained together (e.g. via a series of depends-on or gerrit-depends?)",
+      "revId": "5fc7c923bf2a12078bf1585cc753d5cd6077548a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_ee38253e",
         "filename": "playbooks/requirements-check.yaml",
         "patchSetId": 8
