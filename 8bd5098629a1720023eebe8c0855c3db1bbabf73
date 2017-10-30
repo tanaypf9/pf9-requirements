@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_3d6435b9",
+        "filename": "playbooks/requirements-check.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2017-10-30T18:14:25Z",
+      "side": 1,
+      "message": "This isn\u0027t going to work because script copies the file to the remote node, but command expects it to already be there.  Fortunately, the script *is* there, it\u0027s just not at this path.  We\u0027ll need to run this as:\n\n{{ zuul._projects[\u0027git.openstack.org/openstack/requirements\u0027].src_dir }}/playbooks/files/project-requirements-change.py",
+      "revId": "8bd5098629a1720023eebe8c0855c3db1bbabf73",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
