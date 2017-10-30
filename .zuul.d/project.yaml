@@ -2,6 +2,7 @@
     name: openstack/requirements
     check:
       jobs:
+        - requirements-check
         - openstack-tox-validate
         - cross-cinder-py27
         - cross-cinder-py35:

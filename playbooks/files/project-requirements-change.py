@@ -151,6 +151,7 @@ def main():
     args = grab_args()
     branch = args.branch
     os.chdir(args.src_dir)
+    print("Running in %s" % args.src_dir)
     failed = False
 
     # build a list of requirements from the global list in the
@@ -191,7 +192,11 @@ def main():
             branch_proj = project.read(cwd)
 
             # switch back to the proposed change now
-            run_command("git checkout %s" % head)
+            output = run_command("git checkout %s" % head)
+            print(output)
+            # Show what we test
+            output = run_command("git show")
+            print(output)
         else:
             branch_proj = {'root': cwd}
         branch_reqs = RequirementsList(branch, branch_proj)
@@ -203,6 +208,7 @@ def main():
         for fname, freqs in head_reqs.reqs_by_file.items():
             print("Validating %(fname)s" % {'fname': fname})
             for name, reqs in freqs.items():
+                print(" Checking entry %s - %s" % (name, reqs))
                 counts = {}
                 if (name in branch_reqs.reqs and
                    reqs == branch_reqs.reqs[name]):
