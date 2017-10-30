@@ -151,6 +151,7 @@ def main():
     args = grab_args()
     branch = args.branch
     os.chdir(args.src_dir)
+    print("Running in %s" % args.src_dir)
     failed = False
 
     # build a list of requirements from the global list in the
@@ -187,11 +188,15 @@ def main():
         if not args.local:
             # build a list of requirements already in the target branch,
             # so that we can create a diff and identify what's being changed
-            run_command("git checkout %s" % branch)
+            run_command("git checkout HEAD^1")
             branch_proj = project.read(cwd)
 
             # switch back to the proposed change now
-            run_command("git checkout %s" % head)
+            output = run_command("git checkout %s" % head)
+            print(output)
+            # Show what we test
+            output = run_command("git show")
+            print(output)
         else:
             branch_proj = {'root': cwd}
         branch_reqs = RequirementsList(branch, branch_proj)
@@ -203,15 +208,18 @@ def main():
         for fname, freqs in head_reqs.reqs_by_file.items():
             print("Validating %(fname)s" % {'fname': fname})
             for name, reqs in freqs.items():
+                print(" Checking entry %s - %s" % (name, reqs))
                 counts = {}
                 if (name in branch_reqs.reqs and
                    reqs == branch_reqs.reqs[name]):
                     # Unchanged [or a change that preserves a current value]
+                    print("   -> Unchanged")
                     continue
                 if name in blacklist:
                     # Blacklisted items are not synced and are managed
                     # by project teams as they see fit, so no further
                     # testing is needed.
+                    print("   -> Entry in blacklist")
                     continue
                 if name not in global_reqs:
                     failed = True
@@ -219,6 +227,7 @@ def main():
                           str(reqs))
                     continue
                 if reqs == global_reqs[name]:
+                    print("   -> reqs == global_reqs")
                     continue
                 for req in reqs:
                     if req.extras:
