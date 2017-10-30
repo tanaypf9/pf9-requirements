@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3f4b6375_8efc113f",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 8
+      },
+      "lineNbr": 190,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-10-30T20:24:32Z",
+      "side": 1,
+      "message": "if it\u0027s a series of commits with than each change is checked against the previous one and thus this works.",
+      "parentUuid": "3f4b6375_8e7531fd",
+      "revId": "5fc7c923bf2a12078bf1585cc753d5cd6077548a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_ee38253e",
         "filename": "playbooks/requirements-check.yaml",
         "patchSetId": 8
