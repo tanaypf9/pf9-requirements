@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_ee38253e",
+        "filename": "playbooks/requirements-check.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-30T20:21:07Z",
+      "side": 1,
+      "message": "this should be in the commit message than in a comment (its not clear what this means without reading the diff)",
+      "revId": "5fc7c923bf2a12078bf1585cc753d5cd6077548a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_6e4435b8",
+        "filename": "playbooks/requirements-check.yaml",
+        "patchSetId": 8
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-10-30T20:21:07Z",
+      "side": 1,
+      "message": "which other system? do you mean \"full path\" with \"proper\"?",
+      "revId": "5fc7c923bf2a12078bf1585cc753d5cd6077548a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
