@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_fbc17a30",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-11-04T03:02:21Z",
+      "side": 1,
+      "message": "If you have any details why you think this is due to a race, please share. :)",
+      "revId": "890ea06b641547f99c540f9f59f8489fe4ff5b07",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
