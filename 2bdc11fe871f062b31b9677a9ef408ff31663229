@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "3f4b6375_f2d72aed",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-11-07T15:11:57Z",
+      "side": 1,
+      "message": "those are not needed on the branch itself. There\u0027S an implicit \"stable/pike\" on all of these.\n\nSo, remove all those \"branches\" and check that all should run on stable/pike.",
+      "range": {
+        "startLine": 9,
+        "startChar": 10,
+        "endLine": 9,
+        "endChar": 51
+      },
+      "revId": "2bdc11fe871f062b31b9677a9ef408ff31663229",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f4b6375_92bc76bb",
         "filename": ".zuul.yaml",
         "patchSetId": 1
@@ -13,6 +36,24 @@
       "writtenOn": "2017-11-07T15:08:39Z",
       "side": 1,
       "message": "I don\u0027t think this file is needed.",
+      "revId": "2bdc11fe871f062b31b9677a9ef408ff31663229",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4b6375_12f64690",
+        "filename": ".zuul.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-11-07T15:11:57Z",
+      "side": 1,
+      "message": "agreed, moved to zuul.d/jobs.yaml",
+      "parentUuid": "3f4b6375_92bc76bb",
       "revId": "2bdc11fe871f062b31b9677a9ef408ff31663229",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
