@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_92bc76bb",
+        "filename": ".zuul.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12356
+      },
+      "writtenOn": "2017-11-07T15:08:39Z",
+      "side": 1,
+      "message": "I don\u0027t think this file is needed.",
+      "revId": "2bdc11fe871f062b31b9677a9ef408ff31663229",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
