@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4b6375_d9f0ce93",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2017-11-07T23:07:47Z",
+      "side": 1,
+      "message": "This needs to go away; it\u0027s subsumed by the dependency.",
+      "revId": "babbf8e00677b81ea2513f2af1b968193e7b127f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
