@@ -55,7 +55,7 @@ class RequirementsList(object):
 
     def extract_reqs(self, content, strict):
         reqs = collections.defaultdict(set)
-        parsed = requirement.parse(content)
+        parsed = requirement.parse(content, permit_urls=True)
         for name, entries in parsed.items():
             if not name:
                 # Comments and other unprocessed lines
