@@ -210,7 +210,6 @@ nose-exclude===0.5.0
 nosehtmloutput===0.0.5
 nosexcover===1.0.11
 notifier===1.0.3
-numpy===1.12.0
 oauth2client===3.0.0
 oauthlib===2.0.1
 olefile===0.44
