@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f485f77_9c544bcc",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2017-11-13T02:05:44Z",
+      "side": 1,
+      "message": "Probably would have been better to do this separately, but trivial enough.",
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
