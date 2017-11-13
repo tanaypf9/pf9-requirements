@@ -16,6 +16,75 @@
       "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f485f77_0d7027a5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-13T05:37:25Z",
+      "side": 1,
+      "message": "This hunk is fine",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 57
+      },
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f485f77_4d761fa7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 385,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-13T05:37:25Z",
+      "side": 1,
+      "message": "We can\u0027t do that on stable branches",
+      "range": {
+        "startLine": 385,
+        "startChar": 6,
+        "endLine": 385,
+        "endChar": 13
+      },
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f485f77_ed74ab9b",
+        "filename": "test-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-13T05:37:25Z",
+      "side": 1,
+      "message": "Let the bot take care of that",
+      "range": {
+        "startLine": 15,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 19
+      },
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
