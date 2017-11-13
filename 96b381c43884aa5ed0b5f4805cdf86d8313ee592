@@ -65,6 +65,30 @@
     },
     {
       "key": {
+        "uuid": "1f485f77_76c9a376",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 385,
+      "author": {
+        "id": 6537
+      },
+      "writtenOn": "2017-11-13T12:05:31Z",
+      "side": 1,
+      "message": "this is fine. i\u0027m backporting patches that fixed the original issue. again, the ocata docs from what i can tell have been broken since at least february, but it seems like no one noticed the docs were never running in gate.",
+      "parentUuid": "1f485f77_4d761fa7",
+      "range": {
+        "startLine": 385,
+        "startChar": 6,
+        "endLine": 385,
+        "endChar": 13
+      },
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f485f77_ed74ab9b",
         "filename": "test-requirements.txt",
         "patchSetId": 2
@@ -76,6 +100,30 @@
       "writtenOn": "2017-11-13T05:37:25Z",
       "side": 1,
       "message": "Let the bot take care of that",
+      "range": {
+        "startLine": 15,
+        "startChar": 0,
+        "endLine": 15,
+        "endChar": 19
+      },
+      "revId": "96b381c43884aa5ed0b5f4805cdf86d8313ee592",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f485f77_362e8b43",
+        "filename": "test-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6537
+      },
+      "writtenOn": "2017-11-13T12:05:31Z",
+      "side": 1,
+      "message": "curoius, but what bot?",
+      "parentUuid": "1f485f77_ed74ab9b",
       "range": {
         "startLine": 15,
         "startChar": 0,
