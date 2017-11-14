@@ -1,0 +1,11 @@
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Nguyen Van Trung <trungnv@vn.fujitsu.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 14 Nov 2017 22:20:17 +0000
+Reviewed-on: https://review.openstack.org/518446
+Project: openstack/requirements
+Branch: refs/heads/master
