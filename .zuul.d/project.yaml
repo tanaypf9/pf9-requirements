@@ -2,6 +2,9 @@
     name: openstack/requirements
     check:
       jobs:
+        - build-wheel-mirror-centos-7
+        - build-wheel-mirror-ubuntu-trusty
+        - build-wheel-mirror-ubuntu-xenial
         - openstack-tox-validate
         - requirements-tox-babel
         - requirements-tox-py27-check-uc
