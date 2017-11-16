@@ -1,0 +1,10 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 16 Nov 2017 10:52:14 +0000
+Reviewed-on: https://review.openstack.org/519257
+Project: openstack/requirements
+Branch: refs/heads/master
