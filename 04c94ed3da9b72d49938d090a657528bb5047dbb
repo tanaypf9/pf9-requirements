@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f485f77_84992d7a",
+        "filename": "bindep.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-11-16T06:45:25Z",
+      "side": 1,
+      "message": "this should be platform:redhat. for platform:suse, this is called mozilla-nss-devel",
+      "revId": "04c94ed3da9b72d49938d090a657528bb5047dbb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
