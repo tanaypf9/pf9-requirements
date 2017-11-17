@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f485f77_564e10c1",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2017-11-17T23:33:38Z",
+      "side": 1,
+      "message": "spacing?",
+      "revId": "585923e696f5d5a20543ba4ba28cd7634692cfdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
