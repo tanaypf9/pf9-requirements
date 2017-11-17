@@ -16,6 +16,24 @@
       "revId": "1619adbc28b2d339dcfc5e0409fa428b7d4ed2ba",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f485f77_7ae0d826",
+        "filename": "bindep.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 4162
+      },
+      "writtenOn": "2017-11-17T15:40:32Z",
+      "side": 0,
+      "message": "sure, I removed it because there was no wheel build for suse yet. But will be easier to test once we setup the check job",
+      "parentUuid": "1f485f77_37d28501",
+      "revId": "1619adbc28b2d339dcfc5e0409fa428b7d4ed2ba",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
