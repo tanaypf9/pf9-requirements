@@ -32,8 +32,9 @@ postgresql-client
 # NOTE(toabctl): libnss3-dev is needed for python-nss
 # which is used by dogtag-pki
 libnss3-dev [platform:dpkg]
-mozilla-nss-devel [platform:rpm]
-nss-devel [platform:rpm]
+mozilla-nss-devel [platform:suse]
+nss-devel [platform:redhat]
+
 # NOTE(dirk) needed for PyECLib
 liberasurecode-dev [platform:dpkg]
 liberasurecode-devel [platform:rpm]
