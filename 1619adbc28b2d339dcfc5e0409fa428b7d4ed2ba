@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f485f77_37d28501",
+        "filename": "bindep.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2017-11-17T07:42:04Z",
+      "side": 0,
+      "message": "can you preserve this line for platform:suse and move it again to the same place like nss-devel  and have libnss3-dev back in this line? I personally think that alphabetical sorting doesn\u0027t make a whole lot of sense here, grouping of related package names for the various distro flavors makes more sense, like it used to be before here.",
+      "revId": "1619adbc28b2d339dcfc5e0409fa428b7d4ed2ba",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
