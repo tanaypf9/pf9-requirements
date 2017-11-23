@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff82abbf_f8bc67dd",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-11-23T15:40:47Z",
+      "side": 1,
+      "message": "What about rpm? Let\u0027s add \"pcre-devel\" as well..",
+      "revId": "d83016e79fbcd2fcdc54f4a8947143182183f594",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
