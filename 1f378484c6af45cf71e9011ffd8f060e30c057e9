@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff82abbf_9fbbd30c",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-23T02:44:12Z",
+      "side": 1,
+      "message": "We can\u0027t do this or it will break generate-constratints.\n\nIf we *really* must do this then we need ....",
+      "range": {
+        "startLine": 9,
+        "startChar": 40,
+        "endLine": 9,
+        "endChar": 77
+      },
+      "revId": "1f378484c6af45cf71e9011ffd8f060e30c057e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff82abbf_3f38879e",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-23T02:44:12Z",
+      "side": 1,
+      "message": "install_command \u003d pip install -U {opts} {packages}\n\nHere",
+      "revId": "1f378484c6af45cf71e9011ffd8f060e30c057e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff82abbf_bf4b3729",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-23T02:44:12Z",
+      "side": 1,
+      "message": "I think we can boil this down to just this line.",
+      "range": {
+        "startLine": 40,
+        "startChar": 0,
+        "endLine": 40,
+        "endChar": 86
+      },
+      "revId": "1f378484c6af45cf71e9011ffd8f060e30c057e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff82abbf_ff41bf0c",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-11-23T02:44:12Z",
+      "side": 1,
+      "message": "This isn\u0027t needed as it\u0027s a duplicate of the testenv value",
+      "range": {
+        "startLine": 41,
+        "startChar": 0,
+        "endLine": 42,
+        "endChar": 42
+      },
+      "revId": "1f378484c6af45cf71e9011ffd8f060e30c057e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
