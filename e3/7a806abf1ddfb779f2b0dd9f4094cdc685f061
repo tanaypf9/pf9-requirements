@@ -1,0 +1,11 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Paul Belanger <pabelanger@redhat.com>
+Code-Review+1: Andreas Scheuring <andreas.scheuring@de.ibm.com>
+Code-Review+1: Fellype Cavalcante <fellypefca@lsd.ufcg.edu.br>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 23 Nov 2017 18:39:49 +0000
+Reviewed-on: https://review.openstack.org/522447
+Project: openstack/requirements
+Branch: refs/heads/master
