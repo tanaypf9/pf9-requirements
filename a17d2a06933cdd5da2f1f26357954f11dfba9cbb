@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff82abbf_78c6179d",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2017-11-23T15:33:55Z",
+      "side": 1,
+      "message": "call it \"platform:rpm\", this works for SUSE as well",
+      "range": {
+        "startLine": 28,
+        "startChar": 21,
+        "endLine": 28,
+        "endChar": 27
+      },
+      "revId": "a17d2a06933cdd5da2f1f26357954f11dfba9cbb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
