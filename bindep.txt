@@ -53,7 +53,7 @@ postgresql-client [platform:dpkg]
 
 # NOTE(dirk) needed for PyECLib
 liberasurecode-dev [platform:dpkg]
-liberasurecode-devel [platform:rpm]
+#liberasurecode-devel [platform:rpm]
 dev-libs/liberasurecode [platform:gentoo]
 libsystemd-dev [platform:dpkg !platform:ubuntu-trusty]
 libsystemd-journal-dev [platform:ubuntu-trusty]
