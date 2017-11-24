@@ -43,14 +43,6 @@ uuid-dev [platform:dpkg]
 python-numpy [python]
 python-yaml [python]
 
-# NOTE(jaegerandi): Temporarily needed for running as part of
-# OpenStack gates:
-# TODO(pabelanger): Remove in follow up patch.
-mysql-client [platform:dpkg]
-mysql-server [platform:dpkg]
-postgresql
-postgresql-client [platform:dpkg]
-
 # NOTE(dirk) needed for PyECLib
 liberasurecode-dev [platform:dpkg]
 liberasurecode-devel [platform:rpm]
@@ -65,4 +57,4 @@ pcre-devel [platform:rpm]
 gawk [test]
 # NOTE(pabelanger): You must first enable epel to install parallel RPM on
 # centos-7.
-parallel [test]
+parallel [test !platform:suse]
