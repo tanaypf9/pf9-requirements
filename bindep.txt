@@ -57,4 +57,4 @@ pcre-devel [platform:rpm]
 gawk [test]
 # NOTE(pabelanger): You must first enable epel to install parallel RPM on
 # centos-7.
-parallel [test]
+parallel [test !platform:suse]
