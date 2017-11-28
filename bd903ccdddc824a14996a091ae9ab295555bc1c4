@@ -16,6 +16,24 @@
       "revId": "bd903ccdddc824a14996a091ae9ab295555bc1c4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff82abbf_76580d55",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 15197
+      },
+      "writtenOn": "2017-11-28T19:35:36Z",
+      "side": 0,
+      "message": "I must admit I don\u0027t really understand that part, can a DevStack / requirements expert chip in?",
+      "parentUuid": "ff82abbf_60536318",
+      "revId": "bd903ccdddc824a14996a091ae9ab295555bc1c4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
