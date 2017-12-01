@@ -24,13 +24,13 @@ os-api-ref===1.4.0
 oslo.concurrency===3.23.0
 websocket-client===0.44.0
 osprofiler===1.14.0
-tabulate===0.8.1
+tabulate===0.8.2
 python-ironic-inspector-client===2.1.0
 lxml===4.1.1
 jdcal===1.3
 python-kingbirdclient===0.2.0
 setproctitle===1.1.10
-pytest===3.2.5
+pytest===3.3.0
 python-etcd===0.4.5
 cursive===0.2.0
 oslo.service===1.27.0
@@ -42,6 +42,7 @@ requests-aws===0.1.8
 alabaster===0.7.10
 pbr===3.1.1
 munch===2.2.0
+attrs===17.3.0
 microversion-parse===0.1.4
 Pint===0.8.1
 oslo.i18n===3.18.0
@@ -92,7 +93,7 @@ requests-toolbelt===0.8.0
 simplejson===3.13.2
 suds-jurko===0.6
 python-swiftclient===3.4.0
-pyOpenSSL===17.4.0
+pyOpenSSL===17.5.0
 validictory===1.1.1
 monasca-common===2.4.0
 hyperframe===4.0.2;python_version=='3.4'
@@ -166,7 +167,7 @@ PyYAML===3.12
 beautifulsoup4===4.6.0
 os-net-config===8.0.0
 ovs===2.7.2
-cryptography===2.1.3
+cryptography===2.1.4
 backports.ssl-match-hostname===3.5.0.1;python_version=='2.7'
 openstack-release-test===0.10.2
 pylxd===2.2.4
@@ -181,7 +182,7 @@ unittest2===1.1.0
 django-compressor===2.2
 libvirt-python===3.9.0
 python-zunclient===0.5.0
-tzlocal===1.4
+tzlocal===1.5
 python-novaclient===9.1.1
 bcrypt===3.1.4
 os-client-config===1.28.0
@@ -236,6 +237,7 @@ webcolors===1.7
 aodhclient===0.9.0
 autobahn===17.10.1
 SQLAlchemy-Utils===0.32.21
+pluggy===0.6.0
 coverage===4.4.2
 freezegun===0.3.9
 python-pytun===2.2.1
@@ -262,7 +264,7 @@ docutils===0.14
 notifier===1.0.3
 pycrypto===2.6.1
 ujson===1.35
-selenium===3.7.0
+selenium===3.8.0
 python-glareclient===0.5.0
 mypy===0.550;python_version=='3.4'
 mypy===0.550;python_version=='3.5'
@@ -280,7 +282,7 @@ stestr===1.1.0
 urwid===1.3.1;python_version=='3.4'
 urwid===1.3.1;python_version=='3.5'
 singledispatch===3.4.0.3;python_version=='2.7'
-oslo.serialization===2.21.1
+oslo.serialization===2.21.2
 warlock===1.2.0
 exabgp===4.0.2
 sphinxcontrib-httpdomain===1.5.0
@@ -326,7 +328,7 @@ XStatic-Spin===1.2.5.2
 os-traits===0.4.0
 SecretStorage===2.3.1
 XStatic-Rickshaw===1.5.0.0
-iso8601===0.1.11
+iso8601===0.1.12
 tooz===1.59.0
 linecache2===1.0.0
 oauth2client===4.1.2
@@ -339,7 +341,7 @@ protobuf===3.5.0.post1
 os-dpm===1.1.0
 sushy===1.2.0
 python-neutronclient===6.5.0
-pika===0.10.0
+pika===0.11.2
 oslo.cache===1.27.0
 WebTest===2.0.29
 openstack.nose-plugin===0.11
@@ -370,7 +372,7 @@ zake===0.2.2
 python-rsdclient===0.1.0
 python-solumclient===2.5.0
 PyMySQL===0.7.11
-kubernetes===2.0.0
+kubernetes===4.0.0
 httplib2===0.10.3
 bottle===0.12.13
 betamax===0.8.0
@@ -386,7 +388,7 @@ msgpack-python===0.4.8
 proboscis===1.2.6.0
 fortiosclient===0.0.2
 stevedore===1.27.1
-botocore===1.8.1
+botocore===1.8.6
 xmltodict===0.11.0
 pyasn1===0.4.2
 oslo.rootwrap===5.11.0
@@ -453,7 +455,7 @@ tempest-lib===1.0.0
 spec-cleaner===1.0.0
 repoze.lru===0.7
 rfc3986===1.1.0
-tenacity===4.7.0
+tenacity===4.7.1
 XStatic-Magic-Search===0.2.5.1
 python-designateclient===2.7.0
 future===0.16.0
@@ -514,7 +516,7 @@ smmap2===2.0.3
 olefile===0.44
 greenlet===0.4.12
 xvfbwrapper===0.2.9
-futures===3.1.1;python_version=='2.7'
+futures===3.2.0;python_version=='2.7'
 tosca-parser===0.8.1
 Flask===0.12.2
 pymod2pkg===0.10.2
