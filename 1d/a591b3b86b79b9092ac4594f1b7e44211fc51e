@@ -1,0 +1,10 @@
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Code-Review+1: jichenjc <jichenjc@cn.ibm.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 07 Dec 2017 13:15:02 +0000
+Reviewed-on: https://review.openstack.org/526260
+Project: openstack/requirements
+Branch: refs/heads/master
