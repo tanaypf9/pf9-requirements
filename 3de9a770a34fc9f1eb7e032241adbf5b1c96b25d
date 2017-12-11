@@ -16,6 +16,24 @@
       "revId": "3de9a770a34fc9f1eb7e032241adbf5b1c96b25d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df87a7cf_3db90114",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 26131
+      },
+      "writtenOn": "2017-12-11T09:11:49Z",
+      "side": 1,
+      "message": "thanks, spaces removed - i explained in the commit message - any is there any other place that could be relevant for the explanation?)",
+      "parentUuid": "df87a7cf_dd781591",
+      "revId": "3de9a770a34fc9f1eb7e032241adbf5b1c96b25d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
