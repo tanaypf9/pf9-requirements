@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 12 Dec 2017 00:56:54 +0000
+Reviewed-on: https://review.openstack.org/527118
+Project: openstack/requirements
+Branch: refs/heads/master
