@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df87a7cf_26499b5f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 393,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-12-14T01:31:50Z",
+      "side": 1,
+      "message": "So IIUC we\u0027re going to (or have) added something to openstacksdk that will break us.  Fine we can cope with that.  Does that imply on master you\u0027d update this to \u003e\u003d1.0.0 and if so doesn\u0027t that make it really hard to upgrade from pike to queens as there isn\u0027t a version of openstacksdk that supports both?",
+      "range": {
+        "startLine": 393,
+        "startChar": 21,
+        "endLine": 393,
+        "endChar": 27
+      },
+      "revId": "219322a5746a89d9241b4561c8e962d2bbeba60e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
