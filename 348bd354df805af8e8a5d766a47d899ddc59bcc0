@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df87a7cf_d2b66e8b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 428,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2017-12-14T01:14:45Z",
+      "side": 1,
+      "message": "There isn\u0027t a version on pypi that satisfies this specification.  We need at least that release to exist before we can add this.\n\nLooking at http://git.openstack.org/cgit/openstack/sphinx-feature-classification/tree/ we\u0027re still a ways off being able to include this in g-r.\n\nAt a minimum we need something that is installable from pypi, that works within the constraints environment",
+      "range": {
+        "startLine": 428,
+        "startChar": 31,
+        "endLine": 428,
+        "endChar": 36
+      },
+      "revId": "348bd354df805af8e8a5d766a47d899ddc59bcc0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
