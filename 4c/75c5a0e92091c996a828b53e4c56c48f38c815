@@ -1,0 +1,9 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Nicolas Helgeson <nh202b@att.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 14 Dec 2017 22:26:56 +0000
+Reviewed-on: https://review.openstack.org/528046
+Project: openstack/requirements
+Branch: refs/heads/master
