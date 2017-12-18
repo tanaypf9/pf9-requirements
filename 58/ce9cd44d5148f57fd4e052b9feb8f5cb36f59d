@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 18 Dec 2017 09:55:57 +0000
+Reviewed-on: https://review.openstack.org/526042
+Project: openstack/requirements
+Branch: refs/heads/master
