@@ -1,0 +1,11 @@
+Code-Review+1: John Griffith <john.griffith8@gmail.com>
+Code-Review+1: Jay Bryant <jungleboyj@electronicjungle.net>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 22 Dec 2017 02:45:30 +0000
+Reviewed-on: https://review.openstack.org/529659
+Project: openstack/requirements
+Branch: refs/heads/master
