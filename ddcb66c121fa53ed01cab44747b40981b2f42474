@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f91af0f_cb6d2699",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2018-01-04T16:12:27Z",
+      "side": 1,
+      "message": "Since these are in the same project, you should base the current patch on this one instead of using Depends-On.",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 53
+      },
+      "revId": "ddcb66c121fa53ed01cab44747b40981b2f42474",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
