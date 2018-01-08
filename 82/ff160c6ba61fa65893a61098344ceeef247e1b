@@ -1,0 +1,10 @@
+Code-Review+1: Eric Kao <ekcs.openstack@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Workflow+1: Swapnil Kulkarni (coolsvap) <me@coolsvap.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 08 Jan 2018 12:14:04 +0000
+Reviewed-on: https://review.openstack.org/531349
+Project: openstack/requirements
+Branch: refs/heads/master
