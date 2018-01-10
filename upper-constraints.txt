@@ -315,7 +315,7 @@ txaio===2.8.2
 elasticsearch===2.4.1
 django-nose===1.4.5
 XStatic-JQuery.TableSorter===2.14.5.1
-pifpaf===1.12.0
+pifpaf===1.12.1
 pysmi===0.2.2
 blockdiag===1.5.3
 testtools===2.3.0
