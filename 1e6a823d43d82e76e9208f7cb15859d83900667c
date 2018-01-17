@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f96bb07_91d4d121",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 150,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-01-17T14:52:47Z",
+      "side": 1,
+      "message": "2018-01-17 12:17:13.249878 | ubuntu-xenial | -oslo.serialization\u003e\u003d2.18.0,!\u003d2.19.1,!\u003d2.21.2,!\u003d2.22.0,!\u003d2.23.0 # Apache-2.0\n2018-01-17 12:17:13.249933 | ubuntu-xenial | +oslo.serialization\u003e\u003d2.18.0,!\u003d2.19.1,!\u003d2.21.2,!\u003d2.22.0,!\u003d2.23.0  # Apache-2.0",
+      "revId": "1e6a823d43d82e76e9208f7cb15859d83900667c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
