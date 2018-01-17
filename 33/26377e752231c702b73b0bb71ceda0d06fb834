@@ -1,0 +1,11 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 17 Jan 2018 06:42:30 +0000
+Reviewed-on: https://review.openstack.org/532420
+Project: openstack/requirements
+Branch: refs/heads/master
