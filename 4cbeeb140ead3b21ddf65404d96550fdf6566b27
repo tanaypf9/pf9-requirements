@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f96bb07_938467b3",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2018-01-22T07:26:46Z",
+      "side": 1,
+      "message": "remove from gate pipeline as well",
+      "range": {
+        "startLine": 45,
+        "startChar": 0,
+        "endLine": 46,
+        "endChar": 17
+      },
+      "revId": "4cbeeb140ead3b21ddf65404d96550fdf6566b27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
