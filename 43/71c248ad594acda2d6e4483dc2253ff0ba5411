@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Eyal <eyal.bar-ilan@nokia.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 29 Jan 2018 16:35:54 +0000
+Reviewed-on: https://review.openstack.org/537307
+Project: openstack/requirements
+Branch: refs/heads/master
