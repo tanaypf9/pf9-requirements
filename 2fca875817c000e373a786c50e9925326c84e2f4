@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f93b717_25957633",
+        "filename": "tools/clone-all-the-repos.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-01-31T22:54:23Z",
+      "side": 1,
+      "message": "Processing",
+      "range": {
+        "startLine": 26,
+        "startChar": 13,
+        "endLine": 26,
+        "endChar": 24
+      },
+      "revId": "2fca875817c000e373a786c50e9925326c84e2f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
