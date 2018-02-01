@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f93b717_50bf07a9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-02-01T19:35:20Z",
+      "side": 1,
+      "message": "mreidmann said we didn\u0027t need 10.1.10 in queens",
+      "revId": "9c5ef231fb1437ec9349b2ea524d063afcb7392c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f93b717_f0df330a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 412,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-02-01T19:35:20Z",
+      "side": 1,
+      "message": "openstacksdk is being done in another review for 0.11.1 (was in late check)\nhttps://review.openstack.org/539682",
+      "revId": "9c5ef231fb1437ec9349b2ea524d063afcb7392c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
