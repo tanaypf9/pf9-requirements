@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa0c359_d38cbad8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-02-09T20:22:10Z",
+      "side": 1,
+      "message": "typo: mistral",
+      "revId": "da673506c5b3eb1f0d7250d922e125de02222af1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
