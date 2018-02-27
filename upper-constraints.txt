@@ -101,7 +101,7 @@ hyperframe===4.0.2;python_version=='3.5'
 cssutils===1.0.2;python_version=='3.4'
 cssutils===1.0.2;python_version=='3.5'
 scipy===1.0.0
-rsd-lib===0.1.1
+rsd-lib===0.2.0
 XStatic-Jasmine===2.4.1.1
 python-glanceclient===2.9.1
 pyinotify===0.9.6
@@ -366,7 +366,7 @@ tempest===17.2.0
 django-floppyforms===1.7.0
 openstackdocstheme===1.18.1
 zake===0.2.2
-python-rsdclient===0.1.1
+python-rsdclient===0.1.2
 python-magic===0.4.15
 python-solumclient===2.6.1
 PyMySQL===0.8.0
