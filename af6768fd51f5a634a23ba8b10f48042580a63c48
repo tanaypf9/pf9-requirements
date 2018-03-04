@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f9dbf25_4b9cc35c",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 181,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-03-04T12:25:14Z",
+      "side": 1,
+      "message": "I\u0027d just end the paragraph at \u0027minimums.\u0027  The rest should probably get it\u0027s own section dealing with lower-constraints.txt.",
+      "revId": "af6768fd51f5a634a23ba8b10f48042580a63c48",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
