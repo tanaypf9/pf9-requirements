@@ -13,6 +13,9 @@
         - build-wheel-mirror-ubuntu-xenial:
             files:
               - bindep.txt
+        - build-wheel-mirror-ubuntu-xenial-arm64:
+            files:
+              - bindep.txt
         - openstack-tox-validate
         - requirements-tox-babel
         - requirements-tox-bindep:
@@ -58,6 +61,9 @@
             files:
               - bindep.txt
         - build-wheel-mirror-ubuntu-xenial:
+            files:
+              - bindep.txt
+        - build-wheel-mirror-ubuntu-xenial-arm64:
             files:
               - bindep.txt
         - openstack-tox-validate
