@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_1b895f74",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-08T04:43:47Z",
+      "side": 1,
+      "message": "You also need to modify this and kubernetes rejects this version.\n\nhttps://github.com/kubernetes-client/python/blob/master/requirements.txt#L9\n\nOpenStack says: websocket-client\u003e\u003d0.33.0,\u003c\u003d0.40.0\nKubernetes says: websocket-client\u003e\u003d0.32.0,!\u003d0.40.0,!\u003d0.41.*,!\u003d0.42.* # LGPLv2+\n\nWhich means the highest version that matches both is 0.39.0",
+      "revId": "06e6995a45dd54488e17cd40de282d4622dd3bdc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
