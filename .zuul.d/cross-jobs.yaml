@@ -141,3 +141,11 @@
     required-projects: openstack/swift
     vars:
       tox_envlist: py35
+
+- job:
+    name: cross-osc-sphinx-docs
+    parent: requirements-cross-test
+    description: Run cross-project sphinx-docs on openstackclient with sphinx-docs
+    required-projects: openstack/python-openstackclient
+    vars:
+      tox_envlist: docs

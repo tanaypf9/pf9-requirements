@@ -45,6 +45,8 @@
         - cross-swift-py27
         - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
+        - cross-osc-sphinx-docs:
+            branches: ^(?!stable/).*$
     gate:
       queue: integrated
       jobs:
@@ -89,3 +91,5 @@
         - cross-swift-py27
         - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
+        - cross-osc-sphinx-docs:
+            branches: ^(?!stable/).*$
