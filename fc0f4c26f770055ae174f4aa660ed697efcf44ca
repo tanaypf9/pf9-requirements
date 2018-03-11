@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_672be32f",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-03-11T03:18:48Z",
+      "side": 1,
+      "message": "nit: alpanum ordering",
+      "revId": "fc0f4c26f770055ae174f4aa660ed697efcf44ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_07222753",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-03-11T03:18:48Z",
+      "side": 1,
+      "message": "nit: alphanum ordering",
+      "revId": "fc0f4c26f770055ae174f4aa660ed697efcf44ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
