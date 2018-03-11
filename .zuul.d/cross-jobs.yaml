@@ -141,3 +141,14 @@
     required-projects: openstack/swift
     vars:
       tox_envlist: py35
+
+- job:
+    name: cross-osc-build-sphinx-docs
+    parent: build-openstack-sphinx-docs
+    vars:
+      zuul_work_dir: "{{ (zuul.projects.values() | selectattr('required') | selectattr('name', 'match', '^(?!openstack/requirements)') | list)[0].src_dir }}"
+    required-projects:
+      - openstack/python-openstackclient
+    files:
+      - upper-constraints.txt
+      - .zuul.d/cross-jobs.yaml
