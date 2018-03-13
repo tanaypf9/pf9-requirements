@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_ce53a338",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-13T22:45:49Z",
+      "side": 1,
+      "message": "nit: This is normally phrased as \u0027Needed-By:\u0027 so as to not confuse it with \u0027Depends-On:\u0027",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 18
+      },
+      "revId": "31775b22d3b31fb4aa00ef4ca67fbb045a45de42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
