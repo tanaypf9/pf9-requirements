@@ -1,64 +1,9 @@
 - project:
-    templates:
-      - openstack-pypy-jobs-nonvoting
-      - openstack-python-jobs
-      - openstack-python35-jobs
-      - openstack-python36-jobs
     check:
       jobs:
-        - build-wheel-mirror-centos-7:
+        - build-wheel-mirror-ubuntu-xenial-arm64:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-bionic:
-            files:
-              - bindep.txt
-        - build-wheel-mirror-ubuntu-trusty:
-            files:
-              - bindep.txt
-        - build-wheel-mirror-ubuntu-xenial:
-            files:
-              - bindep.txt
-        - openstack-tox-validate
-        - requirements-tox-babel
-        - requirements-tox-bindep:
-            voting: false
-        - requirements-tox-py27-check-uc
-        - requirements-tox-py35-check-uc
-        - requirements-tox-py36-check-uc:
-            voting: false
-        - requirements-tox-validate-projects:
-            voting: false
-        - cross-cinder-py27
-        - cross-cinder-py35
-        - cross-glance-py27
-        - cross-glance-py35
-        - cross-horizon-py27
-        - cross-horizon-py35
-        - cross-horizon-npm
-        - cross-keystone-py27
-        - cross-keystone-py35
-        - cross-neutron-py27
-        - cross-neutron-py35
-        - cross-nova-py27
-        - cross-nova-py35
-        - cross-nova-functional
-        - cross-osc-build-sphinx-docs
-        - cross-swift-py27
-        - cross-swift-py35
-        - openstack-tox-py36
-        - requirements-integration
-        - neutron-grenade-multinode:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - tempest-full:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - neutron-grenade:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
     gate:
       jobs:
         - build-wheel-mirror-centos-7:
