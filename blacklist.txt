@@ -12,3 +12,9 @@ pep8
 pyflakes
 pycodestyle
 pylint
+
+# Temporarily until tools/tox_install.sh is updated
+networking-odl
+networking-bagpipe
+networking-bgpvpn
+networking-sfc
