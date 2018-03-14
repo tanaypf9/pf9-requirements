@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_bfc20858",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 5046
+      },
+      "writtenOn": "2018-03-14T16:19:08Z",
+      "side": 1,
+      "message": "Doug proposed a fix for this [0], which appears to be included in version 1.7.1, but that requires a new version of PBR that is having issues with 1.7.1.\n\nBlacklisting 1.6.7 should at least unblock jobs until we get things working with 1.7.1\n\n[0] https://github.com/sphinx-doc/sphinx/commit/83f30712b8affef9c5bc6bcc52c4d70797856ece",
+      "revId": "bddf52aa13f8ce86aeeb32940abb89301a434026",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
