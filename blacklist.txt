@@ -12,17 +12,3 @@ pep8
 pyflakes
 pycodestyle
 pylint
-
-# Temporarily until tools/tox_install.sh is updated everywhere
-horizon
-networking-bagpipe
-networking-bgpvpn
-networking-l2gw
-networking-odl
-networking-sfc
-neutron
-neutron-dynamic-routing
-neutron-fwaas
-neutron-lbaas
-neutron-vpnaas
-vmware-nsxlib
