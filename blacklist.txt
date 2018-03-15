@@ -14,16 +14,5 @@ pycodestyle
 pylint
 Pygments
 
-# Temporarily until tools/tox_install.sh is updated everywhere
-horizon
-networking-bagpipe
-networking-bgpvpn
-networking-l2gw
+# Temporarily until a release is done that uncaps
 networking-odl
-networking-sfc
-neutron
-neutron-dynamic-routing
-neutron-fwaas
-neutron-lbaas
-neutron-vpnaas
-vmware-nsxlib
