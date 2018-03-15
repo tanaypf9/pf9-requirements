@@ -539,3 +539,15 @@ XStatic-D3===3.5.17.0
 actdiag===0.5.4
 sysv-ipc===1.0.0
 scikit-learn===0.19.1
+networking-bagpipe===8.0.0
+networking-bgpvpn===8.0.0
+networking-l2gw===12.0.1
+networking-odl===12.0.0
+networking-sfc===6.0.0
+neutron===12.0.3
+neutron-dynamic-routing===12.0.1
+neutron-fwaas===12.0.0
+neutron-lbaas===12.0.0
+neutron-vpnaas===12.0.0
+vmware-nsxlib===12.1.1
+horizon===2012.2
