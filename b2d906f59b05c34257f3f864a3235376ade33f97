@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_f68f2272",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2018-03-15T20:49:10Z",
+      "side": 1,
+      "message": "working",
+      "range": {
+        "startLine": 10,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 8
+      },
+      "revId": "b2d906f59b05c34257f3f864a3235376ade33f97",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_b6ebea10",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 12021
+      },
+      "writtenOn": "2018-03-15T20:49:10Z",
+      "side": 1,
+      "message": "tox_install",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 11
+      },
+      "revId": "b2d906f59b05c34257f3f864a3235376ade33f97",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
