@@ -538,3 +538,12 @@ scikit-learn===0.17.1
 python-blazarclient===1.0.1
 horizon===13.0.0
 neutron===12.0.0
+networking-odl===12.0.0
+networking-bagpipe===8.0.0
+networking-bgpvpn===8.0.0
+networking-sfc===6.0.0
+networking-l2gw===12.0.1
+neutron-lbaas===12.0.0
+neutron-fwaas===12.0.0
+neutron-vpnaas===12.0.0
+neutron-dynamic-routing===12.0.0
