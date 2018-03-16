@@ -1,0 +1,11 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Adam Harwell <flux.adam@gmail.com>
+Code-Review+1: Carlos Goncalves <cgoncalves@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 16 Mar 2018 00:11:16 +0000
+Reviewed-on: https://review.openstack.org/553138
+Project: openstack/requirements
+Branch: refs/heads/master
