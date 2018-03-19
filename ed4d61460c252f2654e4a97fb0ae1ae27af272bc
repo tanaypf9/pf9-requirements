@@ -22,6 +22,23 @@
       "revId": "ed4d61460c252f2654e4a97fb0ae1ae27af272bc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_efb941e9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-03-19T16:54:42Z",
+      "side": 1,
+      "message": "the old stuff technically supports pip \u003c10 (besides this breaking version of pip-9), so I think it\u0027s fine to leave gr as it is for now.",
+      "revId": "ed4d61460c252f2654e4a97fb0ae1ae27af272bc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
