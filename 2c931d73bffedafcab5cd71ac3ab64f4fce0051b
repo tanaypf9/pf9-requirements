@@ -72,6 +72,24 @@
     },
     {
       "key": {
+        "uuid": "df7087c5_c1ec642b",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 17880
+      },
+      "writtenOn": "2018-03-19T06:39:30Z",
+      "side": 1,
+      "message": "Please see also [2]_\n\n[2] https://github.com/skydive-project/skydive/blob/master/contrib/python/api/requirements.txt",
+      "parentUuid": "df7087c5_56125c64",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df7087c5_36c1e881",
         "filename": "lower-constraints.txt",
         "patchSetId": 7
