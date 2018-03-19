@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_3646c823",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 438,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-19T05:43:03Z",
+      "side": 1,
+      "message": "In lower-constraints.txt you set the minimum to 2.1  So this is incorrect now.\n\nCan you call out explicitly why you need to bump trollius[1] from 1.0 to 2.1 and then do it in both global-requirements.txt and lower-constratints.txt\n\n\n[1] You may also want to base this on: https://review.openstack.org/550740",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_b6d5f845",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-19T05:43:03Z",
+      "side": 1,
+      "message": "Can you explain why we need this major bump in l-c?",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_36c1e881",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 540,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-19T05:43:03Z",
+      "side": 1,
+      "message": "Okay ... Our tools aren\u0027t quite there  so you\u0027re going to need to specify this multiple python versions :(\n\n asyncio\u003d\u003d\u003d3.4.3;python_version\u003d\u003d\u00273.4\u0027\n asyncio\u003d\u003d\u003d3.4.3;python_version\u003d\u003d\u00273.5\u0027\n asyncio\u003d\u003d\u003d3.4.3;python_version\u003d\u003d\u00273.6\u0027",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_56581cf9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 531,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-19T05:43:03Z",
+      "side": 1,
+      "message": "As with lower-constratints.txt you\u0027ll need to pin this for 3.4, 3.5 and 3.6 and then we\u0027ll need to make sure that doesn\u0027t get clobbered (we\u0027re not quite ready for 3.6 yet)",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
