@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "df7087c5_d62c2cae",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 438,
+      "author": {
+        "id": 17880
+      },
+      "writtenOn": "2018-03-19T06:25:34Z",
+      "side": 1,
+      "message": "Will fix this one.\nBumping up the trollius is required by the Skydive.\nSkydive requires trollius 2.1 in Python2 and asyncio 3.4.3 on python3",
+      "parentUuid": "df7087c5_3646c823",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df7087c5_b6d5f845",
         "filename": "lower-constraints.txt",
         "patchSetId": 7
@@ -30,6 +48,24 @@
       "writtenOn": "2018-03-19T05:43:03Z",
       "side": 1,
       "message": "Can you explain why we need this major bump in l-c?",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_56125c64",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 17880
+      },
+      "writtenOn": "2018-03-19T06:25:34Z",
+      "side": 1,
+      "message": "This is a requirement inherited from Skydive[1]_ I got validation errors until I bumped it up to this version\n\n[1] https://github.com/skydive-project/skydive/blob/master/contrib/python/api/setup.py",
+      "parentUuid": "df7087c5_b6d5f845",
       "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "df7087c5_a1fdb009",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 540,
+      "author": {
+        "id": 17880
+      },
+      "writtenOn": "2018-03-19T06:25:34Z",
+      "side": 1,
+      "message": "Will do.\nI will try to use python_version\u003e\u003d\u00273.0\u0027\nIf this does not work will add versions explicitly",
+      "parentUuid": "df7087c5_36c1e881",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df7087c5_56581cf9",
         "filename": "upper-constraints.txt",
         "patchSetId": 7
@@ -64,6 +118,24 @@
       "writtenOn": "2018-03-19T05:43:03Z",
       "side": 1,
       "message": "As with lower-constratints.txt you\u0027ll need to pin this for 3.4, 3.5 and 3.6 and then we\u0027ll need to make sure that doesn\u0027t get clobbered (we\u0027re not quite ready for 3.6 yet)",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_810c2c3c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 531,
+      "author": {
+        "id": 17880
+      },
+      "writtenOn": "2018-03-19T06:25:34Z",
+      "side": 1,
+      "message": "Will try python_version\u003e\u003d\u00273.0\u0027 as in lower_constraints",
+      "parentUuid": "df7087c5_56581cf9",
       "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
