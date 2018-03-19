@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_74cbc571",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-03-19T19:08:30Z",
+      "side": 1,
+      "message": "stable/queens is using 4.21 so this looks OK.\n\nhttps://github.com/openstack/requirements/blob/stable/queens/upper-constraints.txt#L22",
+      "revId": "017f595a5cb58a1f73e9bc70d409e9e0cefad3cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
