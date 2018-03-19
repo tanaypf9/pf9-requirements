@@ -39,6 +39,24 @@
       "revId": "ed4d61460c252f2654e4a97fb0ae1ae27af272bc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_61022541",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-03-19T18:40:44Z",
+      "side": 1,
+      "message": "We also don\u0027t bump minimum required versions of packages in global-requirements on stable branches. People have shipped those minimum versions (or we should assume they have) and won\u0027t be changing them on stable releases.",
+      "parentUuid": "df7087c5_efb941e9",
+      "revId": "ed4d61460c252f2654e4a97fb0ae1ae27af272bc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
