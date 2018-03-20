@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_ea9d9366",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-03-20T15:00:30Z",
+      "side": 1,
+      "message": "Similar to https://review.openstack.org/#/c/554374/ do we need to bump this to 3.22.2 in the same patch? I guess not if tests are passing.",
+      "revId": "1e083914af0e8c93ce8dc49300bcc3e39d78637b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
