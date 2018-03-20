@@ -1,0 +1,16 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Matt Riedemann <mriedem.os@gmail.com>
+Code-Review+1: Jakub Libosvar <jlibosva-redhat@email.cz>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Bernard Cafarelli <bcafarel@redhat.com>
+Code-Review+1: Pavlo Shchelokovskyy <pshchelokovskyy@mirantis.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Kairat Kushaev <kkushaev@mirantis.com>
+Code-Review+1: Mohammed Naser <mnaser@vexxhost.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 20 Mar 2018 16:44:11 +0000
+Reviewed-on: https://review.openstack.org/554374
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
