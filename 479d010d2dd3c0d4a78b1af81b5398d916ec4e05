@@ -52,6 +52,24 @@
       "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_5bfc9c3d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 452,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2018-03-20T11:46:08Z",
+      "side": 1,
+      "message": "It seems the infra script failed to publish it to PyPI somehow.\nI think the easiest way is to release a new version like 12.0.1.",
+      "parentUuid": "df7087c5_bbf4d8d0",
+      "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
