@@ -34,6 +34,24 @@
       "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_bbf4d8d0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 452,
+      "author": {
+        "id": 1653
+      },
+      "writtenOn": "2018-03-20T11:26:47Z",
+      "side": 1,
+      "message": "Something is odd here - maybe it was not published by infra - https://github.com/openstack/vmware-nsxlib/tree/12.0.0\nAny idea?\nI do not want to block this",
+      "parentUuid": "df7087c5_5dbc99ba",
+      "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
