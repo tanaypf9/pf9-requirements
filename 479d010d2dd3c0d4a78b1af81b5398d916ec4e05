@@ -70,6 +70,24 @@
       "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df7087c5_16d11b58",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 452,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2018-03-20T12:02:00Z",
+      "side": 1,
+      "message": "Indeed, I see 12.1.0 at:\nhttp://mirror.iad.rax.openstack.org/pypi/simple/vmware-nsxlib/\n\nand also at https://pypi.python.org/pypi/vmware-nsxlib/12.1.0\n\nBut it points to 11.0.2 as latest version ;(",
+      "parentUuid": "df7087c5_5bfc9c3d",
+      "revId": "479d010d2dd3c0d4a78b1af81b5398d916ec4e05",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
