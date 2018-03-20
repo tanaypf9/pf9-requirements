@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_afdfa038",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 428,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-03-20T22:15:12Z",
+      "side": 1,
+      "message": "Apparently it needs to be updated here now too.\n\nAnd our tests need better message output.",
+      "range": {
+        "startLine": 428,
+        "startChar": 24,
+        "endLine": 428,
+        "endChar": 25
+      },
+      "revId": "b0b93bfcd11236ba4379e9a4cc32bc29e77b5c76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
