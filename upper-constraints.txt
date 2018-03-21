@@ -1,5 +1,5 @@
-ntlm-auth===1.1.0
 voluptuous===0.11.1
+ntlm-auth===1.1.0
 chardet===3.0.4
 enum-compat===0.0.2
 rsa===3.4.2
