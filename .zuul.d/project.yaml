@@ -20,23 +20,30 @@
         - requirements-tox-py27-check-lc
         - requirements-tox-py27-check-uc
         - requirements-tox-py35-check-uc
+        - requirements-tox-py36-check-uc
         - requirements-tox-validate-projects
         - cross-cinder-py27
         - cross-cinder-py35
+        - cross-cinder-py36
         - cross-glance-py27
         - cross-glance-py35
+        - cross-glance-py36
         - cross-horizon-py27
         - cross-horizon-py35
+        - cross-horizon-py36
         - cross-keystone-py27
         - cross-keystone-py35
+        - cross-keystone-py36
         - cross-neutron-py27
         - cross-neutron-py35
+        - cross-neutron-py36
         - cross-nova-py27
-        - cross-nova-py35
+        - cross-nova-py36
         - cross-nova-functional
         - cross-osc-build-sphinx-docs
         - cross-swift-py27
         - cross-swift-py35
+        - cross-swift-py36
     gate:
       queue: integrated
       jobs:
@@ -56,21 +63,28 @@
         - requirements-tox-babel
         - requirements-tox-py27-check-uc
         - requirements-tox-py35-check-uc
+        - requirements-tox-py36-check-uc
         - requirements-tox-validate-projects
         - cross-cinder-py27
         - cross-cinder-py35
+        - cross-cinder-py36
         - cross-glance-py27
         - cross-glance-py35
+        - cross-glance-py36
         - cross-horizon-py27
         - cross-horizon-py35
+        - cross-horizon-py36
         - cross-keystone-py27
         - cross-keystone-py35
+        - cross-keystone-py36
         - cross-neutron-py27
         - cross-neutron-py35
+        - cross-neutron-py36
         - cross-nova-py27
-        - cross-nova-py35:
-            files: ^upper-constraints.txt$
+        - cross-nova-py35
+        - cross-nova-py36
         - cross-nova-functional
         - cross-osc-build-sphinx-docs
         - cross-swift-py27
         - cross-swift-py35
+        - cross-swift-py36
