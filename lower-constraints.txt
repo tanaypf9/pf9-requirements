@@ -22,7 +22,7 @@ pecan===1.0.0
 ryu===4.14
 os-api-ref===1.4.0
 oslo.concurrency===3.25.0
-websocket-client===0.33.0
+websocket-client===0.44.0
 osprofiler===1.4.0
 tabulate===0.8.1
 python-ironic-inspector-client===1.5.0
@@ -367,7 +367,7 @@ python-rsdclient===0.1.0
 python-magic===0.4.13
 python-solumclient===1.2.7
 PyMySQL===0.7.6
-kubernetes===4.0.0
+kubernetes===5.0.0
 httplib2===0.9.1
 PrettyTable===0.7.1
 bottle===0.12.13
