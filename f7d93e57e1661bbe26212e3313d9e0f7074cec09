@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df7087c5_1700e600",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 14
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-03-22T21:33:33Z",
+      "side": 1,
+      "message": "Not related, but I wonder if we should clean these out now.",
+      "range": {
+        "startLine": 198,
+        "startChar": 39,
+        "endLine": 198,
+        "endChar": 42
+      },
+      "revId": "f7d93e57e1661bbe26212e3313d9e0f7074cec09",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
