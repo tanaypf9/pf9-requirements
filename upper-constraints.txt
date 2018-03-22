@@ -344,6 +344,7 @@ scp===0.10.2
 selenium===2.53.6
 semantic-version===2.5.0
 seqdiag===0.9.5
+setuptools==38.7.0
 simplegeneric===0.8.1
 simplejson===3.8.2
 singledispatch===3.4.0.3;python_version=='2.7'
