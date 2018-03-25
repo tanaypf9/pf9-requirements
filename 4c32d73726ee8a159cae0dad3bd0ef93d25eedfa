@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_f1edb525",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 1736
+      },
+      "writtenOn": "2018-03-25T13:38:39Z",
+      "side": 1,
+      "message": "Should it be \u0027\u003c2.1\u0027?",
+      "revId": "4c32d73726ee8a159cae0dad3bd0ef93d25eedfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
