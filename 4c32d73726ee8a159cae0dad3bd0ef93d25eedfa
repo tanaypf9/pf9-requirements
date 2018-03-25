@@ -16,6 +16,24 @@
       "revId": "4c32d73726ee8a159cae0dad3bd0ef93d25eedfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_d42adfe5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2018-03-25T15:54:06Z",
+      "side": 1,
+      "message": "I think it should be discussed separately. Django 2.0 supports only python3. The target of this patch is bump the minimum version to make the lower-constraint job work.\nIf you would like to update it, feel free to update it.",
+      "parentUuid": "bf659307_f1edb525",
+      "revId": "4c32d73726ee8a159cae0dad3bd0ef93d25eedfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
