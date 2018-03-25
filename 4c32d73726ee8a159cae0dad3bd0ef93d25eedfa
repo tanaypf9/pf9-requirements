@@ -34,6 +34,24 @@
       "revId": "4c32d73726ee8a159cae0dad3bd0ef93d25eedfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_0080118b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2018-03-25T23:42:00Z",
+      "side": 1,
+      "message": "Potentially bumping the upper bound to \u0027\u003c2.1\u0027 affects py35 jobs of all horizon plugins. I think it is better to announce the timing of the bump in the mailing list in advance. I still believe it should be done separately.",
+      "parentUuid": "bf659307_d42adfe5",
+      "revId": "4c32d73726ee8a159cae0dad3bd0ef93d25eedfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
