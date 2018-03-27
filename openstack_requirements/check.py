@@ -19,6 +19,8 @@ import collections
 from openstack_requirements import project
 from openstack_requirements import requirement
 
+from packaging import specifiers
+
 
 class RequirementsList(object):
     def __init__(self, name, project):
@@ -180,4 +182,70 @@ def validate(head_reqs, branch_reqs, blacklist, global_reqs):
                 or failed
             )
 
+    return failed
+
+
+def validate_lower_constraints(req_list, constraints, blacklist):
+    """Return True if there is an error.
+
+    :param reqs: RequirementsList for the head of the branch
+    :param constraints: Parsed lower-constraints.txt or None
+
+    """
+    if constraints is None:
+        return False
+
+    parsed_constraints = requirement.parse(constraints)
+
+    failed = False
+
+    for fname, freqs in req_list.reqs_by_file.items():
+
+        if fname == 'doc/requirements.txt':
+            # Skip things that are not needed for unit or functional
+            # tests.
+            continue
+
+        print("Validating lower constraints of {}".format(fname))
+
+        for name, reqs in freqs.items():
+
+            if name in blacklist:
+                continue
+
+            if name not in parsed_constraints:
+                print('Package {!r} is used in {} '
+                      'but not in lower-constraints.txt'.format(
+                          name, fname))
+                failed = True
+                continue
+
+            for req in reqs:
+                spec = specifiers.SpecifierSet(req.specifiers)
+                version = parsed_constraints[name][0][0].specifiers.lstrip('=')
+                if not spec.contains(version):
+                    print('Package {!r} is constrained to {} '
+                          'which is incompatible with the settings {} '
+                          'from {}.'.format(
+                              name, version, req, fname))
+                    failed = True
+
+                min = [
+                    spec
+                    for spec in req.specifiers.split(',')
+                    if '>' in spec
+                ]
+                if not min:
+                    # No minimum specified. Ignore this and let some
+                    # other validation trap the error.
+                    continue
+
+                expected = min[0].lstrip('>=')
+                actual = parsed_constraints[name][0][0].specifiers.lstrip('=')
+                if actual != expected:
+                    print('Package {!r} is constrained to {} '
+                          'which does not match '
+                          'the minimum version specifier {} in {}'.format(
+                              name, actual, expected, fname))
+                    failed = True
     return failed
