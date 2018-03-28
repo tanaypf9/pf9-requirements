@@ -182,6 +182,30 @@
       "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_d72fd63c",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-28T21:36:29Z",
+      "side": 1,
+      "message": "I think 1.2 and 1.2.0 are semantically the same.\n\nOnce we get all of this working we can go through and propose updates to all of the lower-constraints.txt files and fix them. It won\u0027t be pretty to do, but they should be easy patches to land.",
+      "parentUuid": "bf659307_b7cee2b1",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
