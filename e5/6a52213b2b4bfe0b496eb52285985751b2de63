@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Workflow+1: Thomas Bechtold <tbechtold@suse.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 28 Mar 2018 07:58:51 +0000
+Reviewed-on: https://review.openstack.org/555862
+Project: openstack/requirements
+Branch: refs/heads/master
