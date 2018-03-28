@@ -230,6 +230,30 @@
       "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_777cca1e",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T21:42:37Z",
+      "side": 1,
+      "message": "I agree that 1.2 and 1.2.0 are semantically the same but I don\u0027t think there is anything in the pypi ecosystem that stops a library from have 1.2 and 1.2.0 be different things is there?\n\nI\u0027m also very happy to concede that it\u0027s a small risk and *shouldn\u0027t* happen.\n\nI\u0027m happy to work with you to fix up the lower-constraints.txt files that are out there",
+      "parentUuid": "bf659307_d72fd63c",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
