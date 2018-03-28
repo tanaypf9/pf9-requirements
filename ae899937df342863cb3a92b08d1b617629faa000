@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_c3f5f984",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T05:09:30Z",
+      "side": 1,
+      "message": "I\u0027m not sure if this was deliberate but either way I think it\u0027s too noisy.\n\nWe can print most of these args once if needed perhaps in validate?",
+      "revId": "ae899937df342863cb3a92b08d1b617629faa000",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
