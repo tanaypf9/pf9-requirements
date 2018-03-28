@@ -134,6 +134,54 @@
       "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_b7cee2b1",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T21:34:28Z",
+      "side": 1,
+      "message": "Hmm okay it seems like \u0027\u003d\u003d\u003d\u0027 is more correct and what we want but given the way we generate out constraints to be zero padded semvers we\u0027re okay.  The only corner case I can think of is that a library has a \u00271.2\u0027 and \u00271.2.0\u0027 releases \u0027\u003d\u003d1.2\u0027 will allow both but \u0027\u003d\u003d\u003d1.2\u0027 doesn\u0027t allow the second.\n\nLike I said I think we\u0027re safe as we always emit \u00271.2.0\u0027 but given the lower-constraints.txt files are supposed to be hand edited are we introducing a new, albeit small, problem?",
+      "parentUuid": "bf659307_4ec7b797",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_9ce425e2",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T21:34:28Z",
+      "side": 1,
+      "message": "Oh rats :(\n\n [tony@thor requirements]$ wc -l lower-constraints.txt\n 535 lower-constraints.txt\n [tony@thor requirements]$ grep \u0027\u003d\u003d\u003d\u0027 lower-constraints.txt | wc -l\n 535\n [tony@thor requirements]$",
+      "parentUuid": "bf659307_eeefab1b",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
