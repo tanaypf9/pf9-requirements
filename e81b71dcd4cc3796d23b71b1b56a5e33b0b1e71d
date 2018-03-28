@@ -93,6 +93,30 @@
       "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_4ec7b797",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-28T19:27:26Z",
+      "side": 1,
+      "message": "\u003d\u003d allows prefixes and wildcards https://www.python.org/dev/peps/pep-0440/#version-matching\n\n\u003d\u003d\u003d is a string match https://www.python.org/dev/peps/pep-0440/#arbitrary-equality",
+      "parentUuid": "bf659307_eeefab1b",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
