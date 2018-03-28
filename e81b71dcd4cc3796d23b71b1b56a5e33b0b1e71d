@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bf659307_4e99f7c1",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-28T19:25:44Z",
+      "side": 1,
+      "message": "Oh, I didn\u0027t realize that was supported. I\u0027ll work on that.",
+      "parentUuid": "bf659307_e6b28be6",
+      "range": {
+        "startLine": 225,
+        "startChar": 51,
+        "endLine": 225,
+        "endChar": 52
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_868e2fce",
         "filename": "openstack_requirements/tests/test_check.py",
         "patchSetId": 2
@@ -36,6 +60,30 @@
       "writtenOn": "2018-03-28T05:55:09Z",
       "side": 1,
       "message": "Constraints need a \u0027\u003d\u003d\u003d\u0027 instead of \u0027\u003d\u003d\u0027  I\u0027m not certain it\u0027ll make a functional difference.",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_eeefab1b",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-28T19:25:44Z",
+      "side": 1,
+      "message": "It doesn\u0027t seem to be so far (all of the lower-constraints.txt files have 2 \u003d in them). I\u0027m sure there\u0027s some subtle difference so we could go through and fix that up with another 200+ patches if we really need to. :-)",
+      "parentUuid": "bf659307_868e2fce",
       "range": {
         "startLine": 427,
         "startChar": 12,
