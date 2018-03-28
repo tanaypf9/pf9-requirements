@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: simon wang <simonxuemin@163.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 28 Mar 2018 17:22:44 +0000
+Reviewed-on: https://review.openstack.org/550740
+Project: openstack/requirements
+Branch: refs/heads/master
