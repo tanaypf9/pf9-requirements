@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_e6b28be6",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 225,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T05:55:09Z",
+      "side": 1,
+      "message": "Is this right?  Can\u0027t we end up with multiple constraints dependant on the python version and if we always check the first in the list isn\u0027t that a mismatch?\n\n\nI think I\u0027m considering something like:\n\n reqs_list\u003d\"\"\"\n name\u003e\u003d1.0,!\u003d2.0;python_version\u003d\u003d2.7\n name\u003e\u003d2.0;python_version\u003e\u003d3.0\n \"\"\"\n constraints\u003d\"\"\"\n name\u003d\u003d\u003d1.9;python_version\u003d\u003d2.7\n name\u003d\u003d\u003d2.0;python_version\u003d\u003d3.4\n name\u003d\u003d\u003d2.0;python_version\u003d\u003d3.5\n \"\"\"",
+      "range": {
+        "startLine": 225,
+        "startChar": 51,
+        "endLine": 225,
+        "endChar": 52
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_868e2fce",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T05:55:09Z",
+      "side": 1,
+      "message": "Constraints need a \u0027\u003d\u003d\u003d\u0027 instead of \u0027\u003d\u003d\u0027  I\u0027m not certain it\u0027ll make a functional difference.",
+      "range": {
+        "startLine": 427,
+        "startChar": 12,
+        "endLine": 427,
+        "endChar": 14
+      },
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
