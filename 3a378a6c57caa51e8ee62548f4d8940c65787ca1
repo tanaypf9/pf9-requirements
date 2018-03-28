@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_cb2515c4",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T01:54:09Z",
+      "side": 1,
+      "message": "Totally not you problem but we need to remove this function.  Now that this tool is in the requirements repo I think we can just teach the playbook to \u0027pip install .\u0027 and then just rely on openstack_requirements being there.\n\nI get the history of why we couldn\u0027t do that before",
+      "revId": "3a378a6c57caa51e8ee62548f4d8940c65787ca1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
