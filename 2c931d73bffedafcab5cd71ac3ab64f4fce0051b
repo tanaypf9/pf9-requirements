@@ -90,6 +90,24 @@
     },
     {
       "key": {
+        "uuid": "bf659307_e3411d0d",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 218,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T04:06:19Z",
+      "side": 1,
+      "message": "Thanks.",
+      "parentUuid": "df7087c5_c1ec642b",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "df7087c5_36c1e881",
         "filename": "lower-constraints.txt",
         "patchSetId": 7
@@ -119,6 +137,24 @@
       "side": 1,
       "message": "Will do.\nI will try to use python_version\u003e\u003d\u00273.0\u0027\nIf this does not work will add versions explicitly",
       "parentUuid": "df7087c5_36c1e881",
+      "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_433b299b",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 540,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-28T04:06:19Z",
+      "side": 1,
+      "message": "This is correct and functional for *this* review but other  tools will clobber it.  Please use the form I suggested.",
+      "parentUuid": "df7087c5_a1fdb009",
       "revId": "2c931d73bffedafcab5cd71ac3ab64f4fce0051b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
