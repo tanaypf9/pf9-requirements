@@ -16,6 +16,24 @@
       "revId": "ae899937df342863cb3a92b08d1b617629faa000",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_a820d5b1",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 106,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-28T13:40:47Z",
+      "side": 1,
+      "message": "Fixed in https://review.openstack.org/557338",
+      "parentUuid": "bf659307_c3f5f984",
+      "revId": "ae899937df342863cb3a92b08d1b617629faa000",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
