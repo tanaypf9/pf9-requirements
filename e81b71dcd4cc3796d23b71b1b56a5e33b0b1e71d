@@ -117,6 +117,23 @@
       "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_ae11b306",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 427,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-03-28T19:31:48Z",
+      "side": 1,
+      "message": "Here\u0027s where the version spec is defined.  https://www.python.org/dev/peps/pep-0440/#arbitrary-equality  I\u0027m not sure we actually need or want \u003d\u003d\u003d vs using \u003d\u003d.",
+      "revId": "e81b71dcd4cc3796d23b71b1b56a5e33b0b1e71d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
