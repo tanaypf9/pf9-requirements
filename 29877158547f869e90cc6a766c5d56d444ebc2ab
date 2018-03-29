@@ -16,6 +16,24 @@
       "revId": "29877158547f869e90cc6a766c5d56d444ebc2ab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_aded19f1",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-29T23:08:59Z",
+      "side": 1,
+      "message": "I was wrong.  pip will install the rc1 version even though it\u0027s prerelease.\n\nI suspect it might not if it were the latest but I\u0027m not going to build my own devpi to test that.",
+      "parentUuid": "bf659307_4d59dd32",
+      "revId": "29877158547f869e90cc6a766c5d56d444ebc2ab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
