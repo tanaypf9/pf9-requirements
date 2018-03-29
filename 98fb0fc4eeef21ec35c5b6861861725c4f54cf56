@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "bf659307_b561e507",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 252,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-03-29T17:35:55Z",
+      "side": 1,
+      "message": "See what you think of the new version. It\u0027s a bit more flexible, but isn\u0027t going to work in all cases. It does cover case 3 of your comment.",
+      "parentUuid": "bf659307_ef2c8203",
+      "revId": "98fb0fc4eeef21ec35c5b6861861725c4f54cf56",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_3d02b30c",
         "filename": "openstack_requirements/check.py",
         "patchSetId": 3
