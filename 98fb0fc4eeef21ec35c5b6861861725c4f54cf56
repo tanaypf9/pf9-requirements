@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "bf659307_8a7cbb83",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 252,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-29T21:53:43Z",
+      "side": 1,
+      "message": "I can\u0027t say I like the use of internals but your code does what we need and you\u0027ve clearly documented that what we\u0027re doing.\n\nIt\u0027s enough to get this work merged while we discuss if/how we change our constraints implementation.\n\nThanks for being patient and tenacious Doug!",
+      "parentUuid": "bf659307_b561e507",
+      "revId": "98fb0fc4eeef21ec35c5b6861861725c4f54cf56",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_3d02b30c",
         "filename": "openstack_requirements/check.py",
         "patchSetId": 3
