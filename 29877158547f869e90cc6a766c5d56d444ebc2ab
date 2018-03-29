@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_4d59dd32",
+        "filename": "openstack_requirements/requirement.py",
+        "patchSetId": 6
+      },
+      "lineNbr": 228,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-03-29T22:45:51Z",
+      "side": 1,
+      "message": "I\u0027m not sure this is right but I\u0027ll check that and fix if needed in a follow-up patch",
+      "revId": "29877158547f869e90cc6a766c5d56d444ebc2ab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
