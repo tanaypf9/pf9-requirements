@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+1: Eric Fried <efried@us.ibm.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 30 Mar 2018 21:20:45 +0000
+Reviewed-on: https://review.openstack.org/557927
+Project: openstack/requirements
+Branch: refs/heads/master
