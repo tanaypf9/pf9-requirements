@@ -1,0 +1,10 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: Lance Bragstad <lbragstad@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 30 Mar 2018 02:34:20 +0000
+Reviewed-on: https://review.openstack.org/557434
+Project: openstack/requirements
+Branch: refs/heads/master
