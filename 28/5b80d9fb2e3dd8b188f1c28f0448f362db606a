@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 30 Mar 2018 08:20:04 +0000
+Reviewed-on: https://review.openstack.org/557828
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
