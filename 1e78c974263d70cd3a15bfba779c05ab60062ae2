@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_cad94157",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2018-03-30T19:32:59Z",
+      "side": 1,
+      "message": "Is this a bug?  This dict element was created with a hyphen.",
+      "range": {
+        "startLine": 152,
+        "startChar": 32,
+        "endLine": 152,
+        "endChar": 33
+      },
+      "revId": "1e78c974263d70cd3a15bfba779c05ab60062ae2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
