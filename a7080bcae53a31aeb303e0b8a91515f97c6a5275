@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_ceb92a79",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-04-03T13:39:21Z",
+      "side": 1,
+      "message": "LGTM but there is an implicit relation from where `project-requirements-change.py` in the tree and the value of reqdir (../../../). Not sure if this will change in the future, but maybe some comment here can help in case that it does.",
+      "revId": "a7080bcae53a31aeb303e0b8a91515f97c6a5275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
