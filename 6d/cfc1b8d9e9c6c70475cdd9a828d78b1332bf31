@@ -1,0 +1,14 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+2: Thomas Bechtold <tbechtold@suse.com>
+Code-Review+1: pippo <huang.zhiping@99cloud.net>
+Code-Review+1: Stephen Finucane <stephenfin@redhat.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 03 Apr 2018 17:02:17 +0000
+Reviewed-on: https://review.openstack.org/557009
+Project: openstack/requirements
+Branch: refs/heads/master
