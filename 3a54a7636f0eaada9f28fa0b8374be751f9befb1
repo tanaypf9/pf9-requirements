@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_7330ec9f",
+        "filename": "tools/fix-lower-constraints.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-04-04T08:16:21Z",
+      "side": 1,
+      "message": "E501 line too long (94 \u003e 79 characters)",
+      "revId": "3a54a7636f0eaada9f28fa0b8374be751f9befb1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_535b68f4",
+        "filename": "tools/fix-lower-constraints.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-04-04T08:16:21Z",
+      "side": 1,
+      "message": "F401 \u0027argparse\u0027 imported but unused",
+      "revId": "3a54a7636f0eaada9f28fa0b8374be751f9befb1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_73078ccb",
+        "filename": "tools/fix-lower-constraints.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-04-04T08:16:21Z",
+      "side": 1,
+      "message": "F401 \u0027markers\u0027 imported but unused",
+      "revId": "3a54a7636f0eaada9f28fa0b8374be751f9befb1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
