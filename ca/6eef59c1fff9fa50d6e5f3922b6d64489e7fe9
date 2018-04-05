@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: zhongshengping <chdzsp@163.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review-1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 05 Apr 2018 04:34:28 +0000
+Reviewed-on: https://review.openstack.org/558517
+Project: openstack/requirements
+Branch: refs/heads/master
