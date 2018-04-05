@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_fb8fce72",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 8099
+      },
+      "writtenOn": "2018-04-05T18:34:21Z",
+      "side": 0,
+      "message": "I think we should leave this line in - it is a big issue for us to change eventlet versions",
+      "range": {
+        "startLine": 52,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 65
+      },
+      "revId": "3e6841dfc5e5e5d827cf8e16ab13d67d9f9e82f3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
