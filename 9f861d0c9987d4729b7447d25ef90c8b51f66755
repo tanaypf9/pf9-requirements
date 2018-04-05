@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_ea34defd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-05T16:28:46Z",
+      "side": 1,
+      "message": "This should be\n\noslo.concurrency\u003e\u003d3.25.0,!\u003d3.25.0",
+      "revId": "9f861d0c9987d4729b7447d25ef90c8b51f66755",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
