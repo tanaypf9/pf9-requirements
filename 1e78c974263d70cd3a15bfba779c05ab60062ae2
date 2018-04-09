@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "bf659307_06d79451",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-09T14:00:33Z",
+      "side": 1,
+      "message": "The version number from lower-constraints.txt must match exactly the lowest version  number in the requirements.txt, test-requirements.txt, or other requirement file. Otherwise we could have a case where a project says it supports versions \u003e\u003d1.0 with a lower constraint of \u003d\u003d1.1, so it is not testing 1.0.",
+      "parentUuid": "bf659307_35976a93",
+      "range": {
+        "startLine": 302,
+        "startChar": 27,
+        "endLine": 302,
+        "endChar": 29
+      },
+      "revId": "1e78c974263d70cd3a15bfba779c05ab60062ae2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_cad94157",
         "filename": "playbooks/files/project-requirements-change.py",
         "patchSetId": 5
