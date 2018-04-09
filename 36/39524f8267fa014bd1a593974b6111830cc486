@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: pippo <huang.zhiping@99cloud.net>
+Code-Review+1: IWAMOTO Toshihiro <iwamoto@valinux.co.jp>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: zhongshengping <chdzsp@163.com>
+Code-Review+1: zhanghaotian <zhanght@awcloud.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 09 Apr 2018 18:24:03 +0000
+Reviewed-on: https://review.openstack.org/558032
+Project: openstack/requirements
+Branch: refs/heads/master
