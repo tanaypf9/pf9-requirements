@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "bf659307_35976a93",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 5
+      },
+      "lineNbr": 302,
+      "author": {
+        "id": 23630
+      },
+      "writtenOn": "2018-04-09T03:04:52Z",
+      "side": 1,
+      "message": "Is this a mistake?\nI think that it should be other operator.\n\nAccording to this output\nZuul ID: 54f2324ae1bf4935ac4a0e3a9eeb1652\n\nhttp://logs.openstack.org/14/559014/4/check/requirements-check/ad1e3f3/ara-report/",
+      "range": {
+        "startLine": 302,
+        "startChar": 27,
+        "endLine": 302,
+        "endChar": 29
+      },
+      "revId": "1e78c974263d70cd3a15bfba779c05ab60062ae2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_cad94157",
         "filename": "playbooks/files/project-requirements-change.py",
         "patchSetId": 5
