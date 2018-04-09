@@ -89,8 +89,8 @@ def _is_requirement_in_global_reqs(req, global_reqs):
 
         matching = True
         for aname in ['package', 'location', 'markers']:
-            rval = getattr(req, aname)
-            r2val = getattr(req2, aname)
+            rval = getattr(req, aname).lower()
+            r2val = getattr(req2, aname).lower()
             if rval != r2val:
                 print('{} {!r}: {!r} does not match {!r}'.format(
                     req, aname, rval, r2val))

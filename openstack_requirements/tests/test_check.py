@@ -44,6 +44,15 @@ class TestIsReqInGlobalReqs(testtools.TestCase):
             )
         )
 
+    def test_match_name_not_case_sensitive(self):
+        req = requirement.parse('Name>=1.2,!=1.4')['name'][0][0]
+        self.assertTrue(
+            check._is_requirement_in_global_reqs(
+                req,
+                self.global_reqs['name'],
+            )
+        )
+
     def test_match_with_markers(self):
         req = requirement.parse(textwrap.dedent("""
         withmarker>=1.5;python_version=='3.5'
