@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "bf659307_d998886b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 136,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-10T07:36:54Z",
+      "side": 1,
+      "message": "I\u0027m not sure, there are clear exceptions.  I suppose it\u0027s to be debated if this is one.  (I think it is as it\u0027s a security issue in Phase I)\n\nThese should be few and far between on stable branches, mainly masking known bad versions or in extreme adding a maximum version allowable for a package. We work to remove these caps as well. Raising effective minimums is only acceptable during Phase I, and only due to security issues.",
+      "revId": "2820c8d744896e082bcd7b3dccb28601e61ff5e2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bf659307_79e13c2a",
         "filename": "upper-constraints.txt",
         "patchSetId": 5
