@@ -367,7 +367,7 @@ oslo.rootwrap===5.13.0
 Django===1.11.11
 pexpect===4.4.0
 mistral-extra===6.0.1
-cmd2===0.8.2
+cmd2===0.8.4
 redis===2.10.6
 jmespath===0.9.3
 click===6.7
