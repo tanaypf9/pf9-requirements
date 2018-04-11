@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_268b6d1f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2018-04-11T20:00:38Z",
+      "side": 1,
+      "message": "The comment we just deleted clearly implies that 0.21 is known to be broken (the linked bug is fixed in 0.22.0). Shouldn\u0027t we be adding !\u003d0.21.0 here?",
+      "revId": "00eca5fdd352be7db52bbf89496762023db4a951",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
