@@ -25,7 +25,7 @@ construct>=2.8.10,<2.9  # MIT
 PuLP>=1.4.1  # MIT
 contextlib2>=0.4.0  # PSF License
 croniter>=0.3.4  # MIT License
-cryptography>=2.1  # BSD/Apache-2.0
+cryptography>=2.1,!=2.0  # BSD/Apache-2.0
 cursive>=0.2.1  # Apache-2.0
 ddt>=1.0.1  # MIT
 debtcollector>=1.2.0  # Apache-2.0
@@ -117,7 +117,7 @@ murano-pkg-check>=0.3.0  # Apache-2.0
 mypy>=0.560;python_version>='3.4'  # MIT
 ndg-httpsclient>=0.4.2;python_version<'3.0'  # BSD
 netaddr>=0.7.18  # BSD
-netifaces>=0.10.4  # MIT
+netifaces>=0.10.4,!=0.10.0,!=0.10.1  # MIT
 netmiko>=2.0.2  # MIT
 networking-bagpipe>=8.0.0  # Apache-2.0
 networking-bgpvpn>=8.0.0  # Apache-2.0
@@ -140,7 +140,7 @@ openstackdocstheme>=1.18.1  # Apache-2.0
 osc-lib>=1.10.0  # Apache-2.0
 osc-placement>=1.0.0  # Apache-2.0
 oslo.cache>=1.26.0  # Apache-2.0
-oslo.config>=5.2.0  # Apache-2.0
+oslo.config>=5.2.0,!=4.3.0,!=4.4.0  # Apache-2.0
 oslo.concurrency>=3.26.0  # Apache-2.0
 oslo.context>=2.19.2  # Apache-2.0
 oslo.db>=4.27.0  # Apache-2.0
@@ -249,7 +249,7 @@ python-glareclient>=0.3.0  # Apache-2.0
 python-ironic-inspector-client>=1.5.0  # Apache-2.0
 python-ironicclient>=2.3.0  # Apache-2.0
 python-karborclient>=0.6.0  # Apache-2.0
-python-keystoneclient>=3.8.0  # Apache-2.0
+python-keystoneclient>=3.8.0,!=2.1.0  # Apache-2.0
 python-kingbirdclient>=0.1.0  # Apache-2.0
 python-magnumclient>=2.1.0  # Apache-2.0
 python-masakariclient>=3.0.1  # Apache-2.0
