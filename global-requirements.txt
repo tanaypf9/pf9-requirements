@@ -465,4 +465,4 @@ daiquiri>=1.2.1
 openstack-release-test>=0.8.0
 
 # NOTE(snapiri): This is required for Dragonflow topology visualization
-skydive-client>=0.4.2  # Apache-2.0
+skydive-client>=0.4.4  # Apache-2.0
