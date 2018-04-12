@@ -16,6 +16,24 @@
       "revId": "00eca5fdd352be7db52bbf89496762023db4a951",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf659307_c2bb5d0c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 54,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-12T18:39:58Z",
+      "side": 1,
+      "message": "I filed https://review.openstack.org/561009",
+      "parentUuid": "bf659307_268b6d1f",
+      "revId": "00eca5fdd352be7db52bbf89496762023db4a951",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
