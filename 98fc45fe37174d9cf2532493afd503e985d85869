@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf659307_2cd22f01",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 154,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2018-04-13T18:51:59Z",
+      "side": 1,
+      "message": "its questionable whether the remove of the space makes sense here.. from a copy\u0026paste perspective the extra space is nicer. I don\u0027t mind either way though.",
+      "revId": "98fc45fe37174d9cf2532493afd503e985d85869",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
