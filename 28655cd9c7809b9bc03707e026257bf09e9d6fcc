@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_468865c5",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 445,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-16T18:55:01Z",
+      "side": 1,
+      "message": "You don\u0027t need to update this file.",
+      "revId": "28655cd9c7809b9bc03707e026257bf09e9d6fcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_26a8d11d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 418,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-16T18:55:01Z",
+      "side": 1,
+      "message": "I looked but couldn\u0027t find a patch in nova to update the lower bounds in test-requirements.txt to 1.7.0. You should propose that patch if you haven\u0027t already.",
+      "revId": "28655cd9c7809b9bc03707e026257bf09e9d6fcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
