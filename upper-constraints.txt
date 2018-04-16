@@ -421,7 +421,7 @@ oslo.policy===1.35.0
 sphinxcontrib-apidoc===0.2.1
 python-muranoclient===1.0.1
 pyeclib===1.5.0
-wsgi-intercept===1.6.0
+wsgi-intercept===1.7.0
 ndg-httpsclient===0.4.4;python_version=='2.7'
 spec-cleaner===1.0.6
 repoze.lru===0.7
