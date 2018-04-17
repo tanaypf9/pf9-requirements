@@ -70,6 +70,23 @@
     },
     {
       "key": {
+        "uuid": "9f6a8fd7_42c351ee",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-17T19:09:38Z",
+      "side": 1,
+      "message": "actually, freeze is already decoded two lines above.",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f6a8fd7_add7d5bf",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 1
