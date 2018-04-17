@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "9f6a8fd7_62fd3539",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-17T19:08:19Z",
+      "side": 1,
+      "message": "Shouldn\u0027t that be a separate review (atomic, specific commits)?",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f6a8fd7_cdd009cd",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 1
@@ -36,6 +53,23 @@
     },
     {
       "key": {
+        "uuid": "9f6a8fd7_82fac93f",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-17T19:08:19Z",
+      "side": 1,
+      "message": "ok, I\u0027ll add a .decode for the freeze string",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f6a8fd7_add7d5bf",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 1
@@ -47,6 +81,23 @@
       "writtenOn": "2018-04-17T04:47:40Z",
       "side": 1,
       "message": "I wonder if we just raised the exception again here (or don\u0027t catch it in the first place) if we would see the encoding error?",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_2295fde4",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-17T19:08:19Z",
+      "side": 1,
+      "message": "Don\u0027t know.",
       "revId": "a353c881240570f535dbe4ec906d9de04c191990",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
