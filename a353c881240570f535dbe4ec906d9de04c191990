@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "9f6a8fd7_7f8627de",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-17T22:19:02Z",
+      "side": 1,
+      "message": "Well, I was proposing that as an alternative solution. See https://review.openstack.org/562065.",
+      "parentUuid": "9f6a8fd7_62fd3539",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f6a8fd7_cdd009cd",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 1
