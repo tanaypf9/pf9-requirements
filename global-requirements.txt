@@ -397,6 +397,7 @@ oslotest  # Apache-2.0
 ovsdbapp  # Apache-2.0
 proboscis  # Apache-2.0
 psycopg2  # LGPL/ZPL
+psycopg2-binary  # LGPL/ZPL
 pysendfile  # MIT
 python-consul  # MIT License
 python-subunit  # Apache-2.0/BSD

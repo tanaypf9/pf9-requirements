@@ -78,6 +78,7 @@ python-vitrageclient===2.0.0
 nosexcover===1.0.10
 krest===1.3.1
 psycopg2===2.6.2
+psycopg2-binary===2.7.4
 networkx===1.10
 bashate===0.5.1
 XStatic-Angular===1.5.8.0
