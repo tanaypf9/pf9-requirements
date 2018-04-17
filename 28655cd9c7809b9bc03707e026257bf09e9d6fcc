@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "9f6a8fd7_59334dac",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 445,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-04-17T14:15:45Z",
+      "side": 1,
+      "message": "Yes this was in place of global-requirements, which lower-constraints replaces per my understanding.",
+      "parentUuid": "9f6a8fd7_166856f3",
+      "revId": "28655cd9c7809b9bc03707e026257bf09e9d6fcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f6a8fd7_26a8d11d",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
@@ -47,6 +65,24 @@
       "writtenOn": "2018-04-16T18:55:01Z",
       "side": 1,
       "message": "I looked but couldn\u0027t find a patch in nova to update the lower bounds in test-requirements.txt to 1.7.0. You should propose that patch if you haven\u0027t already.",
+      "revId": "28655cd9c7809b9bc03707e026257bf09e9d6fcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_59d82d52",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 418,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-04-17T14:15:45Z",
+      "side": 1,
+      "message": "I need to rewrite the test from https://review.openstack.org/#/c/560706/ at the end of the series. I can\u0027t do it in that patch itself because we\u0027ll probably backport that change to stable branches, which can\u0027t require wsgi-intercept 1.7.0. I just haven\u0027t rewritten the test yet. I\u0027m fine with waiting on this patch until I\u0027ve done so.",
+      "parentUuid": "9f6a8fd7_26a8d11d",
       "revId": "28655cd9c7809b9bc03707e026257bf09e9d6fcc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
