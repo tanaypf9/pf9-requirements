@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_6d4c5dc7",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-17T04:47:40Z",
+      "side": 1,
+      "message": "If we don\u0027t need to parse the output of these early commands, they could just use check_call() couldn\u0027t they? Then the output would go to the console or log or whatever but we\u0027d still get the exception if something has an error.",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_cdd009cd",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-17T04:47:40Z",
+      "side": 1,
+      "message": "We should decode the output of any commands we do want to parse immediately so we know we have a string and not a byte sequence.",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_add7d5bf",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-17T04:47:40Z",
+      "side": 1,
+      "message": "I wonder if we just raised the exception again here (or don\u0027t catch it in the first place) if we would see the encoding error?",
+      "revId": "a353c881240570f535dbe4ec906d9de04c191990",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
