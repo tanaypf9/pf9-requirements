@@ -235,7 +235,7 @@ pysaml2!=4.0.3,!=4.0.4,!=4.0.5,!=4.0.5rc1,!=4.1.0,!=4.2.0,!=4.3.0,!=4.4.0  # Apa
 aodhclient  # Apache-2.0
 gnocchiclient  # Apache-2.0
 tricircleclient  # Apache-2.0
-python-barbicanclient  # Apache-2.0
+python-barbicanclient!=4.5.0,!=4.5.1  # Apache-2.0
 python-blazarclient  # Apache-2.0
 python-ceilometerclient  # Apache-2.0
 python-cinderclient  # Apache-2.0
