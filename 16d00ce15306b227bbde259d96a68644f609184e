@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_8ce13c2d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-04-21T02:31:17Z",
+      "side": 1,
+      "message": "We lost the \"3.6\" here   I know it\u0027s awkward but we should keep it \n\nIf you add --version-map 3.5:3.6 -- version-map 3.4:3.6 when you run generate it\u0027ll be handled automatically.",
+      "revId": "16d00ce15306b227bbde259d96a68644f609184e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
