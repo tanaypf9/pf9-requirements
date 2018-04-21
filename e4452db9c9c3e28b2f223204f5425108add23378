@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_4cd9e47c",
+        "filename": "f",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-04-21T02:32:28Z",
+      "side": 1,
+      "message": "ooops :D",
+      "revId": "e4452db9c9c3e28b2f223204f5425108add23378",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
