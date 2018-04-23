@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_3275cbcb",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-04-23T19:14:31Z",
+      "side": 1,
+      "message": "These entries look wrong. The docs for asyncio say it is only relevant for 3.3, which AFAIK we don\u0027t support. Otherwise it is built into the standard library.",
+      "revId": "6249be56ae477af9bc6154b45e2636f26ea486df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
