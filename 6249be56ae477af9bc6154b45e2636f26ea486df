@@ -16,6 +16,23 @@
       "revId": "6249be56ae477af9bc6154b45e2636f26ea486df",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_8d291a8b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 175,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-23T19:20:18Z",
+      "side": 1,
+      "message": "Some random lib is pulling it in, we should figure out why it\u0027s being installed for py34/35/36 though (our version mapping doesn\u0027t include 3.3)",
+      "revId": "6249be56ae477af9bc6154b45e2636f26ea486df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
