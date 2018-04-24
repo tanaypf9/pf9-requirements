@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_7b91d2f0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 463,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2018-04-24T09:36:28Z",
+      "side": 1,
+      "message": "Do we actually need this restriction? Older versions should continue to work fine with py35.",
+      "revId": "c1709b12846898b2852931b683c8181f71505b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
