@@ -16,6 +16,24 @@
       "revId": "c1709b12846898b2852931b683c8181f71505b40",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f6a8fd7_99e4dc0e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 463,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-04-25T01:58:21Z",
+      "side": 1,
+      "message": "Hmm you\u0027re probably correct and given we aren\u0027t supposed to be tracking minimums in global-requirements anymore I should probably remove that *BUT* I\u0027m not certain what we need there instead.\n\nIs the following valid?\n\n SecretStorage\u003c3.0.0;python_version\u003c\u00273.5\u0027  # BSD\n SecretStorage;python_version\u003e\u003d\u00273.5\u0027  # BSD\n\nI don\u0027t really know but I\u0027d really like to unblock the gate and finesse later",
+      "parentUuid": "9f6a8fd7_7b91d2f0",
+      "revId": "c1709b12846898b2852931b683c8181f71505b40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
