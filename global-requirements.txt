@@ -376,7 +376,7 @@ fixtures  # Apache-2.0/BSD
 freezegun  # Apache-2.0
 gabbi  # Apache-2.0
 kafka-python  # Apache-2.0
-keyring  # MIT/PSF
+keyring!=12.0.0  # MIT/PSF
 ldappool  # MPL
 # Do not make mock conditional on Python version: we depend on newer code than
 # in [most] releases of the Python std library.
