@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f6a8fd7_c54d59c5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-04-26T22:05:10Z",
+      "side": 1,
+      "message": "keystone / glance doesn\u0027t have the fix yet.  see https://bugs.launchpad.net/openstack-requirements/+bug/1765748",
+      "revId": "95e35c44f037c2b40cb137cb81504db549ebfc9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
