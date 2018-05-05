@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_118ffb2a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 409,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-05-05T23:53:28Z",
+      "side": 1,
+      "message": "do we allow post versions?  I know we disallow pre releases at least",
+      "revId": "1cb28d4ae9c9d650c7e192f38e67eb25af0395bf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
