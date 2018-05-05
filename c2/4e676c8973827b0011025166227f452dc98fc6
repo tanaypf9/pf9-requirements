@@ -1,0 +1,8 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 05 May 2018 15:30:12 +0000
+Reviewed-on: https://review.openstack.org/564112
+Project: openstack/requirements
+Branch: refs/heads/master
