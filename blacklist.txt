@@ -25,4 +25,5 @@ neutron-dynamic-routing
 neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
+tap-as-a-service
 vmware-nsxlib
