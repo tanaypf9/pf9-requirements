@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Miguel Lavalle <miguel.lavalle@huawei.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 10 May 2018 21:48:25 +0000
+Reviewed-on: https://review.openstack.org/566896
+Project: openstack/requirements
+Branch: refs/heads/master
