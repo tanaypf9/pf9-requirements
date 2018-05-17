@@ -1,6 +1,7 @@
 abclient>=0.2.3  # Apache-2.0
 alembic>=0.8.10  # MIT
 amqp>=2.1.1,!=2.1.4  # BSD
+ansible-runner>=1.0.5  # Apache 2.0
 anyjson>=0.3.3  # BSD
 appdirs>=1.3.0  # MIT License
 apscheduler>=3.0.5  # MIT License
@@ -174,7 +175,7 @@ PasteDeploy>=1.5.0  # MIT
 paunch>=1.0.0  # Apache-2.0
 pbr>=2.0.0,!=2.1.0  # Apache-2.0
 pecan>=1.0.0,!=1.0.2,!=1.0.3,!=1.0.4,!=1.2  # BSD
-pexpect>=3.1,!=3.3  # ISC License
+pexpect>=4.5  # ISC License
 pifpaf>=0.10.0  # Apache-2.0
 pika>=0.10.0  # BSD
 pika-pool>=0.1.3  # BSD
