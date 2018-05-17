@@ -389,7 +389,7 @@ xmltodict===0.11.0
 pyasn1===0.4.2
 oslo.rootwrap===5.13.0
 Django===1.11.9
-pexpect===4.3.1
+pexpect===4.5.0
 mistral-extra===6.0.4
 cmd2===0.7.9
 redis===2.10.6
@@ -534,3 +534,4 @@ actdiag===0.5.4
 sysv-ipc===0.7.0
 scikit-learn===0.19.1
 python-blazarclient===1.0.1
+ansible-runner===1.0.5
