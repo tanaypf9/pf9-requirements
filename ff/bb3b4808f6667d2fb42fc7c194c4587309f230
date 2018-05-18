@@ -1,0 +1,11 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Brian Rosmaita <rosmaita.fossdev@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 18 May 2018 05:39:33 +0000
+Reviewed-on: https://review.openstack.org/569138
+Project: openstack/requirements
+Branch: refs/heads/master
