@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_31b1b2e2",
+        "filename": ".stestr.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 5196
+      },
+      "writtenOn": "2018-05-21T21:54:17Z",
+      "side": 1,
+      "message": "Wrong!",
+      "revId": "bdf60fef2d6989c4a4bce561878c09a82fbacf5d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
