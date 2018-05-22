@@ -13,6 +13,7 @@ pyflakes
 pycodestyle
 pylint
 Pygments
+spec-cleaner
 
 # Temporarily until tools/tox_install.sh is updated everywhere
 horizon
