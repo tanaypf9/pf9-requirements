@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "5f7c97a3_dd3cb194",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-05-29T21:02:51Z",
+      "side": 1,
+      "message": "we use this syntax elsewhere",
+      "revId": "54769e36c07aa88ba7f6b4253e4f9f9674eeaf8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f7c97a3_9d2399a7",
         "filename": "global-requirements.txt",
         "patchSetId": 3
@@ -30,6 +47,23 @@
       "writtenOn": "2018-05-29T20:50:19Z",
       "side": 1,
       "message": "This should probably more accurately be python_version\u003e\u003d\u00273.4\u0027 since that\u0027s what cmd2 0.9.1 and later are claiming to support.",
+      "revId": "54769e36c07aa88ba7f6b4253e4f9f9674eeaf8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_7d3d5d8c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-05-29T21:02:51Z",
+      "side": 1,
+      "message": "more accurate, sure, this does fit with other areas of this file though",
       "revId": "54769e36c07aa88ba7f6b4253e4f9f9674eeaf8c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
