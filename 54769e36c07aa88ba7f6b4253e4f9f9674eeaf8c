@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_7d531d17",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2018-05-29T20:50:19Z",
+      "side": 1,
+      "message": "We don\u0027t really care about any versions before 3.0 other than 2.7 so could just do python_version\u003d\u003d\u00272.7\u0027 (PEP 508 suggests this syntax should work fine).",
+      "revId": "54769e36c07aa88ba7f6b4253e4f9f9674eeaf8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_9d2399a7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2018-05-29T20:50:19Z",
+      "side": 1,
+      "message": "This should probably more accurately be python_version\u003e\u003d\u00273.4\u0027 since that\u0027s what cmd2 0.9.1 and later are claiming to support.",
+      "revId": "54769e36c07aa88ba7f6b4253e4f9f9674eeaf8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
