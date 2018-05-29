@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_12af862a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 9542
+      },
+      "writtenOn": "2018-05-29T07:40:45Z",
+      "side": 1,
+      "message": "let\u0027s make it \u0027\u003c0.9.0\u0027 for the case there\u0027d be bug fixes to 0.8.x series (in fact there\u0027s already 0.8.7)",
+      "range": {
+        "startLine": 22,
+        "startChar": 20,
+        "endLine": 22,
+        "endChar": 27
+      },
+      "revId": "b6b72e6a1f0b6d92b8f2d6abfb4b1ebfb564e46e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_326962f7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 386,
+      "author": {
+        "id": 9542
+      },
+      "writtenOn": "2018-05-29T07:40:45Z",
+      "side": 1,
+      "message": "there\u0027s already 0.8.7, should we try to pin the latest 0.8.x ?",
+      "range": {
+        "startLine": 386,
+        "startChar": 11,
+        "endLine": 386,
+        "endChar": 12
+      },
+      "revId": "b6b72e6a1f0b6d92b8f2d6abfb4b1ebfb564e46e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
