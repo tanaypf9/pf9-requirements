@@ -25,6 +25,53 @@
     },
     {
       "key": {
+        "uuid": "5f7c97a3_3dd93355",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2018-05-29T08:10:01Z",
+      "side": 1,
+      "message": "+1, and I think we\u0027re not supposed to have low bounds in this file any more. So it should be\n\n cmd2!\u003d0.8.3,\u003c0.9.0",
+      "parentUuid": "5f7c97a3_12af862a",
+      "range": {
+        "startLine": 22,
+        "startChar": 20,
+        "endLine": 22,
+        "endChar": 27
+      },
+      "revId": "b6b72e6a1f0b6d92b8f2d6abfb4b1ebfb564e46e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_bdec63f4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2018-05-29T08:10:01Z",
+      "side": 1,
+      "message": "ditto",
+      "range": {
+        "startLine": 23,
+        "startChar": 4,
+        "endLine": 23,
+        "endChar": 11
+      },
+      "revId": "b6b72e6a1f0b6d92b8f2d6abfb4b1ebfb564e46e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f7c97a3_326962f7",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
