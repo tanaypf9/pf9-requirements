@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_39c042e1",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-05-30T20:39:31Z",
+      "side": 1,
+      "message": "py3 should have \u0027cmd2\u003e\u003d0.6.7;python_version\u003e\u003d\u00273.0\u0027\u0027",
+      "revId": "a40d350d4b1b8c2b625c17a3418fb0c20c1ef810",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
