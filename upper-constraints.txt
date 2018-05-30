@@ -92,7 +92,9 @@ click-repl===0.1.1
 click-spinner===0.1.6
 cliff===2.4.1
 cliff-tablib===2.0
-cmd2===0.6.9
+cmd2===0.8.7;python_version=='2.7'
+cmd2===0.9.1;python_version=='3.4'
+cmd2===0.9.1;python_version=='3.5'
 colorama===0.3.7
 construct===2.8.10
 contextlib2===0.5.4
