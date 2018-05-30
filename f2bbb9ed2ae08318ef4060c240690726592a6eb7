@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_c7f5aacc",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 394,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2018-05-30T17:21:11Z",
+      "side": 1,
+      "message": "this is still a change from 0.7.9 to 0.8.7 on a stable branch, do we really want to take this?",
+      "revId": "f2bbb9ed2ae08318ef4060c240690726592a6eb7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
