@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: wangqi <wang.qi@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 31 May 2018 01:31:06 +0000
+Reviewed-on: https://review.openstack.org/571260
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
