@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_cb2cb503",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2018-06-01T06:26:50Z",
+      "side": 1,
+      "message": "It seems I need to specify python version.\n\n Django\u003c2;python_version\u003d\u003d\u00272.7\u0027\n Django\u003c2.1;;python_version\u003e\u003d\u00273.4\u0027",
+      "revId": "fd05ca30afc3b648690ab6133933047c16d16501",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
