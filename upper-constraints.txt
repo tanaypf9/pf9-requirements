@@ -79,7 +79,7 @@ python-vitrageclient===2.1.0
 nosexcover===1.0.11
 krest===1.3.1
 psycopg2===2.7.4
-networkx===1.11
+networkx===2.1
 bashate===0.5.1
 XStatic-Angular===1.5.8.0
 pyngus===2.2.2
@@ -130,11 +130,11 @@ virtualbmc===1.3.0
 deprecation===2.0.2
 SQLAlchemy===1.2.8
 pyroute2===0.5.1
-google-auth===1.4.1
+google-auth===1.5.0
 kazoo===2.5.0
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
-eventlet===0.20.0
+eventlet===0.23.0
 openstack-doc-tools===1.8.0
 frozendict===1.2
 oslo.messaging===6.3.0
@@ -222,7 +222,7 @@ dnspython3===1.15.0;python_version=='3.5'
 ldappool===2.2.0
 termcolor===1.1.0
 hiredis===0.2.0
-google-api-python-client===1.6.7
+google-api-python-client===1.7.1
 castellan===0.18.0
 oslo.versionedobjects===1.33.1
 webcolors===1.8.1
@@ -340,7 +340,7 @@ WebTest===2.0.29
 openstack.nose-plugin===0.11
 os-collect-config===9.0.0
 python-qpid-proton===0.19.0
-python-octaviaclient===1.4.0
+python-octaviaclient===1.5.0
 pysaml2===4.5.0
 requests-oauthlib===0.8.0
 oslo.reports===1.28.0
@@ -356,7 +356,7 @@ more-itertools===4.2.0
 seqdiag===0.9.5
 numpy===1.14.3
 msgpack===0.5.6
-Sphinx===1.6.5
+Sphinx===1.7.5
 oslo.config===6.2.1
 tempest===18.0.0
 django-floppyforms===1.7.0
@@ -384,8 +384,10 @@ botocore===1.10.31
 xmltodict===0.11.0
 pyasn1===0.4.3
 oslo.rootwrap===5.14.1
-Django===1.11.13
-pexpect===4.5.0
+Django===1.11.13;python_version=='2.7'
+Django===2.0.6;python_version=='3.4'
+Django===2.0.6;python_version=='3.5'
+pexpect===4.6.0
 cmd2===0.8.7;python_version=='2.7'
 cmd2===0.9.1;python_version=='3.4'
 cmd2===0.9.1;python_version=='3.5'
@@ -420,8 +422,8 @@ falcon===1.4.1
 subprocess32===3.5.1;python_version=='2.7'
 etcd3gw===0.2.1
 pyldap===3.0.0;python_version=='2.7'
-pyldap===3.0.0;python_version=='3.4'
-pyldap===3.0.0;python_version=='3.5'
+pyldap===3.0.0.post1;python_version=='3.4'
+pyldap===3.0.0.post1;python_version=='3.5'
 Flask-RESTful===0.3.6
 GitPython===2.1.10
 python-ironicclient===2.3.0
