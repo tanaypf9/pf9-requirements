@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_c97a61b9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 114,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-06-04T03:34:49Z",
+      "side": 1,
+      "message": "This isn\u0027t needed in the \"new world order\"",
+      "range": {
+        "startLine": 114,
+        "startChar": 7,
+        "endLine": 114,
+        "endChar": 14
+      },
+      "revId": "04fc1676a83ff654dcdd4ecc66ad5c5809032d58",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_6949cd8c",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 360,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-06-04T03:34:49Z",
+      "side": 1,
+      "message": "+1 Looks good to me",
+      "revId": "04fc1676a83ff654dcdd4ecc66ad5c5809032d58",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
