@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_35789e8d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 448,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-06-07T22:32:09Z",
+      "side": 1,
+      "message": "This shouldn\u0027t be needed.  We can and do have libraries in upper-constraints.txt that aren\u0027t in global-requirements",
+      "revId": "207650493cec84701d2bf3d7c30d5f573817a17f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_d56e0ac8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 542,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-06-07T22:32:09Z",
+      "side": 1,
+      "message": "I would have preferred this be done in an isolated change",
+      "revId": "207650493cec84701d2bf3d7c30d5f573817a17f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
