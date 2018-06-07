@@ -13,7 +13,7 @@ Routes===2.4.1
 rtslib-fb===2.1.66
 XStatic-Angular-Bootstrap===2.2.0.0
 paunch===3.0.0
-WebOb===1.8.1
+WebOb===1.8.2
 sphinxcontrib-actdiag===0.8.5
 docopt===0.6.2
 pecan===1.3.2
@@ -28,7 +28,7 @@ python-ironic-inspector-client===3.2.0
 lxml===4.2.1
 python-kingbirdclient===0.2.1
 setproctitle===1.1.10
-pytest===3.6.0
+pytest===3.6.1
 python-etcd===0.4.5
 raven===6.9.0
 cursive===0.2.2
@@ -51,7 +51,7 @@ oslo.context===2.21.0
 python-senlinclient===1.7.0
 rcssmin===1.0.6
 pycadf===2.7.0
-grpcio===1.12.0
+grpcio===1.12.1
 skydive-client===0.4.5
 pysendfile===2.0.1
 fixtures===3.0.0
@@ -64,7 +64,7 @@ nosehtmloutput===0.0.5
 waitress===1.1.0
 os-refresh-config===9.0.0
 pysnmp===4.4.4
-sphinxcontrib-websupport===1.0.1
+sphinxcontrib-websupport===1.1.0
 Mako===1.0.7
 XStatic-angular-ui-router===0.3.1.2
 pyScss===1.3.4
@@ -79,7 +79,7 @@ python-vitrageclient===2.1.0
 nosexcover===1.0.11
 krest===1.3.1
 psycopg2===2.7.4
-networkx===1.11
+networkx===2.1
 bashate===0.5.1
 XStatic-Angular===1.5.8.0
 pyngus===2.2.2
@@ -98,7 +98,7 @@ monasca-common===2.9.0
 scipy===1.1.0
 rsd-lib===0.2.2
 XStatic-Jasmine===2.4.1.1
-python-glanceclient===2.11.0
+python-glanceclient===2.11.1
 pyinotify===0.9.6
 debtcollector===1.19.0
 requests-unixsocket===0.1.5
@@ -130,11 +130,11 @@ virtualbmc===1.3.0
 deprecation===2.0.2
 SQLAlchemy===1.2.8
 pyroute2===0.5.1
-google-auth===1.4.1
+google-auth===1.5.0
 kazoo===2.5.0
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
-eventlet===0.20.0
+eventlet===0.23.0
 openstack-doc-tools===1.8.0
 frozendict===1.2
 oslo.messaging===6.4.0
@@ -148,7 +148,7 @@ reno===2.9.2
 unicodecsv===0.14.1;python_version=='2.7'
 imagesize===1.0.0
 pathlib===1.0.1;python_version=='2.7'
-urllib3===1.22
+urllib3===1.23
 graphviz===0.8.3
 PyKMIP===0.8.0
 whereto===0.4.0
@@ -174,7 +174,7 @@ gunicorn===19.8.1
 textfsm===0.4.1
 unittest2===1.1.0
 django-compressor===2.2
-libvirt-python===4.3.0
+libvirt-python===4.4.0
 python-zunclient===1.4.0
 asyncio===3.4.3;python_version=='3.4'
 asyncio===3.4.3;python_version=='3.5'
@@ -222,7 +222,7 @@ dnspython3===1.15.0;python_version=='3.5'
 ldappool===2.2.0
 termcolor===1.1.0
 hiredis===0.2.0
-google-api-python-client===1.6.7
+google-api-python-client===1.7.3
 castellan===0.18.0
 oslo.versionedobjects===1.33.1
 webcolors===1.8.1
@@ -272,7 +272,7 @@ pydotplus===2.0.2
 flask-oslolog===0.1
 jeepney===0.3.1;python_version=='3.4'
 jeepney===0.3.1;python_version=='3.5'
-stestr===2.0.0
+stestr===2.1.0
 singledispatch===3.4.0.3;python_version=='2.7'
 oslo.serialization===2.26.0
 warlock===1.3.0
@@ -342,7 +342,7 @@ os-collect-config===9.0.0
 python-qpid-proton===0.19.0
 python-octaviaclient===1.5.0
 pysaml2===4.5.0
-requests-oauthlib===0.8.0
+requests-oauthlib===1.0.0
 oslo.reports===1.28.0
 ceilometermiddleware===1.2.0
 python-nss===1.0.1
@@ -354,9 +354,9 @@ osc-lib===1.10.0
 python-consul===1.0.1
 more-itertools===4.2.0
 seqdiag===0.9.5
-numpy===1.14.3
+numpy===1.14.4
 msgpack===0.5.6
-Sphinx===1.6.5
+Sphinx===1.7.5
 oslo.config===6.2.1
 tempest===18.0.0
 django-floppyforms===1.7.0
@@ -380,12 +380,14 @@ WSME===0.9.2
 proboscis===1.2.6.0
 fortiosclient===0.0.3
 stevedore===1.28.0
-botocore===1.10.31
+botocore===1.10.33
 xmltodict===0.11.0
 pyasn1===0.4.3
 oslo.rootwrap===5.14.1
-Django===1.11.13
-pexpect===4.5.0
+Django===1.11.13;python_version=='2.7'
+Django===2.0.6;python_version=='3.4'
+Django===2.0.6;python_version=='3.5'
+pexpect===4.6.0
 cmd2===0.8.7;python_version=='2.7'
 cmd2===0.9.1;python_version=='3.4'
 cmd2===0.9.1;python_version=='3.5'
@@ -393,7 +395,7 @@ redis===2.10.6
 jmespath===0.9.3
 click===6.7
 atomicwrites===1.1.5
-docker-pycreds===0.2.3
+docker-pycreds===0.3.0
 XStatic-smart-table===1.4.13.2
 kuryr-lib===0.7.0
 scrypt===0.8.6
@@ -420,8 +422,8 @@ falcon===1.4.1
 subprocess32===3.5.1;python_version=='2.7'
 etcd3gw===0.2.1
 pyldap===3.0.0;python_version=='2.7'
-pyldap===3.0.0;python_version=='3.4'
-pyldap===3.0.0;python_version=='3.5'
+pyldap===3.0.0.post1;python_version=='3.4'
+pyldap===3.0.0.post1;python_version=='3.5'
 Flask-RESTful===0.3.6
 GitPython===2.1.10
 python-ironicclient===2.3.0
@@ -437,7 +439,7 @@ pymemcache===1.4.4
 wrapt===1.10.11
 oslo.privsep===1.29.0
 sphinxcontrib-apidoc===0.2.1
-oslo.policy===1.36.0
+oslo.policy===1.37.0
 python-muranoclient===1.0.1
 pyeclib===1.5.0
 wsgi-intercept===1.7.0
@@ -475,7 +477,7 @@ python-keystoneclient===3.16.0
 demjson===2.2.4
 diskimage-builder===2.15.1
 heat-translator===1.0.0
-python-magnumclient===2.9.0
+python-magnumclient===2.9.1
 docker===3.3.0
 qpid-python===1.36.0.post1;python_version=='2.7'
 contextlib2===0.5.5
@@ -490,7 +492,7 @@ decorator===4.3.0
 cffi===1.11.5
 futurist===1.7.0
 jsonschema===2.6.0
-python-blazarclient===1.0.1
+python-blazarclient===1.1.0
 alembic===0.9.9
 glance-store===0.23.0
 sphinx-testing===0.7.2
