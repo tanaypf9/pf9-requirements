@@ -204,7 +204,7 @@ def check_reqs_bounds_policy(global_reqs):
     The policy is defined as
         * There needs to be exactly one lower bound (>=1.2 defined)
         * There can be one or more excludes (!=1.2.1, !=1.2.2)
-        * TODO: Clarify (non-) existance of upper caps
+        * TODO: Clarify (non-) existence of upper caps
     """
 
     for pkg_requirement in global_reqs.values():
