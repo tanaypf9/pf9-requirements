@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_d9435caf",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 281,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2018-06-12T08:27:11Z",
+      "side": 1,
+      "message": "previous patch bumped this to 0.4.0, why was it excluded?",
+      "range": {
+        "startLine": 281,
+        "startChar": 13,
+        "endLine": 281,
+        "endChar": 18
+      },
+      "revId": "939fc663305a61cbae7cc09afe16660169f7be5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
