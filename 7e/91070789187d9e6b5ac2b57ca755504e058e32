@@ -1,0 +1,10 @@
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Code-Review+1: qingszhao <zhao.daqing@99cloud.net>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 15 Jun 2018 02:49:10 +0000
+Reviewed-on: https://review.openstack.org/574367
+Project: openstack/requirements
+Branch: refs/heads/master
