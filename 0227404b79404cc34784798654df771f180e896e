@@ -34,6 +34,24 @@
       "revId": "0227404b79404cc34784798654df771f180e896e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_c4c3cc89",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-06-19T18:53:09Z",
+      "side": 1,
+      "message": "My apologies, I left off the argument to git to make it show all branches:\n\n  $ git branch -a --contains  12.0.0\n  * master\n    remotes/origin/HEAD -\u003e origin/master\n    remotes/origin/master\n    remotes/origin/stable/queens\n\nSo this looks good.",
+      "parentUuid": "5f7c97a3_7934e4ac",
+      "revId": "0227404b79404cc34784798654df771f180e896e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
