@@ -52,6 +52,24 @@
       "revId": "0227404b79404cc34784798654df771f180e896e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_e7be0aff",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 14200
+      },
+      "writtenOn": "2018-06-19T19:45:06Z",
+      "side": 1,
+      "message": "no problem. much better to use:\n  $ git describe --abbrev\u003d0 --tags origin/stable/queens\n  12.0.0\nthis command will show the latest tag",
+      "parentUuid": "5f7c97a3_c4c3cc89",
+      "revId": "0227404b79404cc34784798654df771f180e896e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
