@@ -16,6 +16,24 @@
       "revId": "865593fabdf1c72b7734af625244bf7d396b52af",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_8d75c3ce",
+        "filename": "blacklist.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 5367
+      },
+      "writtenOn": "2018-06-21T18:49:34Z",
+      "side": 1,
+      "message": "I\u0027m not sure that\u0027s the case here IIUC.\nFor master these projects are now doing releases to pypi and are thus constrainable. For queens I\u0027m not sure that will ever be the case, will it?",
+      "parentUuid": "5f7c97a3_ed0d578f",
+      "revId": "865593fabdf1c72b7734af625244bf7d396b52af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
