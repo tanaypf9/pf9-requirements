@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Alessandro Nesta <huang.zhiping@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 25 Jun 2018 02:59:49 +0000
+Reviewed-on: https://review.openstack.org/576988
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
