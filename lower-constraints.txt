@@ -163,7 +163,7 @@ python-subunit===1.3.0
 tornado===4.5
 pycparser===2.18
 mock===2.0.0
-PyYAML===3.12
+PyYAML===4.1
 beautifulsoup4===4.6.0
 os-net-config===7.1.0
 ovs===2.8.0
