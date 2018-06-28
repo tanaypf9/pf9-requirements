@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_7ba72e0b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-06-28T22:03:51Z",
+      "side": 1,
+      "message": "Hmm, that\u0027s too bad since our official target is still 16.01, but I wouldn\u0027t think it would be too difficult for them to add this to the Xenial packages.",
+      "range": {
+        "startLine": 27,
+        "startChar": 21,
+        "endLine": 27,
+        "endChar": 23
+      },
+      "revId": "ddba2d2590d9a184e72d9106f782e491a7f72aab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
