@@ -16,6 +16,24 @@
       "revId": "a396242c4caf339cabc0272c6835da390f57d351",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_fe6f7a90",
+        "filename": "openstack_requirements/cmds/build_lower_constraints.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-07-02T14:46:57Z",
+      "side": 1,
+      "message": "If read() fails it\u0027s going to throw an exception and the return statement won\u0027t be executed.",
+      "parentUuid": "5f7c97a3_e5adb032",
+      "revId": "a396242c4caf339cabc0272c6835da390f57d351",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
