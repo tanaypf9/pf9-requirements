@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_e5adb032",
+        "filename": "openstack_requirements/cmds/build_lower_constraints.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 13404
+      },
+      "writtenOn": "2018-07-02T08:55:43Z",
+      "side": 1,
+      "message": "If `f.read()` fails `body` will not be defined, and the exception can confuse. I would include the `return` inside the `with`, and replace the current one with a `raise`\n\nEdit: as was beautifully done in the next function.",
+      "revId": "a396242c4caf339cabc0272c6835da390f57d351",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
