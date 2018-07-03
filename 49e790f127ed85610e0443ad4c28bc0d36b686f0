@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_63742537",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-07-03T01:43:02Z",
+      "side": 1,
+      "message": "Not actually needed since this is a patch in the same repo and it is already a dependent patch of that one.",
+      "revId": "49e790f127ed85610e0443ad4c28bc0d36b686f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
