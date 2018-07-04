@@ -1,0 +1,11 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Nir Magnezi <nmagnezi@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 04 Jul 2018 09:01:24 +0000
+Reviewed-on: https://review.openstack.org/579725
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
