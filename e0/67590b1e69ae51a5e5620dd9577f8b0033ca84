@@ -1,0 +1,14 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: qingszhao <zhao.daqing@99cloud.net>
+Code-Review+1: YAMAMOTO Takashi <yamamoto@midokura.com>
+Code-Review+1: Elod Illes <elod.illes@ericsson.com>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Nir Magnezi <nmagnezi@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 04 Jul 2018 17:24:21 +0000
+Reviewed-on: https://review.openstack.org/579717
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
