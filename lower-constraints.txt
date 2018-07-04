@@ -197,7 +197,7 @@ XStatic-Bootstrap-SCSS===3.3.7.1
 pyzabbix===0.7.4
 ptyprocess===0.5.2
 amqp===2.1.1
-ruamel.yaml===0.13.14
+ruamel.yaml===0.15.0
 websockify===0.8.0
 html2text===2016.9.19
 XStatic-JQuery.quicksearch===2.0.3.1
@@ -550,3 +550,4 @@ xstatic-json2yaml===0.1.1.0
 python-qinlingclient===1.0.0
 ansible-runner===1.0.3
 distro===1.2.0
+openshift===0.6.1
