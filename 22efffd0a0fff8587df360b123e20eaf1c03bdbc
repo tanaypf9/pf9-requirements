@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_ddbfdfc7",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-07-05T13:35:48Z",
+      "side": 1,
+      "message": "It looks like this will need to be updated for the 2.7 job to pass.\n\n  ContextualVersionConflict: (ruamel.yaml 0.13.14 (/home/zuul/src/git.openstack.org/openstack/requirements/.tox/py27-check-lc/lib/python2.7/site-packages), Requirement.parse(\u0027ruamel.yaml\u003e\u003d0.15\u0027), set([\u0027openshift\u0027]))",
+      "revId": "22efffd0a0fff8587df360b123e20eaf1c03bdbc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
