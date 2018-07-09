@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_6078378e",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-09T00:26:45Z",
+      "side": 1,
+      "message": "This could be a problem.  I\u0027m not certain that 0.15.X is compatible with 0.13.X but maybe I just need to re-read https://yaml.readthedocs.io/en/latest/overview.html",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_006b83b8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-09T00:26:45Z",
+      "side": 1,
+      "message": "See this is strange.  It was in lower-constraints.txt and now we\u0027re adding it here?\n\n#confused",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
