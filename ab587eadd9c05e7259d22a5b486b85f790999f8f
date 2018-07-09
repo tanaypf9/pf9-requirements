@@ -37,6 +37,24 @@
     },
     {
       "key": {
+        "uuid": "5f7c97a3_5ba16d94",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-09T05:59:07Z",
+      "side": 1,
+      "message": "Well we know from previous failures that it wont work with older versions.  What concerns me is that we have the old version listed as the minimum (in this file) but nothing in  upper-constraints which makes it very hard to validate that moving the minimum to 0.15.0 doesn\u0027t break  the original use case.\n\nSo it\u0027s on the requirements team to work out where this came from and if it\u0027s still valid.",
+      "parentUuid": "5f7c97a3_fbd4f920",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f7c97a3_006b83b8",
         "filename": "upper-constraints.txt",
         "patchSetId": 6
@@ -66,6 +84,24 @@
       "side": 1,
       "message": "Hi Tony, here we\u0027ve just been using the faker package as a model. In that case they were adding a new package and the versioning was the same in lower and u-c. I was assuming this was the default initial way to do this and that afterwards u-c would be increasing and differing. Did I miss something?",
       "parentUuid": "5f7c97a3_006b83b8",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_3ba27198",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-09T05:59:07Z",
+      "side": 1,
+      "message": "Well this was auto-generated when I re-ran the process.  This being here isn\u0027t a problem.  See my comments in lower-constraints to try and clarify why it\u0027s strange for it to exist there but not here (before this chnage)",
+      "parentUuid": "5f7c97a3_1b1695f3",
       "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
