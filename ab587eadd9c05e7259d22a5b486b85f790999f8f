@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5f7c97a3_fbd4f920",
+        "filename": "lower-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 14885
+      },
+      "writtenOn": "2018-07-09T05:45:52Z",
+      "side": 1,
+      "message": "My main concern is basically this: \"With version 0.15.0 ruamel.yaml starts to depart from the previous (PyYAML) way of loading and dumping\"  \n\nhttps://yaml.readthedocs.io/en/latest/api.html#departure-from-previous-api\n\nI\u0027m not really sure whether the openshift client would work at all with versions previous than 0.15",
+      "parentUuid": "5f7c97a3_6078378e",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5f7c97a3_006b83b8",
         "filename": "upper-constraints.txt",
         "patchSetId": 6
@@ -30,6 +48,24 @@
       "writtenOn": "2018-07-09T00:26:45Z",
       "side": 1,
       "message": "See this is strange.  It was in lower-constraints.txt and now we\u0027re adding it here?\n\n#confused",
+      "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_1b1695f3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 198,
+      "author": {
+        "id": 14885
+      },
+      "writtenOn": "2018-07-09T05:45:52Z",
+      "side": 1,
+      "message": "Hi Tony, here we\u0027ve just been using the faker package as a model. In that case they were adding a new package and the versioning was the same in lower and u-c. I was assuming this was the default initial way to do this and that afterwards u-c would be increasing and differing. Did I miss something?",
+      "parentUuid": "5f7c97a3_006b83b8",
       "revId": "ab587eadd9c05e7259d22a5b486b85f790999f8f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
