@@ -24,6 +24,17 @@
       tox_envlist: py27-check-uc
 
 - job:
+    name: requirements-tox-py34-check-uc
+    parent: openstack-tox
+    description: |
+      Run test for requirements project.
+
+      Uses tox with the ``py34-check-uc`` environment.
+    files: ^upper-constraints.*txt$
+    vars:
+      tox_envlist: py34-check-uc
+
+- job:
     name: requirements-tox-py35-check-uc
     parent: openstack-tox
     description: |
