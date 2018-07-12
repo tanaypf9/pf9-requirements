@@ -16,6 +16,23 @@
       "revId": "19e466f36d9bab0270f9d8add3535de583ac03ce",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_75bde9af",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-07-12T23:57:09Z",
+      "side": 1,
+      "message": "True, but the bot does a co-install check in the proposal.  I did check to see that this removes the post (it does), I\u0027m more concerned that check.py may not work right.",
+      "revId": "19e466f36d9bab0270f9d8add3535de583ac03ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
