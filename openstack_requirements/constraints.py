@@ -11,6 +11,7 @@
 # under the License.
 
 from packaging import specifiers
+import re
 
 
 # FIXME(dhellmann): These items were not in the constraints list but
@@ -61,6 +62,21 @@ def check_format(parsed_constraints):
             if not req.specifiers.startswith('==='):
                 yield ('Invalid constraint for %s does not have 3 "=": %s' %
                        (name, original_line))
+
+
+def check_release_type(parsed_constraints):
+    """Check for pre, post or development releases
+
+    :param requirements: a set of requirements to check.
+    :param constraints: a set of constraints to check.
+    """
+    for name, spec_list in parsed_constraints.items():
+        for req, original_line in spec_list:
+            if (re.search(r'\.(dev|post)[0-9]+$', req.specifiers) or
+                 re.search(r'(a|b|rc)[0-9]+$', req.specifiers)) is not None:
+                yield ('dev, post or pre release of %s found for %s.  '
+                       'Pre-release, post-release and development-release '
+                       'types are not allowed' % (req.specifiers[3:], name))
 
 
 def check_compatible(global_reqs, constraints):

@@ -54,11 +54,17 @@ def main():
     for msg in constraints.check_format(constraints_txt):
         print(msg)
         error_count += 1
+    for msg in constraints.check_release_type(constraints_txt):
+        print(msg)
+        error_count += 1
 
     # Check that the constraints and requirements are compatible.
     print('\nChecking %s' % args.global_requirements)
     global_reqs = read_requirements_file(args.global_requirements)
     for msg in constraints.check_compatible(global_reqs, constraints_txt):
+        print(msg)
+        error_count += 1
+    for msg in constraints.check_release_type(global_reqs):
         print(msg)
         error_count += 1
 
