@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_f36fecc1",
+        "filename": "openstack_requirements/tests/files/gr-base.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-12T06:46:18Z",
+      "side": 1,
+      "message": "This file is data and doesn\u0027t need to be updated",
+      "revId": "ec0a5c4b773a1c07c0b531c8004a63c07d186ec8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_b36174d7",
+        "filename": "openstack_requirements/tests/files/upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-12T06:46:18Z",
+      "side": 1,
+      "message": "This file is data and doesn\u0027t need to be updated",
+      "revId": "ec0a5c4b773a1c07c0b531c8004a63c07d186ec8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
