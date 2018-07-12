@@ -167,6 +167,9 @@ def _validate_one(name, reqs, blacklist, global_reqs):
         if not min:
             print("Requirement for package %s has no lower bound" % name)
             return True
+        if re.match(r'post[0-9]+$', req.specifiers):
+            print("Requirement for package %s uses a post release" % name)
+            return True
     for extra, count in counts.items():
         if count != len(global_reqs[name]):
             print("Package %s%s requirement does not match "
