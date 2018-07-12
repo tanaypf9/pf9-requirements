@@ -45,6 +45,46 @@ def _parse_freeze(text):
     return result
 
 
+def _freeze_docker(requirements, python_version):
+    """Generate a frozen install from requirements.
+
+    A constraints file is the result of installing a set of requirements and
+    then freezing the result. We currently special case pip and setuptools
+    as pip does, excluding them from the set. We may however want to revisit
+    this in future if releases of those things break our gate.
+
+    In principle we should determine this by introspecting all the packages
+    transitively, since we need to deal wit environment markers....
+    but thats reimplementing a large chunk of pip (and since pip doesn't
+    resolve yet, differently too). For now, we take a list of Python
+    executables to test under, and then union the results. This is in fact the
+    key difference between a constraints file and a requirements file: we're
+    not triggering installation, so we can and will list packages that are
+    not relevant to e.g. Python3 in the constraints output.
+
+    :param requirements: The path to a requirements file to use when generating
+        the constraints.
+    :param python: A Python binary to use. E.g. /usr/bin/python3
+    :return: A tuple (python_version, list of (package, version)'s)
+    """
+    output = []
+
+    try:
+        if python_version not in ['2.7', '3.5', '3.6', '3.7']:
+            raise Exception(('Currently unsupported python version %s' %
+                             (python_version)))
+        freeze = subprocess.check_output(
+            ['docker', 'run', 'requirements:%s' % (python_version)]
+        ).decode('utf-8')
+        output.append(freeze)
+        return (python_version, _parse_freeze(freeze))
+    except Exception as exc:
+        if isinstance(exc, subprocess.CalledProcessError):
+            output.append(exc.output.decode('utf-8'))
+        raise Exception(
+            "Failed to generate freeze: %s %s"
+            % ('\n'.join(output).decode('utf-8'), exc))
+
 def _freeze(requirements, python):
     """Generate a frozen install from requirements.
 
@@ -157,9 +197,13 @@ def _validate_options(options):
     if not options.pythons:
         raise Exception("No Pythons given - see -p.")
     for python in options.pythons:
-        if not os.path.exists(python):
-            raise Exception(
-                "Python %(python)s not found." % dict(python=python))
+        if options.with_docker:
+            # TODO: Check for the container image
+            pass
+        else:
+            if not os.path.exists(python):
+                raise Exception(
+                    "Python %(python)s not found." % dict(python=python))
     if not options.requirements:
         raise Exception("No requirements file specified - see -r.")
     if not os.path.exists(options.requirements):
@@ -220,12 +264,20 @@ def main(argv=None, stdout=None):
               'This is intended as as a way to transition between python '
               'versions when it\'s not possible to have all versions '
               'installed'))
+    parser.add_option(
+        "--docker", dest="with_docker", default=False, action="store_true",
+        help=('Use dokcer containers to generate the freeze rather than venvs')
+    )
     options, args = parser.parse_args(argv)
     if stdout is None:
         stdout = sys.stdout
     _validate_options(options)
-    freezes = [
-        _freeze(options.requirements, python) for python in options.pythons]
+    if options.with_docker:
+        freezes = [_freeze_docker(options.requirements, python)
+                   for python in options.pythons]
+    else:
+        freezes = [_freeze(options.requirements, python)
+                   for python in options.pythons]
     _clone_versions(freezes, options)
     blacklist = _parse_blacklist(options.blacklist)
     frozen = sorted(_combine_freezes(freezes, blacklist), key=_make_sort_key)
