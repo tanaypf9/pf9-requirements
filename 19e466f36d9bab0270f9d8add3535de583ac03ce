@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_dfe17cd1",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-12T22:18:07Z",
+      "side": 1,
+      "message": "We can\u0027t do this, as we can\u0027t be certain that the resulting version still exists on pypi.",
+      "revId": "19e466f36d9bab0270f9d8add3535de583ac03ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
