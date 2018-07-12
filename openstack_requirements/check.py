@@ -15,6 +15,7 @@
 # under the License.
 
 import collections
+import re
 
 from openstack_requirements import project
 from openstack_requirements import requirement
@@ -166,6 +167,9 @@ def _validate_one(name, reqs, blacklist, global_reqs):
         min = [s for s in req.specifiers.split(',') if '>' in s]
         if not min:
             print("Requirement for package %s has no lower bound" % name)
+            return True
+        if re.match(r'post[0-9]+$', req.specifiers):
+            print("Requirement for package %s uses a post release" % name)
             return True
     for extra, count in counts.items():
         if count != len(global_reqs[name]):
