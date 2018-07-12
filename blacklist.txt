@@ -27,3 +27,4 @@ neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
 vmware-nsxlib
+functools===3.2.3.post2

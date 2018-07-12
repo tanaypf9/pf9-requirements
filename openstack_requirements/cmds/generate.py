@@ -17,6 +17,7 @@ import copy
 import hashlib
 import optparse
 import os.path
+import re
 import subprocess
 import sys
 
@@ -84,6 +85,7 @@ def _freeze(requirements, python):
                 [pip_bin, 'install', '-r', requirements]))
             freeze = subprocess.check_output(
                 [pip_bin, 'freeze']).decode('utf-8')
+            freeze = re.sub(r'\.post[0-9]+', '', freeze)
             output.append(freeze)
             return (version, _parse_freeze(freeze))
     except Exception as exc:

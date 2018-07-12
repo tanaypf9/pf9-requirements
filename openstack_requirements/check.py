@@ -15,6 +15,7 @@
 # under the License.
 
 import collections
+import re
 
 from openstack_requirements import project
 from openstack_requirements import requirement
@@ -166,6 +167,12 @@ def _validate_one(name, reqs, blacklist, global_reqs):
         min = [s for s in req.specifiers.split(',') if '>' in s]
         if not min:
             print("Requirement for package %s has no lower bound" % name)
+            return True
+        if (re.search(r'\.(dev|post)[0-9]+$', req.specifiers) or
+                re.search(r'(a|b|rc)[0-9]+$', req.specifiers)) is not None:
+            print('dev, post or pre release of %s found for %s.  Pre-release'
+                  ', post-release and development-release types are not '
+                  'allowed.' % (req.specifiers[3:], name))
             return True
     for extra, count in counts.items():
         if count != len(global_reqs[name]):
