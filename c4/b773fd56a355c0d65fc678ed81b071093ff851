@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: qingszhao <zhao.daqing@99cloud.net>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: daixianmeng <daixianmeng@yovole.com>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 13 Jul 2018 00:12:50 +0000
+Reviewed-on: https://review.openstack.org/581772
+Project: openstack/requirements
+Branch: refs/heads/master
