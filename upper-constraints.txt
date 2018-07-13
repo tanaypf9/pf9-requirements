@@ -430,8 +430,8 @@ falcon===1.4.1
 subprocess32===3.5.2;python_version=='2.7'
 etcd3gw===0.2.1
 pyldap===3.0.0;python_version=='2.7'
-pyldap===3.0.0;python_version=='3.4'
-pyldap===3.0.0;python_version=='3.5'
+pyldap===3.0.0.post1;python_version=='3.4'
+pyldap===3.0.0.post1;python_version=='3.5'
 Flask-RESTful===0.3.6
 GitPython===2.1.10
 python-ironicclient===2.4.0
