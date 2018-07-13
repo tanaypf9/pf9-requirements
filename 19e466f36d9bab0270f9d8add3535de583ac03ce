@@ -33,6 +33,24 @@
       "revId": "19e466f36d9bab0270f9d8add3535de583ac03ce",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_d5b2bd96",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-07-13T00:19:39Z",
+      "side": 1,
+      "message": "I suppose this isn\u0027t any worse than the current state.  Both end up with us manually editing the bots work but this one possibly less often.\n\nhttps://review.openstack.org/582431 will check check.py",
+      "parentUuid": "5f7c97a3_75bde9af",
+      "revId": "19e466f36d9bab0270f9d8add3535de583ac03ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
