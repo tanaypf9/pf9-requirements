@@ -16,6 +16,24 @@
       "revId": "bfe704264ee5ce6a16f14dbd62c121e662d59b39",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_ec0fb488",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 553,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2018-07-16T19:32:08Z",
+      "side": 1,
+      "message": "We install these repos from source via required-projects (otherwise if would cause already *today* problems).\n\nSo, the versions above should all be ignored.",
+      "parentUuid": "5f7c97a3_8cc2c034",
+      "revId": "bfe704264ee5ce6a16f14dbd62c121e662d59b39",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
