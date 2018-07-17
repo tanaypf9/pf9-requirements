@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 17 Jul 2018 21:32:01 +0000
+Reviewed-on: https://review.openstack.org/581412
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
