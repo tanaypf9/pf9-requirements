@@ -1,0 +1,11 @@
+Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>
+Code-Review+1: Guilherme  Steinmuller Pimentel <guilhermesp@lsd.ufcg.edu.br>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 17 Jul 2018 19:59:23 +0000
+Reviewed-on: https://review.openstack.org/583274
+Project: openstack/requirements
+Branch: refs/heads/master
