@@ -2,23 +2,39 @@
     check:
       jobs:
         - build-wheel-mirror-centos-7:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
             files:
               - bindep.txt
         - build-wheel-mirror-ubuntu-bionic:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
             files:
               - bindep.txt
         - build-wheel-mirror-ubuntu-trusty:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
             files:
               - bindep.txt
         - build-wheel-mirror-ubuntu-xenial:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
             files:
               - bindep.txt
-        - openstack-tox-validate
-        - requirements-tox-babel
+        - openstack-tox-validate:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
+        - requirements-tox-babel:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
         - requirements-tox-bindep:
             voting: false
-        - requirements-tox-py27-check-uc
-        - requirements-tox-py35-check-uc
+        - requirements-tox-py27-check-uc:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
+        - requirements-tox-py35-check-uc:
+            vars:
+              pypi_mirror: "http://{{ zuul_site_mirror_fqdn }}:8080/pypi/simple/"
         - requirements-tox-py36-check-uc:
             voting: false
         - requirements-tox-validate-projects
