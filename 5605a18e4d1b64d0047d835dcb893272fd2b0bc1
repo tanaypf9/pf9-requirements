@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_9dd370d3",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-07-19T21:57:26Z",
+      "side": 1,
+      "message": "I think somethink like the following would be better (more formal language).\n\n# The following horizon and Neutron libraries need to be blacklisted\n# as they do not use cycle-with-intermediary.  The only time they\n# would be updated is at release time.",
+      "revId": "5605a18e4d1b64d0047d835dcb893272fd2b0bc1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
