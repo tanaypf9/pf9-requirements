@@ -57,6 +57,24 @@
       "revId": "80883c25db85320084966544661c058db71201b9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_4adaf178",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-07-19T17:36:33Z",
+      "side": 1,
+      "message": "actually, I think the \u0027and\u0027 should work\n\nif not win32:\n  if py \u003c\u003d 3.5:\n    install\n  else:\n    pass\nelse:\n  pass",
+      "parentUuid": "5f7c97a3_afd95755",
+      "revId": "80883c25db85320084966544661c058db71201b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
