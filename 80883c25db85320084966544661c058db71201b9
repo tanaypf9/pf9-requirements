@@ -22,6 +22,23 @@
       "revId": "80883c25db85320084966544661c058db71201b9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_c4583a8a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-07-19T16:33:01Z",
+      "side": 1,
+      "message": "with an \u0027and\u0027 if win32 and py36 it\u0027d be allowed to be installed\nwith an or if either are true it\u0027d be allowed (so this doesn\u0027t help as is)\nwe need two expressions here I think, one for !win32 and another for !py3 (since zvmsdk does not seem to support py3 at all..)\nboth expressions would be evaluated individually,\n\nI don\u0027t think markers support this :|     https://www.python.org/dev/peps/pep-0496/\n\nhttps://github.com/mfcloud/python-zvm-sdk/blob/master/setup.py#L37-L39",
+      "revId": "80883c25db85320084966544661c058db71201b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
