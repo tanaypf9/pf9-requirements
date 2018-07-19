@@ -39,6 +39,24 @@
       "revId": "80883c25db85320084966544661c058db71201b9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f7c97a3_afd95755",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 8099
+      },
+      "writtenOn": "2018-07-19T17:00:16Z",
+      "side": 1,
+      "message": "so would adding:\n\n    and python_version\u003d\u003d2.7 \n\nsolve it then?\n\nI believe they do support py3, but just havent updated the markers yet - but we can update that later if needs be.",
+      "parentUuid": "5f7c97a3_c4583a8a",
+      "revId": "80883c25db85320084966544661c058db71201b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
