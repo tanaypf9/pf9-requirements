@@ -224,7 +224,7 @@ crc16  # LGPLv3+
 pyzabbix  # LGPL
 statsd  # MIT
 weakrefmethod;python_version=='2.7'  # PSF
-zVMCloudConnector;sys_platform!='win32'  # Apache 2.0 License
+zVMCloudConnector;sys_platform!='win32' or python_version<='3.5'  # Apache 2.0 License
 opentracing  # Apache-2.0
 jaeger-client  # Apache-2.0
 
