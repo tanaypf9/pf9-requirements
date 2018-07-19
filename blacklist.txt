@@ -14,7 +14,8 @@ pycodestyle
 pylint
 Pygments
 
-# Temporarily until tools/tox_install.sh is updated everywhere
+# We install them for the next release from master always and do not
+# have a specific version to use, so leave here
 horizon
 networking-bagpipe
 networking-bgpvpn
