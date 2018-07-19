@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_641fe608",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-07-19T16:18:56Z",
+      "side": 1,
+      "message": "Doesn\u0027t this need to be \"and\"? Otherwise if platform is win32 but running \u003c\u003d 3.5 this would end up getting installed.",
+      "range": {
+        "startLine": 227,
+        "startChar": 40,
+        "endLine": 227,
+        "endChar": 42
+      },
+      "revId": "80883c25db85320084966544661c058db71201b9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
