@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f7c97a3_3a010208",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 227,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2018-07-19T21:20:07Z",
+      "side": 1,
+      "message": "Could add a TODO to remove this once the fix is available in the sdk",
+      "revId": "88ef4ac94f4ac4b6c593e6c3e1a94268eb562ffc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
