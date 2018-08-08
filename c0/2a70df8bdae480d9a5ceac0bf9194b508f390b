@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: daixianmeng <daixianmeng@yovole.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 08 Aug 2018 22:30:25 +0000
+Reviewed-on: https://review.openstack.org/589701
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
