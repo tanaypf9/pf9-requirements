@@ -539,3 +539,4 @@ scikit-learn===0.18.2
 zuul-sphinx===0.1.2
 shade===1.22.2
 stestr===2.0.0
+python-cloudkittyclient===1.2.0
