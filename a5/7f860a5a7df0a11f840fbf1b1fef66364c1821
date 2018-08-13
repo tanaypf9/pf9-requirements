@@ -1,0 +1,9 @@
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 13 Aug 2018 23:18:46 +0000
+Reviewed-on: https://review.openstack.org/591498
+Project: openstack/requirements
+Branch: refs/heads/master
