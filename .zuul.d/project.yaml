@@ -1,4 +1,9 @@
 - project:
+    templates:
+      - openstack-pypy-jobs-nonvoting
+      - publish-openstack-sphinx-docs
+      - openstack-python-jobs
+      - openstack-python35-jobs
     check:
       jobs:
         - openstack-tox-validate
@@ -28,6 +33,19 @@
         - cross-swift-py27
         - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
+        - legacy-requirements-integration-dsvm
+        - neutron-grenade-multinode:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - legacy-tempest-dsvm-neutron-full:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - neutron-grenade:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
     gate:
       queue: integrated
       jobs:
@@ -57,3 +75,42 @@
         - cross-swift-py27
         - cross-swift-py35:
             branches: ^(?!stable/(newton|ocata)).*$
+        - legacy-requirements-integration-dsvm
+        - neutron-grenade-multinode:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - legacy-tempest-dsvm-neutron-full:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - neutron-grenade:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+    post:
+      jobs:
+        - publish-loci-requirements
+    periodic:
+      jobs:
+        - publish-wheel-mirror-centos-7
+        - publish-wheel-mirror-ubuntu-bionic
+        - publish-wheel-mirror-ubuntu-trusty
+        - publish-wheel-mirror-ubuntu-xenial
+        - release-wheel-mirror:
+            dependencies:
+              - publish-wheel-mirror-centos-7
+              - publish-wheel-mirror-ubuntu-bionic
+              - publish-wheel-mirror-ubuntu-trusty
+              - publish-wheel-mirror-ubuntu-xenial
+    experimental:
+      jobs:
+        - legacy-tempest-dsvm-neutron-pg-full:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - legacy-tempest-dsvm-neutron-full-opensuse-423:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+
