@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3f79a3b5_e18fb120",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 22259
+      },
+      "writtenOn": "2018-08-22T17:55:23Z",
+      "side": 1,
+      "message": "There are 2 different techniques used by this library to mitigate breach attacks. One of them is CSRF token which is available in new django impls. Therefore this won\u0027t be enabled.\n\nThe other one is the content length modification which is not supported by new Django impls so this feature will be enabled.",
+      "parentUuid": "3f79a3b5_c1295537",
+      "revId": "c36f37817bed2e8e6b7a73466755a144cc5443f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f79a3b5_6122c154",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2018-08-22T17:44:04Z",
       "side": 1,
       "message": "Which openstack projects?  Can you link to a bug or review stating why this is needed?",
+      "revId": "c36f37817bed2e8e6b7a73466755a144cc5443f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_e12b31e8",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 22259
+      },
+      "writtenOn": "2018-08-22T17:55:23Z",
+      "side": 1,
+      "message": "I am proposing this for horizon but generally this library holds good for any Django based project.\n\nIt\u0027s not addressing any specific bug, This library can be considered as a safe to have feature rather than waiting for a bug or breach attack to take place. At AT\u0026T we have enabled it on our production environments.\n\nMore on breach attacks here - http://breachattack.com/",
+      "parentUuid": "3f79a3b5_6122c154",
       "revId": "c36f37817bed2e8e6b7a73466755a144cc5443f2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
