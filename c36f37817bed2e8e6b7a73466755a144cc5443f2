@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_c1295537",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-08-22T17:44:04Z",
+      "side": 1,
+      "message": "It looks like it\u0027s needed by older django impls, \u003c 1.10\nMaster is currently set to use django 1.11.14 for py2 and 2.0.7 for py3\n\nI\u0027d say that this is covered by the what we have defined.  Horizon also has a lower-constraint of 1.11, so it disallows installing less than that version.",
+      "revId": "c36f37817bed2e8e6b7a73466755a144cc5443f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_6122c154",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-08-22T17:44:04Z",
+      "side": 1,
+      "message": "Which openstack projects?  Can you link to a bug or review stating why this is needed?",
+      "revId": "c36f37817bed2e8e6b7a73466755a144cc5443f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
