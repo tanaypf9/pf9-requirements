@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_ef00de36",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 447,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-08-23T15:20:25Z",
+      "side": 1,
+      "message": "Looks like you are missing the TWO spaces before the hash",
+      "revId": "db2a60ce80ae871fe8e21e7b38fa98956cba6915",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
