@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_6e37e5ff",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 125,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-08-24T04:18:05Z",
+      "side": 1,
+      "message": "This hunk stayed in project-config in revision 4 of Ia6dcbd17dbee6246475bdcb7576d3d82b17ad7c0 so I\u0027m confident we shouldn\u0027t duplicate it here.",
+      "range": {
+        "startLine": 114,
+        "startChar": 0,
+        "endLine": 125,
+        "endChar": 50
+      },
+      "revId": "68b585e12e158043de50f74126343a13cfe24d94",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
