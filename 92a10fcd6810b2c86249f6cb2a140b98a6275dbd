@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_8c059f48",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 105,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2018-08-24T14:30:48Z",
+      "side": 1,
+      "message": "stays in project-config",
+      "range": {
+        "startLine": 92,
+        "startChar": 0,
+        "endLine": 105,
+        "endChar": 50
+      },
+      "revId": "92a10fcd6810b2c86249f6cb2a140b98a6275dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
