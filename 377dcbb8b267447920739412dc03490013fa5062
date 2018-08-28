@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_2925155d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2018-08-28T17:33:12Z",
+      "side": 1,
+      "message": "As if we needed more reasons, there\u0027s also\n\n- https://github.com/eventlet/eventlet/commit/de06878 for https://bugs.launchpad.net/manila/+bug/1788253 and\n- https://github.com/eventlet/eventlet/commit/2db0046 for https://bugs.launchpad.net/swift/+bug/1769749",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 22
+      },
+      "revId": "377dcbb8b267447920739412dc03490013fa5062",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
