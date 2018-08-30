@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_1be70649",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 9545
+      },
+      "writtenOn": "2018-08-30T15:47:34Z",
+      "side": 1,
+      "message": "it is better to point to https://github.com/openshift/openshift-restclient-python/issues/183 since it sounds like a real issue.\n\nAnd since it is already fixed in master, should we just wait for a release? Do you know anything about openshift client release process for such kind of issues?",
+      "range": {
+        "startLine": 14,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 53
+      },
+      "revId": "7db651009acf8a6fa20ae0156a33b5356afad588",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
