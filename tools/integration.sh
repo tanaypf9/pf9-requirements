@@ -16,6 +16,19 @@ function mkvenv {
 
 function install_all_of_gr {
     mkvenv $tmpdir/all_requirements
+    if grep -q networking-odl global-requirements.txt ; then
+        if [ -d "$REPODIR/openstack/ceilometer" ] ; then
+            cat <<EO_FIGLET
+ _   _     _     ____  _  __ _
+| | | |   / \   / ___|| |/ /| |
+| |_| |  / _ \ | |    | ' / | |
+|  _  | / ___ \| |___ | . \ |_|
+|_| |_|/_/   \_\\____||_|\_\(_)
+
+EO_FIGLET
+            echo pip install $REPODIR/openstack/ceilometer
+        fi
+    fi
     $tmpdir/all_requirements/bin/pip install -r $REPODIR/requirements/global-requirements.txt
 }
 
