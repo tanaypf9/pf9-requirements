@@ -16,6 +16,19 @@ function mkvenv {
 
 function install_all_of_gr {
     mkvenv $tmpdir/all_requirements
+    if grep -q networking-odl $REPODIR/requirements/global-requirements.txt ; then
+        if [ -d "$REPODIR/ceilometer" ] ; then
+            cat <<EO_FIGLET
+ _   _     _     ____  _  __ _
+| | | |   / \   / ___|| |/ /| |
+| |_| |  / _ \ | |    | ' / | |
+|  _  | / ___ \| |___ | . \ |_|
+|_| |_|/_/   \_\\____||_|\_\(_)
+
+EO_FIGLET
+            pip install $REPODIR/ceilometer
+        fi
+    fi
     $tmpdir/all_requirements/bin/pip install -r $REPODIR/requirements/global-requirements.txt
 }
 
