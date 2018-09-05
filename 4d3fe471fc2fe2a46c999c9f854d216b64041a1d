@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_4b41cd09",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-09-05T05:38:54Z",
+      "side": 1,
+      "message": "This is quite misleading :/  I\u0027ll update it when I see if the job passes.",
+      "revId": "4d3fe471fc2fe2a46c999c9f854d216b64041a1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
