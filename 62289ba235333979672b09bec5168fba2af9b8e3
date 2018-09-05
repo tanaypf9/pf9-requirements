@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_d4db2d7a",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-09-05T16:55:49Z",
+      "side": 1,
+      "message": "ceilometer",
+      "revId": "62289ba235333979672b09bec5168fba2af9b8e3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
