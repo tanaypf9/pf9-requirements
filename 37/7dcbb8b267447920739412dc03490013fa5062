@@ -1,0 +1,14 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Vlad Gusev <vlad.esten@gmail.com>
+Code-Review+1: melissaml <ma.lei@99cloud.net>
+Code-Review+1: boden <bodenvmw@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>
+Code-Review+1: Tom Barron <tpb@dyncloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 06 Sep 2018 19:25:01 +0000
+Reviewed-on: https://review.openstack.org/589382
+Project: openstack/requirements
+Branch: refs/heads/master
