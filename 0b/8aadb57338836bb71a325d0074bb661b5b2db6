@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: wangqi <wang.qi@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Sep 2018 08:31:09 +0000
+Reviewed-on: https://review.openstack.org/602227
+Project: openstack/requirements
+Branch: refs/heads/stable/rocky
