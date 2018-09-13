@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>
+Code-Review+1: 98k <18552437190@163.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Sep 2018 03:42:32 +0000
+Reviewed-on: https://review.openstack.org/601898
+Project: openstack/requirements
+Branch: refs/heads/master
