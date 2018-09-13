@@ -51,7 +51,7 @@ oslo.context===2.21.0
 python-senlinclient===1.8.0
 rcssmin===1.0.6
 pycadf===2.8.0
-grpcio===1.14.2
+grpcio===1.15.0
 skydive-client===0.4.5
 pysendfile===2.0.1
 fixtures===3.0.0
@@ -235,7 +235,7 @@ oslo.versionedobjects===1.33.3
 webcolors===1.8.1
 aodhclient===1.1.1
 autobahn===18.9.2
-SQLAlchemy-Utils===0.33.3
+SQLAlchemy-Utils===0.33.4
 pluggy===0.7.1
 coverage===4.5.1
 freezegun===0.3.10
@@ -286,7 +286,7 @@ oslo.serialization===2.27.0
 warlock===1.3.0
 exabgp===4.0.8
 sphinxcontrib-httpdomain===1.7.0
-metalsmith===0.6.1
+metalsmith===0.7.0
 thriftpy===0.3.9;python_version=='2.7'
 text-unidecode===1.2
 murano-pkg-check===0.3.0
@@ -332,7 +332,7 @@ SecretStorage===2.3.1;python_version=='2.7'
 SecretStorage===3.1.0;python_version=='3.4'
 SecretStorage===3.1.0;python_version=='3.5'
 SecretStorage===3.1.0;python_version=='3.6'
-opentracing===1.3.0
+opentracing===2.0.0
 XStatic-Rickshaw===1.5.0.0
 iso8601===0.1.12
 tooz===1.62.0
@@ -370,7 +370,7 @@ more-itertools===4.3.0
 seqdiag===0.9.6
 numpy===1.15.1
 msgpack===0.5.6
-Sphinx===1.7.9
+Sphinx===1.8.0
 oslo.config===6.4.0
 tempest===19.0.0
 django-floppyforms===1.7.0
@@ -394,7 +394,7 @@ WSME===0.9.3
 proboscis===1.2.6.0
 fortiosclient===0.0.3
 stevedore===1.29.0
-botocore===1.12.1
+botocore===1.12.3
 xmltodict===0.11.0
 pyasn1===0.4.4
 oslo.rootwrap===5.14.1
@@ -485,13 +485,13 @@ netifaces===0.10.7
 cachetools===2.1.0
 ws4py===0.5.1
 backports-abc===0.5;python_version=='2.7'
-keystoneauth1===3.10.0
+keystoneauth1===3.11.0
 statsd===3.3.0
 XenAPI===1.2
 python-keystoneclient===3.17.0
 ceilometer===11.0.0
 demjson===2.2.4
-diskimage-builder===2.16.0
+diskimage-builder===2.17.0
 heat-translator===1.1.0
 python-magnumclient===2.10.0
 docker===3.5.0
