@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_ded13531",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 471,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2018-09-17T06:41:28Z",
+      "side": 1,
+      "message": "Typo: OpenStack",
+      "range": {
+        "startLine": 471,
+        "startChar": 12,
+        "endLine": 471,
+        "endChar": 14
+      },
+      "revId": "33c4e6a90ad2a082a41a0652f9dbbe82f3bdb347",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
