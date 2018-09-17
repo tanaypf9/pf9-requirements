@@ -45,6 +45,30 @@
       "revId": "33c4e6a90ad2a082a41a0652f9dbbe82f3bdb347",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_1aed7224",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 472,
+      "author": {
+        "id": 17068
+      },
+      "writtenOn": "2018-09-17T13:00:22Z",
+      "side": 1,
+      "message": "that is a great news. Will this be backported?",
+      "parentUuid": "3f79a3b5_f9920b4b",
+      "range": {
+        "startLine": 471,
+        "startChar": 15,
+        "endLine": 472,
+        "endChar": 96
+      },
+      "revId": "33c4e6a90ad2a082a41a0652f9dbbe82f3bdb347",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
