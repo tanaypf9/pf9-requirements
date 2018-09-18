@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_c813a358",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 432,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-09-18T06:35:36Z",
+      "side": 1,
+      "message": "0.9.8 is really old, not sure how valid it is to even care about it (July 25 2013)",
+      "revId": "1bed090d825e1dac413259c2225e5aed32121c51",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
