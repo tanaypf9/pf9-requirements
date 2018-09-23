@@ -67,6 +67,14 @@
     vars:
       tox_envlist: py35
 
+- job
+    name: cross-horizon-npm
+    parent: requirements-cross-test
+    description: Run cross-project tests on horizon with npm.
+    required-projects: openstack/horizon
+    vars:
+      tox_envlist: npm
+
 - job:
     name: cross-keystone-py27
     parent: requirements-cross-test
