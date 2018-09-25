@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Code-Review+1: Duc Truong <dtruong@blizzard.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 25 Sep 2018 18:30:02 +0000
+Reviewed-on: https://review.openstack.org/604611
+Project: openstack/requirements
+Branch: refs/heads/master
