@@ -16,6 +16,24 @@
       "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_f1d4dfbe",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2018-10-04T23:15:01Z",
+      "side": 1,
+      "message": "I agree, I wasn\u0027t happy when it popped up. It looks like they\u0027re writing their own thing to replace ZeroMQ that uses nacl instead (the ZeroMQ driver is the part that uses PyCrypto), but they\u0027ve been writing it since 2014 and it still isn\u0027t ready: https://docs.saltstack.com/en/latest/topics/transports/raet/index.html\n\nWhat is the implication of including it in upper-constraints but not global-requirements? Projects still wouldn\u0027t be able to add a direct dependency on it, right?",
+      "parentUuid": "3f79a3b5_3b03180f",
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
