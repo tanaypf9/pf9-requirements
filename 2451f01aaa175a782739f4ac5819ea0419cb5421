@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_3b03180f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 266,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-10-04T20:39:15Z",
+      "side": 1,
+      "message": "This is concerning security wise, last commit 4 years old, 2.6.1 is 5 years old.  Only two threads from a year ago on their mailing list.  This is only used for salt, but we worked hard on removing pycrypto usage from openstack for a reason.  Pycryptodome would be better if they have some reason they can\u0027t switch to something like cryptography.",
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
