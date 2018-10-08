@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_7fb063dd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 5046
+      },
+      "writtenOn": "2018-10-08T17:38:05Z",
+      "side": 1,
+      "message": "This version is broken for keystone. An unreleased patch merged to oslo.messaging [0] fixes the issue in keystone through.\n\n[0] https://github.com/openstack/oslo.messaging/commit/172cfb33f3ee207531a9e82fbc8293d24009a256",
+      "range": {
+        "startLine": 143,
+        "startChar": 17,
+        "endLine": 143,
+        "endChar": 22
+      },
+      "revId": "19083bf13f935d6b10f18260c8eab62dc890835c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
