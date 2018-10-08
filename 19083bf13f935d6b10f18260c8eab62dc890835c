@@ -22,6 +22,30 @@
       "revId": "19083bf13f935d6b10f18260c8eab62dc890835c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_5f57a75b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 5046
+      },
+      "writtenOn": "2018-10-08T17:40:09Z",
+      "side": 1,
+      "message": "Which might be fine for a major update, actually.",
+      "parentUuid": "3f79a3b5_7fb063dd",
+      "range": {
+        "startLine": 143,
+        "startChar": 17,
+        "endLine": 143,
+        "endChar": 22
+      },
+      "revId": "19083bf13f935d6b10f18260c8eab62dc890835c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
