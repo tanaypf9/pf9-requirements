@@ -16,6 +16,24 @@
       "revId": "abfeaf4acf0fcbcfdd6bb64e0d79e05fc7ba3306",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_6be8907a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2018-10-09T15:41:20Z",
+      "side": 1,
+      "message": "It\u0027s missing a 1. Should be 172cfb33f3ee207531a9e82fbc8293d24009a256",
+      "parentUuid": "3f79a3b5_cb5e8412",
+      "revId": "abfeaf4acf0fcbcfdd6bb64e0d79e05fc7ba3306",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
