@@ -2,6 +2,52 @@
   "comments": [
     {
       "key": {
+        "uuid": "3f79a3b5_781b591b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-10-11T01:59:03Z",
+      "side": 1,
+      "message": "Hmm interesting, that implies we\u0027ve had a long standing bug :(\n\nCan you point me at some passing/failing changes?",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 60
+      },
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_d8cf0d89",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-10-11T01:59:03Z",
+      "side": 1,
+      "message": "If heat-agents don\u0027t need to be co-installable why not just drop the check-requirements template?",
+      "range": {
+        "startLine": 30,
+        "startChar": 42,
+        "endLine": 30,
+        "endChar": 71
+      },
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f79a3b5_3b03180f",
         "filename": "upper-constraints.txt",
         "patchSetId": 4
