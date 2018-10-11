@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "3f79a3b5_e543326a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2018-10-11T16:23:34Z",
+      "side": 1,
+      "message": "Doug had an explanation for it here: http://eavesdrop.openstack.org/irclogs/%23openstack-requirements/%23openstack-requirements.2018-09-23.log.html#t2018-09-23T21:33:42\n\n\u003e the job was updated early in rocky to look at every entry in the file, not just the entries that changed. So it\u0027s possible the dependency was added before the job, then the job let it stay, and now you\u0027re modifying a requirements file and the job wants everything tidied up\n\nThis sounds right, because the requirement has been there forever.\n\nPassing job: https://review.openstack.org/528980\n\nFailing jobs: https://review.openstack.org/604205 and https://review.openstack.org/555487 (until I made them depend on this change).",
+      "parentUuid": "3f79a3b5_781b591b",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 60
+      },
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f79a3b5_d8cf0d89",
         "filename": "/COMMIT_MSG",
         "patchSetId": 4
@@ -36,6 +60,30 @@
       "writtenOn": "2018-10-11T01:59:03Z",
       "side": 1,
       "message": "If heat-agents don\u0027t need to be co-installable why not just drop the check-requirements template?",
+      "range": {
+        "startLine": 30,
+        "startChar": 42,
+        "endLine": 30,
+        "endChar": 71
+      },
+      "revId": "2451f01aaa175a782739f4ac5819ea0419cb5421",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_e5e7b2aa",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2018-10-11T16:23:34Z",
+      "side": 1,
+      "message": "That\u0027s a fair question (and one I asked myself also). The main reason is that the tools are useful, and tightly integrated with the test jobs. I\u0027d rather not manage all the dependencies stuff myself, and I don\u0027t have any confidence that I\u0027d get it right.\n\nIf there\u0027s a good explanation somewhere of how to do dependency management without relying on the global dependency list, I\u0027d be happy to follow it.",
+      "parentUuid": "3f79a3b5_d8cf0d89",
       "range": {
         "startLine": 30,
         "startChar": 42,
