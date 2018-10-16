@@ -29,3 +29,4 @@ neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
 vmware-nsxlib
+ceilometer
