@@ -30,6 +30,7 @@ neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
 vmware-nsxlib
+ceilometer
 
 # Sahara uses cycle-with-rc, but it promises a stable plugin interface
 sahara
