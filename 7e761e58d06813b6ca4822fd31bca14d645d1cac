@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_4ad7f9f5",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 6
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-10-18T20:36:44Z",
+      "side": 1,
+      "message": "Gah!  I really thought I\u0027d done that thing!\n\nSo sorry.",
+      "revId": "7e761e58d06813b6ca4822fd31bca14d645d1cac",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
