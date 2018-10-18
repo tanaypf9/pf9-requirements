@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_81550b55",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-10-18T05:53:40Z",
+      "side": 0,
+      "message": "does this now default to whatever \u0027python\u0027 is set to?",
+      "revId": "f65caf3a0dcc39259867ece837bd3856fac6a826",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
