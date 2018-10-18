@@ -16,6 +16,24 @@
       "revId": "f65caf3a0dcc39259867ece837bd3856fac6a826",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_dc3528a9",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-10-18T06:42:59Z",
+      "side": 0,
+      "message": "No it defaults to the basepython in testenv which is python3 already so this was redundant AIUI",
+      "parentUuid": "3f79a3b5_81550b55",
+      "revId": "f65caf3a0dcc39259867ece837bd3856fac6a826",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
