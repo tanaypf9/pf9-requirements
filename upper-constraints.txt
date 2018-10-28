@@ -153,6 +153,7 @@ pathlib===1.0.1;python_version=='2.7'
 urllib3===1.23
 graphviz===0.10.1
 PyKMIP===0.8.0
+readme-renderer===24.0
 whereto===0.4.0
 python-subunit===1.3.0
 tornado===4.5.3
@@ -172,6 +173,7 @@ pycryptodomex===3.6.6
 anyjson===0.3.3
 requests-mock===1.5.2
 os-apply-config===10.0.0
+webencodings===0.5.1
 oslosphinx===4.18.0
 mox3===0.26.0
 gunicorn===19.9.0
@@ -230,10 +232,12 @@ dnspython3===1.15.0;python_version=='3.5'
 dnspython3===1.15.0;python_version=='3.6'
 ldappool===2.3.0
 termcolor===1.1.0
+tqdm===4.28.1
 hiredis===0.2.0
 google-api-python-client===1.7.4
 castellan===1.0.0
 oslo.versionedobjects===1.34.1
+twine===1.12.1
 webcolors===1.8.1
 aodhclient===1.1.1
 autobahn===18.10.1
@@ -314,6 +318,7 @@ psutil===5.4.7
 py===1.7.0
 txaio===18.8.1
 python-qinlingclient===2.1.0
+pkginfo===1.4.2
 elasticsearch===2.4.1
 django-nose===1.4.6
 XStatic-JQuery.TableSorter===2.14.5.1
@@ -499,6 +504,7 @@ diskimage-builder===2.17.0
 heat-translator===1.1.0
 python-magnumclient===2.11.0
 docker===3.5.1
+bleach===3.0.2
 qpid-python===1.36.0.post1;python_version=='2.7'
 contextlib2===0.5.5
 XStatic-Angular-lrdragndrop===1.0.2.2
