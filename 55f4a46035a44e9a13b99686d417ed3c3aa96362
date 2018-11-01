@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_fe7c8323",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 476,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2018-11-01T14:14:42Z",
+      "side": 1,
+      "message": "that should not be needed by the way but its also not wronge",
+      "range": {
+        "startLine": 476,
+        "startChar": 0,
+        "endLine": 476,
+        "endChar": 15
+      },
+      "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
