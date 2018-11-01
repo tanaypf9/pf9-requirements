@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_6afbcabe",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-11-01T19:30:33Z",
+      "side": 0,
+      "message": "These tools aren\u0027t all documented in the project-team-guide. Shouldn\u0027t we keep some of this here?",
+      "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

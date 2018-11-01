@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_0a0d76e6",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2018-11-01T19:30:33Z",
+      "side": 1,
+      "message": "Might be nice to keep the slightly more verbose original paragraph so there\u0027s at least a little information about where they are being set to.",
+      "revId": "acb52c04140f60345cafb2a049df595fa56c148c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
