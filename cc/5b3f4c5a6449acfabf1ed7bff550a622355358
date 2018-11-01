@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 01 Nov 2018 02:40:00 +0000
+Reviewed-on: https://review.openstack.org/614608
+Project: openstack/requirements
+Branch: refs/heads/master
