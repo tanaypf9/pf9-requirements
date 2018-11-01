@@ -22,6 +22,30 @@
       "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_792e4d8e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 476,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2018-11-01T14:37:55Z",
+      "side": 1,
+      "message": "without this openstack-tox-validate was failing\n\nhttp://logs.openstack.org/64/614764/1/check/openstack-tox-validate/79b2afe/job-output.txt.gz#_2018-11-01_13_32_43_862412",
+      "parentUuid": "3f79a3b5_fe7c8323",
+      "range": {
+        "startLine": 476,
+        "startChar": 0,
+        "endLine": 476,
+        "endChar": 15
+      },
+      "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
