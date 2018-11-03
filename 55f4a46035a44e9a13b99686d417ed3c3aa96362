@@ -16,6 +16,23 @@
       "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_346d0ccb",
+        "filename": "README.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-11-03T19:03:52Z",
+      "side": 0,
+      "message": "I\u0027d rather have all our documentation in one place, I think integrating the examples into the Project Team Guide would be a better solution.  You are right that they should be kept somewhere though.",
+      "revId": "55f4a46035a44e9a13b99686d417ed3c3aa96362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
