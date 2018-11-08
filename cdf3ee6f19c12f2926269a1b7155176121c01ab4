@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_2086ca17",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6962
+      },
+      "writtenOn": "2018-11-08T13:52:06Z",
+      "side": 1,
+      "message": "Can you post the precise build failure, please?",
+      "revId": "cdf3ee6f19c12f2926269a1b7155176121c01ab4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
