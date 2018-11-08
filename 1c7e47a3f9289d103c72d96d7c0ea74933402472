@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_019ab010",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2018-11-08T15:47:51Z",
+      "side": 1,
+      "message": "This will no longer fly, as the referenced patch depends on 1.33.0 now.\n\nWe can make this patch Depends-On [1], which caps nova\u0027s oslo.service to 1.32.0. See that patch for a full description of the mess and the plan to unwind it.\n\n[1] https://review.openstack.org/#/c/616591/",
+      "range": {
+        "startLine": 9,
+        "startChar": 12,
+        "endLine": 9,
+        "endChar": 47
+      },
+      "revId": "1c7e47a3f9289d103c72d96d7c0ea74933402472",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
