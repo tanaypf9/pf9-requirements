@@ -16,6 +16,23 @@
       "revId": "cdf3ee6f19c12f2926269a1b7155176121c01ab4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_a0c73a46",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 184,
+      "author": {
+        "id": 6962
+      },
+      "writtenOn": "2018-11-08T14:20:24Z",
+      "side": 1,
+      "message": "Double-checking with the libvirt upstream folks, the libvirt-python version must be at least the same version (or newer) as libvirt\u0027s on the host.\n\nSo to me, it makes sense to update the pinned Python bindings version when the underlying C library changes.",
+      "revId": "cdf3ee6f19c12f2926269a1b7155176121c01ab4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
