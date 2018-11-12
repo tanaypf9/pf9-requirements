@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_62b9f179",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 195,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-11-12T14:52:21Z",
+      "side": 1,
+      "message": "Ideally this would go back the the last know good version rather than forward to an untested version.\n\nIn this case that would be 2.19.1",
+      "revId": "94f2dc4d34c33fd3fe19254686c9a473967ff188",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
