@@ -150,7 +150,7 @@ unicodecsv===0.14.1;python_version=='2.7'
 imagesize===1.1.0
 pydot===1.2.4
 pathlib===1.0.1;python_version=='2.7'
-urllib3===1.24.1
+urllib3===1.23
 graphviz===0.10.1
 PyKMIP===0.8.0
 whereto===0.4.0
@@ -192,7 +192,7 @@ XStatic-Angular-Gettext===2.3.8.0
 XStatic-Hogan===2.0.0.2
 XStatic-objectpath===1.2.1.0
 python-manilaclient===1.25.0
-requests===2.20.0
+requests===2.19.1
 snowballstemmer===1.2.1
 Jinja2===2.10
 XStatic-Bootstrap-SCSS===3.3.7.1
