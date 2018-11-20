@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Witold Bedyk <witold.bedyk@est.fujitsu.com>
+Code-Review+1: Mohammed Naser <mnaser@vexxhost.com>
+Code-Review+1: Jean-Philippe Evrard <jean-philippe@evrard.me>
+Code-Review+1: Andreas Jaeger <jaegerandi@gmail.com>
+Code-Review+2: Doug Hellmann <doug@doughellmann.com>
+Workflow+1: Doug Hellmann <doug@doughellmann.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 20 Nov 2018 22:45:34 +0000
+Reviewed-on: https://review.openstack.org/617195
+Project: openstack/requirements
+Branch: refs/heads/master
