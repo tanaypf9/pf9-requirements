@@ -44,17 +44,6 @@
     files: ^upper-constraints.*txt$
     vars:
       tox_envlist: py36-check-uc
-- job:
-    name: requirements-tox-validate-projects
-    parent: openstack-tox
-    files:
-      - ^projects.txt
-    description: |
-      Run test for requirements project.
-
-      Uses tox with the ``validate-projects`` environment.
-    vars:
-      tox_envlist: validate-projects
 
 - job:
     name: requirements-tox-bindep
