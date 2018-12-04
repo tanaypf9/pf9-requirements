@@ -98,7 +98,7 @@ scipy===1.1.0
 mypy-extensions===0.4.1;python_version=='3.4'
 mypy-extensions===0.4.1;python_version=='3.5'
 mypy-extensions===0.4.1;python_version=='3.6'
-rsd-lib===0.3.0
+rsd-lib===0.3.1
 XStatic-Jasmine===2.4.1.1
 python-glanceclient===2.14.0
 pyinotify===0.9.6
@@ -179,7 +179,7 @@ gunicorn===19.9.0
 textfsm===0.4.1
 unittest2===1.1.0
 django-compressor===2.2
-libvirt-python===4.8.0
+libvirt-python===4.10.0
 python-zunclient===3.2.1
 asyncio===3.4.3;python_version=='3.4'
 asyncio===3.4.3;python_version=='3.5'
@@ -402,11 +402,11 @@ proboscis===1.2.6.0
 fortiosclient===0.0.3
 oslo.upgradecheck===0.1.1
 stevedore===1.30.0
-botocore===1.12.57
+botocore===1.12.58
 xmltodict===0.11.0
 pyasn1===0.4.4
 oslo.rootwrap===5.15.0
-Django===1.11.16;python_version=='2.7'
+Django===1.11.17;python_version=='2.7'
 Django===2.0.9;python_version=='3.4'
 Django===2.0.9;python_version=='3.5'
 Django===2.0.9;python_version=='3.6'
