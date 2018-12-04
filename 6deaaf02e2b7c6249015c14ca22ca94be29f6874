@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_327192ab",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-12-04T20:15:18Z",
+      "side": 1,
+      "message": "My understanding was always that libvirt-python should be at least the same version as libvirt, so why choose 4.10 over 4.5 to match the version of libvirt in centos 7.6?",
+      "range": {
+        "startLine": 9,
+        "startChar": 15,
+        "endLine": 9,
+        "endChar": 20
+      },
+      "revId": "6deaaf02e2b7c6249015c14ca22ca94be29f6874",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
