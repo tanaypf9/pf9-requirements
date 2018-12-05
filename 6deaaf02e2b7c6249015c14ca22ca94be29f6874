@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "3f79a3b5_b807b16f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9003
+      },
+      "writtenOn": "2018-12-05T12:55:20Z",
+      "side": 1,
+      "message": "Just to match the version on master, where I guess you could make the same argument but a higher version than 4.5 is being used. (In this patch I\u0027m testing 4.10.0 b/c Matthew indicated master will be there very soon - it\u0027s currently at 4.8.0 which is being matched in https://review.openstack.org/#/c/622262/)",
+      "parentUuid": "3f79a3b5_327192ab",
+      "range": {
+        "startLine": 9,
+        "startChar": 15,
+        "endLine": 9,
+        "endChar": 20
+      },
+      "revId": "6deaaf02e2b7c6249015c14ca22ca94be29f6874",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3f79a3b5_b25cc21b",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -36,6 +60,30 @@
       "writtenOn": "2018-12-04T20:16:03Z",
       "side": 1,
       "message": "5 or 4?",
+      "range": {
+        "startLine": 10,
+        "startChar": 43,
+        "endLine": 10,
+        "endChar": 44
+      },
+      "revId": "6deaaf02e2b7c6249015c14ca22ca94be29f6874",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_b87c91e9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 9003
+      },
+      "writtenOn": "2018-12-05T12:55:20Z",
+      "side": 1,
+      "message": "Thanks, you are right.",
+      "parentUuid": "3f79a3b5_b25cc21b",
       "range": {
         "startLine": 10,
         "startChar": 43,
