@@ -22,6 +22,30 @@
       "revId": "a53e764ecb224bb2d6799db0bf3e824dcceeac10",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_38d641c3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 9003
+      },
+      "writtenOn": "2018-12-05T13:37:57Z",
+      "side": 1,
+      "message": "Yes, this is stable/rocky.  I\u0027m trying to say, set the requirement in stable/rocky to the same version as currently in master.  The reason is that the libvirt-python wheel builds on master but not in stable/rocky and the same version of CentOS and libvirt (which is rpm installed and not controlled by any requirements on stable/*) is being used in the jobs for master and for stable/*",
+      "parentUuid": "3f79a3b5_47b7aa23",
+      "range": {
+        "startLine": 12,
+        "startChar": 47,
+        "endLine": 12,
+        "endChar": 53
+      },
+      "revId": "a53e764ecb224bb2d6799db0bf3e824dcceeac10",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
