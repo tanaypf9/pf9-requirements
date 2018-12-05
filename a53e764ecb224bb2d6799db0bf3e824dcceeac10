@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_47b7aa23",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-12-05T02:56:35Z",
+      "side": 1,
+      "message": "This is stable/rocky",
+      "range": {
+        "startLine": 12,
+        "startChar": 47,
+        "endLine": 12,
+        "endChar": 53
+      },
+      "revId": "a53e764ecb224bb2d6799db0bf3e824dcceeac10",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
