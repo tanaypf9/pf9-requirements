@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_3798f566",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 562,
+      "author": {
+        "id": 2472
+      },
+      "writtenOn": "2018-12-12T20:49:38Z",
+      "side": 1,
+      "message": "This package already appears on line 53, so that version is being used instead of this one.",
+      "revId": "10057fd8254ab3f9cea3589e6a6193aa858f57f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
