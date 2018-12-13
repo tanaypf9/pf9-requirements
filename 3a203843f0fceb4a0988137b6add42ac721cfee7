@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_4ddf136d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-12-13T15:14:13Z",
+      "side": 1,
+      "message": "I\u0027m not sure this will work, you are requesting less than 1.16.0 and greater than 1.17.0\n\nI\u0027d recommend just keeping the greater than part :D",
+      "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
