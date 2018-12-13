@@ -16,6 +16,24 @@
       "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_0da11ba8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2018-12-13T15:24:20Z",
+      "side": 1,
+      "message": "Hmm, good point. I\u0027m not sure how that logic works.\n\nI was trying to avoid unnecessarily bumping the lower bound, but I\u0027m not _that_ concerned about it.",
+      "parentUuid": "3f79a3b5_4ddf136d",
+      "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
