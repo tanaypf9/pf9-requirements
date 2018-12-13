@@ -69,6 +69,23 @@
       "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_b314049b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2018-12-13T16:45:16Z",
+      "side": 1,
+      "message": "that would work, if it\u0027s a tooz only bug",
+      "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
