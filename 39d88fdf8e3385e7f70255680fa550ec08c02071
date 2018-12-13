@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_d1be55af",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6873
+      },
+      "writtenOn": "2018-12-13T20:46:41Z",
+      "side": 1,
+      "message": "Technically the gate isn\u0027t blocked on this:\n\nhttp://status.openstack.org/elastic-recheck/#1808063\n\nSince this is a glance-specific issue, I think it would be best if we can blacklist oslo.policy 1.43.1 for the time being from glance\u0027s requirements if that will work (I don\u0027t think it would really fix anything in a default devstack environment though since other projects will try to use 1.43.1).\n\nI\u0027m just wondering if there is some other way that we can restrict a workaround to glance for the time being...",
+      "range": {
+        "startLine": 12,
+        "startChar": 39,
+        "endLine": 12,
+        "endChar": 48
+      },
+      "revId": "39d88fdf8e3385e7f70255680fa550ec08c02071",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
