@@ -86,6 +86,24 @@
       "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f79a3b5_993d69bb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 482,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2018-12-13T17:35:08Z",
+      "side": 1,
+      "message": "http://logs.openstack.org/10/625010/1/check/requirements-integration/f996a56/job-output.txt#_2018-12-13_15_24_21_381840 this doesn\u0027t work. IIRC the clauses are ANDed together so you can\u0027t satisify less than 1.16 and greater than 1.17 at the same time.",
+      "parentUuid": "3f79a3b5_b314049b",
+      "revId": "3a203843f0fceb4a0988137b6add42ac721cfee7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
