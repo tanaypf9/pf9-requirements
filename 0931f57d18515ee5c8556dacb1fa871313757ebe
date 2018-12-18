@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f79a3b5_c7509ad4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 483,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2018-12-18T05:25:18Z",
+      "side": 1,
+      "message": "So I *think* want you want to do here is just block the know bad versions which probably means !\u003d1.16.0,!\u003d1.16.1,!\u003d1.17.0,!\u003d1.17.1\n\nWhich given there isn\u0027t anything newer 1.17.1 will mean we get 1.15.0 which is what we have in upper-constraints.txt.\n\nAre we sure that 1.18.0 will fix it?  If not we probably want to leave the cap there or we\u0027ll just keep braking tooz with each new grpcio release",
+      "revId": "0931f57d18515ee5c8556dacb1fa871313757ebe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
