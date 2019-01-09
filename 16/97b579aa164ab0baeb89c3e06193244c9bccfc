@@ -1,0 +1,16 @@
+Code-Review+1: Natal Ngétal <hobbestigrou@erakis.eu>
+Code-Review+1: Lukas Bezdicka <social@v3.sk>
+Code-Review+1: Jose Luis Franco <jfrancoa@redhat.com>
+Code-Review+1: Sorin Sbarnea <ssbarnea@redhat.com>
+Code-Review+1: Carlos Camacho <ccamacho@redhat.com>
+Code-Review+1: Athlan-Guyot sofer <sathlang@redhat.com>
+Code-Review+1: mathieu bultel <mat.bultel@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 09 Jan 2019 21:53:28 +0000
+Reviewed-on: https://review.openstack.org/627186
+Project: openstack/requirements
+Branch: refs/heads/stable/rocky
