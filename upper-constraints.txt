@@ -134,7 +134,7 @@ semantic-version===2.6.0
 virtualbmc===1.4.0
 deprecation===2.0.6
 SQLAlchemy===1.2.16
-pyroute2===0.5.3
+pyroute2===0.5.2
 google-auth===1.6.2
 kazoo===2.6.0
 XStatic-roboto-fontface===0.5.0.0
