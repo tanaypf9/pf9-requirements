@@ -32,7 +32,7 @@ pytest===4.1.1
 python-etcd===0.4.5
 raven===6.10.0
 cursive===0.2.2
-oslo.service===1.34.0
+oslo.service===1.35.0
 django-appconf===1.0.2
 pykerberos===1.2.1
 certifi===2018.11.29
@@ -158,7 +158,10 @@ graphviz===0.10.1
 PyKMIP===0.8.0
 whereto===0.4.0
 python-subunit===1.3.0
-tornado===4.5.3
+tornado===4.5.3;python_version=='3.4'
+tornado===4.5.3;python_version=='3.5'
+tornado===4.5.3;python_version=='3.6'
+tornado===5.1.1;python_version=='2.7'
 pycparser===2.19
 mock===2.0.0
 PyYAML===3.13
@@ -171,7 +174,7 @@ backports.ssl-match-hostname===3.7.0.1;python_version=='2.7'
 openstack-release-test===1.2.0
 pylxd===2.2.8
 ruamel.ordereddict===0.4.13;python_version=='2.7'
-pycryptodomex===3.7.2
+pycryptodomex===3.7.3
 anyjson===0.3.3
 requests-mock===1.5.2
 os-apply-config===10.1.0
@@ -234,7 +237,7 @@ dnspython3===1.15.0;python_version=='3.5'
 dnspython3===1.15.0;python_version=='3.6'
 ldappool===2.4.0
 termcolor===1.1.0
-hiredis===0.3.1
+hiredis===1.0.0
 google-api-python-client===1.7.7
 castellan===1.1.0
 oslo.versionedobjects===1.34.1
@@ -312,7 +315,7 @@ testscenarios===0.5.0
 sphinxcontrib-pecanwsme===0.9.0
 sadisplay===0.4.9
 enum34===1.1.6
-packaging===18.0
+packaging===19.0
 flask-keystone===0.2
 nose-exclude===0.5.0
 psutil===5.4.8
@@ -341,7 +344,7 @@ SecretStorage===2.3.1;python_version=='2.7'
 SecretStorage===3.1.0;python_version=='3.4'
 SecretStorage===3.1.0;python_version=='3.5'
 SecretStorage===3.1.0;python_version=='3.6'
-opentracing===1.3.0
+opentracing===2.0.0
 XStatic-Rickshaw===1.5.0.0
 iso8601===0.1.12
 tooz===1.64.0
@@ -396,9 +399,9 @@ bottle===0.12.16
 betamax===0.8.1
 construct===2.8.22
 pyparsing===2.3.1
-dogpile.cache===0.6.8
+dogpile.cache===0.7.1
 python-barbicanclient===4.8.0
-salt===2018.3.2
+salt===2018.3.3
 tricircleclient===0.4.0
 WSME===0.9.3
 proboscis===1.2.6.0
@@ -423,7 +426,7 @@ XStatic-smart-table===1.4.13.2
 kuryr-lib===0.9.0
 scrypt===0.8.6
 jsonpatch===1.23
-python-daemon===2.2.2
+python-daemon===2.2.3
 typed-ast===1.2.0;python_version=='3.4'
 typed-ast===1.2.0;python_version=='3.5'
 typed-ast===1.2.0;python_version=='3.6'
