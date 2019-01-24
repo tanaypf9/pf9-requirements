@@ -22,6 +22,30 @@
       "revId": "6b1a371ebda0aead2f639dff284a4339b7b8e24e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fdfeff1_16ffc334",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2019-01-24T12:52:23Z",
+      "side": 1,
+      "message": "thanks, that is 3.40.1",
+      "parentUuid": "9fdfeff1_362207a6",
+      "range": {
+        "startLine": 10,
+        "startChar": 52,
+        "endLine": 10,
+        "endChar": 58
+      },
+      "revId": "6b1a371ebda0aead2f639dff284a4339b7b8e24e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
