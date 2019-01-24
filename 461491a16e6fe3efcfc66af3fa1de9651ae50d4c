@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fdfeff1_a780038d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 549,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-01-24T15:33:05Z",
+      "side": 1,
+      "message": "I don\u0027t think the constraints file can have comments (not currently anyway, as it\u0027s machine sorted based on the hash of the package name)",
+      "revId": "461491a16e6fe3efcfc66af3fa1de9651ae50d4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
