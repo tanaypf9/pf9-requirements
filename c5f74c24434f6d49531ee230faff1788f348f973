@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fdfeff1_cf143451",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-01-25T01:54:44Z",
+      "side": 1,
+      "message": "nit: This isn\u0027t correct anymore as we\u0027re just banning known bad version not imposing a cap.",
+      "revId": "c5f74c24434f6d49531ee230faff1788f348f973",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
