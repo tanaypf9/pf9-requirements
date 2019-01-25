@@ -16,6 +16,24 @@
       "revId": "c5f74c24434f6d49531ee230faff1788f348f973",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fdfeff1_4066d353",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2019-01-25T05:28:33Z",
+      "side": 1,
+      "message": "Thanks, I missed that.",
+      "parentUuid": "9fdfeff1_cf143451",
+      "revId": "c5f74c24434f6d49531ee230faff1788f348f973",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
