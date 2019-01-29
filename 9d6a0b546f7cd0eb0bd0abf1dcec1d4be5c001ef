@@ -16,6 +16,23 @@
       "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fdfeff1_64e419e2",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-01-29T03:02:27Z",
+      "side": 1,
+      "message": "I\u0027m improving the message of existing behavior (it fails already, if it passed the previous lines return would have allowed it).  To allow prereleases we\u0027d have to change line 95 to be like my proposed line 97.",
+      "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
