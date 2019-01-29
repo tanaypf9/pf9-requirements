@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fdfeff1_c9dcfee5",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-01-29T01:59:08Z",
+      "side": 1,
+      "message": "Why not just do this and issue a warning?  I know we don\u0027t typically want to take pre-releases but there have been cases when we have",
+      "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
