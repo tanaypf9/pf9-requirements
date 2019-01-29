@@ -68,6 +68,24 @@
       "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fdfeff1_89cd8432",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-01-29T21:30:01Z",
+      "side": 1,
+      "message": "Well the code is a little confusing, adding an item to failures\u0027 will cause a ... well failure.  We don\u0027t have a mechanism to return a warning from this code.\n\nI know I originally suggested we do that but I\u0027m not certain what value it has.\n\nI suggest you just add ```prereleases\u003dTrue``` to line 95 and that\u0027d basically be the sum total of the functional change.\n\nHaving said that I\u0027m assuming that modifying this behaviour will *NOT* then make generate-constraints start updating with prereleases",
+      "parentUuid": "9fdfeff1_5bf52fec",
+      "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
