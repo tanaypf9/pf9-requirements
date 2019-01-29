@@ -33,6 +33,24 @@
       "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fdfeff1_7f74a0fe",
+        "filename": "openstack_requirements/constraints.py",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-01-29T05:22:23Z",
+      "side": 1,
+      "message": "Yup I think that\u0027s the right think to do, well along with a comment.",
+      "parentUuid": "9fdfeff1_64e419e2",
+      "revId": "9d6a0b546f7cd0eb0bd0abf1dcec1d4be5c001ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
