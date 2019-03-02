@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 02 Mar 2019 03:03:39 +0000
+Reviewed-on: https://review.openstack.org/640486
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
