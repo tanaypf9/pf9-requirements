@@ -1,0 +1,13 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Michal Nasiadka <michal.nasiadka@nokia.com>
+Code-Review+1: Erol Guzoglu <erol.guzoglu@kartaca.com>
+Code-Review+1: Marcin Juszkiewicz <marcin.juszkiewicz@linaro.org>
+Code-Review+1: Jon Schlueter <jschluet@redhat.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 02 Mar 2019 08:21:00 +0000
+Reviewed-on: https://review.openstack.org/639872
+Project: openstack/requirements
+Branch: refs/heads/master
