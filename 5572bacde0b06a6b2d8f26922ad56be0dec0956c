@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5fc1f717_77944445",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 296,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-03-06T20:51:25Z",
+      "side": 1,
+      "message": "This is causing the glance failures.",
+      "range": {
+        "startLine": 296,
+        "startChar": 9,
+        "endLine": 296,
+        "endChar": 14
+      },
+      "revId": "5572bacde0b06a6b2d8f26922ad56be0dec0956c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
