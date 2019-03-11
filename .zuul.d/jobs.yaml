@@ -67,6 +67,7 @@
     vars:
       tox_envlist: bindep
 
+#testing bionic
 - job:
     name: requirements-integration
     parent: legacy-dsvm-base
