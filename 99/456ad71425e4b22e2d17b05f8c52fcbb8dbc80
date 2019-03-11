@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Michal Arbet <michal.arbet@ultimum.io>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 11 Mar 2019 19:38:39 +0000
+Reviewed-on: https://review.openstack.org/642439
+Project: openstack/requirements
+Branch: refs/heads/master
