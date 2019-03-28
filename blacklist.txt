@@ -29,6 +29,7 @@ neutron-dynamic-routing
 neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
+octavia
 vmware-nsxlib
 
 # Sahara uses cycle-with-rc, but it promises a stable plugin interface
