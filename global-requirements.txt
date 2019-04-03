@@ -297,7 +297,6 @@ python-tackerclient  # Apache-2.0
 python-troveclient  # Apache-2.0
 python-vitrageclient  # Apache-2.0
 python-watcherclient  # Apache-2.0
-python-zaqarclient  # Apache-2.0
 python-zunclient  # Apache-2.0
 
 python-magic  # MIT
