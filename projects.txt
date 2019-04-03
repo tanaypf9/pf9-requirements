@@ -267,7 +267,6 @@ openstack/python-troveclient
 openstack/python-valenceclient
 openstack/python-vitrageclient
 openstack/python-watcherclient
-openstack/python-zaqarclient
 openstack/python-zunclient
 openstack/qinling
 openstack/qinling-dashboard
