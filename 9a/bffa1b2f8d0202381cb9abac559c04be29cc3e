@@ -1,0 +1,11 @@
+Code-Review+1: Duc Truong <dtruong@blizzard.com>
+Code-Review+1: Erik Olof Gunnar Andersson <eandersson@blizzard.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 03 Apr 2019 06:39:33 +0000
+Reviewed-on: https://review.openstack.org/649154
+Project: openstack/requirements
+Branch: refs/heads/stable/stein
