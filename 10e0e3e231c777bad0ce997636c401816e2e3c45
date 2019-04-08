@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5fc1f717_b59f84b2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2019-04-08T15:48:34Z",
+      "side": 1,
+      "message": "Yes (by me)",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_3594f48a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2019-04-08T15:48:34Z",
+      "side": 1,
+      "message": "Yes. It\u0027s based on a fork of code from Sphinx and benefits from the accumulated features and bugfixes it has garnered there.",
+      "range": {
+        "startLine": 16,
+        "startChar": 0,
+        "endLine": 16,
+        "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_95e84816",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2019-04-08T15:48:34Z",
+      "side": 1,
+      "message": "Yes",
+      "range": {
+        "startLine": 19,
+        "startChar": 0,
+        "endLine": 19,
+        "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_d5a7b0a7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2019-04-08T15:48:34Z",
+      "side": 1,
+      "message": "*library is",
+      "range": {
+        "startLine": 26,
+        "startChar": 8,
+        "endLine": 26,
+        "endChar": 15
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_15a2189b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2019-04-08T15:48:34Z",
+      "side": 1,
+      "message": "No. Sphinx does provide a \u0027text\u0027 builder, upon which rst2txt is based, but that\u0027s only useful if you\u0027re using a full Sphinx doc build. rst2txt, by comparison, can be used to do things like strip rst-specific noise from a chunk of text.\n\n(As an aside, I\u0027m looking to use it for this purpose in [1])\n\n[1] https://review.openstack.org/#/c/640057/",
+      "range": {
+        "startLine": 30,
+        "startChar": 0,
+        "endLine": 30,
+        "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
