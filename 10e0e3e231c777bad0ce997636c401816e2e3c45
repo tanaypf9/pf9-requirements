@@ -114,6 +114,29 @@
       "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_43977891",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2019-04-09T07:32:16Z",
+      "side": 1,
+      "message": "Nit: oslo.config",
+      "range": {
+        "startLine": 34,
+        "startChar": 2,
+        "endLine": 34,
+        "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
