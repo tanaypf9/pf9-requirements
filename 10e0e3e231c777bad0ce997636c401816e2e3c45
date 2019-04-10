@@ -94,6 +94,30 @@
     },
     {
       "key": {
+        "uuid": "5fc1f717_ec31950c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 16312
+      },
+      "writtenOn": "2019-04-10T08:20:34Z",
+      "side": 1,
+      "message": "The question is if the library is included  in distros as a package. Currently it\u0027s not in Fedora. Taking a look into the repo it looks like an easy package to add, could someone take the task of adding it if this is finally accepted?",
+      "parentUuid": "5fc1f717_d5a7b0a7",
+      "range": {
+        "startLine": 26,
+        "startChar": 8,
+        "endLine": 26,
+        "endChar": 15
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5fc1f717_15a2189b",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -133,6 +157,29 @@
         "startChar": 2,
         "endLine": 34,
         "endChar": 3
+      },
+      "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5fc1f717_0c3501f7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 34,
+      "author": {
+        "id": 16312
+      },
+      "writtenOn": "2019-04-10T08:20:34Z",
+      "side": 1,
+      "message": "Will this be runtime requirement or just used to build documentation or similar?",
+      "range": {
+        "startLine": 34,
+        "startChar": 23,
+        "endLine": 34,
+        "endChar": 35
       },
       "revId": "10e0e3e231c777bad0ce997636c401816e2e3c45",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
