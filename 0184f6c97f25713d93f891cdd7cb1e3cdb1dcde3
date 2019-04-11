@@ -16,6 +16,24 @@
       "revId": "0184f6c97f25713d93f891cdd7cb1e3cdb1dcde3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fce034c_7bcbd6a4",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-04-11T23:59:09Z",
+      "side": 1,
+      "message": "Yup it should :)",
+      "parentUuid": "3fce034c_87bbd5e3",
+      "revId": "0184f6c97f25713d93f891cdd7cb1e3cdb1dcde3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
