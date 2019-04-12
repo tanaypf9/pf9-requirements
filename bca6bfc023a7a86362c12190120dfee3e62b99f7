@@ -16,6 +16,23 @@
       "revId": "bca6bfc023a7a86362c12190120dfee3e62b99f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fce034c_6b03f643",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-04-12T19:42:59Z",
+      "side": 1,
+      "message": "making this dependant on runtime is preferred\n\nnetworkx\u003c2.3;python_versions\u003c\u00273.0\u0027  # BSD\nnetworkx;python_version\u003e\u003d\u00273.4\u0027  # BSD",
+      "revId": "bca6bfc023a7a86362c12190120dfee3e62b99f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
