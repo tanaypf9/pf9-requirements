@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_f73b4b99",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-04-12T15:24:47Z",
+      "side": 1,
+      "message": "Would it make sense to make it dependent on runtime version like this? Or safer keeping it consistent no matter which runtime?",
+      "revId": "bca6bfc023a7a86362c12190120dfee3e62b99f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
