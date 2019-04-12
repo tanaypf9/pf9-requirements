@@ -135,7 +135,7 @@ networking-bgpvpn  # Apache-2.0
 networking-l2gw  # Apache-2.0
 networking-odl  # Apache-2.0
 networking-sfc  # Apache-2.0
-networkx  # BSD
+networkx<2.3  # BSD
 neutron-lib  # Apache-2.0
 neutron-dynamic-routing  # Apache-2.0
 neutron-fwaas  # Apache-2.0
