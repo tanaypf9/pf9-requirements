@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_16728ee6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-04-13T19:52:09Z",
+      "side": 1,
+      "message": "only other thing we\u0027ve done is make a comment directly above the \u0027cap\u0027 line stating why it\u0027s capped (in this case dropping py27 support)",
+      "revId": "585a89d5d61e1053aab164c0af6119fa61b214ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
