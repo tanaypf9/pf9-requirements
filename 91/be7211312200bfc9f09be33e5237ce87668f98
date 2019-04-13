@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: 98k <18552437190@163.com>
+Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 13 Apr 2019 10:23:02 +0000
+Reviewed-on: https://review.openstack.org/652155
+Project: openstack/requirements
+Branch: refs/heads/master
