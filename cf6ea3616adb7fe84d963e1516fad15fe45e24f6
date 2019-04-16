@@ -22,6 +22,30 @@
       "revId": "cf6ea3616adb7fe84d963e1516fad15fe45e24f6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fce034c_73797dfa",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 209,
+      "author": {
+        "id": 24604
+      },
+      "writtenOn": "2019-04-16T09:38:30Z",
+      "side": 1,
+      "message": "thanks for comment, Michal\nupper-constraints.txt already has protobuf package",
+      "parentUuid": "3fce034c_61a53904",
+      "range": {
+        "startLine": 209,
+        "startChar": 8,
+        "endLine": 209,
+        "endChar": 9
+      },
+      "revId": "cf6ea3616adb7fe84d963e1516fad15fe45e24f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
