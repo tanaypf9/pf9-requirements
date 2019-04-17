@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 17 Apr 2019 15:36:39 +0000
+Reviewed-on: https://review.openstack.org/653092
+Project: openstack/requirements
+Branch: refs/heads/stable/pike
