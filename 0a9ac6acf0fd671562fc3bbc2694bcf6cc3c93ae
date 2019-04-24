@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ffb9cba7_80793c94",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-04-24T16:28:26Z",
+      "side": 1,
+      "message": "I believe that is acceptable.",
+      "revId": "0a9ac6acf0fd671562fc3bbc2694bcf6cc3c93ae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
