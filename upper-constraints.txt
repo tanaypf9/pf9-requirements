@@ -392,9 +392,9 @@ botocore===1.10.62
 xmltodict===0.11.0
 pyasn1===0.4.3
 oslo.rootwrap===5.14.1
-Django===1.11.14;python_version=='2.7'
-Django===2.0.7;python_version=='3.4'
-Django===2.0.7;python_version=='3.5'
+Django===1.11.20;python_version=='2.7'
+Django===2.0.13;python_version=='3.4'
+Django===2.0.13;python_version=='3.5'
 pexpect===4.6.0
 cmd2===0.8.8;python_version=='2.7'
 cmd2===0.9.3;python_version=='3.4'
