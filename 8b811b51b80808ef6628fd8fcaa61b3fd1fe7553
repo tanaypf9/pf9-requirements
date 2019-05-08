@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "dfbec78f_05e23c02",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 5997
+      },
+      "writtenOn": "2019-05-08T14:18:03Z",
+      "side": 1,
+      "message": "so is this out due to 3.7 compat?",
+      "parentUuid": "dfbec78f_44d11bfb",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dfbec78f_64cc5f61",
         "filename": "global-requirements.txt",
         "patchSetId": 3
@@ -98,6 +116,24 @@
       "writtenOn": "2019-05-08T04:16:56Z",
       "side": 1,
       "message": "active: yes\ngood code: of course\npy3: yes\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: yes\n\nadds m2crypto :(",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_a5fd703b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 5997
+      },
+      "writtenOn": "2019-05-08T14:18:03Z",
+      "side": 1,
+      "message": "so yes or no?",
+      "parentUuid": "dfbec78f_c4066b87",
       "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -183,6 +219,24 @@
       "writtenOn": "2019-05-08T04:16:56Z",
       "side": 1,
       "message": "active: seems so\ngood code: seems ok\npy3: NO\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_88ec012a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 446,
+      "author": {
+        "id": 5997
+      },
+      "writtenOn": "2019-05-08T14:18:03Z",
+      "side": 1,
+      "message": "this lib doesn\u0027t even pass pep8 tests after trying it myself.",
+      "parentUuid": "dfbec78f_64f53f83",
       "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
