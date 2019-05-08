@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_1c9e0e54",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 412,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T21:42:37Z",
+      "side": 1,
+      "message": "should just stay as \u0027keyring\u0027 for py3, as older versions still work",
+      "revId": "c8947624863ee47c27adca20a144e21626d3cd56",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
