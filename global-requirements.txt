@@ -408,7 +408,8 @@ fixtures-git  # Apache-2.0
 freezegun  # Apache-2.0
 gabbi  # Apache-2.0
 kafka-python  # Apache-2.0
-keyring  # MIT/PSF
+keyring<19.0.0;python_version<'3.0'  # MIT/PSF
+keyring>;python_version>='3.0'  # MIT/PSF
 ldappool  # MPL
 # Do not make mock conditional on Python version: we depend on newer code than
 # in [most] releases of the Python std library.
