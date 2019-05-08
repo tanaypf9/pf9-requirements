@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_fc21ba4e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 411,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2019-05-08T21:29:00Z",
+      "side": 1,
+      "message": "simpy say python_version\u003d\u003d\u00272.7\u0027 ?",
+      "revId": "ff16ce9ed9560f5f37a5e53f229797bfa7b9a948",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_3c28b232",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 412,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2019-05-08T21:29:00Z",
+      "side": 1,
+      "message": "technically that should be \u003e\u003d 3.5 as 19.0 requires that",
+      "revId": "ff16ce9ed9560f5f37a5e53f229797bfa7b9a948",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
