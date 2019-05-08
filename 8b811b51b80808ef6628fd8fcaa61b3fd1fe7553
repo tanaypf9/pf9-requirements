@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_a4ea57a9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "actively maintained: yes? it\u0027s a simple lib with no commits in over a year\ngood code: lgtm (code/tests)\npy3: yes\nlicence compat: yes\npackaged: eh?\ncovered by other libs: not really, but it\u0027s simple\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_44d11bfb",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: seems ok, has tests\npy3: yes (no 3.7 yet though)\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_64cc5f61",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: no (last commit feb 2016)\ngood code: not the best, but not much to be good or bad\npy3: that\u0027s what it says\npackaged: eh?\ncovered by other libs: no, but it\u0027s 59 lines of code\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_04db231b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 89,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: no (last commit july 2017)\ngood code: seems ok\npy3: yes (no 3.7 yet)\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no, but it\u0027s 60 lines of code\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_24d667f3",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: seems good\npy3: yes\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_c4066b87",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: of course\npy3: yes\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: yes\n\nadds m2crypto :(",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_e4092f95",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 341,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: seems good\npy3: yes\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no\n\ndon\u0027t like that it pulls in even more libs though",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_84007369",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 439,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: seems good\npy3: yes? nothing specifies it\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_a4033773",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 441,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: yes\ngood code: mostly, bunch of open, simple pull requests\npy3: kinda? only states py34...\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_44fa7b75",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 443,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: no (last commit sept 2016)\ngood code: seems ok\npy3: kinda? only specified py34\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_64f53f83",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 446,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: seems so\ngood code: seems ok\npy3: NO\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_04f48385",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 486,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-08T04:16:56Z",
+      "side": 1,
+      "message": "active: NO (last release sept 2016) where\u0027s the git repo?\ngood code: where\u0027s the git repo\npy3: NO\nlicense compat: yes\npackaged: eh?\ncovered by other libs: no\nneeded by: cinder\nmanaged by openstack: no",
+      "revId": "8b811b51b80808ef6628fd8fcaa61b3fd1fe7553",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
