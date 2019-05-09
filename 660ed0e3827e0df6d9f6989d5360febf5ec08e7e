@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_c1ddd842",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-05-09T22:27:44Z",
+      "side": 1,
+      "message": "I think this is right but I was thinking if we should use {toxinidir}/upper-constraints.txt instead?\n\nI suspect that that will break Depends-On in the gate\n\n#shrug",
+      "revId": "660ed0e3827e0df6d9f6989d5360febf5ec08e7e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
