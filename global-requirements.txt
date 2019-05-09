@@ -472,6 +472,7 @@ ujson  # BSD
 unittest2  # BSD
 virtualbmc  # Apache-2.0
 virtualenv!=16.3.0  # MIT
+vmemclient  # Apache-2.0
 vmware-nsxlib  # Apache-2.0
 wrapt  # BSD License
 WebTest  # MIT
