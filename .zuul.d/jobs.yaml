@@ -62,6 +62,10 @@
     run: playbooks/requirements-integration-dsvm/run.yaml
     post-run: playbooks/requirements-integration-dsvm/post.yaml
     timeout: 7800
+    vars:
+      tox_envlist: py36
+      bindep_profile: test py36
+      python_version: 3.6
     required-projects:
       - openstack/devstack
       - openstack/grenade
