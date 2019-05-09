@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_00452f17",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-05-09T18:58:27Z",
+      "side": 1,
+      "message": "This alone will break certain jobs that rely on being unconstrained.  I think if we do this we\u0027ll need to remove it from at least testenv:generate.\n\nI agree that out unit test wont be hurt by doing this",
+      "revId": "c51fc3991f4541ee38555b8e4947a6daa7c5f6ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
