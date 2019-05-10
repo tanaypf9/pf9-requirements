@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_39165ff3",
+        "filename": "tox.ini",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-10T14:25:47Z",
+      "side": 1,
+      "message": "we should be using constraints here, that\u0027s why the new scikit-learn was pulled in",
+      "revId": "8d73a527ba5a31142a118ea44b5bd850c5c68797",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
