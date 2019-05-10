@@ -16,6 +16,24 @@
       "revId": "660ed0e3827e0df6d9f6989d5360febf5ec08e7e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_191fdbb7",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-05-10T14:42:42Z",
+      "side": 1,
+      "message": "Should be safe. I think with depends-on, the UPPER_CONSTRAINTS_FILE will be set and it won\u0027t use the default we set here. I will update to use the local file on the next update or a follow up to this.",
+      "parentUuid": "dfbec78f_c1ddd842",
+      "revId": "660ed0e3827e0df6d9f6989d5360febf5ec08e7e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
