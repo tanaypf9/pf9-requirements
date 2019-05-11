@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_eca1d647",
+        "filename": "tox.ini",
+        "patchSetId": 3
+      },
+      "lineNbr": 75,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-11T18:46:21Z",
+      "side": 1,
+      "message": "that file should not be needed for docs.",
+      "range": {
+        "startLine": 75,
+        "startChar": 7,
+        "endLine": 75,
+        "endChar": 37
+      },
+      "revId": "df292a25f74cab7d7442554da78f37980e13e1dc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
