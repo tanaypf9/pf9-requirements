@@ -34,6 +34,24 @@
       "revId": "2c449e275b400626165b104e818efb2c26e16740",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_4cfb4246",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-05-11T18:45:52Z",
+      "side": 1,
+      "message": "Oh, I didn\u0027t look close enough. Will update!",
+      "parentUuid": "dfbec78f_6c4ac6ac",
+      "revId": "2c449e275b400626165b104e818efb2c26e16740",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
