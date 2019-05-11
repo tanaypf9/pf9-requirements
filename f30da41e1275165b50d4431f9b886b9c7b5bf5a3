@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_47e23da2",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 29222
+      },
+      "writtenOn": "2019-05-11T22:38:27Z",
+      "side": 1,
+      "message": "This the old url. Please can you use the new url.",
+      "revId": "f30da41e1275165b50d4431f9b886b9c7b5bf5a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
