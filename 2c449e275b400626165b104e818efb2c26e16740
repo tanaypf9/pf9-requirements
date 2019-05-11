@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfbec78f_6c4ac6ac",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-11T18:37:55Z",
+      "side": 1,
+      "message": "you can remove requirements, doc/requirement is enough",
+      "revId": "2c449e275b400626165b104e818efb2c26e16740",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
