@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Clay Gerrard <clay.gerrard@gmail.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sun, 12 May 2019 02:30:06 +0000
+Reviewed-on: https://review.opendev.org/657167
+Project: openstack/requirements
+Branch: refs/heads/master
