@@ -2,6 +2,57 @@
   "comments": [
     {
       "key": {
+        "uuid": "dfbec78f_9b6badb5",
+        "filename": ".zuul.d/jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 187,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-12T13:56:38Z",
+      "side": 1,
+      "message": "see https://review.opendev.org/658491 - let\u0027S remove lbaas",
+      "revId": "4a30ba36da50f067a666db8097e03df733e77b3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_7b5ef912",
+        "filename": ".zuul.d/jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 241,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-12T13:56:38Z",
+      "side": 1,
+      "message": "shell is an ansible command and needs \"cmd:\" for the command you give it.\n\ngate_hook is not used by devstack AFAIK, so this whole snippet will not work even after fixing the syntax",
+      "revId": "4a30ba36da50f067a666db8097e03df733e77b3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_dba285fc",
+        "filename": ".zuul.d/jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 244,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-12T13:56:38Z",
+      "side": 1,
+      "message": "devstack-gate is legacy devstack-gate based job, parent of the job is devstack not the legacy devstack-gate.\n\nSo, the above line will always fail.",
+      "revId": "4a30ba36da50f067a666db8097e03df733e77b3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "dfbec78f_7cce0583",
         "filename": ".zuul.d/jobs.yaml",
         "patchSetId": 2
