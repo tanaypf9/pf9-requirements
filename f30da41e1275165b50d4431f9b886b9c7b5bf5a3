@@ -16,6 +16,24 @@
       "revId": "f30da41e1275165b50d4431f9b886b9c7b5bf5a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_add2f7fe",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-05-12T08:04:15Z",
+      "side": 1,
+      "message": "That is the new and hip one!",
+      "parentUuid": "dfbec78f_47e23da2",
+      "revId": "f30da41e1275165b50d4431f9b886b9c7b5bf5a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
