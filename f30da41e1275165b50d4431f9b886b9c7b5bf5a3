@@ -34,6 +34,24 @@
       "revId": "f30da41e1275165b50d4431f9b886b9c7b5bf5a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_d07584cc",
+        "filename": "tox.ini",
+        "patchSetId": 4
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6593
+      },
+      "writtenOn": "2019-05-12T13:10:39Z",
+      "side": 1,
+      "message": "I believe we should use the local version though:\n\n-c{env:UPPER_CONSTRAINTS_FILE:{toxinidir}/upper-constraints.txt}\n\notherwise gating will not run against the upper-constraints under review but the merged HEAD. which might be different (older)",
+      "parentUuid": "dfbec78f_add2f7fe",
+      "revId": "f30da41e1275165b50d4431f9b886b9c7b5bf5a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
