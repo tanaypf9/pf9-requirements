@@ -22,6 +22,29 @@
       "revId": "4a30ba36da50f067a666db8097e03df733e77b3e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dfbec78f_6a4625c3",
+        "filename": ".zuul.d/jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 247,
+      "author": {
+        "id": 22348
+      },
+      "writtenOn": "2019-05-12T02:33:16Z",
+      "side": 1,
+      "message": "extra keys not allowed @ data[\u0027shell\u0027]",
+      "range": {
+        "startLine": 59,
+        "startChar": 2,
+        "endLine": 247,
+        "endChar": 0
+      },
+      "revId": "4a30ba36da50f067a666db8097e03df733e77b3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
