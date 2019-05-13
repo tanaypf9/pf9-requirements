@@ -1,0 +1,10 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 13 May 2019 15:26:35 +0000
+Reviewed-on: https://review.opendev.org/658692
+Project: openstack/requirements
+Branch: refs/heads/stable/rocky
