@@ -52,7 +52,7 @@ oslo.context===2.22.1
 python-senlinclient===1.10.1
 rcssmin===1.0.6
 pycadf===2.9.0
-grpcio===1.15.0
+grpcio===1.20.1
 skydive-client===0.5.0
 pysendfile===2.0.1
 fixtures===3.0.0
@@ -145,12 +145,12 @@ sphinxcontrib.datatemplates===0.2.0
 jsonpath-rw===1.4.0
 prettytable===0.7.2
 vine===1.3.0
-taskflow===3.4.0
+taskflow===3.5.0
 traceback2===1.4.0
 semantic-version===2.6.0
 virtualbmc===1.5.0
 deprecation===2.0.6
-SQLAlchemy===1.2.18
+SQLAlchemy===1.3.3
 pyroute2===0.5.3
 google-auth===1.6.3
 kazoo===2.6.1
@@ -174,7 +174,7 @@ unicodecsv===0.14.1;python_version=='2.7'
 imagesize===1.1.0
 pydot===1.4.1
 pathlib===1.0.1;python_version=='2.7'
-urllib3===1.24.3
+urllib3===1.25.2
 graphviz===0.10.1
 PyKMIP===0.8.0
 whereto===0.4.0
@@ -183,7 +183,7 @@ tornado===4.5.3;python_version=='3.4'
 tornado===4.5.3;python_version=='3.5'
 tornado===4.5.3;python_version=='3.6'
 tornado===4.5.3;python_version=='3.7'
-tornado===4.5.3;python_version=='2.7'
+tornado===5.1.1;python_version=='2.7'
 pycparser===2.19
 mock===3.0.5
 PyYAML===5.1
@@ -238,7 +238,7 @@ pyzabbix===0.7.5
 ptyprocess===0.6.0
 threadloop===1.0.2
 amqp===2.4.2
-ruamel.yaml===0.15.95
+ruamel.yaml===0.15.96
 websockify===0.8.0
 XStatic-JQuery.quicksearch===2.0.3.1
 mpmath===1.1.0
@@ -330,7 +330,7 @@ retrying===1.3.3
 shade===1.31.0
 pathlib2===2.3.3
 pydotplus===2.0.2
-boto3===1.9.149
+boto3===1.9.150
 flask-oslolog===0.1
 jeepney===0.4;python_version=='3.4'
 jeepney===0.4;python_version=='3.5'
@@ -380,7 +380,7 @@ testtools===2.3.0
 Parsley===1.3
 XStatic-tv4===1.2.7.0
 XStatic-JSEncrypt===2.3.1.1
-python-cinderclient===4.1.0
+python-cinderclient===4.2.0
 keystonemiddleware===6.0.0
 django-formtools===2.1
 python-ceilometerclient===2.9.0
@@ -413,7 +413,7 @@ oslo.cache===1.34.0
 WebTest===2.0.33
 openstack.nose-plugin===0.11
 os-collect-config===10.3.0
-python-qpid-proton===0.27.1
+python-qpid-proton===0.28.0
 python-octaviaclient===1.8.0
 pysaml2===4.7.0
 requests-oauthlib===1.2.0
@@ -451,7 +451,7 @@ python-rsdclient===0.2.0
 python-magic===0.4.15
 python-solumclient===2.8.0
 PyMySQL===0.9.3
-kubernetes===8.0.1
+kubernetes===9.0.0
 httplib2===0.12.3
 bottle===0.12.16
 betamax===0.8.1
@@ -466,7 +466,7 @@ proboscis===1.2.6.0
 fortiosclient===0.0.3
 oslo.upgradecheck===0.2.1
 stevedore===1.30.1
-botocore===1.12.149
+botocore===1.12.150
 xmltodict===0.12.0
 pyasn1===0.4.5
 oslo.rootwrap===5.15.2
@@ -587,7 +587,7 @@ configparser===3.7.4;python_version=='2.7'
 decorator===4.4.0
 cffi===1.12.3
 futurist===1.8.1
-jsonschema===2.6.0
+jsonschema===3.0.1
 sphinxcontrib-devhelp===1.0.1;python_version=='3.4'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.5'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.6'
