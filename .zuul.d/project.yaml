@@ -102,6 +102,10 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
+        - tempest-full-py3:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
         - neutron-grenade:
             irrelevant-files:
               - ^(test-|)requirements.txt$
@@ -109,10 +113,6 @@
     experimental:
       jobs:
         - tempest-pg-full:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - tempest-full-py3-opensuse150:
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
