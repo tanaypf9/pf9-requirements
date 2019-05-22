@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bfb3d3c7_852e2ef8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 349,
+      "author": {
+        "id": 17068
+      },
+      "writtenOn": "2019-05-22T08:09:46Z",
+      "side": 1,
+      "message": "this is necessary to be able to build with LOCI.",
+      "range": {
+        "startLine": 349,
+        "startChar": 0,
+        "endLine": 349,
+        "endChar": 15
+      },
+      "revId": "147a3cf3e305cfd29fcaad2f403a45f1e1a43d19",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
