@@ -52,6 +52,10 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
+        - tempest-full-py3:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
         - neutron-grenade:
             irrelevant-files:
               - ^(test-|)requirements.txt$
@@ -99,6 +103,10 @@
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
         - tempest-full:
+            irrelevant-files:
+              - ^(test-|)requirements.txt$
+              - ^setup.cfg$
+        - tempest-full-py3:
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
