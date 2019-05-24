@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "bfb3d3c7_ea630ab0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-05-24T03:52:27Z",
+      "side": 1,
+      "message": "We totally *can* but there are a couple of aspects to consider\n\n1) Doing it for all divergent requirements rather than ad-hoc\n2) Making sure the tooling we have will generate the right output and not re-introduce py3.4 (etc) data\n3) Should we?  Does maintainer this information hurt?  Right now I can make arguments either way so I\u0027m not sure we have a clear path forward",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 39
+      },
+      "revId": "8f4eecc44a4a21fd0214a8391789a305dcb48f70",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "bfb3d3c7_2ff9344c",
         "filename": "global-requirements.txt",
         "patchSetId": 1
