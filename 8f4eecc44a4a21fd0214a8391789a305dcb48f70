@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bfb3d3c7_2ff9344c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 458,
+      "author": {
+        "id": 27068
+      },
+      "writtenOn": "2019-05-24T03:01:38Z",
+      "side": 1,
+      "message": "This is for py27",
+      "revId": "8f4eecc44a4a21fd0214a8391789a305dcb48f70",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
