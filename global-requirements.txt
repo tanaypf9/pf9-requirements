@@ -226,6 +226,7 @@ pymongo!=3.1  # Apache-2.0
 PyMySQL  # MIT License
 python-etcd  # MIT License
 pywbem  # LGPLv2.1+
+responses  # Apache-2.0
 salt  # Apache-2.0
 tap-as-a-service  # Apache-2.0
 etcd3  # Apache-2.0
