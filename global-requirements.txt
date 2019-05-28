@@ -62,7 +62,8 @@ eventlet!=0.18.3,!=0.20.1,!=0.21.0,!=0.23.0  # MIT
 exabgp!=4.0.6  # BSD
 extras  # MIT
 faker  # MIT
-falcon  # Apache-2.0
+# Blacklist falcon 2.0.0 due to https://github.com/falconry/falcon/issues/1547
+falcon!=2.0.0  # Apache-2.0
 Flask!=0.11  # BSD
 flask-keystone  # Apache-2.0
 flask-oslolog  # Apache-2.0
