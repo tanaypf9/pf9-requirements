@@ -1,0 +1,9 @@
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 29 May 2019 06:17:57 +0000
+Reviewed-on: https://review.opendev.org/658748
+Project: openstack/requirements
+Branch: refs/heads/stable/ocata
