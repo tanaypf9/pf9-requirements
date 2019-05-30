@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bfb3d3c7_68b90613",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 407,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-05-30T14:32:31Z",
+      "side": 1,
+      "message": "still capping things :(",
+      "revId": "0f3929604c5f67d00e5bf7a102cf522fe0d7d9f9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
