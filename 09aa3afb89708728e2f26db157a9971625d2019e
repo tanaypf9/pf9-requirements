@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bfb3d3c7_42cac8a0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-05-31T13:06:08Z",
+      "side": 1,
+      "message": "How is this different than the existing requests-mock package?\n\nhttps://pypi.org/project/requests-mock/",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 25
+      },
+      "revId": "09aa3afb89708728e2f26db157a9971625d2019e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
