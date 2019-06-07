@@ -22,6 +22,30 @@
       "revId": "09aa3afb89708728e2f26db157a9971625d2019e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fb8cfa7_9e7e6017",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 29236
+      },
+      "writtenOn": "2019-06-07T08:35:10Z",
+      "side": 1,
+      "message": "Checked the request_mocks library and all features needed in my tests which are supported in \"responses\" library are present in it.\nSo I\u0027m abandoning this patch.",
+      "parentUuid": "bfb3d3c7_42cac8a0",
+      "range": {
+        "startLine": 17,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 25
+      },
+      "revId": "09aa3afb89708728e2f26db157a9971625d2019e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
