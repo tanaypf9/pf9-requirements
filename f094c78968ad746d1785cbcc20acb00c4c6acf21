@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fb8cfa7_a7ba5d6b",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-06-20T13:17:25Z",
+      "side": 1,
+      "message": "Thinking about this more, we now default to python 3 for all tools and gate jobs. I think I\u0027d actually rather see this whole version checking dropped and just make this py3 compatible only.\n\nMaybe an idea for later cleanup.",
+      "revId": "f094c78968ad746d1785cbcc20acb00c4c6acf21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
