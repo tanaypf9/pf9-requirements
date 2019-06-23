@@ -16,6 +16,23 @@
       "revId": "f094c78968ad746d1785cbcc20acb00c4c6acf21",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fb8cfa7_c36f20c3",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-06-23T06:40:45Z",
+      "side": 1,
+      "message": "I\u0027m not sure, I kinda think we should support running with py27 for as long as we support it.  What happens to older branches?",
+      "revId": "f094c78968ad746d1785cbcc20acb00c4c6acf21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
