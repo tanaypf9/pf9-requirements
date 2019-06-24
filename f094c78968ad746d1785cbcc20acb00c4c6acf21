@@ -33,6 +33,24 @@
       "revId": "f094c78968ad746d1785cbcc20acb00c4c6acf21",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fb8cfa7_6cf8a1c3",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-06-24T04:53:16Z",
+      "side": 1,
+      "message": "This is a generally interesting idea for discussion at the team meeting.\n\n1) Can/Should we separate our tools from the data we maintain WRT py2 vs py3.  Is it okay for example to for requirements-check or generate-constraints to only work until py3 but still generate valid data for py2?\n2) Are we generally ready py3 only early next cycle?",
+      "parentUuid": "9fb8cfa7_c36f20c3",
+      "revId": "f094c78968ad746d1785cbcc20acb00c4c6acf21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
