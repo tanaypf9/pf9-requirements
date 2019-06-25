@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fb8cfa7_98988fc0",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-06-25T17:09:18Z",
+      "side": 1,
+      "message": "this is good, but you are likely to have problems as you are importing ansible (which we don\u0027t track in global-requirements.txt or have in upper-constraints.txt)  I\u0027d recommend looking at ansible-runner instead",
+      "revId": "609f57247aaec13d0eadf7087c66f1291ab48fed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
