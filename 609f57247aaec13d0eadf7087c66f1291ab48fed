@@ -16,6 +16,24 @@
       "revId": "609f57247aaec13d0eadf7087c66f1291ab48fed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fb8cfa7_08e1959b",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 7353
+      },
+      "writtenOn": "2019-06-26T23:04:50Z",
+      "side": 1,
+      "message": "we have a hard dependency on ansible itself. maybe we can move that into a different requirements file ?",
+      "parentUuid": "9fb8cfa7_98988fc0",
+      "revId": "609f57247aaec13d0eadf7087c66f1291ab48fed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
