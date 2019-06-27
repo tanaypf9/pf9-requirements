@@ -34,6 +34,23 @@
       "revId": "609f57247aaec13d0eadf7087c66f1291ab48fed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9fb8cfa7_b3cd4867",
+        "filename": "projects.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 299,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-06-27T17:32:54Z",
+      "side": 1,
+      "message": "I guess it depends on the function of that alternate requirements file.  If it\u0027s still used for the same reason it should be included in the set that\u0027s \u0027managed\u0027.  and given that\u0027s it\u0027s importing I think that\u0027d be an issue.\nWe can\u0027t add ansible to global-requirements for licencing reasons.\n\nhttps://governance.openstack.org/tc/reference/licensing.html\n\nIn order to be acceptable as dependencies of OpenStack projects, external libraries (produced and published by 3rd-party developers) must be licensed under an OSI-approved license that does not restrict distribution of the consuming project. The list of acceptable licenses includes ASLv2, BSD (both forms), MIT, PSF, LGPL, ISC, and MPL. Licenses considered incompatible with this requirement include GPLv2, GPLv3, and AGPL.",
+      "revId": "609f57247aaec13d0eadf7087c66f1291ab48fed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
