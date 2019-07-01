@@ -51,6 +51,8 @@ dnspython3!=1.13.0,!=1.14.0;python_version>='3.0'  # http://www.dnspython.org/LI
 # indirectly and we needed to blacklist 0.13.1 for problems with
 # Sphinx 1.3. This can be now removed once all projects removed it.
 docutils  # OSI-Approved Open Source, Public Domain
+# Note(bogdando): A dependency for building TeX docs with all its SVG converted
+sphinxcontrib-svg2pdfconverter  # BSD
 dogpile.cache  # BSD
 dogtag-pki  # LGPLv3+
 dulwich!=0.19.3,!=0.19.7  # Apache-2.0
