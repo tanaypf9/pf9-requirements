@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9fb8cfa7_8d3225f2",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 331,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-07-02T15:22:51Z",
+      "side": 1,
+      "message": "this needs three \u003d\u003d\u003d\nhttp://logs.openstack.org/63/668463/2/check/openstack-tox-validate/5866d0c/job-output.txt.gz#_2019-07-02_12_47_26_249012",
+      "revId": "ee170b91cc111979ab6d4c17626d87ad9ed13177",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
