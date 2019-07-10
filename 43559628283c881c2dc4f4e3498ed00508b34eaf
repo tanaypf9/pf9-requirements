@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_a3e78912",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-07-10T22:46:38Z",
+      "side": 1,
+      "message": "Can you answer https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements in the commit message please?",
+      "revId": "43559628283c881c2dc4f4e3498ed00508b34eaf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
