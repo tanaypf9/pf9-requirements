@@ -349,6 +349,7 @@ tosca-parser  # Apache-2.0
 tripleo-common  # Apache-2.0
 urllib3  # MIT
 unicodecsv;python_version<'3.0'  # BSD
+uWSGI  # OSI
 warlock<2  # Apache-2.0
 WebOb  # MIT
 websocket-client  # LGPLv2+
