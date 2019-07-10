@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_b9ffc432",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-07-10T18:17:05Z",
+      "side": 1,
+      "message": "We still need the questions from https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements answered here in the commit message\n\nI\u0027d like you to confirm that including gpl licenced code in linters or docs tox jobs is allowed as well, beyond that, looks good",
+      "revId": "e95da01733eab0c5a8e794b410aea1698a63d677",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
