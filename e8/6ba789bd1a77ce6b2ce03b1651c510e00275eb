@@ -1,0 +1,26 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Adit Sarfaty <asarfaty@vmware.com>
+Code-Review+1: Radosław Piliszek <radoslaw.piliszek@gmail.com>
+Code-Review+1: Maciej Józefczyk <mjozefcz@redhat.com>
+Code-Review+1: afazekas <afazekas@redhat.com>
+Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>
+Code-Review+1: Iury Gregory Melo Ferreira <iurygregory@gmail.com>
+Code-Review+1: Federico Ressi <fressi@redhat.com>
+Code-Review+1: Cédric Ollivier <ollivier.cedric@gmail.com>
+Code-Review+1: Lajos Katona <katonalala@gmail.com>
+Code-Review+1: Dantali0n <info@dantalion.nl>
+Code-Review+1: Daniel Pawlik <daniel.pawlik@corp.ovh.com>
+Code-Review+1: Adam Spiers <aspiers@suse.com>
+Code-Review+1: Marcin Juszkiewicz <marcin.juszkiewicz@linaro.org>
+Code-Review+1: Ghanshyam Mann <gmann@ghanshyammann.com>
+Code-Review+1: Lucas Alvares Gomes <lucasagomes@gmail.com>
+Code-Review+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+2: Ian Wienand <iwienand@redhat.com>
+Workflow+1: Ian Wienand <iwienand@redhat.com>
+Code-Review+1: yatin <ykarel@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 24 Jul 2019 12:06:00 +0000
+Reviewed-on: https://review.opendev.org/672395
+Project: openstack/requirements
+Branch: refs/heads/master
