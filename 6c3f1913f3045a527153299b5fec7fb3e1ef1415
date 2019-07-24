@@ -16,6 +16,24 @@
       "revId": "6c3f1913f3045a527153299b5fec7fb3e1ef1415",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_9b331863",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 492,
+      "author": {
+        "id": 2394
+      },
+      "writtenOn": "2019-07-24T09:10:31Z",
+      "side": 1,
+      "message": "See https://github.com/pyparsing/pyparsing/issues/105",
+      "parentUuid": "7faddb67_803ac331",
+      "revId": "6c3f1913f3045a527153299b5fec7fb3e1ef1415",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
