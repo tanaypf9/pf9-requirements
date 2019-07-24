@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_803ac331",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 492,
+      "author": {
+        "id": 11692
+      },
+      "writtenOn": "2019-07-24T08:23:51Z",
+      "side": 1,
+      "message": "2.4.1??\nhttps://pypi.org/project/pyparsing/#history",
+      "revId": "6c3f1913f3045a527153299b5fec7fb3e1ef1415",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
