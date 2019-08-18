@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_f7e1782c",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 22348
+      },
+      "writtenOn": "2019-08-18T18:19:55Z",
+      "side": 1,
+      "message": "extra keys not allowed @ data[\u0027roles\u0027][0][\u0027role\u0027]",
+      "range": {
+        "startLine": 156,
+        "startChar": 2,
+        "endLine": 166,
+        "endChar": 0
+      },
+      "revId": "0d1d80deef439a8e7384cdc78a8dd6c1a60e07ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_17df7466",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 22348
+      },
+      "writtenOn": "2019-08-18T18:19:55Z",
+      "side": 1,
+      "message": "Job cross-nova-py37 not defined",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 122,
+        "endChar": 0
+      },
+      "revId": "0d1d80deef439a8e7384cdc78a8dd6c1a60e07ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
