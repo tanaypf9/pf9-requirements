@@ -34,6 +34,24 @@
       "revId": "de668cc0b12658b247a997cd836cea59b1e44ffc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_131be580",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 692,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-08-20T16:34:50Z",
+      "side": 1,
+      "message": "sphinx...\u003d\u003d\u003d0.1.0 should just work, please try again",
+      "parentUuid": "7faddb67_73bd79af",
+      "revId": "de668cc0b12658b247a997cd836cea59b1e44ffc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
