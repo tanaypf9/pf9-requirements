@@ -228,6 +228,7 @@ PyMySQL  # MIT License
 python-etcd  # MIT License
 pywbem  # LGPLv2.1+
 salt  # Apache-2.0
+sphinxcontrib-svg2pdfconverter # BSD License
 tap-as-a-service  # Apache-2.0
 etcd3  # Apache-2.0
 etcd3gw!=0.2.2,!=0.2.3  # Apache-2.0
