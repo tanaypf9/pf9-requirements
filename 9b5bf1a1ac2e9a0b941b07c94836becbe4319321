@@ -16,6 +16,24 @@
       "revId": "9b5bf1a1ac2e9a0b941b07c94836becbe4319321",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_ca2598c3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 692,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2019-08-20T08:46:45Z",
+      "side": 1,
+      "message": "Let\u0027s remove the python version - this needs to work with 3.6 and 3.7...",
+      "parentUuid": "7faddb67_4a320812",
+      "revId": "9b5bf1a1ac2e9a0b941b07c94836becbe4319321",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
