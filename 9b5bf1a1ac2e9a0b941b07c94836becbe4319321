@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_4a320812",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 692,
+      "author": {
+        "id": 10607
+      },
+      "writtenOn": "2019-08-20T08:45:14Z",
+      "side": 1,
+      "message": "I admittedly am a little unsure on the python version, I only found references to py3.8",
+      "revId": "9b5bf1a1ac2e9a0b941b07c94836becbe4319321",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
