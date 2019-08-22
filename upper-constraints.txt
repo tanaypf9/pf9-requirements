@@ -170,7 +170,7 @@ google-auth===1.6.3
 kazoo===2.6.1
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
-eventlet===0.25.0
+eventlet===0.25.1
 openstack-doc-tools===1.10.0
 frozendict===1.2
 oslo.messaging===10.0.0
@@ -531,7 +531,7 @@ openstacksdk===0.34.0
 six===1.12.0
 dulwich===0.19.13
 sentinels===1.0.0
-kombu===4.6.3
+kombu===4.6.4
 distro===1.4.0
 betamax-matchers===0.4.0
 yaql===1.1.3
