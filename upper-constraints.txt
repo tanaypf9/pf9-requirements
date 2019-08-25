@@ -26,7 +26,7 @@ websocket-client===0.56.0
 osprofiler===2.8.1
 os-resource-classes===0.5.0
 python-ironic-inspector-client===3.6.1
-lxml===4.3.4
+lxml===4.4.1
 vintage===0.4.1
 python-kingbirdclient===0.2.1
 setproctitle===1.1.10
@@ -198,7 +198,7 @@ tornado===4.5.3;python_version=='3.4'
 tornado===4.5.3;python_version=='3.5'
 tornado===4.5.3;python_version=='3.6'
 tornado===4.5.3;python_version=='3.7'
-tornado===4.5.3;python_version=='2.7'
+tornado===5.1.1;python_version=='2.7'
 pycparser===2.19
 mock===3.0.5
 PyYAML===5.1.2
@@ -359,7 +359,7 @@ jeepney===0.4.1;python_version=='3.4'
 jeepney===0.4.1;python_version=='3.5'
 jeepney===0.4.1;python_version=='3.6'
 jeepney===0.4.1;python_version=='3.7'
-stestr===2.4.0
+stestr===2.5.0
 singledispatch===3.4.0.3;python_version=='2.7'
 oslo.serialization===2.29.1
 warlock===1.3.3
@@ -483,7 +483,7 @@ python-magic===0.4.15
 flux===1.3.5
 python-solumclient===2.9.0
 PyMySQL===0.9.3
-kubernetes===9.0.0
+kubernetes===10.0.1
 httplib2===0.13.1
 bottle===0.12.17
 betamax===0.8.1
@@ -528,7 +528,7 @@ stomp.py===4.1.22
 xattr===0.9.6
 systemd-python===234
 python-memcached===1.59
-openstacksdk===0.34.0
+openstacksdk===0.35.0
 six===1.12.0
 dulwich===0.19.13
 sentinels===1.0.0
@@ -571,7 +571,7 @@ pyrsistent===0.15.4
 repoze.lru===0.7
 rfc3986===1.3.2
 network-runner===0.1.7
-tenacity===5.0.4
+tenacity===5.1.1
 python-designateclient===2.12.0
 future===0.17.1
 Paste===3.1.0
@@ -625,7 +625,7 @@ configparser===3.8.1;python_version=='2.7'
 decorator===4.4.0
 cffi===1.12.3
 futurist===1.8.1
-jsonschema===2.6.0
+jsonschema===3.0.2
 sphinxcontrib-devhelp===1.0.1;python_version=='3.4'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.5'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.6'
@@ -640,11 +640,11 @@ dnspython===1.15.0;python_version=='3.5'
 dnspython===1.15.0;python_version=='3.6'
 dnspython===1.15.0;python_version=='3.7'
 dnspython===1.16.0;python_version=='2.7'
-oauthlib===3.0.2
+oauthlib===3.1.0
 Babel===2.7.0
 logutils===0.3.5
 scandir===1.10.0;python_version=='2.7'
-zipp===0.5.2
+zipp===0.6.0
 sphinxcontrib-fulltoc===1.2.0
 smmap2===2.0.5
 greenlet===0.4.15
