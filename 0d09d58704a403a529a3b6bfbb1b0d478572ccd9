@@ -16,6 +16,24 @@
       "revId": "0d09d58704a403a529a3b6bfbb1b0d478572ccd9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_d58071fa",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2019-08-26T15:22:47Z",
+      "side": 1,
+      "message": "That part would have been okay; this bounced because the next line was also updated elsewhere.",
+      "parentUuid": "7faddb67_a291f955",
+      "revId": "0d09d58704a403a529a3b6bfbb1b0d478572ccd9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
