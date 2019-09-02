@@ -160,7 +160,7 @@ vine===1.3.0
 taskflow===3.7.1
 traceback2===1.4.0
 arrow===0.14.6
-semantic-version===2.6.0
+semantic-version===2.8.1
 virtualbmc===1.5.0
 deprecation===2.0.7
 SQLAlchemy===1.3.8
@@ -212,7 +212,7 @@ openstack-release-test===1.4.2
 pylxd===2.2.10
 pycryptodomex===3.9.0
 anyjson===0.3.3
-requests-mock===1.6.0
+requests-mock===1.7.0
 os-apply-config===10.4.0
 prometheus-client===0.7.1
 oslosphinx===4.18.0
@@ -272,7 +272,7 @@ passlib===1.7.1
 dib-utils===0.0.11
 cliff===2.15.0
 os-brick===2.9.1
-ansible-runner===1.3.4
+ansible-runner===1.3.5
 trollius===2.2.post1;python_version=='2.7'
 scp===0.13.2
 python-zaqarclient===1.11.0
@@ -351,7 +351,7 @@ jeepney===0.4.1;python_version=='3.4'
 jeepney===0.4.1;python_version=='3.5'
 jeepney===0.4.1;python_version=='3.6'
 jeepney===0.4.1;python_version=='3.7'
-stestr===2.4.0
+stestr===2.5.0
 singledispatch===3.4.0.3;python_version=='2.7'
 oslo.serialization===2.29.1
 warlock===1.3.3
@@ -491,7 +491,7 @@ oslo.upgradecheck===0.3.1
 stevedore===1.30.1
 botocore===1.12.220
 xmltodict===0.12.0
-pyasn1===0.4.6
+pyasn1===0.4.7
 oslo.rootwrap===5.16.0
 Django===1.11.23;python_version=='2.7'
 Django===2.0.13;python_version=='3.4'
@@ -615,7 +615,7 @@ configparser===3.8.1;python_version=='2.7'
 decorator===4.4.0
 cffi===1.12.3
 futurist===1.8.1
-jsonschema===2.6.0
+jsonschema===3.0.2
 sphinxcontrib-devhelp===1.0.1;python_version=='3.4'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.5'
 sphinxcontrib-devhelp===1.0.1;python_version=='3.6'
@@ -630,7 +630,7 @@ dnspython===1.15.0;python_version=='3.5'
 dnspython===1.15.0;python_version=='3.6'
 dnspython===1.15.0;python_version=='3.7'
 dnspython===1.16.0;python_version=='2.7'
-oauthlib===3.0.2
+oauthlib===3.1.0
 Babel===2.7.0
 logutils===0.3.5
 scandir===1.10.0;python_version=='2.7'
