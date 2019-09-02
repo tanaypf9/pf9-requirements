@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_6174f19c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-09-02T18:11:09Z",
+      "side": 1,
+      "message": "you mind modifying this to be a full link?",
+      "revId": "f4dc9f27f015f9301ee8a73c693ad9aeeab592ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
