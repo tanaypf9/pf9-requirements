@@ -16,6 +16,24 @@
       "revId": "63812c7e4cb12d080016e27aed739783bfb026b3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_2738e0d1",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 683,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-09-06T16:28:57Z",
+      "side": 1,
+      "message": "Not only that, but it\u0027s referencing master, a moving target.\n\nPlease make a release, once a release is made we can add that to constraints if needed.",
+      "parentUuid": "5faad753_f8db507a",
+      "revId": "63812c7e4cb12d080016e27aed739783bfb026b3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
