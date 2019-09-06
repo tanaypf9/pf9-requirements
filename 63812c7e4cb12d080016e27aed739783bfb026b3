@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_f8db507a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 683,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-09-06T12:51:18Z",
+      "side": 1,
+      "message": "Direct git repo references are not allowed. The upper constraint needs to be a released version of the code.",
+      "revId": "63812c7e4cb12d080016e27aed739783bfb026b3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
