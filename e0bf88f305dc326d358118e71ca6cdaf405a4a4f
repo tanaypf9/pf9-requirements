@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "5faad753_ccbc836b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12988
+      },
+      "writtenOn": "2019-09-07T22:43:49Z",
+      "side": 1,
+      "message": "Addressed in patchset 2; sorry for not doing it at once! As to why, this is actually part of the last question: this is needed for the StorPool volume driver in Cinder; putting it in global-requirements and consequently upper-constraints will make it possible to use it in Cinder\u0027s setup.cfg [extras] section - see https://review.opendev.org/#/c/680530/",
+      "parentUuid": "5faad753_4ce1739a",
+      "revId": "e0bf88f305dc326d358118e71ca6cdaf405a4a4f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_ecefff84",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2019-09-07T22:25:07Z",
       "side": 1,
       "message": "why was this included?",
+      "revId": "e0bf88f305dc326d358118e71ca6cdaf405a4a4f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_8cae8b2c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 12988
+      },
+      "writtenOn": "2019-09-07T22:43:49Z",
+      "side": 1,
+      "message": "The \"storpool\" library pulls it in as a requirement. Hm, should I also list it in global-requirements then? Do we have to track down each library\u0027s dependencies this way? (just asking for clarification, no hostility meant)",
+      "parentUuid": "5faad753_ecefff84",
       "revId": "e0bf88f305dc326d358118e71ca6cdaf405a4a4f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
