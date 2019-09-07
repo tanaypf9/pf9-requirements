@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_4ce1739a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-09-07T22:25:07Z",
+      "side": 1,
+      "message": "Can you answer the questions from https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements in the commit message as well?\n\nI don\u0027t think it\u0027s one of the questions, but where specifically is it going to be used (do you have a review/spec approved)?",
+      "revId": "e0bf88f305dc326d358118e71ca6cdaf405a4a4f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_ecefff84",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-09-07T22:25:07Z",
+      "side": 1,
+      "message": "why was this included?",
+      "revId": "e0bf88f305dc326d358118e71ca6cdaf405a4a4f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
