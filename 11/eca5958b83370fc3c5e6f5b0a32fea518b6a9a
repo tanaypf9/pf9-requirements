@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Filippo Inzaghi <zhao.daqing@99cloud.net>
+Code-Review+1: 98k <18552437190@163.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sun, 15 Sep 2019 14:24:43 +0000
+Reviewed-on: https://review.opendev.org/682178
+Project: openstack/requirements
+Branch: refs/heads/master
