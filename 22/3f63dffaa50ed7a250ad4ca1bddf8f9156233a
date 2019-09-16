@@ -1,0 +1,9 @@
+Code-Review+1: Maciej Józefczyk <mjozefcz@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 16 Sep 2019 18:20:12 +0000
+Reviewed-on: https://review.opendev.org/682323
+Project: openstack/requirements
+Branch: refs/heads/stable/queens
