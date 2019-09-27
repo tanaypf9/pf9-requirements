@@ -181,6 +181,22 @@
       tox_envlist: py36
 
 - job:
+    name: cross-python-tripleoclient-py27
+    parent: requirements-cross-test
+    description: Run cross-project tests on python-tripleoclient with py27.
+    required-projects: openstack/python-tripleoclient
+    vars:
+      tox_envlist: py27
+
+- job:
+    name: cross-python-tripleoclient-py36
+    parent: requirements-cross-test
+    description: Run cross-project tests on python-tripleoclient with py36.
+    required-projects: openstack/python-tripleoclient
+    vars:
+      tox_envlist: py36
+
+- job:
     name: cross-osc-tox-docs
     parent: openstack-tox-docs
     description: |

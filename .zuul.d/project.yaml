@@ -43,6 +43,8 @@
         - cross-osc-tox-docs
         - cross-swift-py27
         - cross-swift-py36
+        - cross-python-tripleoclient-py27
+        - cross-python-tripleoclient-py36
         - openstack-tox-py36
         - requirements-integration
         - neutron-grenade-multinode:
