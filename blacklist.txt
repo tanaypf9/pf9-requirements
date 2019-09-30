@@ -31,6 +31,7 @@ neutron-fwaas
 neutron-lbaas
 neutron-vpnaas
 vmware-nsxlib
+tap-as-a-service
 
 # Sahara uses cycle-with-rc, but it promises a stable plugin interface
 sahara
