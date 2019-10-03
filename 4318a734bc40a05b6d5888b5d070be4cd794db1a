@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_dac74745",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 363,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-10-03T19:24:39Z",
+      "side": 1,
+      "message": "This must be a published package name on pypi.",
+      "revId": "4318a734bc40a05b6d5888b5d070be4cd794db1a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
