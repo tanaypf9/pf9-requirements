@@ -96,10 +96,10 @@ nosexcover===1.0.11
 krest===1.3.1
 psycopg2===2.8.3
 networkx===2.2;python_version=='2.7'
-networkx===2.3;python_version=='3.4'
-networkx===2.3;python_version=='3.5'
-networkx===2.3;python_version=='3.6'
-networkx===2.3;python_version=='3.7'
+networkx===2.4;python_version=='3.4'
+networkx===2.4;python_version=='3.5'
+networkx===2.4;python_version=='3.6'
+networkx===2.4;python_version=='3.7'
 bashate===0.6.0
 XStatic-Angular===1.5.8.0
 pyngus===2.3.0
@@ -254,7 +254,7 @@ XStatic-Bootstrap-SCSS===3.3.7.1
 pyzabbix===0.7.5
 ptyprocess===0.6.0
 threadloop===1.0.2
-amqp===2.5.1
+amqp===2.5.2
 websockify===0.9.0
 XStatic-JQuery.quicksearch===2.0.3.1
 mpmath===1.1.0
@@ -490,7 +490,7 @@ construct===2.8.22
 pyparsing===2.4.2
 dogpile.cache===0.8.0
 python-barbicanclient===4.9.0
-salt===2019.2.0
+salt===2019.2.1
 api-object-schema===2.0.0
 tricircleclient===0.6.0
 WSME===0.9.3
