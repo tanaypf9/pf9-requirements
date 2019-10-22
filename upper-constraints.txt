@@ -412,7 +412,9 @@ pyasn1===0.4.8
 oslo.rootwrap===6.1.0
 Django===2.2.13
 pexpect===4.8.0
-cmd2===0.8.9
+cmd2===0.8.9;python_version=='2.7'
+cmd2===0.9.19;python_version=='3.6'
+cmd2===0.9.19;python_version=='3.7'
 python-json-logger===0.1.11
 redis===3.5.3
 jmespath===0.10.0
