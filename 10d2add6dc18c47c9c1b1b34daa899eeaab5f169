@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_fab9aa78",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 442,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2019-10-24T13:01:58Z",
+      "side": 1,
+      "message": "✔",
+      "range": {
+        "startLine": 442,
+        "startChar": 0,
+        "endLine": 442,
+        "endChar": 29
+      },
+      "revId": "10d2add6dc18c47c9c1b1b34daa899eeaab5f169",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_dab62e8b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 480,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2019-10-24T13:01:58Z",
+      "side": 1,
+      "message": "✔",
+      "range": {
+        "startLine": 480,
+        "startChar": 0,
+        "endLine": 480,
+        "endChar": 24
+      },
+      "revId": "10d2add6dc18c47c9c1b1b34daa899eeaab5f169",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
