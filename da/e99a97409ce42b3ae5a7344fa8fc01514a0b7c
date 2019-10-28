@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Christopher Dearborn <Christopher.Dearborn@dell.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 28 Oct 2019 22:19:31 +0000
+Reviewed-on: https://review.opendev.org/691735
+Project: openstack/requirements
+Branch: refs/heads/master
