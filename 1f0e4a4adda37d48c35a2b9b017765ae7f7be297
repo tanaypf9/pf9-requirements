@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_75d7cb24",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-10-29T14:59:42Z",
+      "side": 0,
+      "message": "given that reqs collets/tests py27 for other projects I don\u0027t think we can remove it from our envlist for a while, removing it from setup.cfg is good though. (but the code should probably be cleaned up to remove the python2-isms at the same time)",
+      "revId": "1f0e4a4adda37d48c35a2b9b017765ae7f7be297",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
