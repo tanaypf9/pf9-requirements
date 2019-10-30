@@ -1,0 +1,14 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: arkady kanevsky <arkady_kanevsky@dell.com>
+Code-Review+1: Rajini Karthik <rajini.karthik@dell.com>
+Code-Review+1: Christopher Dearborn <Christopher.Dearborn@dell.com>
+Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>
+Code-Review+1: Julia Kreger <juliaashleykreger@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 30 Oct 2019 19:28:16 +0000
+Reviewed-on: https://review.opendev.org/691943
+Project: openstack/requirements
+Branch: refs/heads/stable/train
