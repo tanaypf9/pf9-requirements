@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_8cd31938",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 22623
+      },
+      "writtenOn": "2019-11-04T20:26:34Z",
+      "side": 1,
+      "message": "I think you need one more space here",
+      "revId": "05a8416628029893f7ad05bdfa4b8fc439ca09de",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
