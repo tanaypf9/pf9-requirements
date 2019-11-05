@@ -96,10 +96,10 @@ nosexcover===1.0.11
 krest===1.3.1
 psycopg2===2.8.4
 networkx===2.2;python_version=='2.7'
-networkx===2.3;python_version=='3.4'
-networkx===2.3;python_version=='3.5'
-networkx===2.3;python_version=='3.6'
-networkx===2.3;python_version=='3.7'
+networkx===2.4;python_version=='3.4'
+networkx===2.4;python_version=='3.5'
+networkx===2.4;python_version=='3.6'
+networkx===2.4;python_version=='3.7'
 bashate===0.6.0
 XStatic-Angular===1.5.8.0
 pyngus===2.3.0
@@ -165,7 +165,7 @@ virtualbmc===1.6.0
 deprecation===2.0.7
 SQLAlchemy===1.3.10
 pyroute2===0.5.7
-google-auth===1.6.3
+google-auth===1.7.0
 kazoo===2.6.1
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.21.0
@@ -254,7 +254,7 @@ XStatic-Bootstrap-SCSS===3.3.7.1
 pyzabbix===0.7.5
 ptyprocess===0.6.0
 threadloop===1.0.2
-amqp===2.5.1
+amqp===2.5.2
 websockify===0.9.0
 XStatic-JQuery.quicksearch===2.0.3.1
 mpmath===1.1.0
@@ -262,7 +262,7 @@ django-debreach===2.0.1
 sphinx-feature-classification===0.4.1
 XStatic-JQuery-Migrate===1.2.1.1
 appdirs===1.4.3
-tinyrpc===1.0.3
+tinyrpc===1.0.4
 M2Crypto===0.35.2;python_version=='2.7'
 google-auth-httplib2===0.0.3
 Flask-SQLAlchemy===2.4.1
@@ -350,7 +350,7 @@ retrying===1.3.3
 shade===1.32.0
 pathlib2===2.3.5
 pydotplus===2.0.2
-boto3===1.10.8
+boto3===1.10.9
 flask-oslolog===0.1
 jeepney===0.4.1;python_version=='3.4'
 jeepney===0.4.1;python_version=='3.5'
@@ -391,7 +391,7 @@ infinisdk===141.1.0
 packaging===19.2
 flask-keystone===0.2
 nose-exclude===0.5.0
-psutil===5.6.3
+psutil===5.6.4
 py===1.8.0
 txaio===18.8.1
 python-qinlingclient===4.0.0
@@ -440,7 +440,7 @@ openstack.nose-plugin===0.11
 os-collect-config===10.5.0
 python-qpid-proton===0.29.0
 python-octaviaclient===1.11.0
-pysaml2===4.8.0
+pysaml2===4.9.0
 requests-oauthlib===1.2.0
 oslo.reports===1.30.0
 bitmath===1.3.3.1
@@ -487,7 +487,7 @@ httplib2===0.14.0
 bottle===0.12.17
 betamax===0.8.1
 construct===2.8.22
-pyparsing===2.4.2
+pyparsing===2.4.3
 dogpile.cache===0.9.0
 python-barbicanclient===4.9.0
 salt===2019.2.0
@@ -498,11 +498,11 @@ proboscis===1.2.6.0
 fortiosclient===0.0.3
 oslo.upgradecheck===0.3.2
 stevedore===1.31.0
-botocore===1.13.8
+botocore===1.13.9
 xmltodict===0.12.0
 pyasn1===0.4.7
 oslo.rootwrap===5.16.1
-Django===1.11.25;python_version=='2.7'
+Django===1.11.26;python_version=='2.7'
 Django===2.0.13;python_version=='3.4'
 Django===2.0.13;python_version=='3.5'
 Django===2.0.13;python_version=='3.6'
@@ -585,7 +585,7 @@ Werkzeug===0.16.0
 backports.functools-lru-cache===1.6.1;python_version=='2.7'
 pyasn1-modules===0.2.7
 entrypoints===0.3
-APScheduler===3.6.1
+APScheduler===3.6.2
 monotonic===1.5
 python-smaugclient===0.0.8
 python-troveclient===3.1.0
