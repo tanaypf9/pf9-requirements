@@ -46,6 +46,7 @@
         - cross-swift-py27
         - cross-swift-py36
         - openstack-tox-py36
+        - openstacksdk-functional-devstack
         - requirements-integration
         - neutron-grenade-multinode:
             irrelevant-files:
@@ -100,6 +101,7 @@
         - cross-swift-py27
         - cross-swift-py36
         - openstack-tox-py36
+        - openstacksdk-functional-devstack
         - requirements-integration
         - neutron-grenade-multinode:
             irrelevant-files:
