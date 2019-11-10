@@ -18,6 +18,7 @@
 import argparse
 import contextlib
 import os
+import re
 import shlex
 import shutil
 import subprocess
@@ -28,6 +29,9 @@ import tempfile
 requirement = None
 project = None
 check = None
+
+
+PYTHON_3_BRANCH = re.compile(r'^stable\/[u-z].*')
 
 
 def run_command(cmd):
@@ -147,8 +151,16 @@ def main():
         #    either.
         head_strict = not branch.startswith('stable/')
         head_reqs.process(strict=head_strict)
+        # Starting with Ussuri and later, we only need to be strict about
+        # Python 3 requirements.
+        python_3_branch = head_strict or PYTHON_3_BRANCH.match(branch)
 
-        failed = check.validate(head_reqs, blacklist, global_reqs)
+        failed = check.validate(
+            head_reqs,
+            blacklist,
+            global_reqs,
+            allow_3_only=python_3_branch,
+        )
 
         failed = (
             check.validate_lower_constraints(
