@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_d2eddcf0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-11-12T02:50:02Z",
+      "side": 1,
+      "message": "Hmmm OK I\u0027m not sure I like the idea of oslo forcing projects to be py3 only, but neither do I like the idea of projects forcing olso to carry py2 code :(\n\nIf we need to respin this review then yes please to updating the commit message but only if we\u0027re re-spinning.",
+      "parentUuid": "3fa7e38b_b23700b0",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_6f3be5e9",
         "filename": "openstack_requirements/tests/test_check.py",
         "patchSetId": 1
@@ -78,6 +102,24 @@
       "side": 1,
       "message": "What are you attempting to fail? This should always succeed. It\u0027s a bit redundant with the allow_3_only default, but I felt it was better to have an explicit test to validate that the behavior was no different for those that choose not to remove the py2 entries.",
       "parentUuid": "3fa7e38b_6f3be5e9",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_12e4d40d",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-11-12T02:50:02Z",
+      "side": 1,
+      "message": "I misunderstood what it was checking.  I was expecting that if I changed ``allow_3_only\u003dTrue`` to False it\u0027d fail (and the other test does.   Then I thought it\u0027d fail if the py2 requirements were different between the project and global_reqs.  But neither of these cause failures.\n\nSo the point is to show that even on branches where py3_only is OK having py2 requirements wont cause requirements-check to fail.  Correct?",
+      "parentUuid": "3fa7e38b_7241880a",
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
