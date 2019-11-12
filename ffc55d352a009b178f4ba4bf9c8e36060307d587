@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_b23700b0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-12T02:20:10Z",
+      "side": 1,
+      "message": "Technically yes, they don\u0027t have to. But any using common libraries like oslo will likely be forced to. I can update the statement to \"Ussuri and later may be Python 3 only\" if you think the commit message will cause confusion.",
+      "parentUuid": "3fa7e38b_6f14454e",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_6f3be5e9",
         "filename": "openstack_requirements/tests/test_check.py",
         "patchSetId": 1
@@ -36,6 +60,24 @@
       "writtenOn": "2019-11-12T01:25:53Z",
       "side": 1,
       "message": "I\u0027m not entirely convinced this test it right.\n\nCertainly I\u0027m having trouble getting it to fail locally.",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_7241880a",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-12T02:20:10Z",
+      "side": 1,
+      "message": "What are you attempting to fail? This should always succeed. It\u0027s a bit redundant with the allow_3_only default, but I felt it was better to have an explicit test to validate that the behavior was no different for those that choose not to remove the py2 entries.",
+      "parentUuid": "3fa7e38b_6f3be5e9",
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
