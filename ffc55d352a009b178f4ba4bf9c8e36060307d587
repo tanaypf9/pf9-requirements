@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_6f14454e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-11-12T01:25:53Z",
+      "side": 1,
+      "message": "This isn\u0027t mandated right?   A project *may* choose to drop py2 support during U",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 38
+      },
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_6f3be5e9",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-11-12T01:25:53Z",
+      "side": 1,
+      "message": "I\u0027m not entirely convinced this test it right.\n\nCertainly I\u0027m having trouble getting it to fail locally.",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
