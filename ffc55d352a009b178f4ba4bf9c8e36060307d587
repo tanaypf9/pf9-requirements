@@ -73,6 +73,40 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_e6edbaf0",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 260,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-12T12:00:44Z",
+      "side": 1,
+      "message": "FWIW, this is the allow_3_only\u003dFalse matching case.",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_a6b902ed",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 285,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-12T12:00:44Z",
+      "side": 1,
+      "message": "And this is the mismatching case. So the unit tests below illustrate the prior test does still succeed, and this unit test will also then succeed by setting the flag.",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_6f3be5e9",
         "filename": "openstack_requirements/tests/test_check.py",
         "patchSetId": 1
