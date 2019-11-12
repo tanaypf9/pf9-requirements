@@ -175,6 +175,24 @@
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f356d72a",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2019-11-12T14:59:05Z",
+      "side": 1,
+      "message": "Yeah, so for context we added separate caps for Sphinx on Python 2 and Python 3, and the result was that every repo had to update doc/requirements.txt, even though almost all repos are running docs on Python 3 only, otherwise their requirements job was broken.\n\nWithout this change, we\u0027d be facing the same problem but on a massive scale as large numbers of projects switched to Python 3 only (so they don\u0027t care about Python 2 caps) while large numbers of dependencies did the same (thus requiring separate caps in global requirements to support projects like Swift that are not dropping Python 2).",
+      "parentUuid": "3fa7e38b_12e4d40d",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
