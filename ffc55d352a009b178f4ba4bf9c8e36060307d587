@@ -123,6 +123,24 @@
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_b2a140ab",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-12T03:01:46Z",
+      "side": 1,
+      "message": "Correct, this change will allow projects that wish to drop py2 to be able to only track the py3 requirements so as more and more dependencies drop py2, wish is going to start happening a lot, we won\u0027t constantly be breaking everyone\u0027s gate when we add caps that don\u0027t apply to them.",
+      "parentUuid": "3fa7e38b_12e4d40d",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
