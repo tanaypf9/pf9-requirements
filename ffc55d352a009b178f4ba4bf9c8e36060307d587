@@ -193,6 +193,24 @@
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_30744c9c",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2019-11-13T19:11:37Z",
+      "side": 1,
+      "message": "yeah, doc/requirements.txt is main candidate for this due to sphinx req. Projects keeping py2 support keep having py27 requirement also which will match g-r because nobody will change those requirements for py27 in projects requirements file.",
+      "parentUuid": "3fa7e38b_f356d72a",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
