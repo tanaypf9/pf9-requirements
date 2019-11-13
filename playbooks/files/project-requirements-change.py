@@ -87,7 +87,7 @@ def install_and_load_requirements(reqroot, reqdir):
         print("requirements git sha: %s" % sha)
         version = sys.version_info
         req_venv = os.path.join(reqroot, 'venv')
-        req_pip = os.path.join(req_venv, 'bin/pip3')
+        req_pip = os.path.join(req_venv, 'bin/pip')
         req_lib = os.path.join(
             req_venv,
             'lib/python%s.%s/site-packages' % (version[0], version[1]))
