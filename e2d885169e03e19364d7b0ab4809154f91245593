@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_c2b3a009",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-14T15:34:41Z",
+      "side": 1,
+      "message": "That last case will still work. If there is no specific python_version, then the requirement will be checked and it will expect it to be present in both local requirements and global-requirements. The evaluation only happens when a python_version is provided, then there is a check that the given version matches the provided runtime version.\n\nWe could actually raise that provided runtime version to 3.6, but I didn\u0027t think we wanted to go that far.",
+      "parentUuid": "3fa7e38b_e20fbcdd",
+      "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_2285d459",
         "filename": "playbooks/files/project-requirements-change.py",
         "patchSetId": 2
