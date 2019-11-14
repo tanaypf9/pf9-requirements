@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_2285d459",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2019-11-14T15:21:43Z",
+      "side": 1,
+      "message": "AFAIK there are no open stable branches before Ocata. Should we future-proof this more by doing [u-za-n]? (IOW how confident are we that python 2 dependencies will be removed from g-r by Z.)",
+      "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
