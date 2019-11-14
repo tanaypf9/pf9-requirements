@@ -211,6 +211,24 @@
       "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_62fbccbd",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2019-11-14T15:31:26Z",
+      "side": 1,
+      "message": "It\u0027s the projects *not* keeping py2 support that would break without this. (They\u0027d break because Oslo is also switching to python3-only, so we will need separate v2/v3 caps for Oslo - in the same way we already have for Sphinx - to enable Swift to keep using Oslo in python2.)",
+      "parentUuid": "3fa7e38b_30744c9c",
+      "revId": "ffc55d352a009b178f4ba4bf9c8e36060307d587",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
