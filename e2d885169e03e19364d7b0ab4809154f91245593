@@ -33,6 +33,24 @@
       "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_e2281c34",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-14T15:31:46Z",
+      "side": 1,
+      "message": "We could, and I had actually thought about doing something more inclusive like that. But I thought it might be better to wait until we have naming sorted out first (though I don\u0027t expect it to change *that* much).\n\nBut I was also thinking about the fact that we won\u0027t get too far into wrapping the alphabet before all of this py2/py3 handling is no longer an issue because most of the py2 support will age out by then.\n\nAll that said, easy enough to update that regex as a follow up if we decide we want to handle more than these last few releases.",
+      "parentUuid": "3fa7e38b_2285d459",
+      "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
