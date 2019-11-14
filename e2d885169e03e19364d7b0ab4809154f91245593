@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3fa7e38b_e20fbcdd",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 364,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2019-11-14T15:31:26Z",
+      "side": 1,
+      "message": "Actually, I just realised this isn\u0027t sufficient. If python3-only projects have to update their requirements.txt from:\n\n  name\u003e\u003d1.5\n\nto\n\n  name\u003e\u003d1.5;python_version\u003e\u003d\u00273.5\u0027\n\nthen that\u0027s still a change that will require ~every project to update their requirements.txt to avoid breakage. What we really want is for it to still work when this line is just:\n\n  name\u003e\u003d1.5",
+      "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_2285d459",
         "filename": "playbooks/files/project-requirements-change.py",
         "patchSetId": 2
