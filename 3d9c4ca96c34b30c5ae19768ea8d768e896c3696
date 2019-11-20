@@ -63,6 +63,24 @@
       "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_ca660e2a",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2019-11-20T20:44:49Z",
+      "side": 1,
+      "message": "I agree, it would be good if we didn\u0027t have to have the py3 markers included. We can try to test that for a future patch, but I think that will take a bit more refactoring. And we will need to try various version of pip to make sure it gets handled right with all supported versions out there.",
+      "parentUuid": "3fa7e38b_346867b8",
+      "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
