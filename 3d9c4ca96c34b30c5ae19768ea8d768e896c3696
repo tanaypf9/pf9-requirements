@@ -22,6 +22,30 @@
       "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_1151bd30",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2019-11-20T17:27:40Z",
+      "side": 1,
+      "message": "I think we only need to add the python2 version cap not py3 but not sure it that conflict from requirement installation?\n\n  some-dep\u003e\u003d1.0\n\nTO\n\n  some-dep\u003e\u003d1.0\n  some-dep\u003e\u003d1.0,\u003c\u003d2.0;python_version\u003d\u003d\u00272.7\u0027",
+      "parentUuid": "3fa7e38b_a4ed13b9",
+      "range": {
+        "startLine": 339,
+        "startChar": 17,
+        "endLine": 339,
+        "endChar": 39
+      },
+      "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
