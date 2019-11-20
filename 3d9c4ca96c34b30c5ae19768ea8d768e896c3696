@@ -46,6 +46,23 @@
       "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_346867b8",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2019-11-20T17:36:04Z",
+      "side": 1,
+      "message": "pip has been stupid in the past and specifying python 3 as well prevents us from shooting ourselves in the foot, personally I prefer Zane\u0027s version, though once py2 is FULLY dropped we could switch to the simple version.",
+      "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
