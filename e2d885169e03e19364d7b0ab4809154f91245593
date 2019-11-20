@@ -105,6 +105,24 @@
       "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_60d7f923",
+        "filename": "playbooks/files/project-requirements-change.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2019-11-20T22:58:35Z",
+      "side": 1,
+      "message": "That isn\u0027t quite right.  Older stable branches are *open* they\u0027re just not maintained.\n\nI\u0027d rather leave this as is and worry about what happens after Z ... after Z I mean we *could* move away from alphabetical series names at that point",
+      "parentUuid": "3fa7e38b_2285d459",
+      "revId": "e2d885169e03e19364d7b0ab4809154f91245593",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
