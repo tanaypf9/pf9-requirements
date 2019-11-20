@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_a4ed13b9",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 339,
+      "author": {
+        "id": 4257
+      },
+      "writtenOn": "2019-11-20T06:45:36Z",
+      "side": 1,
+      "message": "I meant we should test without this bit (I tried and it fails).\n\nThe situation we want to handle is where both the project\u0027s requirements.txt and the global-requirements list currently have:\n\n  some-dep\u003e\u003d1.0\n\nand now we\u0027re going to cap the python2 dep, so global-requirements changes to:\n\n  some-dep\u003e\u003d1.0;python_version\u003e\u003d\u00273.6\u0027\n  some-dep\u003e\u003d1.0,\u003c\u003d2.0;python_version\u003d\u003d\u00272.7\u0027\n\nwe want this to Just Work without *any* changes to the project\u0027s requirements.txt.\n\nAs it stands we would have to update every project\u0027s requirements.txt to:\n\n  some-dep\u003e\u003d1.0;python_version\u003e\u003d3.6\n\nwhich is better than having to also add the pointless py27 line as well, but not nearly as good as not having to update every project at all.",
+      "range": {
+        "startLine": 339,
+        "startChar": 17,
+        "endLine": 339,
+        "endChar": 39
+      },
+      "revId": "3d9c4ca96c34b30c5ae19768ea8d768e896c3696",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
