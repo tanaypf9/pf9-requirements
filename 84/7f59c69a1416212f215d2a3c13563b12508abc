@@ -1,0 +1,12 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Erik Olof Gunnar Andersson <eandersson@blizzard.com>
+Code-Review+1: Andriy Shevchenko <huang.zhiping@99cloud.net>
+Code-Review+1: Dmitry Galkin <galkindmitrii@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 28 Nov 2019 00:16:14 +0000
+Reviewed-on: https://review.opendev.org/692819
+Project: openstack/requirements
+Branch: refs/heads/master
