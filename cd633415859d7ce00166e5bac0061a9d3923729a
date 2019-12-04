@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_3fb08240",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2019-12-04T22:27:21Z",
+      "side": 0,
+      "message": "Nova ptl ack here. We dropped py2 testing support via https://review.opendev.org/#/c/687954/",
+      "range": {
+        "startLine": 142,
+        "startChar": 0,
+        "endLine": 148,
+        "endChar": 23
+      },
+      "revId": "cd633415859d7ce00166e5bac0061a9d3923729a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
