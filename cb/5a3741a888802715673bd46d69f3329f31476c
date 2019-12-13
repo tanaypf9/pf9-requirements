@@ -1,0 +1,11 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Vishal Manchanda <manchandavishal143@gmail.com>
+Code-Review+1: Akihiro Motoki <amotoki@gmail.com>
+Code-Review+2: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Dirk Mueller <dirk@dmllr.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 13 Dec 2019 00:25:37 +0000
+Reviewed-on: https://review.opendev.org/697612
+Project: openstack/requirements
+Branch: refs/heads/master
