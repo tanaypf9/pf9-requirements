@@ -15,6 +15,7 @@
 # under the License.
 
 import collections
+import re
 
 from packaging import markers
 from packaging import specifiers
@@ -23,6 +24,7 @@ from openstack_requirements import project
 from openstack_requirements import requirement
 
 MIN_PY_VERSION = '3.5'
+PY3_SPECIFIER_RE = re.compile(r'python_version(==|>=|>)[\'"]3\.\d+[\'"]')
 
 
 class RequirementsList(object):
@@ -85,7 +87,7 @@ def _get_exclusions(req):
     )
 
 
-def _is_requirement_in_global_reqs(req, global_reqs):
+def _is_requirement_in_global_reqs(req, global_reqs, allow_3_only=False):
     req_exclusions = _get_exclusions(req)
     for req2 in global_reqs:
 
@@ -94,6 +96,13 @@ def _is_requirement_in_global_reqs(req, global_reqs):
             rval = getattr(req, aname)
             r2val = getattr(req2, aname)
             if rval != r2val:
+                # if global requirements specifies a python 3 version specifier
+                # but a project doesn't, allow it since python 3-only is okay
+                if (allow_3_only and matching and
+                        aname == 'markers' and not rval):
+                    if PY3_SPECIFIER_RE.match(r2val):
+                        continue
+
                 print('WARNING: possible mismatch found for package '
                       '"{}"'.format(req.package))
                 print('   Attribute "{}" does not match'.format(aname))
@@ -182,7 +191,7 @@ def _validate_one(name, reqs, blacklist, global_reqs, allow_3_only=False):
         else:
             counts[''] = counts.get('', 0) + 1
         if not _is_requirement_in_global_reqs(
-                req, global_reqs[name]):
+                req, global_reqs[name], allow_3_only):
             return True
         # check for minimum being defined
         min = [s for s in req.specifiers.split(',') if '>' in s]
