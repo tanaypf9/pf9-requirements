@@ -15,12 +15,16 @@
 # under the License.
 
 import collections
+import re
 
 from packaging import markers
 from packaging import specifiers
 
 from openstack_requirements import project
 from openstack_requirements import requirement
+
+
+PY3_SPECIFIER_RE = r'python_version(==|>=|>)(\'|")3.\d(\'|")'
 
 
 class RequirementsList(object):
@@ -92,6 +96,12 @@ def _is_requirement_in_global_reqs(local_req, global_reqs):
             local_req_val = getattr(local_req, aname)
             global_req_val = getattr(global_req, aname)
             if local_req_val != global_req_val:
+                # if global requirments specifies a python 3 version specifier
+                # but a project doesn't, allow it since python 3-only is okay
+                if aname == 'markers' and not local_req_val and matching:
+                    if re.match(PY3_SPECIFIER_RE, global_req_val):
+                        continue
+
                 print('WARNING: possible mismatch found for package '
                       '"{}"'.format(local_req.package))
                 print('   Attribute "{}" does not match'.format(aname))
