@@ -721,3 +721,4 @@ scikit-learn===0.22;python_version=='3.4'
 scikit-learn===0.22;python_version=='3.5'
 scikit-learn===0.22;python_version=='3.6'
 scikit-learn===0.22;python_version=='3.7'
+horizon==17.1.0
