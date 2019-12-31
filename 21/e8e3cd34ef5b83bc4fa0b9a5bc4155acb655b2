@@ -1,0 +1,13 @@
+Code-Review+1: Hiroyuki Jo <hiroyuki.jo.mt@hco.ntt.co.jp>
+Code-Review+1: Rico Lin <rico.lin.guanyu@gmail.com>
+Code-Review+1: dharmendra kushwaha <dharmendra.kushwaha@gmail.com>
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Joseph Davis <joseph.davis@suse.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 31 Dec 2019 23:57:51 +0000
+Reviewed-on: https://review.opendev.org/700512
+Project: openstack/requirements
+Branch: refs/heads/master
