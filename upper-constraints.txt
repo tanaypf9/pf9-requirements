@@ -36,7 +36,7 @@ lxml===4.4.2
 vintage===0.4.1
 python-kingbirdclient===0.2.1
 setproctitle===1.1.10
-pytest===4.6.8;python_version=='2.7'
+pytest===4.6.9;python_version=='2.7'
 pytest===5.3.2;python_version=='3.4'
 pytest===5.3.2;python_version=='3.5'
 pytest===5.3.2;python_version=='3.6'
@@ -244,7 +244,7 @@ storpool===5.1.0
 textfsm===1.1.0
 python-3parclient===4.2.11
 unittest2===1.1.0
-django-compressor===2.3
+django-compressor===2.4
 libvirt-python===5.10.0
 python-zunclient===3.6.0
 asyncio===3.4.3;python_version=='3.4'
@@ -284,7 +284,7 @@ django-debreach===2.0.1
 sphinx-feature-classification===0.4.2
 XStatic-JQuery-Migrate===1.2.1.1
 appdirs===1.4.3
-tinyrpc===1.0.3
+tinyrpc===1.0.4
 M2Crypto===0.35.2;python_version=='2.7'
 google-auth-httplib2===0.0.3
 Flask-SQLAlchemy===2.4.1
@@ -297,7 +297,7 @@ influxdb===5.2.3;python_version=='3.7'
 funcparserlib===0.3.6
 passlib===1.7.2
 dib-utils===0.0.11
-cliff===2.16.0
+cliff===2.17.0
 os-brick===2.11.0
 ansible-runner===1.4.4
 trollius===2.2.post1;python_version=='2.7'
@@ -534,10 +534,10 @@ xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===5.17.1
 Django===1.11.27;python_version=='2.7'
-Django===2.2.9;python_version=='3.4'
-Django===2.2.9;python_version=='3.5'
-Django===2.2.9;python_version=='3.6'
-Django===2.2.9;python_version=='3.7'
+Django===3.0.2;python_version=='3.4'
+Django===3.0.2;python_version=='3.5'
+Django===3.0.2;python_version=='3.6'
+Django===3.0.2;python_version=='3.7'
 pexpect===4.7.0
 cmd2===0.8.9
 redis===3.3.11
