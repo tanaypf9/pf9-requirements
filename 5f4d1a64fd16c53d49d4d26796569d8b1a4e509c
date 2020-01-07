@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_e51bf46b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-07T17:29:47Z",
+      "side": 1,
+      "message": "We aren\u0027t going to backport this change, so do we actually need the python_version specifier now?",
+      "range": {
+        "startLine": 58,
+        "startChar": 8,
+        "endLine": 58,
+        "endChar": 30
+      },
+      "revId": "5f4d1a64fd16c53d49d4d26796569d8b1a4e509c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
