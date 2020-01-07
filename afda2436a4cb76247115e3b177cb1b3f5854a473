@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_854480a0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-07T18:16:00Z",
+      "side": 1,
+      "message": "* other than packages still needed by swift",
+      "revId": "afda2436a4cb76247115e3b177cb1b3f5854a473",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
