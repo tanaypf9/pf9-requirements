@@ -22,6 +22,30 @@
       "revId": "5f4d1a64fd16c53d49d4d26796569d8b1a4e509c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_a5c97c5a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2020-01-07T18:01:22Z",
+      "side": 1,
+      "message": "The only reason I added the python_version specifier is that enmerkar only supports Django\u003e\u003d2.2 which requires python3.\nI am happy to drop the python_version specifier if the specifier is not needed for py3 only library.",
+      "parentUuid": "3fa7e38b_e51bf46b",
+      "range": {
+        "startLine": 58,
+        "startChar": 8,
+        "endLine": 58,
+        "endChar": 30
+      },
+      "revId": "5f4d1a64fd16c53d49d4d26796569d8b1a4e509c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
