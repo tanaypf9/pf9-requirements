@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_b632170e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 351,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2020-01-07T14:18:14Z",
+      "side": 1,
+      "message": "Done\n\nI forgot to drop this somehow....",
+      "parentUuid": "3fa7e38b_9bc38606",
+      "revId": "1c9946b97895372dad0c9f9ed3fcd7a1a591f06e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_9b5e2677",
         "filename": "upper-constraints.txt",
         "patchSetId": 3
@@ -30,6 +48,24 @@
       "writtenOn": "2020-01-07T13:02:14Z",
       "side": 1,
       "message": "You can only use one line for this.",
+      "revId": "1c9946b97895372dad0c9f9ed3fcd7a1a591f06e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f623afb9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 355,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2020-01-07T14:18:14Z",
+      "side": 1,
+      "message": "Other entries with python_version \u003e\u003d3.0 has these kind of lines. I think the current script to update upper-constraints generate these kind of lines. Any suggestion?",
+      "parentUuid": "3fa7e38b_9b5e2677",
       "revId": "1c9946b97895372dad0c9f9ed3fcd7a1a591f06e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
