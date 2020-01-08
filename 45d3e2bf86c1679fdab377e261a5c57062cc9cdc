@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_027ab4ee",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 362,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-08T17:32:48Z",
+      "side": 1,
+      "message": "These are duplicated now.",
+      "range": {
+        "startLine": 359,
+        "startChar": 0,
+        "endLine": 362,
+        "endChar": 38
+      },
+      "revId": "45d3e2bf86c1679fdab377e261a5c57062cc9cdc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
