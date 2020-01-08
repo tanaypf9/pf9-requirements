@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_11d3e460",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 359,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-08T14:42:54Z",
+      "side": 1,
+      "message": "Hmm, how is the script pulling this back in?",
+      "revId": "fd8c8b74a30dd62d666e2ae2742ac95efff0f6d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
