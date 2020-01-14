@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_454f01bf",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 64,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-14T21:32:58Z",
+      "side": 1,
+      "message": "In global-requirements, it is only capping \u003c3.5, so this does not match.",
+      "revId": "4a63f4e0c1526b33b63db9126d59bcaea9841dfb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
