@@ -16,6 +16,24 @@
       "revId": "4a1d535ada2277420e7e910bde82264a3a3c5efa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_27ed0224",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2020-01-16T21:52:59Z",
+      "side": 1,
+      "message": "It\u0027s a misleading subject, should have just said \u003c2.0.0\n\nneutron-tempest-plugin is branchless, so it could just be we have to fix something job definition like you said.",
+      "parentUuid": "3fa7e38b_c423ccba",
+      "revId": "4a1d535ada2277420e7e910bde82264a3a3c5efa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
