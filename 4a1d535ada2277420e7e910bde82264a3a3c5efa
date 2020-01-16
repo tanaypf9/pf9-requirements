@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_c423ccba",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-16T21:35:29Z",
+      "side": 1,
+      "message": "Hmm, I\u0027m wondering about this. 1.31.0 was actually the last release before dropping py2 support. Going back to 1.18.0 is actually dropping a lot of releases that have been used fine up until now.\n\nThe mention of stable/rocky is a little confusing too. The upper-constraint for stable/rocky was actually limited to 1.18.0, so rocky should not be affected by this either way:\n\nhttps://opendev.org/openstack/requirements/src/branch/stable/rocky/upper-constraints.txt#L59",
+      "revId": "4a1d535ada2277420e7e910bde82264a3a3c5efa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
