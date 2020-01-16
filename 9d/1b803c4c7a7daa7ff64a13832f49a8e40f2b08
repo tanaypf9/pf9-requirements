@@ -1,0 +1,10 @@
+Code-Review+1: guang-yee <gyee@suse.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 16 Jan 2020 00:58:10 +0000
+Reviewed-on: https://review.opendev.org/702460
+Project: openstack/requirements
+Branch: refs/heads/stable/train
