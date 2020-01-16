@@ -1,0 +1,11 @@
+Code-Review+1: Eric Fried <openstack@fried.cc>
+Code-Review+1: Sundar Nadathur <sundar.nadathur@intel.com>
+Code-Review+1: Tetsuro Nakamura <tetsuro.nakamura.bc@hco.ntt.co.jp>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 16 Jan 2020 08:41:34 +0000
+Reviewed-on: https://review.opendev.org/702755
+Project: openstack/requirements
+Branch: refs/heads/master
