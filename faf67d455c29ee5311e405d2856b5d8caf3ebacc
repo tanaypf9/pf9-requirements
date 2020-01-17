@@ -22,6 +22,30 @@
       "revId": "faf67d455c29ee5311e405d2856b5d8caf3ebacc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_9be68a49",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-01-17T10:09:46Z",
+      "side": 1,
+      "message": "Such a typo is not worth a -1, please remove your -1.\n\nIt\u0027s fine to comment.",
+      "parentUuid": "3fa7e38b_7b95ce93",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 6
+      },
+      "revId": "faf67d455c29ee5311e405d2856b5d8caf3ebacc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
