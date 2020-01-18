@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 18 Jan 2020 03:41:26 +0000
+Reviewed-on: https://review.opendev.org/702914
+Project: openstack/requirements
+Branch: refs/heads/stable/rocky
