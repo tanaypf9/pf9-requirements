@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Hervé Beraud <hberaud@redhat.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Sat, 18 Jan 2020 08:31:46 +0000
+Reviewed-on: https://review.opendev.org/702529
+Project: openstack/requirements
+Branch: refs/heads/stable/stein
