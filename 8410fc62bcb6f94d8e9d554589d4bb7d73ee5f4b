@@ -73,6 +73,30 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_8aaa84d0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 30491
+      },
+      "writtenOn": "2020-01-21T18:12:03Z",
+      "side": 1,
+      "message": "2.x \u003c 3.6, all is fine",
+      "parentUuid": "3fa7e38b_ca195c76",
+      "range": {
+        "startLine": 147,
+        "startChar": 38,
+        "endLine": 147,
+        "endChar": 39
+      },
+      "revId": "8410fc62bcb6f94d8e9d554589d4bb7d73ee5f4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_af76723e",
         "filename": "global-requirements.txt",
         "patchSetId": 2
