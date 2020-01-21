@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_31de676b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 146,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-01-21T15:52:11Z",
+      "side": 1,
+      "message": "Also need updates here. See the networkx entries above for an example.",
+      "range": {
+        "startLine": 146,
+        "startChar": 0,
+        "endLine": 146,
+        "endChar": 25
+      },
+      "revId": "5ee77bb39f01886d73b87818c3a3304d7a98e743",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
