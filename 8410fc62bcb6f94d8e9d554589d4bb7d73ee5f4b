@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_4f6fbe60",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 30491
+      },
+      "writtenOn": "2020-01-21T17:40:14Z",
+      "side": 1,
+      "message": "6",
+      "range": {
+        "startLine": 147,
+        "startChar": 38,
+        "endLine": 147,
+        "endChar": 39
+      },
+      "revId": "8410fc62bcb6f94d8e9d554589d4bb7d73ee5f4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_af76723e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 30491
+      },
+      "writtenOn": "2020-01-21T17:40:14Z",
+      "side": 1,
+      "message": "6",
+      "range": {
+        "startLine": 148,
+        "startChar": 31,
+        "endLine": 148,
+        "endChar": 32
+      },
+      "revId": "8410fc62bcb6f94d8e9d554589d4bb7d73ee5f4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
