@@ -49,6 +49,30 @@
     },
     {
       "key": {
+        "uuid": "3fa7e38b_ca195c76",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2020-01-21T18:06:40Z",
+      "side": 1,
+      "message": "Actually this should be 3.0, because this version is the last py2 supported one.",
+      "parentUuid": "3fa7e38b_4fa33e45",
+      "range": {
+        "startLine": 147,
+        "startChar": 38,
+        "endLine": 147,
+        "endChar": 39
+      },
+      "revId": "8410fc62bcb6f94d8e9d554589d4bb7d73ee5f4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_af76723e",
         "filename": "global-requirements.txt",
         "patchSetId": 2
