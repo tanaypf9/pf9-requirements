@@ -16,6 +16,24 @@
       "revId": "ab117233901b106b123545b0f72e36de81b6c0ef",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_23001203",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 10298
+      },
+      "writtenOn": "2020-01-27T20:10:51Z",
+      "side": 1,
+      "message": "I knew I should not have left my vim! (edited on gerrit. Let me fix it)",
+      "parentUuid": "3fa7e38b_c3ad7e83",
+      "revId": "ab117233901b106b123545b0f72e36de81b6c0ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
