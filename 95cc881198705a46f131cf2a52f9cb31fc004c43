@@ -46,6 +46,30 @@
       "revId": "95cc881198705a46f131cf2a52f9cb31fc004c43",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_8e42550c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 700,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2020-01-27T12:59:25Z",
+      "side": 1,
+      "message": "hmm okk 1.1.0 released on 26th jan, bot[1] which is broken currently would do that next, so good to fix it here itself. \n\n[1] http://zuul.openstack.org/builds?pipeline\u003dperiodic\u0026project\u003dopenstack%2Frequirements\u0026job_name\u003dpropose-updates",
+      "parentUuid": "3fa7e38b_ee80a94b",
+      "range": {
+        "startLine": 700,
+        "startChar": 9,
+        "endLine": 700,
+        "endChar": 10
+      },
+      "revId": "95cc881198705a46f131cf2a52f9cb31fc004c43",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
