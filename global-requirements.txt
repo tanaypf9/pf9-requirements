@@ -530,3 +530,6 @@ skydive-client  # Apache-2.0
 
 # NOTE(anilvenkata): This is required for profiling oslo.service processes
 Yappi!=0.98,!=0.99  # MIT
+
+# NOTE(yoctozepto): To avoid repeated breakage
+zipp<2;python_version<'3.6'  # MIT
