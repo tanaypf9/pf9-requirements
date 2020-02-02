@@ -189,7 +189,7 @@ arrow===0.15.5
 semantic-version===2.8.4
 virtualbmc===1.6.0
 deprecation===2.0.7
-SQLAlchemy===1.3.12
+SQLAlchemy===1.3.13
 pyroute2===0.5.7
 google-auth===1.11.0
 kazoo===2.6.1
@@ -296,7 +296,7 @@ django-debreach===2.0.1
 sphinx-feature-classification===1.0.0
 XStatic-JQuery-Migrate===1.2.1.1
 appdirs===1.4.3
-tinyrpc===1.0.3
+tinyrpc===1.0.4
 M2Crypto===0.35.2;python_version=='2.7'
 google-auth-httplib2===0.0.3
 Flask-SQLAlchemy===2.4.1
@@ -365,7 +365,7 @@ oslo.middleware===3.38.1
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 notifier===1.0.3
 os-ken===0.4.1
 pycrypto===2.6.1
@@ -447,10 +447,10 @@ XStatic-JQuery.TableSorter===2.14.5.1
 pifpaf===2.4.0
 pysmi===0.3.4
 blockdiag===1.5.4;python_version=='2.7'
-blockdiag===2.0.0;python_version=='3.4'
-blockdiag===2.0.0;python_version=='3.5'
-blockdiag===2.0.0;python_version=='3.6'
-blockdiag===2.0.0;python_version=='3.7'
+blockdiag===2.0.1;python_version=='3.4'
+blockdiag===2.0.1;python_version=='3.5'
+blockdiag===2.0.1;python_version=='3.6'
+blockdiag===2.0.1;python_version=='3.7'
 testtools===2.3.0
 infi.dtypes.iqn===0.4.0
 Parsley===1.3
@@ -530,7 +530,7 @@ Sphinx===2.3.1;python_version=='3.4'
 Sphinx===2.3.1;python_version=='3.5'
 Sphinx===2.3.1;python_version=='3.6'
 Sphinx===2.3.1;python_version=='3.7'
-oslo.config===6.12.0
+oslo.config===7.0.0
 tempest===23.0.0
 django-floppyforms===1.8.0
 openstackdocstheme===1.31.2
@@ -550,7 +550,7 @@ pyparsing===2.4.6
 geomet===0.1.2
 dogpile.cache===0.9.0
 python-barbicanclient===4.9.0
-salt===2019.2.0
+salt===2019.2.3
 api-object-schema===2.0.0
 tricircleclient===0.6.0
 WSME===0.9.3
@@ -570,7 +570,7 @@ Django===2.2.9;python_version=='3.7'
 pexpect===4.8.0
 cmd2===0.8.9
 python-json-logger===0.1.11
-redis===3.3.11
+redis===3.4.0
 jmespath===0.9.4
 atomicwrites===1.3.0;python_version=='2.7'
 XStatic-smart-table===1.4.13.2
@@ -719,8 +719,8 @@ Babel===2.8.0
 logutils===0.3.5
 scandir===1.10.0;python_version=='2.7'
 zipp===1.1.0;python_version=='2.7'
-zipp===1.1.0;python_version=='3.4'
-zipp===1.1.0;python_version=='3.5'
+zipp===2.1.0;python_version=='3.4'
+zipp===2.1.0;python_version=='3.5'
 zipp===2.1.0;python_version=='3.6'
 zipp===2.1.0;python_version=='3.7'
 sphinxcontrib-fulltoc===1.2.0
