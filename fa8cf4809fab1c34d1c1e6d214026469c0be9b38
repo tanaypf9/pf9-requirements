@@ -1,0 +1,188 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_af6fa7f9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "extra space",
+      "range": {
+        "startLine": 14,
+        "startChar": 4,
+        "endLine": 14,
+        "endChar": 5
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_8f766bd5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "release",
+      "range": {
+        "startLine": 14,
+        "startChar": 10,
+        "endLine": 14,
+        "endChar": 11
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_cf554321",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "i can add https://github.com/blockdiag/blockdiag/issues/126",
+      "range": {
+        "startLine": 16,
+        "startChar": 36,
+        "endLine": 16,
+        "endChar": 41
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_0f391bf0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "https://pypi.org/project/blockdiag/2.0.1/",
+      "range": {
+        "startLine": 17,
+        "startChar": 46,
+        "endLine": 17,
+        "endChar": 54
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_4f2f13a6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "by https://github.com/blockdiag/blockdiag/pull/129",
+      "range": {
+        "startLine": 17,
+        "startChar": 9,
+        "endLine": 17,
+        "endChar": 17
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_cf030311",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "requirement.",
+      "range": {
+        "startLine": 21,
+        "startChar": 22,
+        "endLine": 21,
+        "endChar": 32
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_21218ba2",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "Nova can selectively raise its minium requirement in the future in tree if it chooses too remove support for monkey patching older releases.",
+      "range": {
+        "startLine": 21,
+        "startChar": 34,
+        "endLine": 23,
+        "endChar": 44
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_e11a9369",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-03T20:05:15Z",
+      "side": 1,
+      "message": "ill wrap this",
+      "range": {
+        "startLine": 26,
+        "startChar": 65,
+        "endLine": 26,
+        "endChar": 75
+      },
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
