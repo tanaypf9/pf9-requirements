@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_00623ea8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-02-04T14:08:27Z",
+      "side": 1,
+      "message": "you need to update that line as well",
+      "revId": "4fa8131a826369956b8bf2007cee34901733f1fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
