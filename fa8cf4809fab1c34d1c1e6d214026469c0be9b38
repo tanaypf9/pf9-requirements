@@ -218,6 +218,24 @@
       "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_76b95c14",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-02-05T21:52:25Z",
+      "side": 1,
+      "message": "well the cap was becasue the resleased 2.0 and it broke us\nbut ok i can drop the cap",
+      "parentUuid": "3fa7e38b_b34fe6bd",
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
