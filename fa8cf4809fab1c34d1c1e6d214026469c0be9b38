@@ -200,6 +200,24 @@
       "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_b34fe6bd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-02-05T21:30:47Z",
+      "side": 1,
+      "message": "I agree. It would be better to just blacklist the version you know has an issue and deal with any future issues as needed than to artificially limit it just in case there might possibly be problems.",
+      "parentUuid": "3fa7e38b_a159ec00",
+      "revId": "fa8cf4809fab1c34d1c1e6d214026469c0be9b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
