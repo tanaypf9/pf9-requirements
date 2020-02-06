@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "3fa7e38b_17f9ff1a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 11975
+      },
+      "writtenOn": "2020-02-06T09:08:29Z",
+      "side": 1,
+      "message": "I think it should be pinned for python_version \u003c\u003d 3.5 because for example in neutron_tempest_plugin we have jobs for rocky branch which are running now on python 3 but as it\u0027s run on Xenial, it\u0027s python 3.5",
+      "revId": "4fa8131a826369956b8bf2007cee34901733f1fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3fa7e38b_00623ea8",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
