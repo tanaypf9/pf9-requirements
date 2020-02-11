@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_14920b56",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 573,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2020-02-11T21:28:59Z",
+      "side": 1,
+      "message": "look at the section above for GitPython - you need an \u003d\u003d\u003d\u00273.1.1\u0027 line for python_veriosn\u003d\u003d\u00272.7\u0027 - then 3.5, 3.6 and 3.7 lines for 4.0.0",
+      "revId": "a82666c4e1383fd25c7b0b7a7f36cd37cc365cd2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
