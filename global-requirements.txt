@@ -439,7 +439,8 @@ ldappool  # MPL
 # in [most] releases of the Python std library.
 mock  # BSD
 mox  # Apache-2.0
-mox3  # Apache-2.0
+mox3<1.0;python_version<'3.6'  # Apache-2.0
+mox3>=1.0;python_version>='3.6'  # Apache-2.0
 nodeenv  # BSD
 nose  # LGPL
 nose-exclude  # LGPL
