@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_99e2b9d2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 290,
+      "author": {
+        "id": 7353
+      },
+      "writtenOn": "2020-02-11T17:08:50Z",
+      "side": 1,
+      "message": "nit: whitespace.",
+      "range": {
+        "startLine": 290,
+        "startChar": 92,
+        "endLine": 290,
+        "endChar": 93
+      },
+      "revId": "a98ed5935a2f1d7a7458a0325f909dc8e8cc1d20",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
