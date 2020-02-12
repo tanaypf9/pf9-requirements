@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_1bc6b64b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 290,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-02-12T04:58:14Z",
+      "side": 1,
+      "message": "still specifying a minimum (\u003e\u003d2.3.1) for python2.7 here, that should be removed\n\nother than that looks good",
+      "revId": "fcd76b4b13cf70b46cd5fe359b98740b7f8b4c52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
