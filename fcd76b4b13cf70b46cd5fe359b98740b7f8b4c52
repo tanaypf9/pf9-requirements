@@ -16,6 +16,24 @@
       "revId": "fcd76b4b13cf70b46cd5fe359b98740b7f8b4c52",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_5bdd0e10",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 290,
+      "author": {
+        "id": 9592
+      },
+      "writtenOn": "2020-02-12T05:00:55Z",
+      "side": 1,
+      "message": "thank you",
+      "parentUuid": "3fa7e38b_1bc6b64b",
+      "revId": "fcd76b4b13cf70b46cd5fe359b98740b7f8b4c52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
