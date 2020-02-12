@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Marios Andreou <marios@redhat.com>
+Code-Review+1: Chandan Kumar (raukadah) <chkumar@redhat.com>
+Code-Review+1: Riccardo Pittau <elfosardo@gmail.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 12 Feb 2020 10:39:21 +0000
+Reviewed-on: https://review.opendev.org/707204
+Project: openstack/requirements
+Branch: refs/heads/master
