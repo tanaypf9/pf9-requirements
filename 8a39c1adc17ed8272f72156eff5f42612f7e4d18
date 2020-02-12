@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_e6d3f761",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 305,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-02-12T16:50:20Z",
+      "side": 1,
+      "message": "why the change down to 3.0  the package itself states 3.6/3.7 only atm",
+      "revId": "8a39c1adc17ed8272f72156eff5f42612f7e4d18",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
