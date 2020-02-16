@@ -22,6 +22,23 @@
       "revId": "3a4d4985d2a89caf2d9d7cb3edabae1fa8402a7c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_12565b2c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 443,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-02-16T17:24:44Z",
+      "side": 1,
+      "message": "ya, should be the same as before, just with the python specifier",
+      "revId": "3a4d4985d2a89caf2d9d7cb3edabae1fa8402a7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
