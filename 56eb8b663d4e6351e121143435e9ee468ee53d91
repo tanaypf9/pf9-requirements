@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_ad460ca7",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 11692
+      },
+      "writtenOn": "2020-02-16T22:28:02Z",
+      "side": 1,
+      "message": "false right (\u003d\u003d) and breaks all syncs",
+      "revId": "56eb8b663d4e6351e121143435e9ee468ee53d91",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
