@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_322cb7fe",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 443,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-02-16T15:48:15Z",
+      "side": 1,
+      "message": "I think this can be removed, right? Any version of mox3 should work with python \u003e\u003d 3.6, it only needs to be capped with anything less than that.",
+      "range": {
+        "startLine": 443,
+        "startChar": 4,
+        "endLine": 443,
+        "endChar": 9
+      },
+      "revId": "3a4d4985d2a89caf2d9d7cb3edabae1fa8402a7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
