@@ -16,6 +16,24 @@
       "revId": "2dc9691fa41908a26a1fea5716a4bb8a4acd27cc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_6dec8d91",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2020-02-17T14:27:19Z",
+      "side": 1,
+      "message": "That\u0027s what I was asking upstream right now hehehhe\n\nIMO yes, this should be 3.0",
+      "parentUuid": "3fa7e38b_edce3d29",
+      "revId": "2dc9691fa41908a26a1fea5716a4bb8a4acd27cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
