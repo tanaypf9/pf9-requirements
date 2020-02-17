@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_edce3d29",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 182,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2020-02-17T14:26:14Z",
+      "side": 1,
+      "message": "shouldn\u0027t this be python_version\u003e\u003d\u00273.0\u0027?",
+      "revId": "2dc9691fa41908a26a1fea5716a4bb8a4acd27cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
