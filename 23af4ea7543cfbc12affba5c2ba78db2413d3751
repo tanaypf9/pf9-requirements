@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_fa1ee6bb",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 236,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2020-02-17T22:24:48Z",
+      "side": 1,
+      "message": "ack https://github.com/testing-cabal/mock/issues/487",
+      "range": {
+        "startLine": 236,
+        "startChar": 0,
+        "endLine": 236,
+        "endChar": 12
+      },
+      "revId": "23af4ea7543cfbc12affba5c2ba78db2413d3751",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
