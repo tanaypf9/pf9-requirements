@@ -1,0 +1,119 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_aa3cab2d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2020-02-17T13:34:44Z",
+      "side": 1,
+      "message": "Not sure what this means. blockdiag isn\u0027t a dependency of Sphinx, it\u0027s dependency of the sphinxcontrib-blockdiag and sphinxcontrib-actdiag extensions",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 22
+      },
+      "revId": "ecf3b2539e9517ed81e62ec2b874a235c027ff9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2a42fb68",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2020-02-17T13:34:44Z",
+      "side": 1,
+      "message": "minimum",
+      "range": {
+        "startLine": 22,
+        "startChar": 61,
+        "endLine": 22,
+        "endChar": 67
+      },
+      "revId": "ecf3b2539e9517ed81e62ec2b874a235c027ff9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_ca56c72d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2020-02-17T13:34:44Z",
+      "side": 1,
+      "message": "minimum",
+      "range": {
+        "startLine": 23,
+        "startChar": 44,
+        "endLine": 23,
+        "endChar": 50
+      },
+      "revId": "ecf3b2539e9517ed81e62ec2b874a235c027ff9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_0a05bf68",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2020-02-17T13:34:44Z",
+      "side": 1,
+      "message": "to",
+      "range": {
+        "startLine": 24,
+        "startChar": 29,
+        "endLine": 24,
+        "endChar": 32
+      },
+      "revId": "ecf3b2539e9517ed81e62ec2b874a235c027ff9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2a0afb77",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2020-02-17T13:34:44Z",
+      "side": 1,
+      "message": "compatible",
+      "range": {
+        "startLine": 28,
+        "startChar": 37,
+        "endLine": 28,
+        "endChar": 48
+      },
+      "revId": "ecf3b2539e9517ed81e62ec2b874a235c027ff9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
