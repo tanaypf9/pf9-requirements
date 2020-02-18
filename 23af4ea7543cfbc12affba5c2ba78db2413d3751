@@ -22,6 +22,23 @@
       "revId": "23af4ea7543cfbc12affba5c2ba78db2413d3751",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_f0c6056b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 721,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-02-18T01:27:45Z",
+      "side": 1,
+      "message": "sqlalchemy.exc.CompileError: PostgreSQL ENUM type requires a name.",
+      "revId": "23af4ea7543cfbc12affba5c2ba78db2413d3751",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
