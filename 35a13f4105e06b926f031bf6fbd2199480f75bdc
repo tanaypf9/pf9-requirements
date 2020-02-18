@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa7e38b_cbdb17e9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 177,
+      "author": {
+        "id": 782
+      },
+      "writtenOn": "2020-02-18T12:15:18Z",
+      "side": 1,
+      "message": "Given we are adding this now, I wasn\u0027t sure if I needed this bit?",
+      "revId": "35a13f4105e06b926f031bf6fbd2199480f75bdc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_2bf8ab49",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 782
+      },
+      "writtenOn": "2020-02-18T12:15:18Z",
+      "side": 1,
+      "message": "I couldn\u0027t get the docs to generate what \"looked correct\" here:\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#adding-a-new-dependency",
+      "revId": "35a13f4105e06b926f031bf6fbd2199480f75bdc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
