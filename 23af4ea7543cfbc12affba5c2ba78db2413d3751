@@ -39,6 +39,24 @@
       "revId": "23af4ea7543cfbc12affba5c2ba78db2413d3751",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_ce89c929",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 721,
+      "author": {
+        "id": 14070
+      },
+      "writtenOn": "2020-02-19T17:06:15Z",
+      "side": 1,
+      "message": "Are we s\u0027posed to fix this in nova?\n\nNotes:\n\nFailure in nova.tests.unit.db.test_migrations.TestNovaMigrationsPostgreSQL.test_models_sync implies that we need to make sure we give a `name` kwarg whenever we create a sqlalchemy.Enum. I found two spots where we\u0027re not doing that [1][2]. But would definitely need a dansmith to assess the impact, figure out an appropriate name, etc.\n\n[1] https://opendev.org/openstack/nova/src/commit/a3d4ebd3c98efb093dadd6ca2855d794d56c1938/nova/db/sqlalchemy/models.py#L311\n[2] https://opendev.org/openstack/nova/src/commit/a3d4ebd3c98efb093dadd6ca2855d794d56c1938/nova/db/sqlalchemy/models.py#L794-L795",
+      "parentUuid": "3fa7e38b_f0c6056b",
+      "revId": "23af4ea7543cfbc12affba5c2ba78db2413d3751",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
