@@ -1,0 +1,8 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 19 Feb 2020 01:13:33 +0000
+Reviewed-on: https://review.opendev.org/708396
+Project: openstack/requirements
+Branch: refs/heads/stable/stein
