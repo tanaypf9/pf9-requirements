@@ -22,6 +22,30 @@
       "revId": "0d112a6fd109e769ea8e85b186f087922002ec58",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_98fca13f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 431,
+      "author": {
+        "id": 24791
+      },
+      "writtenOn": "2020-02-24T08:46:06Z",
+      "side": 1,
+      "message": "Ah. gitdb2 is 4.0.2, all fine ++",
+      "parentUuid": "1fa4df85_38eecd88",
+      "range": {
+        "startLine": 431,
+        "startChar": 12,
+        "endLine": 431,
+        "endChar": 13
+      },
+      "revId": "0d112a6fd109e769ea8e85b186f087922002ec58",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
