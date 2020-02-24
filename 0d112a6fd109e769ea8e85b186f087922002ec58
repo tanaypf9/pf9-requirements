@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_38eecd88",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 431,
+      "author": {
+        "id": 24791
+      },
+      "writtenOn": "2020-02-24T08:43:04Z",
+      "side": 1,
+      "message": "Last version is 4.0.2:\nhttps://pypi.org/project/gitdb2/#history\n\nThere is no 4.0.1",
+      "range": {
+        "startLine": 431,
+        "startChar": 12,
+        "endLine": 431,
+        "endChar": 13
+      },
+      "revId": "0d112a6fd109e769ea8e85b186f087922002ec58",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
