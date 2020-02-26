@@ -1,0 +1,10 @@
+Code-Review+2: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 26 Feb 2020 09:45:32 +0000
+Reviewed-on: https://review.opendev.org/709412
+Project: openstack/requirements
+Branch: refs/heads/master
