@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_87dc0b75",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 751,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-02-26T20:34:03Z",
+      "side": 0,
+      "message": "Not needed now that we\u0027ve capped gitdb2?",
+      "range": {
+        "startLine": 751,
+        "startChar": 0,
+        "endLine": 751,
+        "endChar": 6
+      },
+      "revId": "f7aa34359c03ffecfe74a5377839e7f8904b32cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_678eaf79",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-02-26T20:34:03Z",
+      "side": 1,
+      "message": "This lib is for pre-py34, so not sure if this is an issue to drop the python_version marker or not.",
+      "range": {
+        "startLine": 4,
+        "startChar": 0,
+        "endLine": 4,
+        "endChar": 19
+      },
+      "revId": "1785e00dafed5ccfc8b0cbc0b131d6ea51a4b596",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
