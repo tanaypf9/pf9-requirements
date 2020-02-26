@@ -22,6 +22,23 @@
       "revId": "f7aa34359c03ffecfe74a5377839e7f8904b32cd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_a7f587cd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 751,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-02-26T20:40:46Z",
+      "side": 0,
+      "message": "we capped gitdb for python2, so I think that did fix it.",
+      "revId": "f7aa34359c03ffecfe74a5377839e7f8904b32cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
