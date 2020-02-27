@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Maciej Józefczyk <mjozefcz@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 27 Feb 2020 08:41:51 +0000
+Reviewed-on: https://review.opendev.org/709737
+Project: openstack/requirements
+Branch: refs/heads/master
