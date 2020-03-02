@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "1fa4df85_ea8f8c20",
+        "filename": "playbooks/fix-venv.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2020-03-02T16:11:44Z",
+      "side": 1,
+      "message": "Well, no specific reason, I just copied this code from the ensure-tox role. Not sure how you\u0027d tell the ansible module when to use pip vs. pip3.",
+      "parentUuid": "1fa4df85_75d06220",
+      "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1fa4df85_963724e4",
         "filename": "playbooks/fix-venv.yaml",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2020-03-02T15:17:25Z",
       "side": 1,
       "message": "I think this requires --upgrade",
+      "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_2a9fe45f",
+        "filename": "playbooks/fix-venv.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2020-03-02T16:11:44Z",
+      "side": 1,
+      "message": "Not if one specifies an explicit version IIUC. It did work fine according to https://storage.bhs.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_cde/710729/4/check/cross-keystone-py27/cde8e6e/job-output.txt , just need to fix both py2 and py3, thus the new PS.",
+      "parentUuid": "1fa4df85_963724e4",
       "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
