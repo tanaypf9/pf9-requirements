@@ -1,0 +1,12 @@
+- hosts: all
+  - name: Ensure virtualenv is capped
+    shell: |
+      set -euo pipefail
+
+      if command -v pip; then
+        PIP=pip
+      elif command -v pip3; then
+        PIP=pip3
+      fi
+
+      $PIP install --user virtualenv==20.0.5
