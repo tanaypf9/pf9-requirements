@@ -16,6 +16,23 @@
       "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_963724e4",
+        "filename": "playbooks/fix-venv.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 16068
+      },
+      "writtenOn": "2020-03-02T15:17:25Z",
+      "side": 1,
+      "message": "I think this requires --upgrade",
+      "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
