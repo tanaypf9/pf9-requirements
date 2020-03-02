@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_75d06220",
+        "filename": "playbooks/fix-venv.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2020-03-02T13:40:47Z",
+      "side": 1,
+      "message": "Is there a reason not to use ansible\u0027s pip module? E.g.:\n\n  pre_tasks:\n    - name: Ensure virtualenv is capped\n      pip:\n        name: virtualenv\u003d\u003d20.0.5\n        extra_args: --user --upgrade",
+      "revId": "85e48ff7e3bd159107733658f636f2ff481132b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
