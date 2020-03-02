@@ -1,0 +1,10 @@
+- hosts: all
+  pre_tasks:
+    - name: Ensure virtualenv is capped
+      shell: |
+        if command -v pip; then
+          pip install --user virtualenv==20.0.5
+        fi
+        if command -v pip3; then
+          pip3 install --user virtualenv==20.0.5
+        fi
