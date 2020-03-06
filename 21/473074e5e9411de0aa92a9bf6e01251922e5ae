@@ -1,0 +1,12 @@
+Code-Review+1: Radosław Piliszek <radoslaw.piliszek@gmail.com>
+Code-Review+1: Mark Goddard <mark@stackhpc.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Ben Nemec <openstack@nemebean.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 06 Mar 2020 00:46:24 +0000
+Reviewed-on: https://review.opendev.org/711427
+Project: openstack/requirements
+Branch: refs/heads/master
