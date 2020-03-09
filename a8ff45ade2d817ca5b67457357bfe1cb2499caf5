@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fa4df85_08b7273c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-03-09T16:33:59Z",
+      "side": 1,
+      "message": "Reading more, this sounds more like an issue with pyscss, not with setuptools. Once pyscss is updated to not use the deprecated and now removed functionality from setuptools, it would be good to raise the lower-constraint for that to be sure the fix is included and remove this block.",
+      "revId": "a8ff45ade2d817ca5b67457357bfe1cb2499caf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
