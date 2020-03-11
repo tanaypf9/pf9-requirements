@@ -22,6 +22,23 @@
       "revId": "e60678ae3dda03c0407d8f2ec8b51e14e4a221de",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_4f5f4072",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 622,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-03-11T15:30:38Z",
+      "side": 1,
+      "message": "ya, we have to remove these type of lines all the time",
+      "revId": "e60678ae3dda03c0407d8f2ec8b51e14e4a221de",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
