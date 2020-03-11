@@ -22,6 +22,30 @@
       "revId": "41bc11e2807275755018e8f2ead4047788b897c6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fa4df85_35200eb1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-03-11T20:08:11Z",
+      "side": 1,
+      "message": "pytest is primarly a test framework that hapens to have a test run built in.\n\nso not really.\nit combines the functinaly of stestr (via the test runner), unittests (via the testing framework)\n\npytest can run test written with standard unittest module so you can take nova for example and use pytest to execute its unit test instead of stestr but pytest when used a a libary allow you to do\ndef test():\n  data \u003d {}\n  assert type(data) \u003d\u003d type(dict())\n\nand it will use pythons built in ast parser to inspect the assertion and generate good error messages.\n\nso unlike unittest2 you dont have to use an learn a bunch of \nself.asertEqual(expected,actual) functions\nyou just write pythone asserts and if the assert fires because the assetion fails it catches the exception and tells you why.\n\nthe plugin design make it easy to integrate with custom testing fixtures which is what pytest-django does\nhttps://pytest-django.readthedocs.io/en/latest/\n\nand pytest-html basically does what our gate sript does and produces a html report of the test resulsts \nhttps://cloud.githubusercontent.com/assets/122800/11951695/f371b926-a88a-11e5-91c2-499166776bd3.png",
+      "parentUuid": "1fa4df85_fb0b4a28",
+      "range": {
+        "startLine": 66,
+        "startChar": 0,
+        "endLine": 66,
+        "endChar": 27
+      },
+      "revId": "41bc11e2807275755018e8f2ead4047788b897c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
