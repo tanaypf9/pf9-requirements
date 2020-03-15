@@ -420,7 +420,9 @@ boto3===1.12.21
 flask-oslolog===0.1
 jeepney===0.4.3;python_version=='3.6'
 jeepney===0.4.3;python_version=='3.7'
-stestr===2.6.0
+stestr===1.1.0;python_version=='2.7'
+stestr===2.6.0;python_version=='3.6'
+stestr===2.6.0;python_version=='3.7'
 singledispatch===3.4.0.3;python_version=='2.7'
 oslo.serialization===2.29.2;python_version=='2.7'
 oslo.serialization===3.1.0;python_version=='3.6'
@@ -617,7 +619,7 @@ jsonpatch===1.25
 python-daemon===2.2.4
 typed-ast===1.4.1;python_version=='3.6'
 typed-ast===1.4.1;python_version=='3.7'
-os-testr===1.1.0
+os-testr===2.0.0
 cotyledon===1.7.3
 stomp.py===4.1.23;python_version=='2.7'
 stomp.py===6.0.0;python_version=='3.6'
