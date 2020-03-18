@@ -111,13 +111,12 @@ sphinxcontrib-websupport===1.1.2;python_version=='2.7'
 Mako===1.1.2
 XStatic-angular-ui-router===0.3.1.2
 pyScss===1.3.4
-pyScss2===1.4.0
 thriftpy2===0.4.11;python_version=='2.7'
 sphinxcontrib-htmlhelp===1.0.3;python_version=='3.6'
 sphinxcontrib-htmlhelp===1.0.3;python_version=='3.7'
 XStatic-jQuery===1.12.4.1
 jsonmodels===2.4
-ddt===1.3.0
+ddt===1.3.1
 pyserial===3.4
 ipaddress===1.0.23;python_version=='2.7'
 infi.dtypes.wwn===0.1.1
@@ -248,7 +247,9 @@ tornado===5.1.1;python_version=='2.7'
 tornado===6.0.4;python_version=='3.6'
 tornado===6.0.4;python_version=='3.7'
 pycparser===2.20
-mock===3.0.5
+mock===3.0.5;python_version=='2.7'
+mock===4.0.2;python_version=='3.6'
+mock===4.0.2;python_version=='3.7'
 PyYAML===5.3
 beautifulsoup4===4.8.2
 os-net-config===12.1.0
@@ -390,9 +391,8 @@ oslo.middleware===4.0.1;python_version=='3.6'
 oslo.middleware===4.0.1;python_version=='3.7'
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
-django-pyscss2===3.0.0
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 notifier===1.0.3
 os-ken===0.4.1;python_version=='2.7'
 os-ken===1.0.0;python_version=='3.6'
@@ -418,7 +418,7 @@ retrying===1.3.3
 shade===1.33.0
 pathlib2===2.3.5
 pydotplus===2.0.2
-boto3===1.12.22
+boto3===1.12.23
 flask-oslolog===0.1
 jeepney===0.4.3;python_version=='3.6'
 jeepney===0.4.3;python_version=='3.7'
@@ -429,6 +429,7 @@ oslo.serialization===3.1.0;python_version=='3.6'
 oslo.serialization===3.1.0;python_version=='3.7'
 warlock===1.3.3
 exabgp===4.2.6
+pyScss2===1.4.0
 sphinxcontrib-httpdomain===1.7.0
 metalsmith===0.16.0
 s3transfer===0.3.3
@@ -549,9 +550,9 @@ seqdiag===0.9.6;python_version=='2.7'
 seqdiag===2.0.0;python_version=='3.6'
 seqdiag===2.0.0;python_version=='3.7'
 numpy===1.16.6;python_version=='2.7'
-numpy===1.18.1;python_version=='3.6'
-numpy===1.18.1;python_version=='3.7'
-msgpack===0.6.2
+numpy===1.18.2;python_version=='3.6'
+numpy===1.18.2;python_version=='3.7'
+msgpack===1.0.0
 Sphinx===1.8.5;python_version=='2.7'
 Sphinx===2.4.4;python_version=='3.6'
 Sphinx===2.4.4;python_version=='3.7'
@@ -596,7 +597,7 @@ oslo.upgradecheck===1.0.0;python_version=='3.6'
 oslo.upgradecheck===1.0.0;python_version=='3.7'
 stevedore===1.32.0
 pywinrm===0.4.1
-botocore===1.15.22
+botocore===1.15.23
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===5.17.1;python_version=='2.7'
@@ -751,7 +752,7 @@ sphinxcontrib-devhelp===1.0.2;python_version=='3.7'
 python-blazarclient===2.2.1;python_version=='2.7'
 python-blazarclient===3.0.0;python_version=='3.6'
 python-blazarclient===3.0.0;python_version=='3.7'
-alembic===1.3.3
+alembic===1.4.1
 glance-store===1.1.0
 sphinxcontrib-programoutput===0.15
 storpool.spopenstack===2.2.1
@@ -759,6 +760,7 @@ sphinx-testing===1.0.1
 dnspython===1.15.0;python_version=='3.6'
 dnspython===1.15.0;python_version=='3.7'
 dnspython===1.16.0;python_version=='2.7'
+django-pyscss2===3.0.0
 oauthlib===3.1.0
 Babel===2.8.0
 logutils===0.3.5
