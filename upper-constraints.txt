@@ -802,7 +802,7 @@ monasca-statsd===2.0.0
 python-dateutil===2.8.1
 typing-extensions===3.7.4.1;python_version=='3.6'
 typing-extensions===3.7.4.1;python_version=='3.7'
-virtualenv===20.0.10
+virtualenv===20.0.12
 colorama===0.4.3
 confetti===2.5.3
 ironic-lib===4.1.0
