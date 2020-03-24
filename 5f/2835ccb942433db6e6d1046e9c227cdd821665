@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Goutham Pacha Ravi <gouthampravi@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 24 Mar 2020 01:13:25 +0000
+Reviewed-on: https://review.opendev.org/714207
+Project: openstack/requirements
+Branch: refs/heads/master
