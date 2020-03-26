@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df33271e_5603e473",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 827,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-03-26T11:04:20Z",
+      "side": 1,
+      "message": "Three needed.",
+      "range": {
+        "startLine": 827,
+        "startChar": 8,
+        "endLine": 827,
+        "endChar": 10
+      },
+      "revId": "53459011b49c45e3eda0ac2715c2b71c1a52ccef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
