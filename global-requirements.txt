@@ -411,7 +411,8 @@ demjson  # GLGPLv3+
 docker  # Apache-2.0
 django-nose  # BSD
 doc8  # Apache-2.0
-Pygments  # BSD license
+# NOTE(hjensas): Pygments dropped support for Python 2 in version 2.6.0
+Pygments<2.6.0;python_version=='2.7'  # BSD license
 fixtures  # Apache-2.0/BSD
 fixtures-git  # Apache-2.0
 freezegun  # Apache-2.0
