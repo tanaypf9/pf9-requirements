@@ -392,7 +392,7 @@ oslo.middleware===4.0.1;python_version=='3.7'
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 notifier===1.0.3
 os-ken===0.4.1;python_version=='2.7'
 os-ken===1.0.0;python_version=='3.6'
