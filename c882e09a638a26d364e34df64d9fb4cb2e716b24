@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df33271e_ae7455ff",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2020-03-30T16:01:58Z",
+      "side": 1,
+      "message": "This is a commit in the master branch.\nIs it better to replace it with a corresponding commit in stable/train?",
+      "range": {
+        "startLine": 19,
+        "startChar": 10,
+        "endLine": 19,
+        "endChar": 50
+      },
+      "revId": "c882e09a638a26d364e34df64d9fb4cb2e716b24",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
