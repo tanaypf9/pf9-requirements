@@ -18,7 +18,7 @@ oslo.limit===0.3.0;python_version=='2.7'
 oslo.limit===1.0.1;python_version=='3.6'
 oslo.limit===1.0.1;python_version=='3.7'
 smmap===3.0.1
-confget===2.3.1
+confget===2.3.2
 XStatic-Angular-Bootstrap===2.5.0.0
 paunch===6.0.1
 WebOb===1.8.6
@@ -132,7 +132,7 @@ python-vitrageclient===4.0.0;python_version=='3.6'
 python-vitrageclient===4.0.0;python_version=='3.7'
 nosexcover===1.0.11
 krest===1.3.1
-psycopg2===2.8.4
+psycopg2===2.8.5
 networkx===2.2;python_version=='2.7'
 networkx===2.4;python_version=='3.6'
 networkx===2.4;python_version=='3.7'
@@ -190,8 +190,8 @@ soupsieve===2.0;python_version=='3.6'
 soupsieve===2.0;python_version=='3.7'
 sqlparse===0.3.1
 oslotest===3.9.0;python_version=='2.7'
-oslotest===4.0.0;python_version=='3.6'
-oslotest===4.0.0;python_version=='3.7'
+oslotest===4.2.0;python_version=='3.6'
+oslotest===4.2.0;python_version=='3.7'
 jsonpointer===2.0
 defusedxml===0.6.0
 netaddr===0.7.19
@@ -253,14 +253,16 @@ tornado===5.1.1;python_version=='2.7'
 tornado===6.0.4;python_version=='3.6'
 tornado===6.0.4;python_version=='3.7'
 pycparser===2.20
-mock===3.0.5
+mock===3.0.5;python_version=='2.7'
+mock===4.0.2;python_version=='3.6'
+mock===4.0.2;python_version=='3.7'
 PyYAML===5.3.1
 beautifulsoup4===4.9.0
 os-net-config===12.1.0
 ovs===2.11.0
 cryptography===2.9
 URLObject===2.4.3
-psycopg2-binary===2.8.4
+psycopg2-binary===2.8.5
 backports.ssl-match-hostname===3.7.0.1;python_version=='2.7'
 openstack-release-test===2.0.0
 pylxd===2.2.10
@@ -375,7 +377,7 @@ coverage===5.0.4
 freezegun===0.3.15
 python-pytun===2.3.0
 pyperclip===1.8.0
-cassandra-driver===3.22.0
+cassandra-driver===3.23.0
 mox===0.5.3
 XStatic-Angular-Schema-Form===0.8.13.0
 gabbi===1.49.0
@@ -399,7 +401,7 @@ oslo.middleware===4.0.1;python_version=='3.7'
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 notifier===1.0.3
 os-ken===0.4.1;python_version=='2.7'
 os-ken===1.0.0;python_version=='3.6'
@@ -428,7 +430,7 @@ shade===1.33.0
 XStatic-Dagre===0.6.4.0
 pathlib2===2.3.5
 pydotplus===2.0.2
-boto3===1.12.36
+boto3===1.12.37
 flask-oslolog===0.1
 jeepney===0.4.3;python_version=='3.6'
 jeepney===0.4.3;python_version=='3.7'
@@ -567,10 +569,10 @@ seqdiag===2.0.0;python_version=='3.7'
 numpy===1.16.6;python_version=='2.7'
 numpy===1.18.2;python_version=='3.6'
 numpy===1.18.2;python_version=='3.7'
-msgpack===0.6.2
+msgpack===1.0.0
 Sphinx===1.8.5;python_version=='2.7'
-Sphinx===2.4.4;python_version=='3.6'
-Sphinx===2.4.4;python_version=='3.7'
+Sphinx===3.0.0;python_version=='3.6'
+Sphinx===3.0.0;python_version=='3.7'
 oslo.config===7.0.0;python_version=='2.7'
 oslo.config===8.0.1;python_version=='3.6'
 oslo.config===8.0.1;python_version=='3.7'
@@ -613,7 +615,7 @@ oslo.upgradecheck===1.0.0;python_version=='3.6'
 oslo.upgradecheck===1.0.0;python_version=='3.7'
 stevedore===1.32.0
 pywinrm===0.4.1
-botocore===1.15.36
+botocore===1.15.37
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===5.17.1;python_version=='2.7'
