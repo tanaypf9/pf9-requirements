@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df33271e_4835e645",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2020-04-08T14:06:53Z",
+      "side": 1,
+      "message": "Unfortunately this is not enough, we need to go back for an even older release. For me locally the py27-check-uc passes with \u0027stestr\u003d\u003d\u003d0.4.0\u0027 and \u0027psycopg2\u003d\u003d\u003d2.7\u0027.\n\nI\u0027ll postpone the update until gate is busy with Feature Freeze related patches and upload the patch as soon as it is done.",
+      "range": {
+        "startLine": 22,
+        "startChar": 29,
+        "endLine": 22,
+        "endChar": 34
+      },
+      "revId": "499c5cc80d2c6d24cddbafa7a06f7bd3009c01e4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
