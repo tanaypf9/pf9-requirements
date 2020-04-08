@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Workflow+1: Hervé Beraud <hberaud@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 08 Apr 2020 11:49:35 +0000
+Reviewed-on: https://review.opendev.org/718028
+Project: openstack/requirements
+Branch: refs/heads/master
