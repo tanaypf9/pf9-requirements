@@ -33,6 +33,24 @@
       "revId": "8a4f38e87473ed335ea5d6ab35b9bff0f93bd71e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3f4c43b2_83388b3d",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-04-16T15:37:27Z",
+      "side": 1,
+      "message": "Yeah, I think it won\u0027t be until Victoria fully starts. I have a WIP for Cinder that is just waiting for that:\n\nhttps://review.opendev.org/#/c/720255/",
+      "parentUuid": "3f4c43b2_03d63bf2",
+      "revId": "8a4f38e87473ed335ea5d6ab35b9bff0f93bd71e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
