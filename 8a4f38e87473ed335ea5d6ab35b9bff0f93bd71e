@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f4c43b2_e3734f7f",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-04-16T15:23:30Z",
+      "side": 1,
+      "message": "We may want to consider adding cross-*-py38 jobs once teams have those jobs in place.",
+      "revId": "8a4f38e87473ed335ea5d6ab35b9bff0f93bd71e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
