@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "1f493fa4_86a427bb",
+        "filename": "doc/source/contributor/contributing.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-04-23T15:49:48Z",
+      "side": 1,
+      "message": "Yeah, good point.",
+      "parentUuid": "1f493fa4_e6cc0bbe",
+      "revId": "67fe92ce1652389b456efced434a06af4220be17",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f493fa4_28c1a72f",
         "filename": "doc/source/contributor/contributing.rst",
         "patchSetId": 4
