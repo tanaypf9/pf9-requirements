@@ -19,6 +19,23 @@
     },
     {
       "key": {
+        "uuid": "1f493fa4_e6cc0bbe",
+        "filename": "doc/source/contributor/contributing.rst",
+        "patchSetId": 4
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-04-23T15:44:57Z",
+      "side": 1,
+      "message": "I wasn\u0027t sure if that was publicly viewable.  I also didn\u0027t include everyone there as the are not all active.",
+      "revId": "67fe92ce1652389b456efced434a06af4220be17",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1f493fa4_28c1a72f",
         "filename": "doc/source/contributor/contributing.rst",
         "patchSetId": 4
