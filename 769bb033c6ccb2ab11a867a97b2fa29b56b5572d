@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f493fa4_0d438143",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-04-30T13:20:53Z",
+      "side": 1,
+      "message": "This isn\u0027t quite accurate. All official projects should be using this upper-constraints file which is what will set the upper limit for the projects.\n\nBut this looks good and is how we\u0027ve handled other libraries that have dropped py2 support to allow py3 runtimes to use the newer versions while restricting the (very few) projects still running py2 to use the last version available for that runtime.\n\nSwift is really the only one that should be still using py2, so if this isn\u0027t used by swift, we can just drop the cap and use the latest version in the upper constraints. But until we clean up the other py2 upper constraints, I think this is probably the best route to go.",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 55
+      },
+      "revId": "769bb033c6ccb2ab11a867a97b2fa29b56b5572d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
