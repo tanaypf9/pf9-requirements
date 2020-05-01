@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f493fa4_8cc2d883",
+        "filename": "tools/list-unused-packages.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-01T19:59:11Z",
+      "side": 1,
+      "message": "variables (everywhere) should use ${foo} instead of $foo",
+      "revId": "0d733f2606fa2418ff5a79437deb94668a00e7db",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f493fa4_ecbd5c02",
+        "filename": "tools/list-unused-packages.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-01T19:59:11Z",
+      "side": 1,
+      "message": "this is the bash function I use atm, it adds more files\nsearch_all_reqs() { beagle search --ignore-case --file \u0027(.*requirement.*|.*constraint.*|setup.cfg|tox.ini)\u0027 \"${1}\"\u0027[\u003e\u003c\u003d! ]\u0027 ; }\nsearch_reqs() { beagle search --ignore-case --file \u0027(.*requirement.*|setup.cfg)\u0027 \"${1}\"\u0027[\u003e\u003c\u003d! ]\u0027 ; }",
+      "revId": "0d733f2606fa2418ff5a79437deb94668a00e7db",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
