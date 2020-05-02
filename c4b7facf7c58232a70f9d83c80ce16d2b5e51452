@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f493fa4_b0839ea9",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-02T23:13:21Z",
+      "side": 1,
+      "message": "mind commenting here so we don\u0027t remove it again?",
+      "revId": "c4b7facf7c58232a70f9d83c80ce16d2b5e51452",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
