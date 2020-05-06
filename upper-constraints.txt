@@ -18,7 +18,7 @@ oslo.limit===1.0.2;python_version=='3.6'
 oslo.limit===1.0.2;python_version=='3.7'
 oslo.limit===1.0.2;python_version=='3.8'
 smmap===3.0.4
-confget===2.3.3
+confget===2.3.4
 XStatic-Angular-Bootstrap===2.5.0.0
 paunch===6.0.2
 WebOb===1.8.6
@@ -297,7 +297,10 @@ tornado===6.0.4;python_version=='3.6'
 tornado===6.0.4;python_version=='3.7'
 tornado===6.0.4;python_version=='3.8'
 pycparser===2.20
-mock===3.0.5
+mock===3.0.5;python_version=='2.7'
+mock===4.0.2;python_version=='3.6'
+mock===4.0.2;python_version=='3.7'
+mock===4.0.2;python_version=='3.8'
 PyYAML===5.3.1
 beautifulsoup4===4.9.0
 os-net-config===12.2.0
@@ -322,15 +325,15 @@ gunicorn===19.10.0;python_version=='2.7'
 gunicorn===20.0.4;python_version=='3.6'
 gunicorn===20.0.4;python_version=='3.7'
 gunicorn===20.0.4;python_version=='3.8'
-storpool===5.3.1
+storpool===5.4.0
 textfsm===1.1.0
 python-3parclient===4.2.11
 unittest2===1.1.0
 django-compressor===2.4
 libvirt-python===5.10.0;python_version=='2.7'
-libvirt-python===6.1.0;python_version=='3.6'
-libvirt-python===6.1.0;python_version=='3.7'
-libvirt-python===6.1.0;python_version=='3.8'
+libvirt-python===6.3.0;python_version=='3.6'
+libvirt-python===6.3.0;python_version=='3.7'
+libvirt-python===6.3.0;python_version=='3.8'
 python-zunclient===3.6.0;python_version=='2.7'
 python-zunclient===4.0.1;python_version=='3.6'
 python-zunclient===4.0.1;python_version=='3.7'
@@ -413,7 +416,7 @@ joblib===0.14.1;python_version=='3.6'
 joblib===0.14.1;python_version=='3.7'
 joblib===0.14.1;python_version=='3.8'
 hiredis===1.0.1
-google-api-python-client===1.8.0
+google-api-python-client===1.8.2
 castellan===1.4.0;python_version=='2.7'
 castellan===3.0.1;python_version=='3.6'
 castellan===3.0.1;python_version=='3.7'
@@ -468,7 +471,7 @@ oslo.middleware===4.0.2;python_version=='3.8'
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 notifier===1.0.3
 os-ken===0.4.1;python_version=='2.7'
 os-ken===1.0.0;python_version=='3.6'
@@ -502,7 +505,7 @@ shade===1.33.0
 XStatic-Dagre===0.6.4.0
 pathlib2===2.3.5
 pydotplus===2.0.2
-boto3===1.13.2
+boto3===1.13.3
 jeepney===0.4.3;python_version=='3.6'
 jeepney===0.4.3;python_version=='3.7'
 jeepney===0.4.3;python_version=='3.8'
@@ -660,7 +663,7 @@ numpy===1.16.6;python_version=='2.7'
 numpy===1.18.4;python_version=='3.6'
 numpy===1.18.4;python_version=='3.7'
 numpy===1.18.4;python_version=='3.8'
-msgpack===0.6.1
+msgpack===1.0.0
 Sphinx===1.8.5;python_version=='2.7'
 Sphinx===3.0.3;python_version=='3.6'
 Sphinx===3.0.3;python_version=='3.7'
@@ -694,7 +697,7 @@ construct===2.10.54;python_version=='2.7'
 construct===2.10.56;python_version=='3.6'
 construct===2.10.56;python_version=='3.7'
 construct===2.10.56;python_version=='3.8'
-pytest-metadata===1.8.0
+pytest-metadata===1.9.0
 pyparsing===2.4.7
 geomet===0.1.2
 distlib===0.3.0
@@ -715,7 +718,7 @@ oslo.upgradecheck===1.0.1;python_version=='3.7'
 oslo.upgradecheck===1.0.1;python_version=='3.8'
 stevedore===1.32.0
 pywinrm===0.4.1
-botocore===1.16.2
+botocore===1.16.3
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===5.17.1;python_version=='2.7'
@@ -767,9 +770,9 @@ subprocess32===3.5.4;python_version=='2.7'
 etcd3gw===0.2.5
 Flask-RESTful===0.3.8
 GitPython===2.1.11;python_version=='2.7'
-GitPython===3.1.1;python_version=='3.6'
-GitPython===3.1.1;python_version=='3.7'
-GitPython===3.1.1;python_version=='3.8'
+GitPython===3.1.2;python_version=='3.6'
+GitPython===3.1.2;python_version=='3.7'
+GitPython===3.1.2;python_version=='3.8'
 python-ironicclient===3.1.1;python_version=='2.7'
 python-ironicclient===4.1.0;python_version=='3.6'
 python-ironicclient===4.1.0;python_version=='3.7'
