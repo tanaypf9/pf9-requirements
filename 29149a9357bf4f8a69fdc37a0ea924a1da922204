@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f493fa4_c7b596f0",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 391,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-05-06T11:56:21Z",
+      "side": 1,
+      "message": "Missed adding the license.",
+      "revId": "29149a9357bf4f8a69fdc37a0ea924a1da922204",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
