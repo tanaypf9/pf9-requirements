@@ -79,7 +79,7 @@ def _freeze(requirements, python):
                 ['virtualenv', '-p', python, temp.path]))
             pip_bin = os.path.join(temp.path, 'bin', 'pip')
             output.append(subprocess.check_output(
-                [pip_bin, 'install', '-U', 'pip', 'setuptools', 'wheel']))
+                [pip_bin, 'install', '-U', '"git+https://github.com/pypa/pip"', 'setuptools', 'wheel']))
             output.append(subprocess.check_output(
                 [pip_bin, 'install', '-r', requirements]))
             freeze = subprocess.check_output(

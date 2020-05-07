@@ -1,5 +1,8 @@
 - hosts: all
   tasks:
+    - name: update local pip version
+      command: "pip3 install --user 'git+https://github.com/pypa/pip'"
+
     - name: Install openstack_requirements
       command: "pip3 install --user {{ zuul.projects['opendev.org/openstack/requirements'].src_dir }}"
 
