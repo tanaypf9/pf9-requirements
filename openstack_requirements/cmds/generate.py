@@ -81,7 +81,7 @@ def _freeze(requirements, python):
             output.append(subprocess.check_output(
                 [pip_bin, 'install', '-U', 'pip', 'setuptools', 'wheel']))
             output.append(subprocess.check_output(
-                [pip_bin, 'install', '-r', requirements]))
+                [pip_bin, 'install', '--use-feature=2020-resolver', '-r', requirements]))
             freeze = subprocess.check_output(
                 [pip_bin, 'freeze'])
             output.append(freeze)
