@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_7cc27535",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 447,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2020-05-11T21:53:29Z",
+      "side": 1,
+      "message": "Shouldn\u0027t it be 0.3.0 instead? Ocata was released on 2017-02-22. And stestr 0.4.0 was released on 2017-03-18 according to https://pypi.org/project/stestr/#history.",
+      "revId": "b1fba7ce21678b49c4315b744dee20b0e6bda866",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
