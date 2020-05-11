@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_9cc9497a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 397,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2020-05-11T21:47:27Z",
+      "side": 1,
+      "message": "why 0.4.0? Ocata was released on 2017-02-22 so shouldn\u0027t it be 0.3.0 instead?",
+      "revId": "cb0d5b0e381c8aea0c1df5016a278ca2527e5cd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
