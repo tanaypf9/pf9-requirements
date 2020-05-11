@@ -69,6 +69,23 @@
       "revId": "7e115794c871be88f1d3b6c14e8d30c7c33c2f55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_c57ac086",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 397,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2020-05-11T23:48:17Z",
+      "side": 1,
+      "message": "sadly, looks like tempest doesn\u0027t support this version as it required run_command to be available from stestr. See\nhttps://a2c69b6a3f4409c0a8e5-fd7c33395ff4d879bfcb5ff66f32813e.ssl.cf5.rackcdn.com/718202/5/check/legacy-tempest-dsvm-neutron-full/eb26922/job-output.txt\nWe\u0027ll need to make this 2.0.0, same as Pike.",
+      "revId": "7e115794c871be88f1d3b6c14e8d30c7c33c2f55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
