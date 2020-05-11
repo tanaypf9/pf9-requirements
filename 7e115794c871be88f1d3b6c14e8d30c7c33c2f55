@@ -45,6 +45,30 @@
       "revId": "7e115794c871be88f1d3b6c14e8d30c7c33c2f55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_0a9e8755",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1916
+      },
+      "writtenOn": "2020-05-11T22:56:47Z",
+      "side": 1,
+      "message": "But it will fail during globa-requirement resolution stage. If I understand the logs correctly, the upper-constraints part hasn\u0027t come into play yet. https://zuul.opendev.org/t/openstack/build/2d86136753954a9ab9f343a04732b942",
+      "parentUuid": "ff570b3c_3f210fb6",
+      "range": {
+        "startLine": 99,
+        "startChar": 23,
+        "endLine": 100,
+        "endChar": 62
+      },
+      "revId": "7e115794c871be88f1d3b6c14e8d30c7c33c2f55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
