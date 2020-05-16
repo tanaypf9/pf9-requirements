@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "ff570b3c_c7c25659",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 276,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-16T16:46:48Z",
+      "side": 1,
+      "message": "I think it\u0027s because it\u0027s brought in by salt, which has problems with py38",
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ff570b3c_67e8aae1",
         "filename": "upper-constraints.txt",
         "patchSetId": 3
@@ -42,6 +59,23 @@
         "endLine": 498,
         "endChar": 49
       },
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_27b4f2f1",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-16T16:46:48Z",
+      "side": 1,
+      "message": "same, with salt",
       "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
