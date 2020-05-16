@@ -97,6 +97,23 @@
       "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_677f0a15",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-16T17:07:22Z",
+      "side": 1,
+      "message": "I saw that, but I don\u0027t think the charms stuff is still actively developed. For instance, they cap it but we\u0027ve been on a newer version for a while.\n| openstack/charm-cinder-purestorage         | requirements.txt      |    9 | importlib-resources\u003c1.1.0                              |",
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
