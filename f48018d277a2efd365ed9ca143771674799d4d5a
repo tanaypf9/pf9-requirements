@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_07e0cef9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 276,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-05-16T16:37:56Z",
+      "side": 1,
+      "message": "Any idea why this is added? Looks like the package does some weird py2-to-3 conversion on the fly during install. I can\u0027t find anything there stating it is only 3.6 or lower.",
+      "range": {
+        "startLine": 276,
+        "startChar": 16,
+        "endLine": 276,
+        "endChar": 38
+      },
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_67e8aae1",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-05-16T16:37:56Z",
+      "side": 1,
+      "message": "This too. Looks like they support 3.5 or later.",
+      "range": {
+        "startLine": 498,
+        "startChar": 27,
+        "endLine": 498,
+        "endChar": 49
+      },
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
