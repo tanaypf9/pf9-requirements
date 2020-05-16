@@ -79,6 +79,24 @@
       "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_4793e65b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-05-16T16:58:33Z",
+      "side": 1,
+      "message": "pycrypto is probably safe, but looks like several of the charm-* repos have this listed as a requirement too.",
+      "parentUuid": "ff570b3c_27b4f2f1",
+      "revId": "f48018d277a2efd365ed9ca143771674799d4d5a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
