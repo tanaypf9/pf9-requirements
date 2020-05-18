@@ -1,50 +1,9 @@
 - project:
     templates:
       - openstack-python3-victoria-jobs
-    check:
+    check-arm64:
       jobs:
-        - build-wheel-mirror-centos-7:
-            files:
-              - bindep.txt
-        - build-wheel-mirror-ubuntu-bionic:
-            files:
-              - bindep.txt
-        - build-wheel-mirror-ubuntu-xenial:
-            files:
-              - bindep.txt
-        - openstack-tox-validate
-        - requirements-tox-babel
-        - requirements-tox-bindep:
-            voting: false
-        - requirements-tox-py36-check-uc
-        - requirements-tox-py38-check-uc
-        - requirements-tox-validate-projects:
-            voting: false
-        - cross-cinder-py36
-        - cross-glance-py36
-        - cross-horizon-py36
-        - cross-horizon-npm
-        - cross-keystone-py36
-        - cross-neutron-py36
-        - cross-nova-py36
-        - cross-nova-functional
-        - cross-octavia-py36
-        - cross-osc-tox-docs
-        - cross-swift-py36
-        - openstack-tox-py36
-        - openstacksdk-functional-devstack
-        - neutron-grenade-multinode:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - tempest-full-py3:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
-        - grenade:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
+        - requirements-tox-py38-check-uc-aarch64
     gate:
       jobs:
         - build-wheel-mirror-centos-7:
