@@ -62,3 +62,8 @@ unzip [test]
 # NOTE(pabelanger): You must first enable epel to install parallel RPM on
 # centos-7.
 parallel [test]
+
+# NOTE(hrw): needed for numpy/scipy
+libblas-dev [platform:dpkg]
+liblapack-dev [platform:dpkg]
+liblbfgsb-dev [platform:dpkg]

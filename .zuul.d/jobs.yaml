@@ -55,3 +55,12 @@
     vars:
       tox_envlist: bindep
 
+- job:
+    name: requirements-tox-py36-check-uc-aarch64
+    parent: requirements-tox-py36-check-uc
+    nodeset: ubuntu-bionic-arm64
+
+- job:
+    name: requirements-tox-py38-check-uc-aarch64
+    parent: requirements-tox-py38-check-uc
+    nodeset: ubuntu-bionic-arm64
