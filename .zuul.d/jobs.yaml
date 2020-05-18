@@ -55,3 +55,22 @@
     vars:
       tox_envlist: bindep
 
+- job:
+    name: requirements-tox-py37-check-uc-aarch64
+    parent: openstack-tox-py37
+    nodeset: debian-buster-arm64
+    description: |
+      Run test for requirements project.
+
+      Uses tox with the ``py37-check-uc`` environment.
+    files: ^upper-constraints.*txt$
+    timeout: 7200
+    vars:
+      tox_envlist: py37-check-uc
+      ansible_python_interpreter: python3
+
+- nodeset:
+    name: debian-buster-arm64
+    nodes:
+      - name: debian-buster-arm64
+        label: debian-buster-arm64
