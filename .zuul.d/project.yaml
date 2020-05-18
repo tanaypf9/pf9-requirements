@@ -45,6 +45,10 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
+    check-arm64:
+      jobs:
+        - requirements-tox-py36-check-uc-aarch64
+        - requirements-tox-py38-check-uc-aarch64
     gate:
       jobs:
         - build-wheel-mirror-centos-7:
