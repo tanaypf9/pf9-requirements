@@ -1,0 +1,47 @@
+- hosts: all
+  tasks:
+    - name: Build and install librdkafka 1.4.0+
+      block:
+        - name: Install librdkafka build dependencies
+          apt:
+            name:
+              - liblz4-dev
+              - libsasl2-dev
+              - libssl-dev
+              - libzstd-dev
+              - python3
+              - zlib1g-dev
+              - debhelper
+              - devscripts
+              - wget
+              - build-essential
+            state: present
+            install_recommends: no
+          become: true
+
+        - name: Create build directory
+          tempfile:
+            state: directory
+          register: build_dir
+
+        - name: Fetch librdkafka from Debian 'testing'
+          command: "dget -u http://deb.debian.org/debian/pool/main/libr/librdkafka/librdkafka_1.4.2-1.dsc"
+          args:
+            chdir: "{{ build_dir.path }}"
+
+          # NOTE(hrw): use '-d' to skip 'error: Unmet build dependencies: debhelper-compat (= 13)'
+        - name: Build librdkafka package
+          command: "dpkg-buildpackage -b -d"
+          args:
+            chdir: "{{ build_dir.path }}/librdkafka-1.4.2/"
+
+        - name: List results
+          command: "ls {{ build_dir.path }}/* -l"
+
+        - name: Install librdkafka packages
+          apt:
+            deb:
+              - "{{ build_dir.path }}/librdkafka++1_1.4.2-1_arm64.deb"
+              - "{{ build_dir.path }}/librdkafka-dev_1.4.2-1_arm64.deb"
+              - "{{ build_dir.path }}/librdkafka1_1.4.2-1_arm64.deb"
+          become: true
