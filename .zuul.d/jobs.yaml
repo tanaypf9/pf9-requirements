@@ -55,3 +55,22 @@
     vars:
       tox_envlist: bindep
 
+- job:
+    name: requirements-tox-py36-check-uc-aarch64
+    parent: requirements-tox-py36-check-uc
+    nodeset: debian-buster-arm64
+    vars:
+      ansible_python_interpreter: python3
+
+- job:
+    name: requirements-tox-py38-check-uc-aarch64
+    parent: requirements-tox-py38-check-uc
+    nodeset: debian-buster-arm64
+    vars:
+      ansible_python_interpreter: python3
+
+- nodeset:
+    name: debian-buster-arm64
+    nodes:
+      - name: debian-buster-arm64
+        label: debian-buster-arm64
