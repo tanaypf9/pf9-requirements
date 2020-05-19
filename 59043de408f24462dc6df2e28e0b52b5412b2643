@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_d2ef81e6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 528,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-19T20:34:00Z",
+      "side": 1,
+      "message": "is zipp not used with newer python?",
+      "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
