@@ -34,6 +34,23 @@
       "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_38c4c23f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 528,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-20T21:43:44Z",
+      "side": 1,
+      "message": "what I mean is that zipp is unconstrained for python!\u003d3.5, the line added to upper-constraints.txt only applies to python3.5",
+      "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
