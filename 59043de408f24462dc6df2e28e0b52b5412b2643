@@ -69,6 +69,23 @@
       "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_09dd2edf",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 528,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-21T01:46:55Z",
+      "side": 1,
+      "message": "yep, that should something like zipp\u003d\u003d\u003d3.1.0;python_version\u003e\u003d\u00273.6\u0027",
+      "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
