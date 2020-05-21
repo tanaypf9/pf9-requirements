@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_4858ae2f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 353,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2020-05-21T18:44:17Z",
+      "side": 1,
+      "message": "again not available on aarch64 ;(",
+      "range": {
+        "startLine": 353,
+        "startChar": 0,
+        "endLine": 353,
+        "endChar": 17
+      },
+      "revId": "5fa1d7c96c2ddfd53d1829333388fed85b910f15",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
