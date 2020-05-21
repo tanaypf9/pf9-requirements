@@ -51,6 +51,24 @@
       "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_89165ea7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 528,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2020-05-21T01:30:50Z",
+      "side": 1,
+      "message": "ohk, 3.1.0 version at L529 works fine for py3.6. should we explicitly constraint that also?",
+      "parentUuid": "ff570b3c_38c4c23f",
+      "revId": "59043de408f24462dc6df2e28e0b52b5412b2643",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
