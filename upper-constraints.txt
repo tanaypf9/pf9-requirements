@@ -119,7 +119,10 @@ pymongo===3.10.1
 python-cloudkittyclient===4.0.0
 soupsieve===2.0.1
 sqlparse===0.3.1
-oslotest===4.2.0
+oslotest===3.9.0;python_version=='3.5'
+oslotest===4.2.0;python_version=='3.6'
+oslotest===4.2.0;python_version=='3.7'
+oslotest===4.2.0;python_version=='3.8'
 jsonpointer===2.0
 defusedxml===0.6.0
 netaddr===0.7.19
@@ -155,7 +158,10 @@ XStatic-lodash===4.16.4.1
 zVMCloudConnector===1.4.1
 paramiko===2.7.1
 ifaddr===0.1.6
-reno===3.1.0
+reno===2.11.3;python_version=='3.5'
+reno===3.1.0;python_version=='3.6'
+reno===3.1.0;python_version=='3.7'
+reno===3.1.0;python_version=='3.8'
 imagesize===1.2.0
 pydot===1.4.1
 urllib3===1.25.9
