@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_9c031774",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-22T18:55:29Z",
+      "side": 1,
+      "message": "\u003e\u003d3.0 will override the \u003c3.5 for py35 (same for the other lines (config, utils as well).",
+      "revId": "512b53e9ec626a1dbac1d76580eb7bbbffc859ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
