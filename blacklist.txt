@@ -38,3 +38,6 @@ sahara
 
 # Projects are free to specify their own version of ansible
 ansible
+
+# deployment projects are independendant of openstack
+salt
