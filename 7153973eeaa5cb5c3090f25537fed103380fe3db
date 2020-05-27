@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_37e62146",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 7
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2020-05-27T19:53:56Z",
+      "side": 1,
+      "message": "Don\u0027t forget to update this when you settle on the correct version for stestr.",
+      "range": {
+        "startLine": 22,
+        "startChar": 20,
+        "endLine": 22,
+        "endChar": 34
+      },
+      "revId": "7153973eeaa5cb5c3090f25537fed103380fe3db",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
