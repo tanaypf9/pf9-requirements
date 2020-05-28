@@ -2,6 +2,29 @@
   "comments": [
     {
       "key": {
+        "uuid": "ff570b3c_3e9f0a04",
+        "filename": "bindep.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-05-28T15:48:54Z",
+      "side": 1,
+      "message": "WE have this for other platforms here, so python3-devel for rpm complements this.",
+      "range": {
+        "startLine": 37,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 27
+      },
+      "revId": "50c098d42b0197ab016039072559ef5240ac8da7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ff570b3c_1eede68a",
         "filename": "bindep.txt",
         "patchSetId": 6
@@ -13,6 +36,24 @@
       "writtenOn": "2020-05-28T15:47:53Z",
       "side": 1,
       "message": "should this be only for platform:centos-8 (as this will be pulled in by other cent versions I imagine)",
+      "revId": "50c098d42b0197ab016039072559ef5240ac8da7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_be92faf4",
+        "filename": "bindep.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-05-28T15:48:54Z",
+      "side": 1,
+      "message": "I think it\u0027s fine, see my comment above.",
+      "parentUuid": "ff570b3c_1eede68a",
       "revId": "50c098d42b0197ab016039072559ef5240ac8da7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
