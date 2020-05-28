@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_210534c3",
+        "filename": "bindep.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2020-05-28T07:34:41Z",
+      "side": 1,
+      "message": "libzmq3-dev [platform:dpkg !platform:ubuntu-xenial]",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 36
+      },
+      "revId": "e8e39eac21e38340c0be9e55056a00288e10feb8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}

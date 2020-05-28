@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_c168b888",
+        "filename": "bindep.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2020-05-28T07:34:41Z",
+      "side": 0,
+      "message": "libzmq-dev [platform:ubuntu-xenial]\n\nDebian stretch+ and Ubuntu bionic+ use libzmq3-dev",
+      "range": {
+        "startLine": 22,
+        "startChar": 0,
+        "endLine": 22,
+        "endChar": 50
+      },
+      "revId": "d21518b0e3f766afc5b4912524b38e28b589557e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
