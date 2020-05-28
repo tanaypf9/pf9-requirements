@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_448676dd",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 356,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2020-05-28T09:08:59Z",
+      "side": 1,
+      "message": "this version installs on aarch64 etc.\n\nUpstream\u0027 person responsible for uploads learnt new tricks.",
+      "range": {
+        "startLine": 356,
+        "startChar": 0,
+        "endLine": 356,
+        "endChar": 17
+      },
+      "revId": "c6c525e3da6930fb1350c6d95b276be19cb8ca67",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
