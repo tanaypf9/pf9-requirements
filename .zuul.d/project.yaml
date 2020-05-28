@@ -3,19 +3,19 @@
       - openstack-python3-victoria-jobs
     check:
       jobs:
-        - build-wheel-mirror-centos-7:
+        - build-wheel-cache-centos-7:
             files:
               - bindep.txt
-        - build-wheel-mirror-centos-8:
+        - build-wheel-cache-centos-8:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-xenial:
+        - build-wheel-cache-ubuntu-xenial:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-bionic:
+        - build-wheel-cache-ubuntu-bionic:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-focal:
+        - build-wheel-cache-ubuntu-focal:
             files:
               - bindep.txt
         - openstack-tox-validate
@@ -53,33 +53,33 @@
               - ^setup.cfg$
     check-arm64:
       jobs:
-        - build-wheel-mirror-centos-8-arm64:
+        - build-wheel-cache-centos-8-arm64:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-xenial-arm64:
+        - build-wheel-cache-ubuntu-xenial-arm64:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-bionic-arm64:
+        - build-wheel-cache-ubuntu-bionic-arm64:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-focal-arm64:
+        - build-wheel-cache-ubuntu-focal-arm64:
             files:
               - bindep.txt
     gate:
       jobs:
-        - build-wheel-mirror-centos-7:
+        - build-wheel-cache-centos-7:
             files:
               - bindep.txt
-        - build-wheel-mirror-centos-8:
+        - build-wheel-cache-centos-8:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-xenial:
+        - build-wheel-cache-ubuntu-xenial:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-bionic:
+        - build-wheel-cache-ubuntu-bionic:
             files:
               - bindep.txt
-        - build-wheel-mirror-ubuntu-focal:
+        - build-wheel-cache-ubuntu-focal:
             files:
               - bindep.txt
         - openstack-tox-validate
