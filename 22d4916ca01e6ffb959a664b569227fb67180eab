@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_6c8c2a7f",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-05-29T12:24:58Z",
+      "side": 1,
+      "message": "This is the important information, this is not for just running but for building everything in global-requirements.",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 26
+      },
+      "revId": "22d4916ca01e6ffb959a664b569227fb67180eab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
