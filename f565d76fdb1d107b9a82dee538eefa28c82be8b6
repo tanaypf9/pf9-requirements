@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_dbb7f5d7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 7118
+      },
+      "writtenOn": "2020-05-29T01:47:00Z",
+      "side": 1,
+      "message": "oops, for the record I reorganised this change -- initially it was on the bottom and then other changes fixed things, and then i inverted things to fix the dependencies and add the job.  so these jobs do work :)",
+      "range": {
+        "startLine": 17,
+        "startChar": 30,
+        "endLine": 18,
+        "endChar": 23
+      },
+      "revId": "f565d76fdb1d107b9a82dee538eefa28c82be8b6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
