@@ -1,5 +1,5 @@
 # These are needed to build all the things in global-requirements, which we do
-# for integration testing.
+# for integration testing and for wheel building.
 
 app-crypt/mit-krb5 [platform:gentoo]
 krb5-devel [platform:redhat]
@@ -51,29 +51,28 @@ python-numpy [python]
 python-yaml [python]
 
 # NOTE(dirk) needed for PyECLib
-liberasurecode-dev [platform:dpkg]
-liberasurecode-devel [platform:rpm] # RDO repo
-dev-libs/liberasurecode [platform:gentoo]
-libsystemd-dev [platform:dpkg !platform:ubuntu-trusty]
-libsystemd-journal-dev [platform:ubuntu-trusty]
+liberasurecode-dev [platform:dpkg wheel]
+liberasurecode-devel [platform:rpm wheel] # RDO repo
+dev-libs/liberasurecode [platform:gentoo wheel]
+libsystemd-dev [platform:dpkg !platform:ubuntu-trusty wheel]
+libsystemd-journal-dev [platform:ubuntu-trusty wheel]
 
-libpcre3-dev [platform:dpkg]
-pcre-devel [platform:rpm]
+libpcre3-dev [platform:dpkg wheel]
+pcre-devel [platform:rpm wheel]
 
 # NOTE(pabelanger): Needed for build-wheel-mirror jobs
-gawk [test]
-unzip [test]
+gawk [wheel]
+unzip [wheel]
 # NOTE(pabelanger): You must first enable epel to install parallel RPM on
 # centos-7.
-parallel [test]
+parallel [wheel]
 
 # NOTE(hrw): Needed for numpy/scipy
-gfortran [platform:dpkg]
-liblapack-dev [platform:dpkg]
-libopenblas-dev [platform:dpkg]
-gcc-c++ [platform:rpm]
-gcc-gfortran [platform:rpm]
-lapack-devel [platform:rpm]
-openblas-devel [platform:rpm !platform:centos-7]
-blas-devel [platform:centos-7]
-
+gfortran [platform:dpkg wheel]
+liblapack-dev [platform:dpkg wheel]
+libopenblas-dev [platform:dpkg wheel]
+gcc-c++ [platform:rpm wheel]
+gcc-gfortran [platform:rpm wheel]
+lapack-devel [platform:rpm wheel]
+openblas-devel [platform:rpm !platform:centos-7 wheel]
+blas-devel [platform:centos-7 wheel]
