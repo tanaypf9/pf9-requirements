@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_510e133b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-30T18:15:59Z",
+      "side": 1,
+      "message": "a few of these are still needed for normal runs, is it possible to duplicate the lines , so they are still installed by default?",
+      "revId": "ba41b7cd957dde33ebde8754730e531f2d5a195d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_310b9f2a",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-05-30T18:15:59Z",
+      "side": 1,
+      "message": "the above 5 lines are needed for basic jobs (generate constraints so should not be restricted to just wheel)",
+      "revId": "ba41b7cd957dde33ebde8754730e531f2d5a195d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
