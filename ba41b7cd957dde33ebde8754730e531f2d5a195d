@@ -33,6 +33,24 @@
       "revId": "ba41b7cd957dde33ebde8754730e531f2d5a195d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_f47f5563",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-05-30T19:31:13Z",
+      "side": 1,
+      "message": "In that case, bindep.txt is used for both wheels and generate-constraints. We don\u0027t need the numpy/scipy below since we run on x86-64 where we have wheels...",
+      "parentUuid": "ff570b3c_310b9f2a",
+      "revId": "ba41b7cd957dde33ebde8754730e531f2d5a195d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
