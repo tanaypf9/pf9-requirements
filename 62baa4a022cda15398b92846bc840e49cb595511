@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_cddf0664",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-06-02T12:14:31Z",
+      "side": 1,
+      "message": "Please include answers for the following questions in the commit message:\n\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements",
+      "revId": "62baa4a022cda15398b92846bc840e49cb595511",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
