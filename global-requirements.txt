@@ -32,6 +32,7 @@ PuLP  # MIT
 croniter  # MIT License
 cryptography!=2.0  # BSD/Apache-2.0
 cursive  # Apache-2.0
+daemonize  # MIT
 dataclasses;python_version=='3.6'  # Apache-2.0
 ddt  # MIT
 debtcollector<2.0.0;python_version<'3.6'  # Apache-2.0

@@ -582,3 +582,4 @@ sysv-ipc===1.0.1
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.23.1
 pytest-xdist===1.32.0
+daemonize===2.5.0
