@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 03 Jun 2020 02:22:21 +0000
+Reviewed-on: https://review.opendev.org/733008
+Project: openstack/requirements
+Branch: refs/heads/stable/stein
