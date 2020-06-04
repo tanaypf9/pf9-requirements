@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff570b3c_91c85222",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-06-04T19:05:41Z",
+      "side": 1,
+      "message": "not being maintained basically maskes this a non-starter",
+      "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_71cbfe1c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-06-04T19:05:41Z",
+      "side": 1,
+      "message": "while this should work with newer pythons, even newer pythons may change something it needs.",
+      "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_d1ce4a2b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-06-04T19:05:41Z",
+      "side": 1,
+      "message": "another problem is that I think this is covered by other libaries already in global-requirements",
+      "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
