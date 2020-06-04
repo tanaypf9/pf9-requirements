@@ -16,6 +16,24 @@
       "revId": "62baa4a022cda15398b92846bc840e49cb595511",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_74c77a65",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2020-06-04T08:56:02Z",
+      "side": 1,
+      "message": "I replied, although I would like to point out that this is not exactly a \"new\" entry, it\u0027s used by Molteniron since a while.\nI added the request because we found out of the missing lib in requirements from here: https://review.opendev.org/731967",
+      "parentUuid": "ff570b3c_cddf0664",
+      "revId": "62baa4a022cda15398b92846bc840e49cb595511",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
