@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "ff570b3c_551e9f6f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2020-06-05T07:11:33Z",
+      "side": 1,
+      "message": "yeah, it was a long shot\nI guess we\u0027ll have to migrate to something different",
+      "parentUuid": "ff570b3c_91c85222",
+      "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "ff570b3c_71cbfe1c",
         "filename": "/COMMIT_MSG",
         "patchSetId": 3
@@ -47,6 +65,24 @@
       "writtenOn": "2020-06-04T19:05:41Z",
       "side": 1,
       "message": "another problem is that I think this is covered by other libaries already in global-requirements",
+      "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ff570b3c_751be37f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2020-06-05T07:11:33Z",
+      "side": 1,
+      "message": "Can you please point me to some alternative already in global-requirements?",
+      "parentUuid": "ff570b3c_d1ce4a2b",
       "revId": "a790193016fdba1a5ae13536c6b3edc3e9fb6275",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
