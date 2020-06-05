@@ -382,7 +382,7 @@ XStatic-tv4  # MIT
 XStatic-Angular-FileUpload  # MIT License
 yaql  # Apache 2.0 License
 # NOTE(dtantsur): zeroconf dropped compatibility with Python 2 in version 0.20
-zeroconf  # LGPL
+zeroconf!=0.27.0,!=0.27.1   # LGPL
 
 # Testing tools below, which are typically in test-requires.txt
 
