@@ -85,6 +85,14 @@
       tox_envlist: py36
 
 - job:
+    name: cross-ironic-py36
+    parent: requirements-cross-test
+    description: Run cross-project tests on ironic with py36.
+    required-projects: openstack/ironic
+    vars:
+      tox_envlist: py36
+
+- job:
     name: cross-neutron-py36
     parent: requirements-cross-test
     description: Run cross-project tests on neutron with py36.
