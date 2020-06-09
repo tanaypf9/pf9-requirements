@@ -17,7 +17,7 @@ import sys
 import textwrap
 
 import fixtures
-import mock
+from unittest import mock
 import testscenarios
 import testtools
 from testtools import matchers
