@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Bernard Cafarelli <bcafarel@redhat.com>
+Code-Review+1: Rodolfo Alonso Hernandez <ralonsoh@redhat.com>
+Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 09 Jun 2020 20:55:55 +0000
+Reviewed-on: https://review.opendev.org/733927
+Project: openstack/requirements
+Branch: refs/heads/stable/train
