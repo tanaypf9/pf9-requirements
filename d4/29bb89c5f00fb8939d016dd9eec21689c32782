@@ -1,0 +1,11 @@
+Code-Review+2: Monty Taylor <mordred@inaugust.com>
+Code-Review+1: Artem Goncharov <artem.goncharov@gmail.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 12 Jun 2020 19:25:46 +0000
+Reviewed-on: https://review.opendev.org/735372
+Project: openstack/requirements
+Branch: refs/heads/master
