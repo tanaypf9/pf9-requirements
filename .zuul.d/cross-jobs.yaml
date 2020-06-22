@@ -23,7 +23,7 @@
 
 - job:
     name: requirements-cross-npm
-    parent: nodejs-npm-run-test
+    parent: nodejs-run-test
     timeout: 2400
     description: |
       A parent job to perform cross-repository npm tests.
