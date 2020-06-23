@@ -16,6 +16,24 @@
       "revId": "6d6ee0529218dca0cb817a6a22e4d3e615d384d4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_3f8b441f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2020-06-23T18:58:47Z",
+      "side": 1,
+      "message": "Good point, thanks, comment added.",
+      "parentUuid": "bf51134e_21c84d20",
+      "revId": "6d6ee0529218dca0cb817a6a22e4d3e615d384d4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
