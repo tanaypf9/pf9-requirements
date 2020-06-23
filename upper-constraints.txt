@@ -52,7 +52,6 @@ python-senlinclient===2.0.1
 rcssmin===1.0.6
 pycadf===3.0.0
 grpcio===1.29.0
-skydive-client===0.8.0
 pysendfile===2.0.1
 fixtures===3.0.0
 neutron-lib===2.4.0
