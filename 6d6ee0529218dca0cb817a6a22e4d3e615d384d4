@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_21c84d20",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 6928
+      },
+      "writtenOn": "2020-06-23T17:29:07Z",
+      "side": 1,
+      "message": "Might be nice to leave a comment on the amqp cap that makes it clear it\u0027s only for kombu.",
+      "revId": "6d6ee0529218dca0cb817a6a22e4d3e615d384d4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
