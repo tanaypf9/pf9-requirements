@@ -23,7 +23,6 @@ yamllint
 horizon
 networking-bagpipe
 networking-bgpvpn
-networking-l2gw
 networking-odl
 networking-sfc
 neutron
