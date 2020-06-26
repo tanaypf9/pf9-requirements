@@ -52,6 +52,24 @@
       "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_c0583232",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2020-06-26T15:24:02Z",
+      "side": 0,
+      "message": "yeah, let\u0027s wait till we have new location of this repo. and if name stay same then its all good here.",
+      "parentUuid": "bf51134e_00106a4d",
+      "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
