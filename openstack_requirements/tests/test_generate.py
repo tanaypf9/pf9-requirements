@@ -10,7 +10,7 @@
 #    License for the specific language governing permissions and limitations
 #    under the License.
 
-import os.path
+import sys
 
 import fixtures
 import testtools
@@ -22,16 +22,14 @@ from openstack_requirements.cmds import generate
 class TestFreeze(testtools.TestCase):
 
     def test_freeze_smoke(self):
-        # Use an aribtrary python. The installation of virtualenv system wide
-        # is presumed.
-        versions = ['/usr/bin/python%(v)s' % dict(v=v) for v in
-                    ["2.7", "3.4"]]
-        found = [v for v in versions if os.path.exists(v)][0]
+        # Assume the default python3 runtime is running a version of python
+        # that includes the venv module.
         req = self.useFixture(fixtures.TempDir()).path + '/r.txt'
         with open(req, 'wt') as output:
             output.write('fixtures==1.2.0')
-        frozen = generate._freeze(req, found)
-        expected_version = found[-3:]
+        frozen = generate._freeze(req, '/usr/bin/python3')
+        verinfo = sys.version_info
+        expected_version = '{}.{}'.format(verinfo.major, verinfo.minor)
         self.expectThat(frozen, matchers.HasLength(2))
         self.expectThat(frozen[0], matchers.Equals(expected_version))
         # There are multiple items in the dependency tree of fixtures.
