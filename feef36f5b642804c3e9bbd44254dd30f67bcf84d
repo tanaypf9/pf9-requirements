@@ -34,6 +34,24 @@
       "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_00106a4d",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 6547
+      },
+      "writtenOn": "2020-06-26T15:19:10Z",
+      "side": 0,
+      "message": "Let\u0027s wait on this change a bit to see how this evolves - I\u0027m sure the original author can update.",
+      "parentUuid": "bf51134e_f5009636",
+      "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
