@@ -22,21 +22,21 @@ from openstack_requirements.cmds import generate
 class TestFreeze(testtools.TestCase):
 
     def test_freeze_smoke(self):
-        # Use an aribtrary python. The installation of virtualenv system wide
-        # is presumed.
-        versions = ['/usr/bin/python%(v)s' % dict(v=v) for v in
-                    ["2.7", "3.4"]]
-        found = [v for v in versions if os.path.exists(v)][0]
+        # Use an arbitrary python.
+        versions = ['/usr/bin/python3.%(v)s' % dict(v=v) for v in range(5, 10)]
+        # Grab the latest version available as that is the most likely to
+        # break.
+        found = [v for v in versions if os.path.exists(v)][-1]
         req = self.useFixture(fixtures.TempDir()).path + '/r.txt'
         with open(req, 'wt') as output:
-            output.write('fixtures==1.2.0')
+            output.write('fixtures==2.0.0')
         frozen = generate._freeze(req, found)
         expected_version = found[-3:]
         self.expectThat(frozen, matchers.HasLength(2))
         self.expectThat(frozen[0], matchers.Equals(expected_version))
         # There are multiple items in the dependency tree of fixtures.
         # Since this is a smoke test, just ensure fixtures is there.
-        self.expectThat(frozen[1], matchers.Contains(('fixtures', '1.2.0')))
+        self.expectThat(frozen[1], matchers.Contains(('fixtures', '2.0.0')))
 
 
 class TestParse(testtools.TestCase):
