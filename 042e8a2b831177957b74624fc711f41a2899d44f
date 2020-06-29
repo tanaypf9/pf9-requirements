@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_d8bacd08",
+        "filename": "playbooks/requirements-check.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2020-06-29T22:42:05Z",
+      "side": 1,
+      "message": "Isn\u0027t this missing an include_role\n\n    - name: Ensure virtualenv\n      include_role:\n        name: ensure-virtualenv\n\n?",
+      "revId": "042e8a2b831177957b74624fc711f41a2899d44f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
