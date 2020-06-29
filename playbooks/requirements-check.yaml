@@ -3,6 +3,8 @@
     - name: Ensure pip
       include_role:
         name: ensure-pip
+    - name: Ensure virtualenv
+        name: ensure-virtualenv
 
   tasks:
     - name: Install openstack_requirements
