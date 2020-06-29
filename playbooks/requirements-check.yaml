@@ -1,4 +1,9 @@
 - hosts: all
+  pre_tasks:
+    - name: Ensure virtualenv
+      include_role:
+        name: ensure-virtualenv
+
   tasks:
     - name: Run requirements check script
       # Use command module here instead of script since Zuul gets output
