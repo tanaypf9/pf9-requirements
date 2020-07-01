@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Workflow+1: Hervé Beraud <hberaud@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 01 Jul 2020 13:27:07 +0000
+Reviewed-on: https://review.opendev.org/738227
+Project: openstack/requirements
+Branch: refs/heads/master
