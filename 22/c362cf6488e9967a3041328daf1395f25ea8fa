@@ -1,0 +1,8 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 02 Jul 2020 17:15:19 +0000
+Reviewed-on: https://review.opendev.org/739014
+Project: openstack/requirements
+Branch: refs/heads/master
