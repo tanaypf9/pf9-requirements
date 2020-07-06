@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 06 Jul 2020 13:57:01 +0000
+Reviewed-on: https://review.opendev.org/739294
+Project: openstack/requirements
+Branch: refs/heads/master
