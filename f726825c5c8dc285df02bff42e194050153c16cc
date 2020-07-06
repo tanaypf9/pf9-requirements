@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_d27c1a22",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 554,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-07-06T12:58:25Z",
+      "side": 1,
+      "message": "Please add a comment before this line stating why it is being capped so we have a clue to be able to clean it out later. Or also, so we know why we need to have this in here and don\u0027t accidentally clean it up and start breaking things again.",
+      "revId": "f726825c5c8dc285df02bff42e194050153c16cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
