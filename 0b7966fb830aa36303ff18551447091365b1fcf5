@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_cc547d57",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 554,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2020-07-07T08:46:42Z",
+      "side": 1,
+      "message": "Those comments are failing: https://3acc9cfe86c73e0b9f36-7e99faa49825bae402c407abe16f9348.ssl.cf5.rackcdn.com/739469/4/check/openstack-tox-validate/99369ed/job-output.txt",
+      "revId": "0b7966fb830aa36303ff18551447091365b1fcf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
