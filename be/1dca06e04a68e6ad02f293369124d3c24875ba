@@ -1,0 +1,8 @@
+Code-Review+2: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Workflow+1: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 07 Jul 2020 12:36:24 +0000
+Reviewed-on: https://review.opendev.org/739469
+Project: openstack/requirements
+Branch: refs/heads/master
