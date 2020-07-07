@@ -16,6 +16,24 @@
       "revId": "0b7966fb830aa36303ff18551447091365b1fcf5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_7f39873d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 554,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2020-07-07T09:08:14Z",
+      "side": 1,
+      "message": "I\u0027d say just drop them, we\u0027ll need to keep track of this via the commit message and the bug report.",
+      "parentUuid": "bf51134e_cc547d57",
+      "revId": "0b7966fb830aa36303ff18551447091365b1fcf5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
