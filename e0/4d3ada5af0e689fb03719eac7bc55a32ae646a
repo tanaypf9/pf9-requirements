@@ -1,0 +1,10 @@
+Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Code-Review+2: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Workflow+1: Jens Harbott (frickler) <j.harbott@x-ion.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 10 Jul 2020 13:23:13 +0000
+Reviewed-on: https://review.opendev.org/740423
+Project: openstack/requirements
+Branch: refs/heads/stable/ussuri
