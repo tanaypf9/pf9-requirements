@@ -1,0 +1,11 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Abhishek Kekane <akekane@redhat.com>
+Code-Review+1: Dmitry Tantsur <dtantsur@protonmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Ivan Kolodyazhny <e0ne@e0ne.info>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 13 Jul 2020 16:38:14 +0000
+Reviewed-on: https://review.opendev.org/740681
+Project: openstack/requirements
+Branch: refs/heads/master
