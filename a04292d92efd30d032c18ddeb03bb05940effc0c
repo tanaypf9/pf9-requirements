@@ -22,6 +22,23 @@
       "revId": "a04292d92efd30d032c18ddeb03bb05940effc0c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_ced4bcbe",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 459,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-07-17T15:50:22Z",
+      "side": 1,
+      "message": "debian/ubuntu bug because they mess with package metadata incorrectly\nhttps://github.com/pypa/pip/issues/4022\n\nit\u0027s been exposed because of the setuptools update now has two codepaths (I think)",
+      "revId": "a04292d92efd30d032c18ddeb03bb05940effc0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
