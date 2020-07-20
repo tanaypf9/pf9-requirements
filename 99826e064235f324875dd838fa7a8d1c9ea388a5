@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_cec023e4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 4690
+      },
+      "writtenOn": "2020-07-20T16:42:32Z",
+      "side": 1,
+      "message": "I wonder if we should use \"\u003c\" here instead, being that the root cause is dnspython changed their APIs and eventlet is still patching the old ones (and need to update to patch their new APIs) [1]. My thinking is versions \u003e\u003d 2.0.0 are not going to ever work with the current eventlet, so I wasn\u0027t sure if \"!\u003d\" makes sense exactly (a new release would likely still break).\n\nBut in upper-constraints we\u0027re holding at 1.16.0, so we\u0027re safe. I\u0027m wondering maybe we don\u0027t need an update to this file at all then maybe?\n\nI\u0027m not sure, so let\u0027s see what requirements cores think.\n\n[1] https://github.com/eventlet/eventlet/issues/619#issuecomment-660250478",
+      "range": {
+        "startLine": 47,
+        "startChar": 9,
+        "endLine": 47,
+        "endChar": 11
+      },
+      "revId": "99826e064235f324875dd838fa7a8d1c9ea388a5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
