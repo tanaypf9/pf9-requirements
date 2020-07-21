@@ -280,6 +280,7 @@ python-zaqarclient  # Apache-2.0
 python-zunclient  # Apache-2.0
 
 python-memcached  # PSF
+python-binary-memcached  # PSF
 python-dateutil  # BSD
 
 # 2013.6 is the first version of pytz that is PEP 440 compatible.
