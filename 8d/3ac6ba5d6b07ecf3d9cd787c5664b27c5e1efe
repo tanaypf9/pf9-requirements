@@ -1,0 +1,11 @@
+Code-Review+1: Rodolfo Alonso Hernandez <ralonsoh@redhat.com>
+Code-Review+1: Bernard Cafarelli <bcafarel@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 21 Jul 2020 02:58:00 +0000
+Reviewed-on: https://review.opendev.org/741986
+Project: openstack/requirements
+Branch: refs/heads/master
