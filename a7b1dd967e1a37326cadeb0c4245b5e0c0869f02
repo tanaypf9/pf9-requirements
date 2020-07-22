@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_34d470e9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-07-22T04:42:47Z",
+      "side": 1,
+      "message": "I know we have one or two others that are like this, but I wonder how distros handle this.",
+      "revId": "a7b1dd967e1a37326cadeb0c4245b5e0c0869f02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf51134e_94045c80",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-07-22T04:42:47Z",
+      "side": 1,
+      "message": "is this a new default?",
+      "revId": "a7b1dd967e1a37326cadeb0c4245b5e0c0869f02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
