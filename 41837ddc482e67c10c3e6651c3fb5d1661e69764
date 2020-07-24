@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf51134e_e4a05145",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2020-07-24T11:53:19Z",
+      "side": 1,
+      "message": "I wondering if we should add:\n```\nDepends-On: https://review.opendev.org/742520\n```\n\nThoughts?",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 52
+      },
+      "revId": "41837ddc482e67c10c3e6651c3fb5d1661e69764",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
