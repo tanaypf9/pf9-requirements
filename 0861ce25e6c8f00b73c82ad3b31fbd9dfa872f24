@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_37b798db",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 282,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-07-24T15:50:09Z",
+      "side": 1,
+      "message": "comment goes here",
+      "revId": "0861ce25e6c8f00b73c82ad3b31fbd9dfa872f24",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
