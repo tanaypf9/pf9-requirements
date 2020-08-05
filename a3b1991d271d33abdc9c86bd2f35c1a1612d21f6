@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_ac745669",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-08-05T00:04:32Z",
+      "side": 1,
+      "message": "actully you should just make this py3 and same in the title.\nthat will run the system default py3 so when we swap to focal on py38 it will still work.",
+      "range": {
+        "startLine": 127,
+        "startChar": 19,
+        "endLine": 127,
+        "endChar": 23
+      },
+      "revId": "a3b1991d271d33abdc9c86bd2f35c1a1612d21f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
