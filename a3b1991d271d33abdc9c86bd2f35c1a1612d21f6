@@ -22,6 +22,23 @@
       "revId": "a3b1991d271d33abdc9c86bd2f35c1a1612d21f6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_cc98aa76",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2020-08-05T00:16:29Z",
+      "side": 1,
+      "message": "depends-on: https://review.opendev.org/#/c/744809",
+      "revId": "a3b1991d271d33abdc9c86bd2f35c1a1612d21f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
