@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "9f560f44_4f864c15",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 127,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2020-08-05T01:44:04Z",
+      "side": 1,
+      "message": "+1, py38 is the plan for Focal migration work but doing it with py3 is even better.",
+      "parentUuid": "9f560f44_ac745669",
+      "range": {
+        "startLine": 127,
+        "startChar": 19,
+        "endLine": 127,
+        "endChar": 23
+      },
+      "revId": "a3b1991d271d33abdc9c86bd2f35c1a1612d21f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9f560f44_cc98aa76",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
