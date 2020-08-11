@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Vishakha Agarwal <agarwalvishakha18@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 11 Aug 2020 18:12:34 +0000
+Reviewed-on: https://review.opendev.org/741837
+Project: openstack/requirements
+Branch: refs/heads/master
