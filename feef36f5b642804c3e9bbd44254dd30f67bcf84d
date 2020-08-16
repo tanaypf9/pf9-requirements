@@ -88,6 +88,24 @@
       "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_420df18e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2020-08-16T01:04:54Z",
+      "side": 0,
+      "message": "yeah, let\u0027s wait for import to complete and then we can keep it here as name will be same",
+      "parentUuid": "9f560f44_a74b3fae",
+      "revId": "feef36f5b642804c3e9bbd44254dd30f67bcf84d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
