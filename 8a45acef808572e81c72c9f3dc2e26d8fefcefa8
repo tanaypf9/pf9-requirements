@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_0b92e89f",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 167,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-08-17T15:29:21Z",
+      "side": 1,
+      "message": "gonna break nova",
+      "revId": "8a45acef808572e81c72c9f3dc2e26d8fefcefa8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_6b91e499",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 270,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-08-17T15:29:21Z",
+      "side": 1,
+      "message": "gonna break boto",
+      "revId": "8a45acef808572e81c72c9f3dc2e26d8fefcefa8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
