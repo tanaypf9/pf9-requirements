@@ -109,6 +109,7 @@ microversion-parse  # Apache-2.0
 mistral-lib  # Apache-2.0
 monasca-common  # Apache-2.0
 monasca-statsd  # Apache-2.0
+moto  # Apache-2.0
 msgpack  # Apache-2.0
 munch  # MIT
 murano-pkg-check  # Apache-2.0
