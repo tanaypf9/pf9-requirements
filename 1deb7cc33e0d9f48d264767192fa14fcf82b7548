@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_d3f0676a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-08-20T16:46:59Z",
+      "side": 1,
+      "message": "Make sure to have a blank line after the summary line, otherwise git merges them all together.",
+      "revId": "1deb7cc33e0d9f48d264767192fa14fcf82b7548",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_53dbb7eb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-08-20T16:46:59Z",
+      "side": 1,
+      "message": "This could probably be removed.",
+      "revId": "1deb7cc33e0d9f48d264767192fa14fcf82b7548",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
