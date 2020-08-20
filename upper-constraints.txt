@@ -67,6 +67,7 @@ nosehtmloutput===0.0.7
 waitress===1.4.4
 os-refresh-config===10.4.0
 pysnmp===4.4.12
+python-jose===3.2.0
 Mako===1.1.3
 pyScss===1.3.7
 sphinxcontrib-htmlhelp===1.0.3
@@ -74,6 +75,7 @@ XStatic-jQuery===1.12.4.1
 ddt===1.4.1
 XStatic-Graphlib===2.1.7.0
 pyserial===3.4
+moto===1.3.14
 infi.dtypes.wwn===0.1.1
 python-freezerclient===3.1.0
 os-xenapi===0.3.4
@@ -108,6 +110,7 @@ python-glanceclient===3.2.1
 pyinotify===0.9.6
 debtcollector===2.2.0
 requests-unixsocket===0.2.0
+responses===0.10.16
 croniter===0.3.34
 octavia-lib===2.1.1
 python-watcherclient===3.1.0
@@ -149,8 +152,10 @@ oslo.messaging===12.2.2
 jira===2.0.0
 extras===1.0.0
 PyJWT===1.7.1
+ecdsa===0.15
 XStatic-lodash===4.16.4.2
 zVMCloudConnector===1.4.1
+aws-sam-translator===1.26.0
 paramiko===2.7.1
 ifaddr===0.1.7
 reno===3.1.0
@@ -164,7 +169,7 @@ pywbem===1.0.2
 python-subunit===1.4.0
 tornado===6.0.4
 pycparser===2.20
-mock===3.0.5
+mock===4.0.2
 PyYAML===5.3.1
 beautifulsoup4===4.9.1
 os-net-config===12.4.0
@@ -213,7 +218,7 @@ amqp===2.6.1
 websockify===0.9.0
 XStatic-JQuery.quicksearch===2.0.3.2
 mpmath===1.1.0
-python-binary-memcached===0.29.0
+python-binary-memcached===0.30.0
 django-debreach===2.0.1
 sphinx-feature-classification===1.0.1
 XStatic-JQuery-Migrate===1.2.1.2
@@ -260,14 +265,14 @@ XStatic-term.js===0.0.7.0
 oslo.log===4.3.0
 nodeenv===1.4.0
 gossip===2.4.0
-importlib-metadata===1.7.0;python_version=='3.6'
+importlib-metadata===1.7.0
 python-searchlightclient===2.1.0
 oslo.middleware===4.1.0
 apipkg===1.5
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.15.2
+docutils===0.16
 threadpoolctl===2.1.0
 os-ken===1.1.0
 ujson===3.1.0
@@ -284,7 +289,7 @@ capacity===1.3.14
 retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 pydotplus===2.0.2
-boto3===1.14.44
+boto3===1.14.46
 jeepney===0.4.3
 stestr===3.0.1
 oslo.serialization===4.0.0
@@ -304,6 +309,7 @@ ldap3===2.8
 natsort===7.0.1
 requests-ntlm===1.1.0
 automaton===2.2.0
+jsondiff===1.1.2
 os-service-types===1.7.0
 keyring===21.3.0
 testscenarios===0.5.0
@@ -318,9 +324,9 @@ py===1.9.0
 txaio===20.4.1
 python-qinlingclient===5.1.0
 elasticsearch===2.4.1
-django-nose===1.4.6
+django-nose===1.4.7
 XStatic-JQuery.TableSorter===2.14.5.2
-pifpaf===2.6.0
+pifpaf===3.0.0
 pysmi===0.3.4
 blockdiag===2.0.1
 testtools===2.4.0
@@ -341,10 +347,12 @@ iso8601===0.1.12
 tooz===2.7.1
 linecache2===1.0.0
 oauth2client===4.1.3
-idna===2.10
+idna===2.8
 python-karborclient===2.1.0
 yamlloader===0.5.5
+cfn-lint===0.35.0
 protobuf===3.13.0
+jsonpickle===1.4.1
 sushy===3.3.0
 python-neutronclient===7.2.0
 pika===1.1.0
@@ -400,7 +408,7 @@ proboscis===1.2.6.0
 oslo.upgradecheck===1.1.0
 stevedore===3.2.0
 pywinrm===0.4.1
-botocore===1.17.44
+botocore===1.17.46
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.1.0
@@ -447,9 +455,8 @@ oslo.db===8.3.0
 simplegeneric===0.8.1
 python-pcre===0.7
 yappi===1.2.5
-dataclasses===0.7;python_version=='3.6'
 abclient===0.2.3
-pymemcache===3.2.0
+pymemcache===3.3.0
 wrapt===1.12.1
 custom-inherit===2.2.2
 oslo.privsep===2.3.0
@@ -477,6 +484,7 @@ python-masakariclient===6.1.0
 Werkzeug===1.0.1
 pyasn1-modules===0.2.8
 APScheduler===3.6.3
+junit-xml===1.9
 monotonic===1.5
 python-troveclient===5.0.0
 etcd3===0.12.0
@@ -486,14 +494,14 @@ CouchDB===1.2
 netifaces===0.10.9
 cachetools===4.1.1
 ws4py===0.5.1
+aws-xray-sdk===2.6.0
 sphinxcontrib-qthelp===1.0.3
 keystoneauth1===4.2.1
 statsd===3.3.0
 XenAPI===2.14
-importlib-resources===3.0.0;python_version=='3.6'
 python-keystoneclient===4.1.0
 ceilometer===14.0.0
-diskimage-builder===3.1.0
+diskimage-builder===3.2.0
 heat-translator===2.1.0
 python-magnumclient===3.2.0
 docker===4.3.0
@@ -545,6 +553,7 @@ monasca-statsd===2.1.0
 python-dateutil===2.8.1
 typing-extensions===3.7.4.2
 virtualenv===20.0.31
+sshpubkeys===3.1.0
 colorama===0.4.3
 confetti===2.5.3
 ironic-lib===4.3.1
