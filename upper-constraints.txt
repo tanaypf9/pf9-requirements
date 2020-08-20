@@ -77,6 +77,8 @@ XStatic-jQuery===1.12.4.1
 ddt===1.4.1
 XStatic-Graphlib===2.1.7.0
 pyserial===3.4
+ecdsa===0.14.1
+moto===1.3.14
 infi.dtypes.wwn===0.1.1
 python-freezerclient===4.0.0
 os-xenapi===0.3.4
@@ -348,7 +350,7 @@ iso8601===0.1.13
 tooz===2.7.1
 linecache2===1.0.0
 oauth2client===4.1.3
-idna===2.10
+idna===2.8
 python-karborclient===2.1.0
 yamlloader===0.5.5
 protobuf===3.13.0
@@ -496,7 +498,7 @@ sphinxcontrib-qthelp===1.0.3
 keystoneauth1===4.2.1
 statsd===3.3.0
 XenAPI===2.14
-importlib-resources===3.3.0;python_version=='3.6'
+importlib-resources===1.4.0;python_version=='3.6'
 python-keystoneclient===4.1.1
 ceilometer===15.0.0
 diskimage-builder===3.3.1
