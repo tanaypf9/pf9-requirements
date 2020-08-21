@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_6cc3688a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2020-08-21T16:18:40Z",
+      "side": 1,
+      "message": "Is the original issue [1] is fixed?\n\nCan you bring more details as the issue [1] was just fixed 2 hours ago, so I wonder if we should revert that.\n\nAlso I seen your other patch about the gnocchclient, is it related to this too?\n\n[1] https://review.opendev.org/#/c/746261/",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 61
+      },
+      "revId": "e1f41534f5553d74b79c87bbb0b21eb016a457b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
