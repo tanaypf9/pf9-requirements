@@ -22,6 +22,29 @@
       "revId": "e1f41534f5553d74b79c87bbb0b21eb016a457b4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_8c4b5c29",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2020-08-21T16:19:30Z",
+      "side": 1,
+      "message": "Ah yes the gnocchiclient patch is related too, sorry I missed that line",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 53
+      },
+      "revId": "e1f41534f5553d74b79c87bbb0b21eb016a457b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
