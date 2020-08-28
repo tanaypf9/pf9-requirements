@@ -22,6 +22,30 @@
       "revId": "56e025f5b52522fe481473ed713f21e731824de4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f560f44_efc5373f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 121,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2020-08-28T18:46:19Z",
+      "side": 1,
+      "message": "or let me keep it in blacklist also.",
+      "parentUuid": "9f560f44_8b6abdea",
+      "range": {
+        "startLine": 121,
+        "startChar": 0,
+        "endLine": 121,
+        "endChar": 29
+      },
+      "revId": "56e025f5b52522fe481473ed713f21e731824de4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
