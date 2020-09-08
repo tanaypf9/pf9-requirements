@@ -1,0 +1,11 @@
+Code-Review+1: Boyron Sébastien <sboyron@redhat.com>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Martin Chacon Piza <MartinDavid.ChaconPiza1@est.fujitsu.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 08 Sep 2020 12:31:50 +0000
+Reviewed-on: https://review.opendev.org/750296
+Project: openstack/requirements
+Branch: refs/heads/master
