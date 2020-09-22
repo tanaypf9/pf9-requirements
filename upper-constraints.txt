@@ -401,7 +401,7 @@ python-qinlingclient===4.0.0
 elasticsearch===2.4.1
 django-nose===1.4.6
 XStatic-JQuery.TableSorter===2.14.5.1
-pifpaf===2.2.2
+pifpaf===2.4.0
 pysmi===0.3.4
 blockdiag===1.5.4
 testtools===2.3.0
