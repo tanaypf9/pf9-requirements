@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Workflow+1: Hervé Beraud <hberaud@redhat.com>
+Code-Review+1: Boyron Sébastien <sboyron@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 06 Oct 2020 08:43:18 +0000
+Reviewed-on: https://review.opendev.org/755608
+Project: openstack/requirements
+Branch: refs/heads/stable/ussuri
