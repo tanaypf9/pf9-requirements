@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f560f44_729203fe",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-10-11T02:08:23Z",
+      "side": 1,
+      "message": "setting a minimal version is not encouraged, does keeping all the exclusions have the same effect here?",
+      "revId": "1c5c58f50045ccedfc6aa10fcf42892fc712438a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
