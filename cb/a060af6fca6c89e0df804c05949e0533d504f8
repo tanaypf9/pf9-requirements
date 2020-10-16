@@ -1,0 +1,11 @@
+Code-Review+1: Daniel Bengtsson <dbengt@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Gael Chamoulaud <gchamoul@redhat.com>
+Code-Review+1: Cédric Jeanneret (Tengu) <cjeanner@redhat.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 16 Oct 2020 16:27:07 +0000
+Reviewed-on: https://review.opendev.org/758363
+Project: openstack/requirements
+Branch: refs/heads/stable/train
