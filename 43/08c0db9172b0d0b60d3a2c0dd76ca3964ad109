@@ -1,0 +1,9 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Workflow+1: Hervé Beraud <hberaud@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 19 Oct 2020 21:39:37 +0000
+Reviewed-on: https://review.opendev.org/758487
+Project: openstack/requirements
+Branch: refs/heads/stable/victoria
