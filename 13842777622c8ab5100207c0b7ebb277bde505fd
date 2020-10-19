@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_efb1aae3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2020-10-19T13:38:24Z",
+      "side": 1,
+      "message": "This should be the first summary line.",
+      "revId": "13842777622c8ab5100207c0b7ebb277bde505fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
