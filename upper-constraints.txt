@@ -215,7 +215,7 @@ XStatic-Bootstrap-SCSS===3.4.1.0
 pyzabbix===0.8.2
 ptyprocess===0.6.0
 threadloop===1.0.2
-amqp===5.0.1
+amqp===2.6.1
 websockify===0.9.0
 XStatic-JQuery.quicksearch===2.0.3.2
 mpmath===1.1.0
@@ -434,7 +434,7 @@ six===1.15.0
 dulwich===0.20.11
 dfs-sdk===1.2.26
 sentinels===1.0.0
-kombu===5.0.2
+kombu===5.0.1
 distro===1.5.0
 zstd===1.4.5.1
 yaql===1.1.3
