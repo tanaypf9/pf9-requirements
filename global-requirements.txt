@@ -1,6 +1,7 @@
 abclient  # Apache-2.0
 alembic!=1.2.0  # MIT
-amqp!=2.1.4  # BSD
+# NOTE(gibi): amqp 5.0 is not compatible with oslo.messaging, see https://bugs.launchpad.net/oslo.messaging/+bug/1902696
+amqp!=2.1.4,<=2.6.1  # BSD
 ansible-runner!=1.3.5  # Apache 2.0
 anyjson  # BSD
 appdirs  # MIT License
@@ -100,7 +101,8 @@ packaging  # Apache-2.0
 pypowervm!=1.1.21,!=1.1.22  # Apache-2.0
 pyScss!=1.3.5  # MIT License
 django-pyscss  # BSD License (2 clause)
-kombu!=4.0.2  # BSD
+# NOTE(gibi): kombu 5.0.2 is not compatible with oslo.messaging, see https://bugs.launchpad.net/oslo.messaging/+bug/1902696
+kombu!=4.0.2,!=5.0.2  # BSD
 ldap3  # LGPLv3
 deprecation  # Apache-2.0
 libvirt-python!=4.1.0,!=4.2.0  # LGPLv2+
