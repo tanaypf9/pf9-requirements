@@ -1,0 +1,9 @@
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 04 Nov 2020 23:59:57 +0000
+Reviewed-on: https://review.opendev.org/761435
+Project: openstack/requirements
+Branch: refs/heads/stable/train
