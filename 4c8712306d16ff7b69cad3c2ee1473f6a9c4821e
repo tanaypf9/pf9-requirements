@@ -16,6 +16,24 @@
       "revId": "4c8712306d16ff7b69cad3c2ee1473f6a9c4821e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f621f24_12631944",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 9708
+      },
+      "writtenOn": "2020-11-05T08:22:51Z",
+      "side": 1,
+      "message": "so what will happen when dnspython 2.1.0 is released? (2.1.0rc is available[1]). The eventlet, since 0.26.1, restricts the dnspython version to \u003c 2.0.0 [2]. So if we keep eventlet constraint as is, and dnspython as is then when dnspython 2.1.0 is released we will have conflicting requirements.\n\n[1] https://github.com/rthalley/dnspython/commit/a282788b29258a2dda582e7ce17583dca61fa8cf\n[2] https://github.com/eventlet/eventlet/blob/a745d62a932d7776fb9431a6fa74171c41d23450/setup.py#L18",
+      "parentUuid": "1f621f24_01f10d6c",
+      "revId": "4c8712306d16ff7b69cad3c2ee1473f6a9c4821e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
