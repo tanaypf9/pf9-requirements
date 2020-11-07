@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f621f24_050c5992",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-11-07T22:37:48Z",
+      "side": 1,
+      "message": "should this be post2 like the commit message states?  Also, updating from 2.1 to 2.2?",
+      "revId": "15c1371e4a5230f3c5bb835da9e74eb14e8e0f60",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
