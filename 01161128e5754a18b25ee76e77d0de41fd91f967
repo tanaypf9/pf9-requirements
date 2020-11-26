@@ -16,6 +16,24 @@
       "revId": "01161128e5754a18b25ee76e77d0de41fd91f967",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "bcc9766a_80515b3c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 21798
+      },
+      "writtenOn": "2020-11-26T15:19:54Z",
+      "side": 1,
+      "message": "Indeed, I should not have mixed web edit and local patchets...",
+      "parentUuid": "6d45ce0e_3f63eabe",
+      "revId": "01161128e5754a18b25ee76e77d0de41fd91f967",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
