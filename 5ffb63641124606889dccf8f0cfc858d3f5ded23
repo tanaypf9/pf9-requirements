@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f244b42_0068be76",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2020-12-04T16:31:47Z",
+      "side": 1,
+      "message": "https://governance.openstack.org/tc/reference/licensing.html\n\nit looks like this could cause problems\n\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements\n\nThe specific question follows.\n\nIs the library license compatible?\n\nThe library should be licensed as described in Licensing requirements, and the license should be described in a comment on the same line as the added dependency. If you have doubts over licensing compatibility, like for example when adding a GPL test dependency, you can seek advice from Robert Collins (lifeless), Monty Taylor (mordred) or Jim Blair (jeblair).",
+      "revId": "5ffb63641124606889dccf8f0cfc858d3f5ded23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
