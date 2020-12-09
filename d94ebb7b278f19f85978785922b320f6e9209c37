@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6cab759a_72960ea1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 10135
+      },
+      "writtenOn": "2020-12-09T14:16:52Z",
+      "side": 1,
+      "message": "Closes-Bug: #1907438",
+      "revId": "d94ebb7b278f19f85978785922b320f6e9209c37",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
