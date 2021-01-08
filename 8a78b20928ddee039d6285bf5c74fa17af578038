@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8dabc200_46830d7a",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2021-01-08T17:00:10Z",
+      "side": 1,
+      "message": "According to this comment these changes looks ok...\n\nHowever I am wary a bit of inline comments.",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 38
+      },
+      "revId": "8a78b20928ddee039d6285bf5c74fa17af578038",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
