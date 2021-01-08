@@ -1,0 +1,10 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 08 Jan 2021 08:31:59 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/766032
+Project: openstack/requirements
+Branch: refs/heads/stable/ussuri
