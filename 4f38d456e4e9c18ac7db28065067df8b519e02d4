@@ -16,6 +16,24 @@
       "revId": "4f38d456e4e9c18ac7db28065067df8b519e02d4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3b25d948_43f126ba",
+        "filename": "global-requirements.txt",
+        "patchSetId": 14
+      },
+      "lineNbr": 115,
+      "author": {
+        "id": 32329
+      },
+      "writtenOn": "2021-01-12T00:55:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d111d870_009729cf",
+      "revId": "4f38d456e4e9c18ac7db28065067df8b519e02d4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
