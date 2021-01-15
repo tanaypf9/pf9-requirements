@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5b74965a_c0e7ba33",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 570,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-01-15T07:18:40Z",
+      "side": 1,
+      "message": "woops it should be not \u003d\u003d but \u003d\u003d\u003d.",
+      "range": {
+        "startLine": 570,
+        "startChar": 7,
+        "endLine": 570,
+        "endChar": 9
+      },
+      "revId": "be4aee97ed6634235f079c63061b9fc66ef4767d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
