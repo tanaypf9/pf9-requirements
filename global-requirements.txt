@@ -83,6 +83,7 @@ infinisdk  # BSD-3
 influxdb!=5.3.0  # MIT
 ironic-lib  # Apache-2.0
 iso8601  # MIT
+IPy  # BSD License (3 clause)
 jira  # BSD License (2 clause)
 Jinja2  # BSD License (3 clause)
 jmespath  # MIT
