@@ -1,0 +1,12 @@
+Code-Review+2: Hervé Beraud <hberaud@redhat.com>
+Code-Review+1: Radosław Piliszek <radoslaw.piliszek@gmail.com>
+Code-Review+1: Michael Johnson <johnsomor@gmail.com>
+Code-Review+1: Adam Harwell <flux.adam@gmail.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 02 Feb 2021 21:17:01 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/773620
+Project: openstack/requirements
+Branch: refs/heads/master
