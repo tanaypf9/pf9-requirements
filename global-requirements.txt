@@ -365,7 +365,9 @@ XStatic-Graphlib  # MIT License
 XStatic-Hogan  # Apache 2.0 License
 XStatic-Jasmine  # MIT License
 XStatic-jQuery<2  # MIT License
-XStatic-JQuery-Migrate  # MIT License
+# Note: 3.3.2.1 introduced a bug due to which horizon integration tests start failing.
+# See https://bugs.launchpad.net/horizon/+bug/1914782 for more information.
+XStatic-JQuery-Migrate<3  # MIT License
 XStatic-JQuery.quicksearch  # MIT License
 XStatic-JQuery.TableSorter  # MIT License
 XStatic-jquery-ui  # MIT License
