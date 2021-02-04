@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "949db424_7fd9dce2",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 368,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-02-04T16:50:40Z",
+      "side": 1,
+      "message": "if there is a bug to track the uncapping I\u0027d like to see it linked here (like the other notes in this file)",
+      "revId": "1fa3d8e265d984e64c05d6f53bceb50c81823605",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
