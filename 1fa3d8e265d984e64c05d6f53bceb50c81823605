@@ -34,6 +34,24 @@
       "revId": "1fa3d8e265d984e64c05d6f53bceb50c81823605",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "47e5a8f9_84baa4b4",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 368,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-02-05T18:53:26Z",
+      "side": 1,
+      "message": "The reason I originally capped the version of xstatic-jquery-migrate ratherr than blocking a specific version is that in my understanding horizon (at least horizon integration tests) is not compatible with xstatic-jquery-migrate. It is not a bug of xstatic-jquery-migrate, so blocking a specific version does not work.\n\nATM xstatic-jquery-migrate is under the contorl of the horizon team, so both of blocking a specific version and capping xstatic-jquery-migrate work, but I belive the version cap make more sense. It is a similar case where we cap xstatic-jQuery with \u003c2.",
+      "parentUuid": "af148923_b671d695",
+      "revId": "1fa3d8e265d984e64c05d6f53bceb50c81823605",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }

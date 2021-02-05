@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a8612e00_bf5ad697",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 369,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-02-05T18:53:26Z",
+      "side": 1,
+      "message": "I don\u0027t think this is a right description. My understanding is that horizon at least horizon integration tests does not work with xstatic-jquery-migrate. It is not a bug of xstatic-jquery-migrate 3.3.2.1. It is because horizon is not compatible with jquery-migrate 3.x. We need to explain why we need to cap the version instead of blocking a specific version.",
+      "revId": "2abe4769ee2e6322a0cdf4cbc3334a2ccb1c41a1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
