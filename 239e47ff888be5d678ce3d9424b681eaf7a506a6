@@ -22,6 +22,30 @@
       "revId": "239e47ff888be5d678ce3d9424b681eaf7a506a6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "12813611_a3ddfd18",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 8833
+      },
+      "writtenOn": "2021-02-09T05:48:02Z",
+      "side": 1,
+      "message": "That was released after I proposed this patch. It includes a single extra commit[1] that we don\u0027t need to fix the current issues.\n\n\n[1] https://github.com/pyca/cryptography/commit/0f40cb3acb66014d2872010ae3ba00dd16157d01",
+      "parentUuid": "a00845cb_ac0d4371",
+      "range": {
+        "startLine": 185,
+        "startChar": 15,
+        "endLine": 185,
+        "endChar": 20
+      },
+      "revId": "239e47ff888be5d678ce3d9424b681eaf7a506a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
     }
   ]
 }
