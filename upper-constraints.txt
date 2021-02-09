@@ -182,7 +182,7 @@ PyYAML===5.4.1
 beautifulsoup4===4.9.3
 os-net-config===14.0.0
 ovs===2.13.0
-cryptography===3.4.1
+cryptography===3.4.2
 httpcore===0.12.3
 URLObject===2.4.3
 nocasedict===1.0.2

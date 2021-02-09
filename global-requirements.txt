@@ -29,7 +29,7 @@ confspirator  # Apache-2.0
 cotyledon  # Apache-2.0
 construct  # MIT
 croniter  # MIT License
-cryptography!=2.0  # BSD/Apache-2.0
+cryptography!=2.0,!=3.4.1  # BSD/Apache-2.0
 cursive  # Apache-2.0
 dataclasses;python_version=='3.6'  # Apache-2.0
 ddt  # MIT
