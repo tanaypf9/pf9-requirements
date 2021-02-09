@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a00845cb_ac0d4371",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 12393
+      },
+      "writtenOn": "2021-02-09T05:36:31Z",
+      "side": 1,
+      "message": "what about bumping to to https://pypi.org/project/cryptography/3.4.3/ 3.4.3?",
+      "range": {
+        "startLine": 185,
+        "startChar": 15,
+        "endLine": 185,
+        "endChar": 20
+      },
+      "revId": "239e47ff888be5d678ce3d9424b681eaf7a506a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
