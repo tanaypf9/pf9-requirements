@@ -177,12 +177,12 @@ pywbem===1.1.3
 python-subunit===1.4.0
 tornado===6.1
 pycparser===2.20
-mock===3.0.5
+mock===4.0.3
 PyYAML===5.4.1
 beautifulsoup4===4.9.3
 os-net-config===14.0.0
 ovs===2.13.0
-cryptography===3.4.4
+cryptography===3.4.5
 httpcore===0.12.3
 URLObject===2.4.3
 nocasedict===1.0.2
@@ -212,7 +212,7 @@ bcrypt===3.2.0
 os-client-config===2.1.0
 XStatic-Angular-Gettext===2.4.1.0
 h11===0.12.0
-Pygments===2.7.4
+Pygments===2.8.0
 XStatic-Hogan===2.0.0.3
 XStatic-objectpath===1.2.1.0
 python-manilaclient===2.4.0
@@ -299,7 +299,7 @@ capacity===1.3.14
 retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 pydotplus===2.0.2
-boto3===1.17.6
+boto3===1.17.7
 jeepney===0.6.0
 stestr===3.1.0
 oslo.serialization===4.1.0
@@ -390,7 +390,7 @@ seqdiag===2.0.0
 numpy===1.19.5;python_version=='3.6'
 numpy===1.20.1;python_version=='3.8'
 msgpack===1.0.2
-Sphinx===3.4.3
+Sphinx===3.5.0
 oslo.config===8.4.0
 tempest===26.0.0
 openstackdocstheme===2.2.7
@@ -404,7 +404,7 @@ uhashring===2.0
 kubernetes===12.0.1
 httplib2===0.19.0
 betamax===0.8.1
-construct===2.10.59
+construct===2.10.60
 pytest-metadata===1.11.0
 pyparsing===2.4.7
 geomet===0.2.1.post1
@@ -419,7 +419,7 @@ proboscis===1.2.6.0
 oslo.upgradecheck===1.3.0
 stevedore===3.3.0
 pywinrm===0.4.1
-botocore===1.20.6
+botocore===1.20.7
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.2.0
@@ -461,7 +461,7 @@ python-ironicclient===4.5.0
 XStatic===1.0.2
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===5.4.0
-pyzmq===22.0.2
+pyzmq===22.0.3
 nocaselist===1.0.4
 oslo.db===8.5.0
 simplegeneric===0.8.1
@@ -477,6 +477,7 @@ oslo.policy===3.6.2
 python-muranoclient===2.2.0
 hvac===0.10.8
 pyeclib===1.6.0
+pkg-resources===0.0.0
 wsgi-intercept===1.9.2
 ndg-httpsclient===0.5.1
 pyrsistent===0.17.3
@@ -557,7 +558,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.2.2
-fasteners===0.14.1
+fasteners===0.16
 sortedcontainers===2.3.0
 filelock===3.0.12
 python-tackerclient===1.5.0
@@ -572,7 +573,7 @@ XStatic-jquery-ui===1.12.1.1
 monasca-statsd===2.1.0
 python-dateutil===2.8.1
 typing-extensions===3.7.4.3
-virtualenv===20.2.1
+virtualenv===20.4.2
 sshpubkeys===3.3.1
 colorama===0.4.4
 confetti===2.5.3
@@ -584,4 +585,3 @@ actdiag===2.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.1
-setuptools===53.0.0
