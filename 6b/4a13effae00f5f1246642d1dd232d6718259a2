@@ -1,0 +1,10 @@
+Code-Review+1: Adrian Czarnecki <adrian.czarnecki@ts.fujitsu.com>
+Code-Review+1: Martin Chacon Piza <martin@chaconpiza.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 17 Feb 2021 19:28:42 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/775829
+Project: openstack/requirements
+Branch: refs/heads/master
