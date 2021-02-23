@@ -557,7 +557,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.2.2
-fasteners===0.14.1
+fasteners===0.16
 sortedcontainers===2.3.0
 filelock===3.0.12
 python-tackerclient===1.5.0
