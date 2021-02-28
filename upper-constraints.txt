@@ -143,7 +143,7 @@ prettytable===0.7.2
 vine===5.0.0
 taskflow===4.6.0
 traceback2===1.4.0
-arrow===1.0.0
+arrow===1.0.1
 semantic-version===2.8.5
 virtualbmc===2.2.0
 deprecation===2.1.0
@@ -319,7 +319,7 @@ natsort===7.1.1
 requests-ntlm===1.1.0
 automaton===2.3.0
 os-service-types===1.7.0
-keyring===22.2.0
+keyring===22.3.0
 elementpath===2.1.4
 testscenarios===0.5.0
 sphinxcontrib-pecanwsme===0.10.0
@@ -451,7 +451,7 @@ testresources===2.0.1
 falcon===2.0.0
 etcd3gw===0.2.5
 Flask-RESTful===0.3.8
-GitPython===3.1.13
+GitPython===3.1.14
 python-ironicclient===4.6.0
 XStatic===1.0.2
 XStatic-Angular-FileUpload===12.0.4.0
@@ -472,6 +472,7 @@ oslo.policy===3.6.2
 python-muranoclient===2.2.0
 hvac===0.10.8
 pyeclib===1.6.0
+pkg-resources===0.0.0
 wsgi-intercept===1.9.2
 ndg-httpsclient===0.5.1
 pyrsistent===0.17.3
@@ -542,7 +543,6 @@ XStatic-Angular-Vis===4.16.0.0
 iniconfig===1.1.1
 confluent-kafka===1.6.0
 xvfbwrapper===0.2.9
-futures===3.3.0;python_version=='2.7'
 tosca-parser===2.2.0
 Flask===1.1.2
 httpx===0.16.1
@@ -576,4 +576,3 @@ actdiag===2.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.1
-setuptools===53.0.0
