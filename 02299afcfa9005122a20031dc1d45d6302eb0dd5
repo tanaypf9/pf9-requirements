@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d702a568_5f280f3c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-03-08T17:49:17Z",
+      "side": 1,
+      "message": "Should this be \u003c5.0 instead (if 5.0 is the cut off point)?",
+      "revId": "02299afcfa9005122a20031dc1d45d6302eb0dd5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
