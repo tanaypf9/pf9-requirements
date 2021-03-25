@@ -468,6 +468,7 @@ testrepository  # Apache-2.0/BSD
 testresources  # Apache-2.0/BSD
 testscenarios  # Apache-2.0/BSD
 testtools  # MIT
+toml  # Apache-2.0
 unittest2  # BSD
 virtualbmc  # Apache-2.0
 virtualenv!=16.3.0  # MIT
@@ -510,4 +511,3 @@ zipp;python_version>='3.6'  # MIT
 # NOTE(prometheanfire): python3 caps, are not approved for use in OpenStack
 gitdb  # BSD
 gitdb2  # BSD
-toml!=0.10.1  # Apache-2.0

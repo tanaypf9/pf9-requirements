@@ -261,7 +261,7 @@ retryz===0.1.9
 pluggy===0.13.1
 coverage===5.5
 freezegun===1.1.0
-toml===0.10.0
+toml===0.10.2
 pycdlib===1.11.0
 pyperclip===1.8.2
 cassandra-driver===3.25.0
