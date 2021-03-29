@@ -22,6 +22,23 @@
       "revId": "27330d8083658e9b14bdc215be7372fd9a1826ca",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "22ce43a4_016706e3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 502,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-03-29T16:57:28Z",
+      "side": 1,
+      "message": "if needed, there\u0027s dataclasses up above too",
+      "revId": "27330d8083658e9b14bdc215be7372fd9a1826ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
