@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f8ec3f4_4f3a8325",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 502,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2021-03-29T16:54:24Z",
+      "side": 1,
+      "message": "Should we constrain that to 3.7 and 3.8 as well?",
+      "range": {
+        "startLine": 502,
+        "startChar": 0,
+        "endLine": 502,
+        "endChar": 49
+      },
+      "revId": "27330d8083658e9b14bdc215be7372fd9a1826ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
