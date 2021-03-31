@@ -39,6 +39,24 @@
       "revId": "27330d8083658e9b14bdc215be7372fd9a1826ca",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "f10721f4_0a0223f7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 502,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2021-03-31T15:50:35Z",
+      "side": 1,
+      "message": "dataclasses are default in 3.7?",
+      "parentUuid": "22ce43a4_016706e3",
+      "revId": "27330d8083658e9b14bdc215be7372fd9a1826ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
