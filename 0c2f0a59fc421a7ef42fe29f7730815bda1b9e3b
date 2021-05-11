@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1b745317_d4a9e056",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 391,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2021-05-11T10:49:05Z",
+      "side": 1,
+      "message": "What about those who run OpenStack on Python 3.7 or 3.9?\n\nDebian \u0027buster\u0027 had 3.7, Debian \u0027bullseye\u0027 has 3.9 version.",
+      "range": {
+        "startLine": 389,
+        "startChar": 15,
+        "endLine": 391,
+        "endChar": 36
+      },
+      "revId": "0c2f0a59fc421a7ef42fe29f7730815bda1b9e3b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
