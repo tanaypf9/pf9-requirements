@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "21a84512_dbd192d5",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2021-05-20T17:47:47Z",
+      "side": 1,
+      "message": "copy-pasta",
+      "range": {
+        "startLine": 100,
+        "startChar": 44,
+        "endLine": 100,
+        "endChar": 52
+      },
+      "revId": "6960281cf06cb76abd2c22b1cbdfd5e9eeebc224",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
