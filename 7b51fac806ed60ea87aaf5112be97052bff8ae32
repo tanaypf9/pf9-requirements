@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8314da9b_f18760c9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-05-20T06:57:30Z",
+      "side": 1,
+      "message": "pyroute2 library has now two \"flavors\": pyroute2 and pyroute2-minimal\n\nIn Neutron and os-vif we use pyroute2 (the full package). That installs the other pyroute modules:\n    pyroute2.core\n    pyroute2.nslink\n    pyroute2.nftables\n    pyroute2.ethtool\n    pyroute2.ipset\n    pyroute2.ipdb\n    pyroute2.ndb\n\nWe don\u0027t directly install pyroute2.nftables or pyroute2.ethtool (L155).\n\nWe should add to this list, if any other project needs it, pyroute2-minimal.\n\n\n[1]https://github.com/svinota/pyroute2/blob/0f94fe8b39af57a411bb0dbf30ef6d917a369c8d/pyroute2/setup.cfg#L30-L36",
+      "range": {
+        "startLine": 144,
+        "startChar": 0,
+        "endLine": 144,
+        "endChar": 1
+      },
+      "revId": "7b51fac806ed60ea87aaf5112be97052bff8ae32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b59f5a59_898656da",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-05-20T06:57:30Z",
+      "side": 1,
+      "message": "I would hold this update until https://github.com/svinota/pyroute2/issues/798 is solved.",
+      "range": {
+        "startLine": 152,
+        "startChar": 0,
+        "endLine": 152,
+        "endChar": 2
+      },
+      "revId": "7b51fac806ed60ea87aaf5112be97052bff8ae32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
