@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6d29e427_206c1522",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-05-20T23:31:17Z",
+      "side": 1,
+      "message": "would it be possible to use py38?",
+      "revId": "eabf24cf5a36375daf4a68876cc63871351f91ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
