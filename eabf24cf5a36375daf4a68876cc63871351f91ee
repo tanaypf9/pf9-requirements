@@ -34,6 +34,24 @@
       "revId": "eabf24cf5a36375daf4a68876cc63871351f91ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "347959df_726d4812",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 98,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2021-05-21T16:47:49Z",
+      "side": 1,
+      "message": "Testing that here just in case: https://review.opendev.org/c/openstack/requirements/+/792676\nIf we like that direction, we can pursue it - else I\u0027ll just update the manila job to py38.",
+      "parentUuid": "a3cc39a4_1a7eb858",
+      "revId": "eabf24cf5a36375daf4a68876cc63871351f91ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
