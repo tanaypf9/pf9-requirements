@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cda3557f_1bcb9c3c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 501,
+      "author": {
+        "id": 30491
+      },
+      "writtenOn": "2021-05-22T09:21:17Z",
+      "side": 1,
+      "message": "this seems to be breaking keystone tests",
+      "revId": "f2827fddcdb0ce34e0b19879bea440f11c5b0625",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
