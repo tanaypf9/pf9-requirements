@@ -276,6 +276,7 @@ python-senlinclient  # Apache-2.0
 python-solumclient  # Apache-2.0
 python-swiftclient  # Apache-2.0
 python-tackerclient  # Apache-2.0
+python-tripleoclient # Apache-2.0
 python-troveclient  # Apache-2.0
 python-vitrageclient  # Apache-2.0
 python-watcherclient  # Apache-2.0
