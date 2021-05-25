@@ -16,6 +16,24 @@
       "revId": "7577743d00aa50da768b2fa562290abbdee0acb7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf5d0a92_5b7fa0d6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 537,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-05-25T17:45:49Z",
+      "side": 1,
+      "message": "Because this version is proposed in other patch. I prefer to be roll back to a working version now I\u0027m blocking a non working one. The other patch will test if 1.6.4 works fine.",
+      "parentUuid": "1c40ef6a_3ba35f36",
+      "revId": "7577743d00aa50da768b2fa562290abbdee0acb7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
