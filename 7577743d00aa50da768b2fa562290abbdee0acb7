@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1c40ef6a_3ba35f36",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 537,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-05-25T15:37:52Z",
+      "side": 1,
+      "message": "is there a reason you rolled back instead of forward to 1.6.4?",
+      "revId": "7577743d00aa50da768b2fa562290abbdee0acb7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
