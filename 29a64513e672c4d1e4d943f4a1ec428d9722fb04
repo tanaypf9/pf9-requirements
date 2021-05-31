@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e128ce8c_893db115",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-05-31T07:51:07Z",
+      "side": 1,
+      "message": "The problem found in the logs should be solved in 0.6.2: https://github.com/svinota/pyroute2/issues/798",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 16
+      },
+      "revId": "29a64513e672c4d1e4d943f4a1ec428d9722fb04",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
