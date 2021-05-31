@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5babb74e_c310c9e8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 158,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-05-31T07:59:18Z",
+      "side": 1,
+      "message": "The problem with os-ken should be fixed with https://review.opendev.org/c/openstack/releases/+/793732",
+      "revId": "667768a9c9ae74b532f98f3175fb3286d0f2b5df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
