@@ -92,7 +92,7 @@ psycopg2===2.9.1
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.3;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0
 zuul-sphinx===0.5.0
