@@ -22,6 +22,30 @@
       "revId": "29a64513e672c4d1e4d943f4a1ec428d9722fb04",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "30467079_69c31ab2",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 152,
+      "author": {
+        "id": 9708
+      },
+      "writtenOn": "2021-06-03T12:50:16Z",
+      "side": 1,
+      "message": "0.6.3 is out so I bumped this to it.",
+      "parentUuid": "e128ce8c_893db115",
+      "range": {
+        "startLine": 152,
+        "startChar": 10,
+        "endLine": 152,
+        "endChar": 16
+      },
+      "revId": "29a64513e672c4d1e4d943f4a1ec428d9722fb04",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
     }
   ]
 }
