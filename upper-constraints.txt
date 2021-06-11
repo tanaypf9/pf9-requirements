@@ -22,7 +22,7 @@ ryu===4.34
 os-api-ref===2.2.0
 python-ldap===3.3.1
 oslo.concurrency===4.4.0
-websocket-client===1.0.1
+websocket-client===1.1.0
 osprofiler===3.4.1
 os-resource-classes===1.0.0
 tabulate===0.8.9
@@ -56,11 +56,12 @@ oslo.context===3.3.0
 python-senlinclient===2.2.1
 rcssmin===1.0.6
 pycadf===3.1.1
+types-enum34===0.1.5
 grpcio===1.38.0
 pysendfile===2.0.1
 sniffio===1.2.0
 fixtures===3.0.0
-neutron-lib===2.11.0
+neutron-lib===2.12.0
 XStatic-FileSaver===1.3.2.0
 oslo.metrics===0.2.1
 storage-interfaces===1.0.4
@@ -89,7 +90,7 @@ krest===1.3.2
 psycopg2===2.8.6
 networkx===2.5.1
 bashate===2.0.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.2.0
 zuul-sphinx===0.5.0
@@ -101,6 +102,7 @@ google-api-core===1.30.0
 requests-toolbelt===0.9.1
 simplejson===3.17.2
 suds-jurko===0.6
+types-paramiko===0.1.4
 immutables===0.15
 python-swiftclient===3.12.0
 pyOpenSSL===20.0.1
@@ -123,6 +125,7 @@ octavia-lib===2.3.1
 python-watcherclient===3.2.0
 MarkupSafe===2.0.1
 pypowervm===1.1.26
+ruamel.yaml.clib===0.2.2
 doc8===0.8.1
 pymongo===3.11.4
 python-cloudkittyclient===4.2.0
@@ -132,7 +135,7 @@ oslotest===4.4.1
 jsonpointer===2.1
 defusedxml===0.7.1
 netaddr===0.8.0
-pyghmi===1.5.27
+pyghmi===1.5.28
 sphinxcontrib-blockdiag===2.0.0
 thrift===0.13.0
 gnocchiclient===7.0.6
@@ -148,14 +151,14 @@ arrow===1.1.0
 semantic-version===2.8.5
 virtualbmc===2.2.0
 deprecation===2.1.0
-SQLAlchemy===1.4.15
+SQLAlchemy===1.4.18
 pyroute2===0.6.4
-google-auth===1.30.2
+google-auth===1.31.0
 kazoo===2.8.0
 pyroute2.ethtool===0.6.4
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.22.0
-eventlet===0.30.2
+eventlet===0.31.0
 openstack-doc-tools===3.3.0
 oslo.messaging===12.8.0
 jira===3.0.1
@@ -183,7 +186,7 @@ cached-property===1.5.2;python_version=='3.6'
 os-net-config===14.1.0
 ovs===2.13.3
 cryptography===3.4.7
-httpcore===0.13.3
+httpcore===0.13.4
 URLObject===2.4.3
 nocasedict===1.0.2
 psycopg2-binary===2.8.6
@@ -225,6 +228,7 @@ pyzabbix===0.8.2
 ptyprocess===0.7.0
 threadloop===1.0.2
 amqp===5.0.6
+ruamel.yaml===0.17.9
 websockify===0.9.0
 XStatic-JQuery.quicksearch===2.0.3.2
 mpmath===1.2.1
@@ -284,15 +288,16 @@ apipkg===1.5
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===3.0.1
-docutils===0.16
+docutils===0.17.1
 threadpoolctl===2.1.0
 os-ken===2.0.0
 ujson===4.0.2
 selenium===3.141.0
 python-glareclient===0.5.3
-mypy===0.901
+mypy===0.902
 mistral-lib===2.4.0
 dogtag-pki===10.7.4.1
+types-ipaddress===0.1.2
 XStatic-Angular-UUID===0.0.4.0
 purestorage===1.19.0
 sphinxcontrib-seqdiag===2.0.0
@@ -301,7 +306,7 @@ capacity===1.3.14
 retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 pydotplus===2.0.2
-boto3===1.17.90
+boto3===1.17.92
 jeepney===0.6.0
 stestr===3.2.0
 oslo.serialization===4.1.0
@@ -389,7 +394,7 @@ seqdiag===2.0.0
 numpy===1.19.5;python_version=='3.6'
 numpy===1.20.3;python_version=='3.8'
 msgpack===1.0.2
-Sphinx===3.5.4
+Sphinx===4.0.2
 oslo.config===8.7.0
 tempest===27.0.0
 openstackdocstheme===2.3.0
@@ -418,7 +423,7 @@ proboscis===1.2.6.0
 oslo.upgradecheck===1.4.0
 stevedore===3.3.0
 pywinrm===0.4.2
-botocore===1.20.90
+botocore===1.20.92
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.2.0
@@ -436,6 +441,7 @@ kuryr-lib===2.3.0
 scrypt===0.8.18
 jsonpatch===1.32
 python-daemon===2.3.0
+types-cryptography===0.1.2
 typed-ast===1.4.3;python_version=='3.6'
 os-testr===2.0.0
 cotyledon===1.7.3
@@ -478,6 +484,7 @@ oslo.policy===3.8.0
 python-muranoclient===2.2.0
 hvac===0.10.14
 pyeclib===1.6.0
+pkg-resources===0.0.0
 wsgi-intercept===1.9.2
 ndg-httpsclient===0.5.1
 pyrsistent===0.17.3
@@ -502,7 +509,7 @@ Werkzeug===2.0.1
 pyasn1-modules===0.2.8
 APScheduler===3.7.0
 monotonic===1.6
-xmlschema===1.6.3
+xmlschema===1.6.4
 python-troveclient===7.1.0
 etcd3===0.12.0
 cachez===0.1.2
@@ -523,6 +530,7 @@ heat-translator===2.4.0
 python-magnumclient===3.5.0
 docker===5.0.0
 storops===1.2.10
+anyio===3.1.0
 XStatic-Angular-lrdragndrop===1.0.2.4
 ovsdbapp===1.10.0
 aniso8601===9.0.1
@@ -559,7 +567,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.3.0
-fasteners===0.14.1
+fasteners===0.16.2
 sortedcontainers===2.4.0
 python-linstor===1.7.3
 filelock===3.0.12
@@ -575,7 +583,6 @@ XStatic-jquery-ui===1.12.1.1
 monasca-statsd===2.2.0
 python-dateutil===2.8.1
 typing-extensions===3.10.0.0
-types-paramiko===0.1.3
 virtualenv===20.4.7
 colorama===0.4.4
 confetti===2.5.3
@@ -587,5 +594,3 @@ actdiag===2.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2
-setuptools===57.0.0
-ruamel.yaml===0.17.7
