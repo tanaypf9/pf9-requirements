@@ -110,6 +110,10 @@ marathon!=0.9.1  # MIT
 metalsmith  # Apache-2.0
 microversion-parse  # Apache-2.0
 mistral-lib  # Apache-2.0
+molecule  # MIT
+molecule-containers  # MIT
+molecule-docker  # MIT
+molecule-podman  # MIT
 monasca-common  # Apache-2.0
 monasca-statsd  # Apache-2.0
 msgpack  # Apache-2.0
@@ -212,6 +216,7 @@ PyMySQL  # MIT License
 pytest  # MIT
 pytest-django  # BSD (3 clause)
 pytest-html  #MPL-2.0
+pytest-molecule  # MIT
 pytest-xdist  # MIT
 pywbem  # LGPLv2.1+
 pywinrm  # MIT
