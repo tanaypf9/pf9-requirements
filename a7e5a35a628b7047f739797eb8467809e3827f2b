@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "c220aa95_adfb3770",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 24162
+      },
+      "writtenOn": "2021-06-23T17:37:28Z",
+      "side": 1,
+      "message": "Well, I can remove the entire paragraph about the Warning because is not introduced by this change, the issue is already present anyway.",
+      "parentUuid": "8bf9968c_da18ec68",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "31d7308b_5e3512f9",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2021-06-23T16:41:22Z",
       "side": 1,
       "message": "I\u0027m not sure switching to shutil has any real use here.",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9b10b8e2_cb3f8a04",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 24162
+      },
+      "writtenOn": "2021-06-23T17:37:28Z",
+      "side": 1,
+      "message": "I does have a huge meaning because it allows us to specify python executables without full paths, full paths are not portable as python versions can be installed in various places, even the system ones (not to mention user level installed ones, like pyenv).\n\nThe previous code `os.path.exists(python):` was forcing use of only fully-qualified paths, nothing else would have worked.\n\nEspecially for our purpose (generate) we do not care much where the python executable comes from, but we care about its version, which is in the filename anyway. Change is also backwards compatible without any side-effects.",
+      "parentUuid": "31d7308b_5e3512f9",
       "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "8718f880_34c5eea9",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 24162
+      },
+      "writtenOn": "2021-06-23T17:37:28Z",
+      "side": 1,
+      "message": "Sorry but I don\u0027t understand that. That comment line is for the output, needs to be first line in file. I prefered to include it in the list to keep the writing atomic.",
+      "parentUuid": "eabcaeb1_9fb75eab",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "51343cd2_6e60a8e5",
         "filename": "tox.ini",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2021-06-23T16:41:22Z",
       "side": 1,
       "message": "required for setting the default posargs value I imaggine?",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e0edbbb4_2510689e",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 24162
+      },
+      "writtenOn": "2021-06-23T17:37:28Z",
+      "side": 1,
+      "message": "Not really, expansion defaults are already supported for years (cannot even remember when they were added). This is needed in order to report a non-success error code if git reports dirty after running the tests, a fail-safe mechanism that would tell developer to include change in commit (or add file to .gitignore).\n\nI can add a comment near it to explain its purpose. The change would still work fine w/o this but it will not identify this kind of problem.",
+      "parentUuid": "51343cd2_6e60a8e5",
       "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
