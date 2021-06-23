@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8bf9968c_da18ec68",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T16:41:22Z",
+      "side": 1,
+      "message": "^ makes this a non-starter, not sure why python-nss can\u0027t work though",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "31d7308b_5e3512f9",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T16:41:22Z",
+      "side": 1,
+      "message": "I\u0027m not sure switching to shutil has any real use here.",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "eabcaeb1_9fb75eab",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T16:41:22Z",
+      "side": 1,
+      "message": "comment goes here after blacklist line, just an additional line",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "51343cd2_6e60a8e5",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T16:41:22Z",
+      "side": 1,
+      "message": "required for setting the default posargs value I imaggine?",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    }
+  ]
+}
