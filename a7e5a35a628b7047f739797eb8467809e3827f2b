@@ -37,6 +37,23 @@
     },
     {
       "key": {
+        "uuid": "b62a4520_9309ac25",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T19:44:39Z",
+      "side": 1,
+      "message": "Ya, I\u0027d just remove it as it\u0027s not introduced here.",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "31d7308b_5e3512f9",
         "filename": "openstack_requirements/cmds/generate.py",
         "patchSetId": 2
@@ -66,6 +83,23 @@
       "side": 1,
       "message": "I does have a huge meaning because it allows us to specify python executables without full paths, full paths are not portable as python versions can be installed in various places, even the system ones (not to mention user level installed ones, like pyenv).\n\nThe previous code `os.path.exists(python):` was forcing use of only fully-qualified paths, nothing else would have worked.\n\nEspecially for our purpose (generate) we do not care much where the python executable comes from, but we care about its version, which is in the filename anyway. Change is also backwards compatible without any side-effects.",
       "parentUuid": "31d7308b_5e3512f9",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9f0c6ff1_5e77e4fa",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T19:44:39Z",
+      "side": 1,
+      "message": "ok, that makes sense, and it\u0027s a built-in, which is an easier argument.",
       "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
@@ -107,6 +141,23 @@
     },
     {
       "key": {
+        "uuid": "10565b40_2584d468",
+        "filename": "openstack_requirements/cmds/generate.py",
+        "patchSetId": 2
+      },
+      "lineNbr": 230,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T19:44:39Z",
+      "side": 1,
+      "message": "ok, missed the quotes, you mind adding a newline between the comment and the sorted list?",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "51343cd2_6e60a8e5",
         "filename": "tox.ini",
         "patchSetId": 2
@@ -136,6 +187,23 @@
       "side": 1,
       "message": "Not really, expansion defaults are already supported for years (cannot even remember when they were added). This is needed in order to report a non-success error code if git reports dirty after running the tests, a fail-safe mechanism that would tell developer to include change in commit (or add file to .gitignore).\n\nI can add a comment near it to explain its purpose. The change would still work fine w/o this but it will not identify this kind of problem.",
       "parentUuid": "51343cd2_6e60a8e5",
+      "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "4a928e56_08212de0",
+        "filename": "tox.ini",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-06-23T19:44:39Z",
+      "side": 1,
+      "message": "I\u0027d rather this be a separate review in that case.  Thanks.",
       "revId": "a7e5a35a628b7047f739797eb8467809e3827f2b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": false
