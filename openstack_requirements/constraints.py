@@ -57,6 +57,8 @@ def check_blacklist_coverage(global_reqs, constraints, blacklist,
 def check_format(parsed_constraints):
     "Apply the formatting rules to the pre-parsed constraints."
     for name, spec_list in parsed_constraints.items():
+        if name.startswith('#'):
+            continue
         for req, original_line in spec_list:
             if not req.specifiers.startswith('==='):
                 yield ('Invalid constraint for %s does not have 3 "=": %s' %
