@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "46fbfd37_0f79ef32",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 8449
+      },
+      "writtenOn": "2021-08-17T07:13:32Z",
+      "side": 1,
+      "message": "whitespace nit",
+      "revId": "caf64ab5d6744d0202c896a258cd3d4e9d187714",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "e6733f35_cf74d32c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 8449
+      },
+      "writtenOn": "2021-08-17T07:13:32Z",
+      "side": 1,
+      "message": "actually this is not true that was not committed the master patch is abandoned https://review.opendev.org/c/openstack/requirements/+/803736/1#message-bbdc6f5cbbc38596abfb8a8f6ab4d8881eaa0da2",
+      "range": {
+        "startLine": 32,
+        "startChar": 15,
+        "endLine": 32,
+        "endChar": 26
+      },
+      "revId": "caf64ab5d6744d0202c896a258cd3d4e9d187714",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
