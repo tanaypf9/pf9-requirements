@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "8776b4f4_0d10f8a1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 9708
+      },
+      "writtenOn": "2021-08-24T07:26:13Z",
+      "side": 1,
+      "message": "Still needs a tweak in this patch to make the test green",
+      "revId": "2d021d02eadb3475bde66335929f53f3c85df80f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
