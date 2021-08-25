@@ -62,7 +62,7 @@ grpcio===1.39.0
 pysendfile===2.0.1
 sniffio===1.2.0
 fixtures===3.0.0
-neutron-lib===2.13.0
+neutron-lib===2.14.0
 XStatic-FileSaver===1.3.2.0
 oslo.metrics===0.3.0
 storage-interfaces===1.0.4
@@ -92,7 +92,7 @@ psycopg2===2.9.1
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.2;python_version=='3.8'
 bashate===2.0.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.3.1
 zuul-sphinx===0.5.0
@@ -101,7 +101,7 @@ Tempita===0.5.2
 ply===3.11
 google-api-core===2.0.0
 requests-toolbelt===0.9.1
-simplejson===3.17.4
+simplejson===3.17.5
 suds-jurko===0.6
 types-paramiko===0.1.9
 immutables===0.16
@@ -186,7 +186,7 @@ beautifulsoup4===4.9.3
 cached-property===1.5.2;python_version=='3.6'
 os-net-config===15.0.0
 ovs===2.13.3
-cryptography===3.4.7
+cryptography===3.4.8
 httpcore===0.13.6
 URLObject===2.4.3
 nocasedict===1.0.2
@@ -201,7 +201,8 @@ os-apply-config===13.0.1
 prometheus-client===0.11.0
 oslosphinx===4.18.0
 gunicorn===20.1.0
-storpool===5.5.0
+storpool===6.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
@@ -256,7 +257,7 @@ lockfile===0.12.2
 ldappool===3.0.0
 termcolor===1.1.0
 joblib===1.0.1
-google-api-python-client===2.17.0
+google-api-python-client===2.18.0
 castellan===3.9.1
 oslo.versionedobjects===2.5.0
 enmerkar===0.7.1
@@ -307,7 +308,7 @@ retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 platformdirs===2.2.0
 pydotplus===2.0.2
-boto3===1.18.27
+boto3===1.18.28
 jeepney===0.7.1
 stestr===3.2.0
 oslo.serialization===4.2.0
@@ -425,7 +426,7 @@ proboscis===1.2.6.0
 oslo.upgradecheck===1.4.0
 stevedore===3.4.0
 pywinrm===0.4.2
-botocore===1.21.27
+botocore===1.21.28
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.3.0
@@ -472,7 +473,7 @@ XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===5.5.0
 pyzmq===22.2.1
 nocaselist===1.0.4
-oslo.db===10.0.0
+oslo.db===11.0.0
 simplegeneric===0.8.1
 python-pcre===0.7
 yappi===1.3.2
@@ -551,7 +552,7 @@ alembic===1.6.5
 execnet===1.9.0
 glance-store===2.7.0
 sphinxcontrib-programoutput===0.17
-storpool.spopenstack===3.0.0
+storpool.spopenstack===3.0.1
 sphinx-testing===1.0.1
 dnspython===1.16.0
 oauthlib===3.1.1
@@ -572,7 +573,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.3.0
-fasteners===0.14.1
+fasteners===0.16.3
 sortedcontainers===2.4.0
 python-linstor===1.9.0
 filelock===3.0.12
@@ -599,4 +600,3 @@ actdiag===2.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2
-setuptools===57.4.0
