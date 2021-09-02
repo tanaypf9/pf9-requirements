@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "40647855_5d5629ae",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 534,
+      "author": {
+        "id": 14826
+      },
+      "writtenOn": "2021-09-02T12:13:48Z",
+      "side": 1,
+      "message": "We\u0027re seeing an issue that is claimed to be caused by docker 5.0.1. Unclear whether 5.0.2 resolves it yet.\n\nhttps://bugs.launchpad.net/kolla-ansible/+bug/1942346",
+      "revId": "560ecc30e424eb04f33fc750fdeae3bd4be73305",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
+    }
+  ]
+}
