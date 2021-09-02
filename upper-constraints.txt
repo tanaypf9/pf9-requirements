@@ -92,7 +92,7 @@ psycopg2===2.9.1
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.2;python_version=='3.8'
 bashate===2.0.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.3.1
 zuul-sphinx===0.5.0
@@ -159,7 +159,7 @@ kazoo===2.8.0
 pyroute2.ethtool===0.6.4
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.22.0
-eventlet===0.31.1
+eventlet===0.32.0
 openstack-doc-tools===3.3.0
 oslo.messaging===12.9.1
 jira===3.0.1
@@ -202,11 +202,12 @@ prometheus-client===0.11.0
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===6.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
 django-compressor===2.4.1
-libvirt-python===7.6.0
+libvirt-python===7.7.0
 python-zunclient===4.3.0
 tzlocal===2.1
 sphinxcontrib-jsmath===1.0.1
@@ -307,7 +308,7 @@ retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 platformdirs===2.3.0
 pydotplus===2.0.2
-boto3===1.18.33
+boto3===1.18.34
 jeepney===0.7.1
 stestr===3.2.0
 oslo.serialization===4.2.0
@@ -330,7 +331,7 @@ requests-ntlm===1.1.0
 automaton===2.4.0
 os-service-types===1.7.0
 keyring===23.1.0
-elementpath===2.2.3
+elementpath===2.3.0
 testscenarios===0.5.0
 sphinxcontrib-pecanwsme===0.10.0
 sadisplay===0.4.9
@@ -425,7 +426,7 @@ proboscis===1.2.6.0
 oslo.upgradecheck===1.4.0
 stevedore===3.4.0
 pywinrm===0.4.2
-botocore===1.21.33
+botocore===1.21.34
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.3.0
@@ -472,7 +473,7 @@ XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===5.6.0
 pyzmq===22.2.1
 nocaselist===1.0.4
-oslo.db===10.0.0
+oslo.db===11.0.0
 simplegeneric===0.8.1
 python-pcre===0.7
 yappi===1.3.2
@@ -530,7 +531,7 @@ ceilometer===16.0.0
 diskimage-builder===3.13.0
 heat-translator===2.4.1
 python-magnumclient===3.5.0
-docker===5.0.1
+docker===5.0.2
 storops===1.2.10
 anyio===3.3.0
 XStatic-Angular-lrdragndrop===1.0.2.4
@@ -553,7 +554,7 @@ glance-store===2.7.0
 sphinxcontrib-programoutput===0.17
 storpool.spopenstack===3.0.1
 sphinx-testing===1.0.1
-dnspython===1.16.0
+dnspython===2.1.0
 oauthlib===3.1.1
 Babel===2.9.1
 logutils===0.3.5
@@ -572,7 +573,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.3.0
-fasteners===0.14.1
+fasteners===0.16.3
 sortedcontainers===2.4.0
 python-linstor===1.9.0
 filelock===3.0.12
@@ -598,4 +599,3 @@ actdiag===2.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2
-setuptools===57.4.0
