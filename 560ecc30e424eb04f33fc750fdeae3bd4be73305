@@ -16,6 +16,24 @@
       "revId": "560ecc30e424eb04f33fc750fdeae3bd4be73305",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "082cb235_f117f343",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 534,
+      "author": {
+        "id": 14826
+      },
+      "writtenOn": "2021-09-02T15:48:41Z",
+      "side": 1,
+      "message": "Verified that 5.0.2 fixes our issue.",
+      "parentUuid": "40647855_5d5629ae",
+      "revId": "560ecc30e424eb04f33fc750fdeae3bd4be73305",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
+      "unresolved": true
     }
   ]
 }
