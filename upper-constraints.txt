@@ -429,7 +429,7 @@ xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.3.0
 pyroute2.nslink===0.6.4
-Django===2.2.24
+git+git://github.com/vakwetu/django.git@2.2.4-branch#egg=Django
 pexpect===4.8.0
 contextvars===2.4
 cmd2===2.1.2
