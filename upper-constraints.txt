@@ -605,3 +605,4 @@ sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.1;python_version=='3.8'
 setuptools===58.3.0
+sphinx-rtd-theme===1.0.0
