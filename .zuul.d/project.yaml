@@ -1,8 +1,12 @@
 - project:
+<<<<<<< HEAD   (533601 update constraint for oslo.context to new release 3.1.2)
     templates:
       - openstack-python3-victoria-jobs
+=======
+>>>>>>> CHANGE (d6a40a WIP: Run a job without the pre-built wheels)
     check:
       jobs:
+<<<<<<< HEAD   (533601 update constraint for oslo.context to new release 3.1.2)
         - build-wheel-cache-centos-7:
             files:
               - bindep.txt
@@ -66,6 +70,9 @@
         - build-wheel-cache-ubuntu-focal-arm64:
             files:
               - bindep.txt
+=======
+        - requirements-tox-py38-check-uc-no-wheels
+>>>>>>> CHANGE (d6a40a WIP: Run a job without the pre-built wheels)
     gate:
       jobs:
         - build-wheel-cache-centos-7:
