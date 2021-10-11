@@ -51,6 +51,23 @@
       "parentUuid": "37cf49fe_675f5fa3",
       "revId": "dacb01c5652d084e0a7de988aa2c631f84a3fb65",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "350c97a9_8ec61f0e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 436,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-10-11T06:02:47Z",
+      "side": 1,
+      "message": "you\u0027d need to pin pylint in your project most likely",
+      "revId": "dacb01c5652d084e0a7de988aa2c631f84a3fb65",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
