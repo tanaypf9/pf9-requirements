@@ -1,6 +1,7 @@
 {
   "comments": [
     {
+      "unresolved": false,
       "key": {
         "uuid": "dd62f77a_4577b770",
         "filename": "/COMMIT_MSG",
@@ -14,10 +15,10 @@
       "side": 1,
       "message": "if your project doesn\u0027t want astroid to be pulled in by pylint you can cap pylint (we explictly do not track linters globaly becase each project is different)",
       "revId": "dacb01c5652d084e0a7de988aa2c631f84a3fb65",
-      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
-      "unresolved": false
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
       "key": {
         "uuid": "37cf49fe_675f5fa3",
         "filename": "global-requirements.txt",
@@ -31,8 +32,25 @@
       "side": 1,
       "message": "we generally don\u0027t add linters to GR, it\u0027s actually already in blacklist.txt",
       "revId": "dacb01c5652d084e0a7de988aa2c631f84a3fb65",
-      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543",
-      "unresolved": false
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a4122ff1_683bd4fd",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 436,
+      "author": {
+        "id": 27329
+      },
+      "writtenOn": "2021-10-11T05:56:12Z",
+      "side": 1,
+      "message": "This mean I have to run pylint against dependencies are not the same as the one we use for running the project. :-(",
+      "parentUuid": "37cf49fe_675f5fa3",
+      "revId": "dacb01c5652d084e0a7de988aa2c631f84a3fb65",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
