@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c565b5b_51b02495",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2021-10-12T09:41:41Z",
+      "side": 1,
+      "message": "Should I purpose a patch to cap XStatic-Angular\u003c\u003d1.5.8.0 until horizon start working with\n1.8.2.1 version ?\n",
+      "revId": "ffa4aad3e626f0c4271c7f3840076ed2b45c0119",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
