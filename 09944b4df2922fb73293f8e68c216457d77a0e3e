@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f989bfc_def8f7ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2021-10-12T05:42:07Z",
+      "side": 1,
+      "message": "\u003e Patch Set 4:\n\u003e \n\u003e looks like there are some changes needed for horizon before this can go though\n\nyeah, What I think We should do update Django version in global-requirements.txt first\nand then Update Django version in horizon in requirements.txt. After that bump Django version\nin upper-constraints.txt in openstack/requirements and then Update lower constraints version in\nopenstack/horizon.\nPlease correct If I am wrong.",
+      "revId": "09944b4df2922fb73293f8e68c216457d77a0e3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
