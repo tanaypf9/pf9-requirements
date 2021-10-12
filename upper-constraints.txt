@@ -562,7 +562,10 @@ XStatic-Angular-Vis===4.16.0.0
 iniconfig===1.1.1
 confluent-kafka===1.7.0
 xvfbwrapper===0.2.9
+<<<<<<< HEAD   (13b4c1 update constraint for python-ironicclient to new release 4.8)
 futures===3.1.1;python_version=='3.6'
+=======
+>>>>>>> CHANGE (c7a0da Remove futures from constraints)
 tosca-parser===2.4.1
 charset-normalizer===2.0.4
 Flask===2.0.1
