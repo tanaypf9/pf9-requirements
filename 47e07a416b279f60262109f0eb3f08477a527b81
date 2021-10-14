@@ -18,6 +18,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "228dbef6_a91b975a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2021-10-14T14:25:15Z",
+      "side": 1,
+      "message": "or not, I need to release python-muranoclient first. Forgot again /o\\",
+      "revId": "47e07a416b279f60262109f0eb3f08477a527b81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "82e55e15_baff6959",
