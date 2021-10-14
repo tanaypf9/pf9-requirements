@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "801fefcd_afcd4335",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2021-10-14T13:48:39Z",
+      "side": 1,
+      "message": "I\u0027m OK with the general idea, though for local *basic* devstack build from ussuri I did not have the reported failure [1]. My only concern is that we might need this constraint to newer branches as well at least up till wallaby.\n\n[1] https://github.com/projectcalico/networking-calico/pull/64/commits/cbed6282405957f7d60b6e0790c91fb852afe84c",
+      "revId": "22e969e411cfa23bdc8299345145c14d940b473b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
