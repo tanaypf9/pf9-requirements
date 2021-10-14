@@ -16,6 +16,23 @@
       "message": "recheck another one bites the dust 🎶🎶🎶",
       "revId": "47e07a416b279f60262109f0eb3f08477a527b81",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "82e55e15_baff6959",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 143,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2021-10-14T13:28:58Z",
+      "side": 1,
+      "message": "This can actually go higher now. 2.2.1 is out [1]. Let\u0027s do that separately though.\n\n[1] https://pypi.org/project/prettytable/#history",
+      "revId": "47e07a416b279f60262109f0eb3f08477a527b81",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
