@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f19f7f46_1ce9f886",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12393
+      },
+      "writtenOn": "2021-10-15T08:01:13Z",
+      "side": 1,
+      "message": "Once https://review.opendev.org/c/openstack/releases/+/814110 merges, please do a recheck.",
+      "revId": "2ac5a6079fc9241f265620033af1b3df76dd6a55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
