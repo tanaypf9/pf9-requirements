@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d07c9e3b_0463f469",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13425
+      },
+      "writtenOn": "2021-10-15T14:16:29Z",
+      "side": 1,
+      "message": "Breaking Cinder 3rd Party CIs so LGTM",
+      "revId": "3b7ea7f317d3905e8b96d36a079e17fb981e48a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
