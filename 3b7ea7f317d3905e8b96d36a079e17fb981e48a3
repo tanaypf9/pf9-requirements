@@ -33,6 +33,23 @@
       "message": "Unbreak the gates!",
       "revId": "3b7ea7f317d3905e8b96d36a079e17fb981e48a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d72d4df_96c6d66f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9003
+      },
+      "writtenOn": "2021-10-15T15:16:25Z",
+      "side": 1,
+      "message": "Thanks in advance for helping get devstack working again!",
+      "revId": "3b7ea7f317d3905e8b96d36a079e17fb981e48a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
