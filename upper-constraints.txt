@@ -92,7 +92,7 @@ psycopg2===2.9.1
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.3;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0
 zuul-sphinx===0.5.0
@@ -182,7 +182,7 @@ python-subunit===1.4.0
 tornado===6.1
 pycparser===2.20
 mock===4.0.3
-PyYAML===5.4.1
+PyYAML===6.0
 beautifulsoup4===4.10.0
 cached-property===1.5.2;python_version=='3.6'
 os-net-config===15.1.0
@@ -203,6 +203,7 @@ prometheus-client===0.11.0
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
@@ -310,7 +311,7 @@ retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 platformdirs===2.4.0
 pydotplus===2.0.2
-boto3===1.18.63
+boto3===1.18.64
 jeepney===0.7.1
 stestr===3.2.1
 oslo.serialization===4.2.0
@@ -420,14 +421,14 @@ distlib===0.3.3
 XStatic-Moment-Timezone===0.5.22.0
 dogpile.cache===1.1.4
 python-barbicanclient===5.2.0
-salt===3003.3
+salt===3004
 api-object-schema===2.0.0
 WSME===0.11.0
 proboscis===1.2.6.0
 oslo.upgradecheck===1.4.0
 stevedore===3.5.0
 pywinrm===0.4.2
-botocore===1.21.63
+botocore===1.21.64
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.3.0
@@ -473,7 +474,7 @@ python-ironicclient===4.9.0
 XStatic===1.0.2
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===5.6.0
-pyzmq===22.3.0
+pyzmq===21.0.2
 nocaselist===1.0.4
 oslo.db===11.0.0
 simplegeneric===0.8.1
@@ -530,7 +531,7 @@ sphinxcontrib-qthelp===1.0.3
 keystoneauth1===4.4.0
 statsd===3.3.0
 XenAPI===2.14
-importlib-resources===5.2.3
+importlib-resources===5.3.0
 python-keystoneclient===4.3.0
 ceilometer===17.0.0
 diskimage-builder===3.13.0
@@ -578,7 +579,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.3.0
-fasteners===0.14.1
+fasteners===0.16.3
 sortedcontainers===2.4.0
 python-linstor===1.10.2
 filelock===3.3.1
@@ -605,4 +606,3 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0;python_version=='3.8'
-setuptools===58.2.0
