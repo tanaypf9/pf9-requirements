@@ -16,6 +16,23 @@
       "message": "\u003e Patch Set 2:\n\u003e \n\u003e that\u0027s fine, what concerns me is the \u0027plan\u0027 to update to 4.0.0 without a review to actually do so.  I don\u0027t want another XStatic-Angular situation for the next year.\n\nDone https://review.opendev.org/c/openstack/requirements/+/814816",
       "revId": "274b552e572680953347b1f3820d36b0fdd0130c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "17ace071_d2bf4554",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2021-10-20T19:07:25Z",
+      "side": 1,
+      "message": "recheck.",
+      "revId": "274b552e572680953347b1f3820d36b0fdd0130c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
