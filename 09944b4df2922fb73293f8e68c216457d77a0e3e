@@ -51,6 +51,24 @@
       "message": "\u003e Patch Set 4:\n\u003e \n\u003e not yet, what would be better is to is:\n\u003e \n\u003e 1. Use this patch as a dependant patch to work on fixing horizon\u0027s compat with 3.2 (and hopefully 2.2).\n\u003e 2. Once horizon patch is ready we merge this patch\n\u003e 3. then we merge horizon\u0027s patch\n\u003e 4. then we handle updating the global requirements.\n\u003e \n\u003e normally for a big lib jump we try and have one major version of backwards compat\n\nHi, I have pushed a depends-on patch in horizon which is passing now https://review.opendev.org/c/openstack/horizon/+/811412 , also requirements [2] CI also pass once\nwe merged horizon patch.\n\n[2] https://review.opendev.org/c/openstack/requirements/+/815096 ",
       "revId": "09944b4df2922fb73293f8e68c216457d77a0e3e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "342c885a_4f5e1817",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2021-10-22T10:35:40Z",
+      "side": 1,
+      "message": "So Should I update this patch with \u0027global-requirements.txt\u0027 changes only and then later I can update \u0027upper-constraints.txt\u0027 once horizon patch lands.",
+      "parentUuid": "24026449_a3b135aa",
+      "revId": "09944b4df2922fb73293f8e68c216457d77a0e3e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
