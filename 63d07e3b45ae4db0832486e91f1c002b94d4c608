@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5d3d125_bd18837b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8863
+      },
+      "writtenOn": "2021-10-22T02:10:41Z",
+      "side": 1,
+      "message": "It\u0027s causing harm for us in loci and openstack-helm. I\u0027m forced to sed it out, thought to remove dirty stuff given it\u0027s definitely not a place for it here.",
+      "revId": "63d07e3b45ae4db0832486e91f1c002b94d4c608",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
