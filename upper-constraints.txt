@@ -121,7 +121,7 @@ debtcollector===2.3.0
 requests-unixsocket===0.2.0
 responses===0.14.0
 croniter===1.0.15
-horizon===20.1.0
+horizon===21.0.0
 octavia-lib===2.4.1
 python-watcherclient===3.3.0
 MarkupSafe===2.0.1
@@ -431,7 +431,7 @@ xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.3.0
 pyroute2.nslink===0.6.5
-Django===2.2.24
+Django===3.2
 pexpect===4.8.0
 contextvars===2.4
 cmd2===2.2.0
