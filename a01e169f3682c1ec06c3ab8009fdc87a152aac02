@@ -16,6 +16,23 @@
       "message": "Thank you. I\u0027ll try to track it down.",
       "revId": "a01e169f3682c1ec06c3ab8009fdc87a152aac02",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a756d7f1_2cd18585",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8863
+      },
+      "writtenOn": "2021-10-23T03:37:03Z",
+      "side": 1,
+      "message": "I guess https://e4c840ddd19ffb545b04-38806e64f2d3daae89d7ad3776e6aee4.ssl.cf2.rackcdn.com/periodic/opendev.org/openstack/requirements/master/propose-updates/5b156b1/job-output.txt that generated commit adding \u0027futures\u0027 back (https://review.opendev.org/c/openstack/requirements/+/813954) had issues installing it as well. I can assume we have some mechanism there preventing obviously broken versions to get into upper-constraints.txt, though it currently doesn\u0027t properly work. I\u0027ll leave it here for now and pursue this idea later.",
+      "revId": "a01e169f3682c1ec06c3ab8009fdc87a152aac02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
