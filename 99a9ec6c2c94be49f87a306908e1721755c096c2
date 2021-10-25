@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5359a94_3cc12762",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2021-10-25T15:53:19Z",
+      "side": 1,
+      "message": "\u003e Patch Set 3:\n\u003e \n\u003e This will require a change in horizon to work with both django 2.2 and 3.2.\n\nI am wondering what else needs to be changed in the horizon, We have already bumped the Django\nversion in horizon https://review.opendev.org/c/openstack/horizon/+/811412",
+      "revId": "99a9ec6c2c94be49f87a306908e1721755c096c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
