@@ -51,6 +51,23 @@
       "parentUuid": "d90643eb_883b8f30",
       "revId": "41cd75c75bad10671b750cc5f206c65b7ab2559c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d031c2ec_91c86e29",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-10-26T13:26:42Z",
+      "side": 1,
+      "message": "\u003e Patch Set 6:\n\u003e \n\u003e we uncapped django, this should happen in this order imo.\n\u003e \n\u003e 1. horizon updated to work with old and new versions of django (2.2/3.2 iirc)\n\u003e 1a. horizon as a lib is still used with plugins, running django 2\n\u003e 2. horizon released, supporting django 2 and 3\n\u003e 3. upper-constraints updated to use new horizon release\n\u003e 4. projects can set a minimum version of django 3 if they want (when using the horizon lib)\n\u003e 5. horizon plugins can use this release of horizon (as a lib) to migrate their support of django to version 3\n\u003e 6. horizon can drop support for django 2 and release a version (I\u0027d say a major version bump) noting this in their requirements.txt\n\u003e 7. upper-constraints can be updated again for the new horizon release\n\u003e 8. projects that use horizon as a lib will be forced to use the new django at this point.\n\nThanks for summarizing the story. This is same as my understanding.\nI was lazy enough when I post the last comment and did not write the full story.\nI plan to write a page in the horizon contributor doc so that such confusion does not happen in future.",
+      "revId": "41cd75c75bad10671b750cc5f206c65b7ab2559c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
