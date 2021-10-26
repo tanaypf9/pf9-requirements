@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dd1c6ea0_2f2268be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-10-26T13:34:10Z",
+      "side": 1,
+      "message": "\u003e The patch is not needed, job \u0027nova-ceph-multistore\u0027 must be fixed\n\nIt is a mistake in horizon.\nThe minimum version should not be bumpted from 2.2 to 3.2.\nI noticed that horizon used a wrong approach when switching the default Django version to Django 3.2.\nI fixed the minimum version of Django in horizon master in https://review.opendev.org/c/openstack/horizon/+/815393.\n",
+      "revId": "48524a10e54496f866c06a52a8f765dc4807c783",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
