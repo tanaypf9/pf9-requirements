@@ -33,6 +33,24 @@
       "message": "requirements-tox-py38-check-uc failure is valid. horizon is used as a library in horizon plugins, so horizon which accepts Django 3.2 needs to be released before updating upper-constraints.txt to Django 3.2. I believe this is the right step to bump the Django minimum version.",
       "revId": "41cd75c75bad10671b750cc5f206c65b7ab2559c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9cad4e62_b8745307",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 841
+      },
+      "writtenOn": "2021-10-26T01:24:19Z",
+      "side": 1,
+      "message": "\u003e requirements-tox-py38-check-uc failure is valid. horizon is used as a library in horizon plugins, so horizon which accepts Django 3.2 needs to be released before updating upper-constraints.txt to Django 3.2. I believe this is the right step to bump the Django minimum version.\n\nor django version in u-c can be updated together with horizon update in u-c.",
+      "parentUuid": "d90643eb_883b8f30",
+      "revId": "41cd75c75bad10671b750cc5f206c65b7ab2559c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
