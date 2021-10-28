@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c322fbe4_5d0419f6",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 8
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2021-10-28T07:39:57Z",
+      "side": 1,
+      "message": "official",
+      "range": {
+        "startLine": 40,
+        "startChar": 70,
+        "endLine": 40,
+        "endChar": 78
+      },
+      "revId": "29433d6d0e271dec738dec9582bb7e6f3031f699",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e07ebe8_69d3cd0e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2021-10-28T07:39:57Z",
+      "side": 1,
+      "message": "LGTM. Waiting for the CI outcomes",
+      "revId": "29433d6d0e271dec738dec9582bb7e6f3031f699",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
