@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb9212f3_d871aad5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2021-10-29T01:07:00Z",
+      "side": 1,
+      "message": "there is a new blocking\u003dtrue paramter added to lock\nhttps://github.com/openstack/oslo.concurrency/blob/master/oslo_concurrency/lockutils.py#L237\n\nby https://github.com/openstack/oslo.concurrency/commit/a9ccf0a64deb63e7ea07d232437da797462d8f4b\n\nwhich changes the signiture which is causing the nova tests to fail.",
+      "revId": "d06bc5119b79a91a2c224f27a9d97ebec9a38d8a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
