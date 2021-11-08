@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "455a82ca_8772bc7d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 13
+      },
+      "lineNbr": 611,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-11-08T20:54:38Z",
+      "side": 1,
+      "message": "what\u0027s with the setuptools update?",
+      "revId": "18fda13ff32e136c691151c711c0f41a52a023ed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
