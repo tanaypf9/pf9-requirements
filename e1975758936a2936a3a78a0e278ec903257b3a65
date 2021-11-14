@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "deee84f2_a09dec55",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2021-11-14T09:08:33Z",
+      "side": 1,
+      "message": "recheck unrelated neutron job timeout",
+      "revId": "e1975758936a2936a3a78a0e278ec903257b3a65",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
