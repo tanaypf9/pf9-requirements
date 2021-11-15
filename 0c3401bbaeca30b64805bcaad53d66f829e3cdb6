@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1bf66e90_8ba81488",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 8833
+      },
+      "writtenOn": "2021-11-15T10:06:36Z",
+      "side": 1,
+      "message": "This breaks all doc jobs...\n\nhttps://storage.gra.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_095/817890/2/check/openstack-tox-docs/095a832/job-output.txt\n\n2021-11-15 08:40:38.311403 | ubuntu-focal | /home/zuul/src/opendev.org/openstack/heat/heat/db/sqlalchemy/types.py:docstring of heat.db.sqlalchemy.types.Json.process_bind_param:19: WARNING: undefined label: types_typedecorator\n2021-11-15 08:40:38.311535 | ubuntu-focal | /home/zuul/src/opendev.org/openstack/heat/heat/db/sqlalchemy/types.py:docstring of heat.db.sqlalchemy.types.Json.process_result_value:19: WARNING: undefined label: types_typedecorator\n2021-11-15 08:40:38.311652 | ubuntu-focal | /home/zuul/src/opendev.org/openstack/heat/heat/db/sqlalchemy/types.py:docstring of heat.db.sqlalchemy.types.List.process_bind_param:19: WARNING: undefined label: types_typedecorator\n2021-11-15 08:40:38.311769 | ubuntu-focal | /home/zuul/src/opendev.org/openstack/heat/heat/db/sqlalchemy/types.py:docstring of heat.db.sqlalchemy.types.List.process_result_value:19: WARNING: undefined label: types_typedecorator",
+      "range": {
+        "startLine": 155,
+        "startChar": 13,
+        "endLine": 155,
+        "endChar": 19
+      },
+      "revId": "0c3401bbaeca30b64805bcaad53d66f829e3cdb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
