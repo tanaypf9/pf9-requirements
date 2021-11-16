@@ -47,8 +47,8 @@ django-compressor  # MIT
 django-debreach  # BSD
 django-formtools  # BSD
 django-pymemcache  # Apache-2.0
-# eventlet is not compatibile with 2.0.0: https://github.com/eventlet/eventlet/issues/619
-dnspython!=2.0.0  # http://www.dnspython.org/LICENSE
+# eventlet is not compatibile with 2.0.0 until 0.32.0: https://github.com/eventlet/eventlet/issues/619
+dnspython<2.0.0  # http://www.dnspython.org/LICENSE
 # Note(tonyb): We don't actually directly depend on docutils but we pull it in
 # indirectly and we needed to blacklist 0.13.1 for problems with
 # Sphinx 1.3. This can be now removed once all projects removed it.
@@ -61,7 +61,7 @@ elasticsearch<3.0.0  # Apache-2.0
 enmerkar  # BSD
 # NOTE: New versions of eventlet should not be accepted lightly
 # as they have earned a reputation of frequently breaking things.
-eventlet!=0.18.3,!=0.20.1,!=0.21.0,!=0.23.0,!=0.25.0  # MIT
+eventlet!=0.18.3,!=0.20.1,!=0.21.0,!=0.23.0,!=0.25.0,!=0.32.0  # MIT
 exabgp!=4.0.6  # BSD
 extras  # MIT
 falcon  # Apache-2.0
