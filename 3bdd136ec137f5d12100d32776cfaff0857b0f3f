@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f223e705_9faa4028",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2021-11-19T22:15:07Z",
+      "side": 1,
+      "message": "this should fix the keystone error https://review.opendev.org/c/openstack/keystone/+/818624",
+      "revId": "3bdd136ec137f5d12100d32776cfaff0857b0f3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
