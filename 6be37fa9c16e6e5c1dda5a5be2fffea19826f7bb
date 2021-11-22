@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1afb91ea_92982524",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2021-11-22T16:37:39Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e any reason this over gpgme or pyGPG?\n\nNo particular reason other than the developers have been using it.  Is there a reason to prefer gpgme or pyGPG over python-gnupg?",
+      "revId": "6be37fa9c16e6e5c1dda5a5be2fffea19826f7bb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
