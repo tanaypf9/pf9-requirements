@@ -16,6 +16,23 @@
       "message": "Fixes submitted to cinder [1] and manila [2] to address these unit test failures\n\n[1] https://review.opendev.org/c/openstack/cinder/+/818834\n[2] https://review.opendev.org/c/openstack/manila/+/818829",
       "revId": "49847a0ff917ad62a02961ff19560c4a718102d7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "679a222c_66367436",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2021-11-23T17:55:50Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "49847a0ff917ad62a02961ff19560c4a718102d7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
