@@ -78,6 +78,7 @@ httplib2  # MIT
 httpx  # BSD
 hvac  # Apache-2.0
 icalendar  # BSD
+icmplib # LGPLv3+
 importlib-metadata;python_version<'3.8'  # Apache-2.0
 infinisdk  # BSD-3
 influxdb!=5.3.0  # MIT
