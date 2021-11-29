@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "84a223ad_1aec3b08",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 81,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-11-29T21:23:40Z",
+      "side": 1,
+      "message": "there needs to be two spaces before the \u0027#\u0027",
+      "revId": "7d3a671d219bc4b29396c7e31beefe9626339002",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
