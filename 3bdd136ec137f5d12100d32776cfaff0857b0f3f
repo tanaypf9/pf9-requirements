@@ -16,6 +16,23 @@
       "message": "this should fix the keystone error https://review.opendev.org/c/openstack/keystone/+/818624",
       "revId": "3bdd136ec137f5d12100d32776cfaff0857b0f3f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7c6966af_3c815d12",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2021-11-30T20:41:34Z",
+      "side": 1,
+      "message": "recheck keystone fix merged https://review.opendev.org/c/openstack/keystone/+/818624/3",
+      "revId": "3bdd136ec137f5d12100d32776cfaff0857b0f3f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
