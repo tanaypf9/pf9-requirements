@@ -33,6 +33,24 @@
       "message": "\u003e Patch Set 1: Code-Review+2 Workflow+1\n\u003e \n\u003e do we include tempest only libs in GR?  also for any new lib we need https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements answered in the commit message\n\nGah Apologies *again*, I\u0027ll go over these on Monday but I can already see a there\u0027s a lack of testing in the codebase that might force us to use something different. ",
       "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3038c2d_df9fff9a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2021-12-03T18:41:22Z",
+      "side": 1,
+      "message": "tempest is in blacklist and not constrained (since https://review.opendev.org/c/openstack/requirements/+/787621). I am not sure on lib needed by tempest needs to be in blacklist too, I think those can be used in another place also?",
+      "parentUuid": "72d78fe7_9cb21add",
+      "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
