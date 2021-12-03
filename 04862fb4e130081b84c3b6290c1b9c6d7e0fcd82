@@ -16,6 +16,23 @@
       "message": "thanks",
       "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72d78fe7_9cb21add",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10135
+      },
+      "writtenOn": "2021-12-03T18:31:27Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+2 Workflow+1\n\u003e \n\u003e do we include tempest only libs in GR?  also for any new lib we need https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements answered in the commit message\n\nGah Apologies *again*, I\u0027ll go over these on Monday but I can already see a there\u0027s a lack of testing in the codebase that might force us to use something different. ",
+      "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
