@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ddda482_67ad807b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2021-12-06T11:16:25Z",
+      "side": 1,
+      "message": "\u003e Patch Set 2: Code-Review-1\n\u003e \n\u003e fairly sure that this was rejected the last time it came up because it\u0027s more of an ops decision (what to use as a server) than a dev one (nothing actually depends on it)\n\nShould it be added to blacklist then?",
+      "revId": "57069e4f48fd10da32202e712336288f5d63cb97",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
