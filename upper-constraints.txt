@@ -19,7 +19,8 @@ XStatic-Angular-Bootstrap===2.5.0.0
 WebOb===1.8.7
 sphinxcontrib-actdiag===2.0.0;python_version=='3.6'
 sphinxcontrib-actdiag===3.0.0;python_version=='3.8'
-pecan===1.3.3
+pecan===1.3.3;python_version=='3.6'
+pecan===2.0.0;python_version=='3.8'
 ryu===4.34
 os-api-ref===2.3.0
 python-ldap===3.4.0
@@ -95,10 +96,10 @@ networkx===2.6.3;python_version=='3.8'
 bashate===2.1.0
 XStatic-Angular===1.5.8.0
 pyngus===2.3.1
-Pillow===8.4.0
+Pillow===8.3.2
 zuul-sphinx===0.6.0
 tripleo-common===16.2.0
-Tempita===0.5.2
+Tempita===0.5.1
 ply===3.11
 google-api-core===2.3.0
 requests-toolbelt===0.9.1
@@ -122,7 +123,7 @@ pyinotify===0.9.6
 debtcollector===2.3.0
 requests-unixsocket===0.2.0
 responses===0.16.0
-croniter===1.1.0
+croniter===1.1.1
 horizon===20.2.0
 octavia-lib===2.4.1
 python-watcherclient===3.3.0
@@ -199,7 +200,7 @@ psycopg2-binary===2.9.2
 openstack-release-test===3.3.1
 validations-libs===1.4.0
 pylxd===2.3.1
-pycryptodomex===3.12.0
+pycryptodomex===3.13.0
 anyjson===0.3.3
 requests-mock===1.9.3
 os-apply-config===13.1.0
@@ -384,7 +385,6 @@ yamlloader===1.1.0
 protobuf===3.19.1
 sushy===4.0.0
 python-neutronclient===7.7.0
-pika===1.2.0
 oslo.cache===2.8.1
 WebTest===3.0.0
 openstack.nose-plugin===0.11
@@ -618,3 +618,4 @@ sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.1;python_version=='3.8'
 setuptools===59.5.0
+new-dep===0.0.1
