@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0eb0f4f5_17ff5e9a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2021-12-10T16:33:08Z",
+      "side": 1,
+      "message": "looks like PrettyTable redirects to prettytable, not sure if this is necessary, but if it is I\u0027d rather do a straight replace",
+      "revId": "d0dab3059dbeed1de4d2867e4afe1e433c2d713e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
