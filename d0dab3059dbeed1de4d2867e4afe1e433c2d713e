@@ -34,6 +34,24 @@
       "parentUuid": "0eb0f4f5_17ff5e9a",
       "revId": "d0dab3059dbeed1de4d2867e4afe1e433c2d713e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d6acf08_7a77d189",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2021-12-13T16:15:27Z",
+      "side": 1,
+      "message": "I can do just replacement if we\u0027re fine with project jobs to fail. I think it\u0027s fair nowadays to actually replace that indeed. Might be needed to have some ML though?",
+      "parentUuid": "7954bdb1_a9a7913c",
+      "revId": "d0dab3059dbeed1de4d2867e4afe1e433c2d713e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
