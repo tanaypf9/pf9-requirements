@@ -16,6 +16,23 @@
       "message": "Swift fix is under review: https://review.opendev.org/q/I306b7d05740a2b8fcef2f5f432ebf5211bc723cc",
       "revId": "9c6194159c30c757ddb23297dd0cbb271d05f9ce",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3493d4df_6cea3b86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2021-12-16T18:09:07Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "9c6194159c30c757ddb23297dd0cbb271d05f9ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
