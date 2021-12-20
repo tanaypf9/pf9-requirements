@@ -33,6 +33,23 @@
       "message": "recheck",
       "revId": "9c6194159c30c757ddb23297dd0cbb271d05f9ce",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "08a1d2f4_16a65d83",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11975
+      },
+      "writtenOn": "2021-12-20T15:40:34Z",
+      "side": 1,
+      "message": "\u003e Patch Set 2:\n\u003e \n\u003e what is this impacting?  iirc openstack considers train eol now (not extended maint)\n\nIt impacts at least Neutron CI jobs from stable/train and older branches. We still have train as EM branch (and it\u0027s the same up to Queens even).",
+      "revId": "9c6194159c30c757ddb23297dd0cbb271d05f9ce",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
