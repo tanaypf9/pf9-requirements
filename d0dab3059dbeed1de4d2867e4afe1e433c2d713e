@@ -3,6 +3,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "6b62637d_1f19474e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2021-12-21T02:12:20Z",
+      "side": 1,
+      "message": "I always fai to follow comments in timely manner 😞\n\nYep, sure, will do that! thanks for providing list.\n\nI\u0027m not sure though other opendev projects uses u-c from openstack? I thought they don\u0027t?",
+      "revId": "d0dab3059dbeed1de4d2867e4afe1e433c2d713e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "0eb0f4f5_17ff5e9a",
         "filename": "global-requirements.txt",
         "patchSetId": 2
