@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64df6337_48bc8f7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2021-12-29T08:19:38Z",
+      "side": 1,
+      "message": "would need https://review.opendev.org/823128 as paramiko-2.9 broked tempest jobs. also u-c updates are not getting tested in requirements gate so https://review.opendev.org/823127 need to fix it. but now both depend-on each other to pass, not sure how to get these merged together, is it possible to merge devstack patch forcefully to clear this? or any other way?",
+      "revId": "b3a7ef0b94e8e749c013231eea60b253c5b9dbfb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
