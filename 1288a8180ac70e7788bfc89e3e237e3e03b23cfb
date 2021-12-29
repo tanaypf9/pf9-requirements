@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "434e7ba1_8d755c33",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2021-12-29T07:03:14Z",
+      "side": 1,
+      "message": "Paramiko 2.9 broke tempest jobs, also tempest-full job didn\u0027t test the requirement updates leading to broken merge, need to fix job so updates get\u0027s tested. also will propose revert of paramiko-2.9 until ssh issue is clear https://github.com/cirros-dev/cirros/issues/74",
+      "revId": "1288a8180ac70e7788bfc89e3e237e3e03b23cfb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
