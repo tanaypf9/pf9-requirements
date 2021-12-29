@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e83f9aa2_635d2955",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2021-12-29T09:17:44Z",
+      "side": 1,
+      "message": "I think I\u0027d rather turn around the dependency and make the reqs patch mergeable first by making the tempest job non-voting temporarily.",
+      "revId": "019b0f7d1fa6f6f59558ccd487ce6ed967cb6517",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "96131a9a_cc3be42a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2021-12-29T09:17:44Z",
+      "side": 1,
+      "message": "I think we should just !\u003d the broken versions and also create an issue against paramiko, since IMO this is an regression on their side that should get fixed.",
+      "revId": "019b0f7d1fa6f6f59558ccd487ce6ed967cb6517",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
