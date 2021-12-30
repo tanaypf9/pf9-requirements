@@ -46,7 +46,7 @@ alabaster===0.7.12
 pbr===5.8.0
 munch===2.5.0
 waiting===1.4.1
-attrs===21.3.0
+attrs===21.4.0
 microversion-parse===1.0.1
 Pint===0.17;python_version=='3.6'
 Pint===0.18;python_version=='3.8'
@@ -55,7 +55,7 @@ jsonpath-rw-ext===1.2.2
 python-mistralclient===4.3.0
 oslo.context===3.4.0
 python-senlinclient===2.3.0
-rcssmin===1.0.6
+rcssmin===1.1.0
 pycadf===3.1.1
 types-enum34===1.1.1
 grpcio===1.43.0
@@ -88,11 +88,11 @@ os-xenapi===0.3.4
 python-vitrageclient===4.4.0
 nosexcover===1.0.11
 krest===1.3.2
-psycopg2===2.9.2
+psycopg2===2.9.3
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.3;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0
 zuul-sphinx===0.6.0
@@ -195,7 +195,7 @@ httpcore===0.14.3
 URLObject===2.4.3
 nocasedict===1.0.2
 task-core===0.1.2
-psycopg2-binary===2.9.2
+psycopg2-binary===2.9.3
 openstack-release-test===3.3.1
 validations-libs===1.4.0
 pylxd===2.3.1
@@ -207,10 +207,11 @@ prometheus-client===0.12.0
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
-django-compressor===2.4.1
+django-compressor===3.1
 libvirt-python===7.10.0
 python-zunclient===4.3.0
 tzlocal===4.1
@@ -240,7 +241,7 @@ websockify===0.10.0
 gssapi===1.7.2
 XStatic-JQuery.quicksearch===2.0.3.2
 mpmath===1.2.1
-python-binary-memcached===0.30.1
+python-binary-memcached===0.31.1
 django-debreach===2.0.1
 sphinx-feature-classification===1.1.0
 django-pymemcache===1.0.0
@@ -275,7 +276,7 @@ webcolors===1.11.1
 aodhclient===2.3.0
 autobahn===21.11.1;python_version=='3.8'
 autobahn===21.2.1;python_version=='3.6'
-SQLAlchemy-Utils===0.38.1
+SQLAlchemy-Utils===0.38.2
 retryz===0.1.9
 pluggy===1.0.0
 coverage===6.2
@@ -355,7 +356,7 @@ infinisdk===185.1.1
 packaging===21.3
 XStatic-Dagre-D3===0.4.17.0
 nose-exclude===0.5.0
-psutil===5.8.0
+psutil===5.9.0
 py===1.11.0
 txaio===21.2.1
 elasticsearch===2.4.1
@@ -397,7 +398,7 @@ os-collect-config===13.1.0
 edgegrid-python===1.2.1
 python-qpid-proton===0.35.0
 python-octaviaclient===2.4.0
-pysaml2===7.0.1
+pysaml2===7.1.0
 requests-oauthlib===1.3.0
 oslo.reports===2.3.0
 bitmath===1.3.3.1
@@ -479,7 +480,7 @@ dulwich===0.20.26
 dfs-sdk===1.2.27
 sentinels===1.0.0
 kombu===5.1.0;python_version=='3.6'
-kombu===5.2.2;python_version=='3.8'
+kombu===5.2.3;python_version=='3.8'
 pyroute2.ndb===0.6.5
 distro===1.6.0
 zstd===1.5.0.4
@@ -562,7 +563,7 @@ anyio===3.4.0
 XStatic-Angular-lrdragndrop===1.0.2.4
 ovsdbapp===1.13.0
 aniso8601===9.0.1
-rjsmin===1.1.0
+rjsmin===1.2.0
 icalendar===4.0.9
 decorator===4.4.2;python_version=='3.6'
 decorator===5.1.0;python_version=='3.8'
@@ -598,7 +599,7 @@ sqlalchemy-filters===0.12.0
 marathon===0.13.0
 sphinxcontrib-runcmd===0.2.0
 confspirator===0.3.0
-fasteners===0.14.1
+fasteners===0.16.3
 sortedcontainers===2.4.0
 python-linstor===1.12.0
 filelock===3.4.1;python_version=='3.6'
@@ -613,7 +614,7 @@ itsdangerous===2.0.1
 XStatic-jquery-ui===1.13.0.1
 monasca-statsd===2.3.0
 python-dateutil===2.8.2
-virtualenv===20.11.1
+virtualenv===20.11.2
 colorama===0.4.4
 confetti===2.5.3
 ironic-lib===5.1.0
@@ -626,5 +627,3 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.2;python_version=='3.8'
-setuptools===59.6.0;python_version=='3.6'
-setuptools===60.1.1;python_version=='3.8'
