@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "686d9472_9e78583a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5263
+      },
+      "writtenOn": "2022-01-05T20:58:41Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e I am just wondering why pypi repo shows different version than the github for this package i.e. 1.8.2.1\n\u003e It needs to be 1.8.2.0 but right now If I run pip install\u003d\u003d1.8.2.0 then \u00271.8.2.0\u0027 version is not found? Also this patch tries to install 1.8.2.0 which may not exists.\n\nLate answer, but I was just looking into this myself, the package version is a concatenation of the VERSION and BUILD consts in xstatic/pkg/angular/__init__.py so ideally the release tag requested should have matched what\u0027s in that file, but it did not. We avoid this in other projects by relying on PBR to generate versions from the Git tag name, but the xstatic packages don\u0027t use PBR (and perhaps can\u0027t? I haven\u0027t looked closely at what it would take to integrate).",
+      "revId": "6c191902e6e81e24dca6b8260ea4fc27f68234cf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
