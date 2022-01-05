@@ -55,7 +55,7 @@ jsonpath-rw-ext===1.2.2
 python-mistralclient===4.3.0
 oslo.context===3.4.0
 python-senlinclient===2.3.0
-rcssmin===1.0.6
+rcssmin===1.1.0
 pycadf===3.1.1
 types-enum34===1.1.1
 grpcio===1.43.0
@@ -92,7 +92,7 @@ psycopg2===2.9.3
 networkx===2.5.1;python_version=='3.6'
 networkx===2.6.3;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0;python_version=='3.6'
 Pillow===9.0.0;python_version=='3.8'
@@ -211,7 +211,7 @@ storpool===7.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
-django-compressor===2.4.1
+django-compressor===3.1
 libvirt-python===7.10.0
 python-zunclient===4.3.0
 tzlocal===4.1
@@ -564,7 +564,7 @@ anyio===3.4.0
 XStatic-Angular-lrdragndrop===1.0.2.4
 ovsdbapp===1.13.0
 aniso8601===9.0.1
-rjsmin===1.1.0
+rjsmin===1.2.0
 icalendar===4.0.9
 decorator===4.4.2;python_version=='3.6'
 decorator===5.1.0;python_version=='3.8'
