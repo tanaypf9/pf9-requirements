@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "faaa2762_b6ceab91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32926
+      },
+      "writtenOn": "2022-01-07T08:51:45Z",
+      "side": 1,
+      "message": "Until the minimum viable version set is certain.",
+      "revId": "7fd2ea9359582dfc4c8754c570cee9f289e56a05",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
