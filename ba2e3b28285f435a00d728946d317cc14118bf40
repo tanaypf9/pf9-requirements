@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57c4c66e_3a867bc4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32926
+      },
+      "writtenOn": "2022-01-13T09:39:09Z",
+      "side": 1,
+      "message": "openstack/requirements is especially prone to merge conflicts, as it\u0027s just couple of files that undergo frequent updates.\n\nPatches pulling this as a dependency should take it into account. ",
+      "revId": "ba2e3b28285f435a00d728946d317cc14118bf40",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
