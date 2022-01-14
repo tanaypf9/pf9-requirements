@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6e61167_1afd2170",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-01-14T16:25:51Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e (there is some dep that brings it in, not an openstack controlled one iirc)\n\nRight, we saw pypowervm still importing it [1]. Because there is a pull request in this project removing this requirement, it will be better to abandon this patch.\n\nThanks!\n\n[1]https://matrix.org/_matrix/media/r0/download/matrix.org/XDBQWxzEKVVIbBdcHSOAUrTu",
+      "revId": "b9ff9c5a38f0daa2d04a34d19ae7eedb2005ff9a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
