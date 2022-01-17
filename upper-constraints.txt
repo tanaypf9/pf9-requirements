@@ -311,10 +311,17 @@ ovs===2.11.0
 cryptography===2.9
 URLObject===2.4.3
 psycopg2-binary===2.8.5
+<<<<<<< HEAD   (854f74 [Ussuri-only] Bumping upper constrain of openstack/validatio)
 backports.ssl-match-hostname===3.7.0.1;python_version=='2.7'
 openstack-release-test===3.0.1
 pylxd===2.2.10
 pycryptodomex===3.9.7
+=======
+openstack-release-test===3.3.1
+validations-libs===1.5.0
+pylxd===2.2.11
+pycryptodomex===3.9.8
+>>>>>>> CHANGE (f8214a Move upper-constraints for validations-libs to 1.5.0)
 anyjson===0.3.3
 requests-mock===1.7.0
 os-apply-config===11.2.3
