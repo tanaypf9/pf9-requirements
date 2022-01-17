@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a952381_1699a00d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-01-17T16:38:15Z",
+      "side": 1,
+      "message": "Yes please, needed bug fix for scoped tokens.",
+      "revId": "07abd0cc4c253567698d8be980334ebe870af87f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
