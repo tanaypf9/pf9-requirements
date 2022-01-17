@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "524a0c96_21813e5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16515
+      },
+      "writtenOn": "2022-01-17T20:26:34Z",
+      "side": 1,
+      "message": "I think once the release patch [1] will be merged, an automatic review will be pushed to the upper-constraints.\n\n[1]\nhttps://review.opendev.org/c/openstack/releases/+/825010",
+      "revId": "0d00b3ed40b4943a98a402b9e9f4cfe07d66cf4e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
