@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6acb9e8b_1d1590e5",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 413,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-01-18T15:59:30Z",
+      "side": 1,
+      "message": "please add a comment here linking to the upstream issue so we can monitor for a fix, thanks",
+      "revId": "5dc7c30cf6f89773e37aa576c8bf4ab6284280ff",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
