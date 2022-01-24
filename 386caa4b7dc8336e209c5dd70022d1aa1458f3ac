@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d0cd4220_d0007266",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2022-01-24T14:12:29Z",
+      "side": 1,
+      "message": "\u003e The conflict is caused by:\n\u003e     kuryr-lib 2.4.0 depends on neutron-lib\u003e\u003d1.13.0\n\u003e     The user requested (constraint) neutron-lib\u003d\u003d\u003d2.19.0",
+      "revId": "386caa4b7dc8336e209c5dd70022d1aa1458f3ac",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
