@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f5e5c53_e007dd93",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-01-25T01:58:04Z",
+      "side": 1,
+      "message": "recheck\nWas too fast on this patch, the dnspython 2.2.0 block wasn\u0027t merged",
+      "revId": "3dd841da1f50f2cf1bffe981d7c9034100078139",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
