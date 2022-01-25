@@ -16,6 +16,23 @@
       "message": "recheck\nWas too fast on this patch, the dnspython 2.2.0 block wasn\u0027t merged",
       "revId": "3dd841da1f50f2cf1bffe981d7c9034100078139",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a333294b_234d70c7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-01-25T18:05:48Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e I\u0027m guessing that this would have caught the dnspython issue (why should we add it?)\n\nYes, this would have caught the bug in the dnspython 2.2.0 UC updated.",
+      "revId": "3dd841da1f50f2cf1bffe981d7c9034100078139",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
