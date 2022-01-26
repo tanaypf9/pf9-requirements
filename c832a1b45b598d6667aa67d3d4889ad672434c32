@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4e959873_1e1238e9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-01-26T12:56:41Z",
+      "side": 1,
+      "message": "the zuul run is still pending.\n\nnova passe but it looks like there are some faiture in other jobs\nthe placment one is correct since we need to update the tests every time we do a release for the number of traits to expect.\n\nill submit a patch for that now.\n\nthe failure\nis \nERROR: Cannot install kuryr-lib because these package versions have conflicting dependencies.\n\nThe conflict is caused by:\n    neutron-lib 2.18.1 depends on os-traits\u003e\u003d0.9.0\n    The user requested (constraint) os-traits\u003d\u003d\u003d2.7.0\n\nTo fix this you could try to:\n1. loosen the range of package versions you\u0027ve specified\n2. remove package versions to allow pip attempt to solve the dependency conflict\n\n\nits not clear why that is failing but i see there are also some pending update to neutorn lib\n\nthis will need a reject after the placment patch merges",
+      "revId": "c832a1b45b598d6667aa67d3d4889ad672434c32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
