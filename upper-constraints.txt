@@ -595,7 +595,8 @@ XStatic-Angular-Vis===4.16.0.0
 iniconfig===1.1.1
 confluent-kafka===1.8.2
 xvfbwrapper===0.2.9
-futures===3.0.5;python_version=='3.6'
+# futures does not support Python 3, only Python 2
+futures===3.0.5;python_version=='2.7'
 tosca-parser===2.5.0
 charset-normalizer===2.0.10
 Flask===2.0.2
