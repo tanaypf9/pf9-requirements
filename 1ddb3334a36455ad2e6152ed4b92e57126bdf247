@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "350acd15_474d2913",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32962
+      },
+      "writtenOn": "2022-01-28T10:12:41Z",
+      "side": 1,
+      "message": "futures is probably pulled in via pypowervm which is listed in Nova\u0027s requirements.txt (https://opendev.org/openstack/nova/src/branch/master/requirements.txt). There is a pending pull request to remove futures from pypowervm: https://github.com/powervm/pypowervm/pull/17",
+      "revId": "1ddb3334a36455ad2e6152ed4b92e57126bdf247",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
