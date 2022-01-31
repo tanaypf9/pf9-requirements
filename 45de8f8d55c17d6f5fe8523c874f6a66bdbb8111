@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f62dfbc0_f5999b94",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-01-31T13:34:56Z",
+      "side": 1,
+      "message": "I know that we usually avoid to bump requirements on stable branches but without the changes landed by dogpile.cache 1.1.5 oslo.cache won\u0027t be able to recover from a connection issue in a Memcached cluster. This a problem for an HA context.\n\nIn other words if the used node of the cluster become down, oslo.cache won\u0027t switch to another node and won\u0027t recover. That will lead us to this bug https://bugs.launchpad.net/oslo.cache/+bug/1959562\n\nThe changes landed by 1.1.5 are new options passed to pymemcache[1] with the default value given by the pymemcache lib so I won\u0027t expect side effects introduced by these changes. The goal of the dogpile.cache changes is to allow us to configure manually these already existing value, that\u0027s all.\n\n[1] https://github.com/sqlalchemy/dogpile.cache/commit/da490df9edae8c60e7ee3d577ac610efdffc5986",
+      "revId": "45de8f8d55c17d6f5fe8523c874f6a66bdbb8111",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
