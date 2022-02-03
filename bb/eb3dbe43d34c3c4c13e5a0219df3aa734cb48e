@@ -1,0 +1,8 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Thu, 03 Feb 2022 18:17:48 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/826457
+Project: openstack/requirements
+Branch: refs/heads/stable/wallaby
