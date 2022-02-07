@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "548c4f1b_3e874d61",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23567
+      },
+      "writtenOn": "2022-02-07T09:29:40Z",
+      "side": 1,
+      "message": "looks good! let\u0027s see how gates behave",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
