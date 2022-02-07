@@ -16,6 +16,23 @@
       "message": "looks good! let\u0027s see how gates behave",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01d5a4b1_cb4f1690",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23804
+      },
+      "writtenOn": "2022-02-07T10:11:26Z",
+      "side": 1,
+      "message": "Zuul is about to finish and looks happy this far, thanks Lucas!",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
