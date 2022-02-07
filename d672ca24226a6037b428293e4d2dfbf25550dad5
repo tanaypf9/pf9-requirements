@@ -50,6 +50,23 @@
       "message": "\u003e Patch Set 1: Code-Review+2\n\u003e \n\u003e this is a larger bump than I\u0027m generally happy with, do you mind emailing the list to verify no issues?\n\nHi thanks for the review and for the suggestion. I will send an email to openstack-discuss about this version bump seeking more feedback from others.",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cff42115_dd34dd2f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6773
+      },
+      "writtenOn": "2022-02-07T15:54:35Z",
+      "side": 1,
+      "message": "Email sent at http://lists.openstack.org/pipermail/openstack-discuss/2022-February/027080.html",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
