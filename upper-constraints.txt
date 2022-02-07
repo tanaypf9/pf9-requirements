@@ -135,6 +135,7 @@ sphinxcontrib.datatemplates===0.6.1
 jsonpath-rw===1.4.0
 prettytable===0.7.2
 vine===5.0.0
+pyroute2.nftables===0.6.5
 taskflow===4.5.0
 traceback2===1.4.0
 arrow===0.16.0
@@ -142,9 +143,10 @@ semantic-version===2.8.5
 virtualbmc===2.2.0
 deprecation===2.1.0
 SQLAlchemy===1.3.19
-pyroute2===0.5.14
+pyroute2===0.6.5
 google-auth===1.21.0
 kazoo===2.8.0
+pyroute2.ethtool===0.6.5
 XStatic-roboto-fontface===0.5.0.0
 pyudev===0.22.0
 eventlet===0.26.1
@@ -412,6 +414,7 @@ botocore===1.17.52
 xmltodict===0.12.0
 pyasn1===0.4.8
 oslo.rootwrap===6.2.0
+pyroute2.nslink===0.6.5
 Django===2.2.15
 pexpect===4.8.0
 contextvars===2.4;python_version=='3.6'
@@ -437,6 +440,7 @@ dulwich===0.20.6
 dfs-sdk===1.2.26
 sentinels===1.0.0
 kombu===5.0.2
+pyroute2.ndb===0.6.5
 distro===1.5.0
 zstd===1.4.5.1
 yaql===1.1.3
@@ -473,12 +477,15 @@ pyrsistent===0.16.0
 repoze.lru===0.7
 rfc3986===1.4.0
 tenacity===6.2.0
+pyroute2.core===0.6.5
 python-designateclient===4.1.0
+pyroute2.ipdb===0.6.5
 future===0.18.2
 Paste===3.4.3
 pytest-django===3.9.0
 jaeger-client===4.3.0
 XStatic-Json2yaml===0.1.1.0
+pyroute2.ipset===0.6.5
 boto===2.49.0
 os-vif===2.2.1
 mitba===1.1.1
