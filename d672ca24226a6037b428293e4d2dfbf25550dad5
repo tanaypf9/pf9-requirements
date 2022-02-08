@@ -119,6 +119,23 @@
       "parentUuid": "95d10865_2b545348",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e7463d9_f625d144",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6476
+      },
+      "writtenOn": "2022-02-08T20:59:47Z",
+      "side": 1,
+      "message": "Debian already uses 0.6.4, no worries for upgrading to 0.6.5.",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
