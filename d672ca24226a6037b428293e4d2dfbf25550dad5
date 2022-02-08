@@ -84,6 +84,23 @@
       "message": "LGTM, should be fine for Octavia",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "95d10865_2b545348",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11600
+      },
+      "writtenOn": "2022-02-08T09:41:49Z",
+      "side": 1,
+      "message": "In Wallaby\u0027s Kuryr we\u0027re using legacy IPDB module from pyroute2. Let me try first if this isn\u0027t creating any issues.",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
