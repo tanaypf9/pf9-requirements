@@ -67,6 +67,23 @@
       "message": "Email sent at http://lists.openstack.org/pipermail/openstack-discuss/2022-February/027080.html",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6d039ee3_a68d7c73",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29244
+      },
+      "writtenOn": "2022-02-08T06:43:04Z",
+      "side": 1,
+      "message": "LGTM, should be fine for Octavia",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
