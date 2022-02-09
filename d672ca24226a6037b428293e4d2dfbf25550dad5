@@ -136,6 +136,23 @@
       "message": "Debian already uses 0.6.4, no worries for upgrading to 0.6.5.",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24f2b53e_f652b324",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21798
+      },
+      "writtenOn": "2022-02-09T15:18:07Z",
+      "side": 1,
+      "message": "Should be fine on neutron, let\u0027s wait for kuryr results (there was another backport needed I think to have proper results on this bump)",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
