@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "577d203c_fdd5b709",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 474,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-02-09T23:38:55Z",
+      "side": 1,
+      "message": "I think sphinxmark is new, it\u0027ll need the standard questions answered in the commit message\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements",
+      "revId": "533116224b2ff14266d440e0aab4072783739eae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
