@@ -16,6 +16,24 @@
       "message": "I think sphinxmark is new, it\u0027ll need the standard questions answered in the commit message\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements",
       "revId": "533116224b2ff14266d440e0aab4072783739eae",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a4eb7360_6965a697",
+        "filename": "global-requirements.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 474,
+      "author": {
+        "id": 30380
+      },
+      "writtenOn": "2022-02-10T09:15:08Z",
+      "side": 1,
+      "message": "No other projects need package sphinxmark. Remove this package from the neutron-fwaas project",
+      "parentUuid": "577d203c_fdd5b709",
+      "revId": "533116224b2ff14266d440e0aab4072783739eae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
