@@ -54,3 +54,6 @@ pkg_resources
 
 # We want to always have latest list of trusted Certificate Authorities
 certifi
+
+# Package for mocking dbus server for systemd unit tests
+python-dbusmock
