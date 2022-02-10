@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27efc45d_3f8a0fcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30491
+      },
+      "writtenOn": "2022-02-10T11:05:43Z",
+      "side": 1,
+      "message": "considering https://review.opendev.org/c/openstack/kolla-ansible/+/816724, we will probably need to include more exceptions or go another route, let\u0027s hold this until then",
+      "revId": "31972dc588445f85d990aa7bcbe01c606f7b307b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
