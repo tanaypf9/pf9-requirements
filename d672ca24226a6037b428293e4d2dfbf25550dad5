@@ -170,6 +170,23 @@
       "message": "\u003e Patch Set 1:\n\u003e \n\u003e how long should we wait?\n\nYeah it seems like overall people are happy with the version bump, I haven\u0027t got any concerns raised neither here or in the mail list. Perhaps if it continues like this we could merge it at the begging of next week ?",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c147441_2b272ce2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6773
+      },
+      "writtenOn": "2022-02-14T08:11:13Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e avoiding friday sounds wise, monday work\n\nI reckon with could go ahead with this now",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
