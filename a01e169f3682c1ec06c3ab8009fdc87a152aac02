@@ -33,6 +33,24 @@
       "message": "I guess https://e4c840ddd19ffb545b04-38806e64f2d3daae89d7ad3776e6aee4.ssl.cf2.rackcdn.com/periodic/opendev.org/openstack/requirements/master/propose-updates/5b156b1/job-output.txt that generated commit adding \u0027futures\u0027 back (https://review.opendev.org/c/openstack/requirements/+/813954) had issues installing it as well. I can assume we have some mechanism there preventing obviously broken versions to get into upper-constraints.txt, though it currently doesn\u0027t properly work. I\u0027ll leave it here for now and pursue this idea later.",
       "revId": "a01e169f3682c1ec06c3ab8009fdc87a152aac02",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4043c855_98e49e96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32962
+      },
+      "writtenOn": "2022-02-14T11:15:33Z",
+      "side": 1,
+      "message": "futures is probably pulled in via pypowervm which is listed in Nova\u0027s requirements.txt (https://opendev.org/openstack/nova/src/branch/master/requirements.txt). There is a pending pull request to remove futures from pypowervm: https://github.com/powervm/pypowervm/pull/17",
+      "parentUuid": "a756d7f1_2cd18585",
+      "revId": "a01e169f3682c1ec06c3ab8009fdc87a152aac02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
