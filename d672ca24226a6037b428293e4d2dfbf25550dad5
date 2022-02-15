@@ -187,6 +187,24 @@
       "message": "\u003e Patch Set 1:\n\u003e \n\u003e avoiding friday sounds wise, monday work\n\nI reckon with could go ahead with this now",
       "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a33780c_27727e2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11600
+      },
+      "writtenOn": "2022-02-15T09:37:26Z",
+      "side": 1,
+      "message": "Hey, sorry for not getting back to you, we have unstable CI due to unrelated reasons, and we needed to fight that first. Anyway we should be fine on Kuryr side once some backports get in.",
+      "parentUuid": "1cd6b29a_7da0545f",
+      "revId": "d672ca24226a6037b428293e4d2dfbf25550dad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
