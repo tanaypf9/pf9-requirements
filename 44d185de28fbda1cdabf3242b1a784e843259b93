@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "44d185de28fbda1cdabf3242b1a784e843259b93",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4b29997c_b71784ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-02-21T09:05:56Z",
+      "side": 1,
+      "message": "Without too digging outside of the nova logs I\u0027d argue that the faced errors are legit.\n\n```\n2022-02-17 23:30:21.064597 | ubuntu-focal |     testtools.matchers._impl.MismatchError: \u0027tenant\u0027 not in {\u0027user\u0027: 111, \u0027project_id\u0027: 222, \u0027system_scope\u0027: None, \u0027project\u0027: 222, \u0027domain\u0027: None, \u0027user_domain\u0027: None, \u0027project_domain\u0027: None, \u0027is_admin\u0027: False, \u0027read_only\u0027: False, \u0027show_deleted\u0027: False, \u0027auth_token\u0027: None, \u0027request_id\u0027: \u0027req-679033b7-1755-4929-bf85-eb3bfaef7e0b\u0027, \u0027global_request_id\u0027: None, \u0027resource_uuid\u0027: None, \u0027roles\u0027: [], \u0027user_identity\u0027: \u0027111 222 - - -\u0027, \u0027is_admin_project\u0027: True, \u0027user_id\u0027: 111, \u0027read_deleted\u0027: \u0027no\u0027, \u0027remote_address\u0027: None, \u0027timestamp\u0027: \u00272015-03-02T22:31:56.641629\u0027, \u0027quota_class\u0027: None, \u0027user_name\u0027: None, \u0027service_catalog\u0027: [], \u0027project_name\u0027: None}\n```\n\nI removed the tenant agument few months ago because this one was deprecated long time ago. I think some projects, like nova, need related changes in their unit tests.\n\nhttps://opendev.org/openstack/oslo.context/commit/f4cbe4c296f4dd23c451a5804a70f639cd8976d6",
+      "revId": "44d185de28fbda1cdabf3242b1a784e843259b93",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
