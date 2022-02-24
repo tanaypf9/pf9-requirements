@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "80a9116e_7546390f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2022-02-24T20:22:42Z",
+      "side": 1,
+      "message": "recheck\n\nLooks like a transient network issue:\n\u003e 2022-02-24 16:09:23,195 106938 ERROR    [tempest.lib.common.ssh] Failed to establish authenticated ssh connection to cirros@172.24.5.206 after 3 attempts. Proxy client: no proxy client",
+      "revId": "feff65c8efc3d498695011315bff7c655d67883c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
