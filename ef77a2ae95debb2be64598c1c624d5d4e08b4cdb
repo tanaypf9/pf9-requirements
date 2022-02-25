@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "ef77a2ae95debb2be64598c1c624d5d4e08b4cdb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ba5fee4_b1e7e9c1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24245
+      },
+      "writtenOn": "2022-02-25T12:58:18Z",
+      "side": 1,
+      "message": "I belive this will unblock heat stable/train - https://review.opendev.org/c/openstack/heat/+/826224",
+      "revId": "ef77a2ae95debb2be64598c1c624d5d4e08b4cdb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
