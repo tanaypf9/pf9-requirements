@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "acf9419b_00c3ef35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-02-28T23:27:14Z",
+      "side": 1,
+      "message": "Rebased on the current master to resolve merge conflict.\n\nI think the issue with Octavia was resolved by https://review.opendev.org/c/openstack/octavia/+/801860 but we can confirm it once CI finishes.",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
