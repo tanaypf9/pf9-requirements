@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76dd0969_a9a76826",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-01T18:53:18Z",
+      "side": 1,
+      "message": "If I\u0027m not mistaken this kind of generated upper-constraints update patch is now should not merge. (After FF)",
+      "revId": "ba8851fd10bf1021e67a280a4681375dc087097a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
