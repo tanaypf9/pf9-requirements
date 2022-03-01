@@ -68,6 +68,23 @@
       "message": "I found some issue with heat tests which I\u0027m fixing in https://review.opendev.org/c/openstack/heat/+/831342 .\n\nIt\u0027d be nice if we can merge https://review.opendev.org/c/openstack/requirements/+/831324 and https://review.opendev.org/c/openstack/requirements/+/831334 so that we can detect issues with heat and telemetry services ealier.",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea70e59b_7771e1fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-03-01T15:16:16Z",
+      "side": 1,
+      "message": "recheck nova fix merged",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
