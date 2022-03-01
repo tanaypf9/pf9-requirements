@@ -68,6 +68,23 @@
       "message": "let\u0027s abandon this since Tempest is not constrained",
       "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "79cf65b3_4be660f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22873
+      },
+      "writtenOn": "2022-03-01T14:53:59Z",
+      "side": 1,
+      "message": "let\u0027s avoid this lib, it\u0027s too much risk (stability concerns mentioned in the comments) plus additional work for packaging .. if we need only a simple ping from the lib, we can easily implement our own method for that, we don\u0027t need to import a special library in this case\n\nI proposed a new patch set without using this lib: https://review.opendev.org/c/openstack/tempest/+/817635",
+      "revId": "04862fb4e130081b84c3b6290c1b9c6d7e0fcd82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
