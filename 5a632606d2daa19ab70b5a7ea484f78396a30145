@@ -51,6 +51,23 @@
       "message": "recheck\nOctavia and Designate patches have merged.",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e1e3a0ca_e3b6b72e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-03-01T07:55:18Z",
+      "side": 1,
+      "message": "I found some issue with heat tests which I\u0027m fixing in https://review.opendev.org/c/openstack/heat/+/831342 .\n\nIt\u0027d be nice if we can merge https://review.opendev.org/c/openstack/requirements/+/831324 and https://review.opendev.org/c/openstack/requirements/+/831334 so that we can detect issues with heat and telemetry services ealier.",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
