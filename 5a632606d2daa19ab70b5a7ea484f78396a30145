@@ -34,6 +34,23 @@
       "parentUuid": "acf9419b_00c3ef35",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "42b56e92_2a29755d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-03-01T04:47:43Z",
+      "side": 1,
+      "message": "recheck\nOctavia and Designate patches have merged.",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
