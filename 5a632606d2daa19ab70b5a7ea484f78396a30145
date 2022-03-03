@@ -85,6 +85,23 @@
       "message": "recheck nova fix merged",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "336002f4_debd40d1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-03-03T05:02:36Z",
+      "side": 1,
+      "message": "recheck\n\nThe issue with Masakari was fixed.\n https://review.opendev.org/c/openstack/masakari/+/831345\n\nI\u0027m trying to fix Mistral now here.\n https://review.opendev.org/c/openstack/mistral/+/801853/",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
