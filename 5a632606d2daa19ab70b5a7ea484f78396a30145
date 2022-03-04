@@ -173,6 +173,23 @@
       "parentUuid": "b01fddfc_9532d534",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45b3b12f_72d3facc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-03-04T14:08:42Z",
+      "side": 1,
+      "message": "Removing my -1 because the fix for Mistral was merged https://review.opendev.org/c/openstack/mistral/+/801853/\n\nI confirmed Heat, Aodh, and Ceilometer are (no longer) affected by this as well.",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
