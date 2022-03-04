@@ -155,6 +155,24 @@
       "parentUuid": "97e7f7c8_9556cec6",
       "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "740ded99_7bd3a7b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-04T14:03:28Z",
+      "side": 1,
+      "message": "recheck - the above mentioned patch has merged",
+      "parentUuid": "b01fddfc_9532d534",
+      "revId": "5a632606d2daa19ab70b5a7ea484f78396a30145",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
