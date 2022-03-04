@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f8d2faf_a29d35df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2022-03-04T21:36:08Z",
+      "side": 1,
+      "message": "\u003e I don\u0027t understand how this is co-installable then?  pypowervm still states support for py36.\n\nThe point of https://github.com/powervm/pypowervm/pull/17 and https://github.com/powervm/pypowervm/issues/18 that it\u0027s not?\n\nThere\u0027s futures3, yes. But if you check futures source, they have on Readme:\n\"It does not work on Python 3 due to Python 2 syntax being used in the codebase. Python 3 users should not attempt to install it, since the package is already included in the standard library.\" (https://github.com/agronholm/pythonfutures/blob/master/README.rst)",
+      "revId": "d2f33ebe2a8ad14989dd26a3fb2c5d058302beec",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
