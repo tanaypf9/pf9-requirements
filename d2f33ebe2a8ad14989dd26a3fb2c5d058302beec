@@ -33,6 +33,23 @@
       "message": "Good example from CI: https://storage.gra.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_6d1/823573/13/check/openstack-ansible-deploy-aio_metal-rockylinux-8/6d1289a/logs/ara-report/results/1314.html",
       "revId": "d2f33ebe2a8ad14989dd26a3fb2c5d058302beec",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "210b77bf_45153150",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-03-09T16:17:55Z",
+      "side": 1,
+      "message": "from 2019, removing features like redundant ports\n\nhttps://github.com/powervm/pypowervm/compare/1.1.24...1.1.27\n\nat this point we have two bad choices caused by a defunct upstream :|",
+      "revId": "d2f33ebe2a8ad14989dd26a3fb2c5d058302beec",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
