@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbab6b70_4258db3c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-03-14T08:57:01Z",
+      "side": 1,
+      "message": "Ww can also limit this version 0.6.6 in Neutron requirements",
+      "revId": "ec433788183c439dda277ed40e09312a023babee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
