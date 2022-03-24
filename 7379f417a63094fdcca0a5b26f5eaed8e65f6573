@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24117ed1_74b47338",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-24T08:59:17Z",
+      "side": 1,
+      "message": "This was released yesterday, part of Yoga deliverables, so looks OK to me.",
+      "revId": "7379f417a63094fdcca0a5b26f5eaed8e65f6573",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
