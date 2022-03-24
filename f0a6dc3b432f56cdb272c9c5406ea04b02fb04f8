@@ -16,6 +16,23 @@
       "message": "I see pyroute2 is used in neutron, neutron stadiums, octavia, kuryr and zun projects. 0.6.6 was released 16th Feb, 2022 (and 0.6.5 in 20th Sep, 2021).\n\nThis might be OK. What do you think Matthew?",
       "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "69ce4e86_0e507a74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-24T20:44:55Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e I personally think it\u0027s too late to back it out.  If it\u0027s a serious issue we can merge it once we branch and backport it.\n\nThanks for the reply Matthew! Then let\u0027s cut requirements yoga branch and leave this for later.",
+      "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
