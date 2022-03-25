@@ -50,6 +50,24 @@
       "message": "giving -1 based on Matthew\u0027s comment, just to make it clear.",
       "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03fb5913_70c701b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2022-03-25T07:31:06Z",
+      "side": 1,
+      "message": "ok, thanks",
+      "parentUuid": "2742729a_efc95b21",
+      "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
