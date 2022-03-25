@@ -68,6 +68,23 @@
       "parentUuid": "2742729a_efc95b21",
       "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ded2e9c5_1915ddfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-25T15:23:34Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+2\n\u003e \n\u003e we branched :D\n\nSo now it is OK to merge this on *master* :) The question is though I guess: is it OK to backport it to yoga? if yes: then when? :)",
+      "revId": "f0a6dc3b432f56cdb272c9c5406ea04b02fb04f8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
