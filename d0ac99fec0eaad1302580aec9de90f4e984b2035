@@ -16,6 +16,23 @@
       "message": "Last minute horizon release was needed for Yoga release. This should be merged. Let\u0027s wait for tests to finish. Giving +1 until that happens.",
       "revId": "d0ac99fec0eaad1302580aec9de90f4e984b2035",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4223760_867a978e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-03-29T16:36:14Z",
+      "side": 1,
+      "message": "Zuul finished with the testing successfully. Matthew is on leave because of house moving, so approving this patch instead of him.",
+      "revId": "d0ac99fec0eaad1302580aec9de90f4e984b2035",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
