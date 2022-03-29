@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b085e0eb_482f932f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-03-29T16:07:40Z",
+      "side": 1,
+      "message": "We need this in stable/xena as nova stable/xena centos8-py36 jobs is failing with suds-jurko version conflict in oslo.vmware - https://review.opendev.org/c/openstack/nova/+/834765",
+      "revId": "18f957db0e2ac0c27f5642faf465685d9961a6b4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
