@@ -476,7 +476,7 @@ jsonpatch===1.32
 python-daemon===2.3.0
 types-cryptography===3.3.15
 typed-ast===1.5.2;python_version=='3.6'
-os-testr===2.0.1
+os-testr===3.0.0
 cotyledon===1.7.3
 xattr===0.9.9
 systemd-python===234
