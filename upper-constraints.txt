@@ -1,5 +1,5 @@
 ntlm-auth===1.5.0
-voluptuous===0.13.0
+voluptuous===0.13.1
 chardet===4.0.0
 enum-compat===0.0.3
 rsa===4.8
@@ -57,7 +57,7 @@ jsonpath-rw-ext===1.2.2
 python-mistralclient===4.4.0
 oslo.context===4.1.0
 python-senlinclient===2.4.0
-rcssmin===1.0.6
+rcssmin===1.1.0
 pycadf===3.1.1
 grpcio===1.44.0
 pysendfile===2.0.1
@@ -78,7 +78,7 @@ os-refresh-config===13.0.1
 pysnmp===4.4.12
 Mako===1.1.6;python_version=='3.6'
 Mako===1.2.0;python_version=='3.8'
-pyScss===1.3.7
+pyScss===1.4.0
 sphinxcontrib-htmlhelp===2.0.0
 XStatic-jQuery===1.12.4.1
 ddt===1.4.4
@@ -95,7 +95,7 @@ psycopg2===2.9.3
 networkx===2.5.1;python_version=='3.6'
 networkx===2.7.1;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0;python_version=='3.6'
 Pillow===9.1.0;python_version=='3.8'
@@ -165,7 +165,7 @@ virtualbmc===2.2.1
 deprecation===2.1.0
 SQLAlchemy===1.4.35
 pyroute2===0.6.9
-google-auth===2.6.2
+google-auth===2.6.3
 kazoo===2.8.0
 pyspnego===0.5.1
 pyroute2.ethtool===0.6.9
@@ -180,13 +180,14 @@ PyJWT===2.3.0
 typing_extensions===4.1.1
 XStatic-lodash===4.16.4.2
 zVMCloudConnector===1.4.1
-paramiko===2.8.1
+paramiko===2.10.3
 ifaddr===0.1.7
 reno===3.5.0
 imagesize===1.3.0
 pydot===1.4.2
 urllib3===1.26.9
-graphviz===0.19.1
+graphviz===0.19.1;python_version=='3.6'
+graphviz===0.19.2;python_version=='3.8'
 PyKMIP===0.10.0
 whereto===0.4.0
 pywbem===1.4.1
@@ -195,7 +196,7 @@ tornado===6.1
 pycparser===2.21
 mock===4.0.3
 PyYAML===6.0
-beautifulsoup4===4.10.0
+beautifulsoup4===4.11.1
 cached-property===1.5.2;python_version=='3.6'
 os-net-config===15.1.0
 ovs===2.16.0
@@ -212,14 +213,15 @@ pycryptodomex===3.14.1
 anyjson===0.3.3
 requests-mock===1.9.3
 os-apply-config===13.1.0
-prometheus-client===0.14.0
+prometheus-client===0.14.1
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
-django-compressor===2.4.1
+django-compressor===3.1
 libvirt-python===8.2.0
 python-zunclient===4.4.0
 tzlocal===4.2
@@ -333,7 +335,7 @@ XStatic-Dagre===0.6.4.1
 platformdirs===2.4.0;python_version=='3.6'
 platformdirs===2.5.1;python_version=='3.8'
 pydotplus===2.0.2
-boto3===1.21.35
+boto3===1.21.37
 jeepney===0.7.1;python_version=='3.6'
 jeepney===0.8.0;python_version=='3.8'
 stestr===3.2.1
@@ -464,7 +466,7 @@ backports.zoneinfo===0.2.1
 oslo.upgradecheck===1.5.0
 stevedore===3.5.0
 pywinrm===0.4.2
-botocore===1.24.35
+botocore===1.24.37
 xmltodict===0.12.0
 pyasn1===0.4.8
 directord===0.12.0
@@ -578,7 +580,7 @@ importlib-resources===5.4.0;python_version=='3.6'
 importlib-resources===5.6.0;python_version=='3.8'
 python-keystoneclient===4.4.0
 ceilometer===18.0.0
-diskimage-builder===3.20.1
+diskimage-builder===3.20.2
 heat-translator===2.5.0
 python-magnumclient===3.6.0
 docker===5.0.3
@@ -587,7 +589,7 @@ anyio===3.5.0
 XStatic-Angular-lrdragndrop===1.0.2.4
 ovsdbapp===1.15.1
 aniso8601===9.0.1
-rjsmin===1.1.0
+rjsmin===1.2.0
 icalendar===4.0.9
 decorator===4.4.2;python_version=='3.6'
 decorator===5.1.1;python_version=='3.8'
@@ -654,5 +656,3 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.2;python_version=='3.8'
-setuptools===59.6.0;python_version=='3.6'
-setuptools===62.0.0;python_version=='3.8'
