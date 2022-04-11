@@ -16,6 +16,23 @@
       "message": "Hello,\n\nWe are currently in a requirements freeze for the Yoga series so I don\u0027t think we will merge this patch before 2 or 3 weeks.\n\nAlso we need more informations about this lib:\n\nIs the library actively maintained?\n\nIs the library good code?\n\nIs the library python 3 compatible?\n\nIs the library license compatible?\n\nIs the library already packaged in the distros we target (Ubuntu latest / Fedora latest)?\n\nIs the function of this library already covered by other libraries in global-requirements.txt?\n\nIs the library required for OpenStack project or related dev or infrastructure setup? (Answer to this should be Yes, of course) Which?\n\nIf the library release is managed by the Openstack release process does it use the cycle-with-intermediary release type?\n\nDo we need to update anything else?\n\nFor further details please take a look to our documentation https://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements\n\nThanks for your reading.\n\n",
       "revId": "7db76f726987b1c9d85440f521578c0c4218eb02",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3a82ce0d_fa762e75",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1004
+      },
+      "writtenOn": "2022-04-11T20:04:21Z",
+      "side": 1,
+      "message": "Oleksandr: Can you rebase this and address the comments?\n\nHerve: This is a bit of a weird thing, since monasca-agent has been using this library for a while now.. since the first commit, over 8 years ago 😂",
+      "revId": "7db76f726987b1c9d85440f521578c0c4218eb02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
