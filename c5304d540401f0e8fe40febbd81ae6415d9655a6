@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ef0d3a4_5878fef6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14200
+      },
+      "writtenOn": "2022-04-20T14:55:41Z",
+      "side": 1,
+      "message": "incorrect backport",
+      "revId": "c5304d540401f0e8fe40febbd81ae6415d9655a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "310f38da_5cae8223",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 520,
+      "author": {
+        "id": 14200
+      },
+      "writtenOn": "2022-04-20T14:55:41Z",
+      "side": 1,
+      "message": "old constrain should be removed",
+      "revId": "c5304d540401f0e8fe40febbd81ae6415d9655a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
