@@ -3,6 +3,29 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "79c59c90_f62f4dc7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 14200
+      },
+      "writtenOn": "2022-04-20T14:57:02Z",
+      "side": 1,
+      "message": "remove this too",
+      "range": {
+        "startLine": 21,
+        "startChar": 0,
+        "endLine": 21,
+        "endChar": 68
+      },
+      "revId": "c5304d540401f0e8fe40febbd81ae6415d9655a6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "0ef0d3a4_5878fef6",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 1
