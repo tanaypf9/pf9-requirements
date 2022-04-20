@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "676218ac_ea1789b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29244
+      },
+      "writtenOn": "2022-04-20T16:28:14Z",
+      "side": 1,
+      "message": "It fixes the octavia-grenade job in xena: https://review.opendev.org/c/openstack/octavia/+/838739",
+      "revId": "cfeb523c8510d50e69d2150b27d89c999fc9263a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
