@@ -16,6 +16,23 @@
       "message": "recheck\n\nsome weird timeout on the swift job",
       "revId": "5e5970c842d2a88c832279e253e815918c6777f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a09671e3_60498c80",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5756
+      },
+      "writtenOn": "2022-04-22T19:09:42Z",
+      "side": 1,
+      "message": "recheck\n\nI just watched it pass all tests on the tempest-full-py3 and was copying logs and then it timed out. Do we need to bump timeout values?",
+      "revId": "5e5970c842d2a88c832279e253e815918c6777f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
