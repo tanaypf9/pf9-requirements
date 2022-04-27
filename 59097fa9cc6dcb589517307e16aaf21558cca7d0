@@ -16,6 +16,24 @@
       "message": "upper-constraints already constrains this below this version. We shouldn\u0027t need to add this constraint in global-requirements.\n\nIt is also very difficult to remove these constraints once newer versions are available, so it should be avoided as much as possible.\n\nMaybe if your commit message actually stated what/why this is being done it would help, but with upper-constraints this shouldn\u0027t be needed.",
       "revId": "59097fa9cc6dcb589517307e16aaf21558cca7d0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ba9942b9_7ea9561f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 355,
+      "author": {
+        "id": 32926
+      },
+      "writtenOn": "2022-04-27T06:35:10Z",
+      "side": 1,
+      "message": "That\u0027s a good point. I didn\u0027t put the constraint in upper-constraints because there were cases when upper-constraints use blocked CI. At the time one of the mitigations was to drop upper-constraints from tox environments. \nSince we need to cap validations-libs at \u003c1.7.0 setting the constraint in requirements.txt, and therefore in the globals seemed like the only approach that would cover all cases.\n\nIt\u0027s possible that the situation was resolved in the meantime, I\u0027ll look into that and change the patch accordingly if that is the case.",
+      "parentUuid": "d69adae2_89c6096f",
+      "revId": "59097fa9cc6dcb589517307e16aaf21558cca7d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
