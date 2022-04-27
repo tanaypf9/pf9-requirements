@@ -16,6 +16,23 @@
       "message": "Now this patch is ready to merge.",
       "revId": "4fa5acc415610d1c0273bb9d5095bfef94060d9c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9482bd67_e8ed0eac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25023
+      },
+      "writtenOn": "2022-04-27T19:10:58Z",
+      "side": 1,
+      "message": "Yes please! I have openstack-ansible jobs passing on ubuntu 22.04 with less than one day of work, and this is the only py3.10 related issue that I have found so far with the core set of openstack services.",
+      "revId": "4fa5acc415610d1c0273bb9d5095bfef94060d9c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
