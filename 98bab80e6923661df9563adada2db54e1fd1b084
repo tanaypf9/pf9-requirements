@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d22dfc7b_8faed381",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7130
+      },
+      "writtenOn": "2022-04-29T14:29:34Z",
+      "side": 1,
+      "message": "I think https://review.opendev.org/c/openstack/ansible-role-redhat-subscription/+/839835 will be better than this commit.   What do you think ?",
+      "revId": "98bab80e6923661df9563adada2db54e1fd1b084",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
