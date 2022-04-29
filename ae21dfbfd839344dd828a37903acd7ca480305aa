@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c703f5d6_27cd5a99",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-04-29T09:28:28Z",
+      "side": 1,
+      "message": "3.12.1 is now out https://review.opendev.org/c/openstack/requirements/+/839882",
+      "revId": "ae21dfbfd839344dd828a37903acd7ca480305aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
