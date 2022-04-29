@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e917dde1_3b0d17c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2022-04-29T04:46:04Z",
+      "side": 1,
+      "message": "oslo.policy 3.12.0 have issue caused in docs job, currently only those projects impacted which using non constrained oslo policy after this merge u-c ones will also be impacted. Need to wait for new release which have the fix https://review.opendev.org/c/openstack/releases/+/839775",
+      "revId": "94e853adfed68dc54c513533d404ab488d03afdd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
