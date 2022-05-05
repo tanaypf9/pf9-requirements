@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "148bfedb_b74fc78c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-05-05T22:31:22Z",
+      "side": 1,
+      "message": "recheck\nUnrelated cinder rbd driver test failure.",
+      "revId": "7ab916154da7bc420fa5a958e3e786b1d9a78945",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
