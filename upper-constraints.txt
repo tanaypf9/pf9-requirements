@@ -57,12 +57,12 @@ jsonpath-rw-ext===1.2.2
 python-mistralclient===4.4.0
 oslo.context===4.1.0
 python-senlinclient===2.4.0
-rcssmin===1.0.6
+rcssmin===1.1.0
 pycadf===3.1.1
 grpcio===1.46.0
 pysendfile===2.0.1
 sniffio===1.2.0
-fixtures===3.0.0
+fixtures===4.0.0
 neutron-lib===2.20.0
 XStatic-FileSaver===1.3.2.0
 oslo.metrics===0.4.0
@@ -78,7 +78,7 @@ os-refresh-config===13.1.0
 pysnmp===4.4.12
 Mako===1.1.6;python_version=='3.6'
 Mako===1.2.0;python_version=='3.8'
-pyScss===1.3.7
+pyScss===1.4.0
 sphinxcontrib-htmlhelp===2.0.0
 XStatic-jQuery===1.12.4.1
 ddt===1.4.4
@@ -95,7 +95,7 @@ psycopg2===2.9.3
 networkx===2.5.1;python_version=='3.6'
 networkx===2.8;python_version=='3.8'
 bashate===2.1.0
-XStatic-Angular===1.5.8.0
+XStatic-Angular===1.8.2.1
 pyngus===2.3.1
 Pillow===8.4.0;python_version=='3.6'
 Pillow===9.1.0;python_version=='3.8'
@@ -144,7 +144,7 @@ oslotest===4.5.0
 jsonpointer===2.3
 defusedxml===0.7.1
 netaddr===0.8.0
-pyghmi===1.5.39
+pyghmi===1.5.40
 sphinxcontrib-blockdiag===2.0.0;python_version=='3.6'
 sphinxcontrib-blockdiag===3.0.0;python_version=='3.8'
 thrift===0.16.0
@@ -181,7 +181,7 @@ typing_extensions===4.1.1;python_version=='3.6'
 typing_extensions===4.2.0;python_version=='3.8'
 XStatic-lodash===4.16.4.2
 zVMCloudConnector===1.4.1
-paramiko===2.8.1
+paramiko===2.10.4
 ifaddr===0.1.7
 reno===3.5.0
 ncclient===0.6.13
@@ -202,7 +202,7 @@ beautifulsoup4===4.11.1
 cached-property===1.5.2;python_version=='3.6'
 os-net-config===15.2.0
 ovs===2.17.1.post1
-cryptography===36.0.2
+cryptography===37.0.2
 httpcore===0.14.7
 URLObject===2.4.3
 nocasedict===1.0.3
@@ -219,10 +219,11 @@ prometheus-client===0.14.1
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.0.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
-django-compressor===2.4.1
+django-compressor===4.0
 libvirt-python===8.3.0
 python-zunclient===4.4.0
 tzlocal===4.2
@@ -306,7 +307,7 @@ XStatic-bootswatch===3.3.7.0
 pytest-xdist===2.5.0
 XStatic-JS-Yaml===3.8.1.0
 XStatic-term.js===0.0.7.0
-oslo.log===4.7.0
+oslo.log===4.8.0
 nodeenv===1.6.0
 gossip===2.4.0
 suds-community===1.1.1
@@ -336,7 +337,7 @@ XStatic-Dagre===0.6.4.1
 platformdirs===2.4.0;python_version=='3.6'
 platformdirs===2.5.2;python_version=='3.8'
 pydotplus===2.0.2
-boto3===1.22.9
+boto3===1.22.10
 jeepney===0.7.1;python_version=='3.6'
 jeepney===0.8.0;python_version=='3.8'
 stestr===3.2.1
@@ -467,7 +468,7 @@ backports.zoneinfo===0.2.1
 oslo.upgradecheck===1.5.0
 stevedore===3.5.0
 pywinrm===0.4.3
-botocore===1.25.9
+botocore===1.25.10
 xmltodict===0.13.0
 pyasn1===0.4.8
 directord===0.12.0
@@ -478,7 +479,7 @@ pexpect===4.8.0
 contextvars===2.4
 cmd2===2.4.1
 python-json-logger===2.0.2
-redis===4.3.0
+redis===4.3.1
 jmespath===0.10.0;python_version=='3.6'
 jmespath===1.0.0;python_version=='3.8'
 click===8.0.4;python_version=='3.6'
@@ -581,7 +582,7 @@ importlib-resources===5.4.0;python_version=='3.6'
 importlib-resources===5.7.1;python_version=='3.8'
 python-keystoneclient===4.4.0
 ceilometer===18.0.0
-diskimage-builder===3.21.0
+diskimage-builder===3.21.1
 heat-translator===2.5.0
 python-magnumclient===3.6.0
 docker===5.0.3
@@ -590,7 +591,7 @@ anyio===3.5.0
 XStatic-Angular-lrdragndrop===1.0.2.4
 ovsdbapp===1.16.0
 aniso8601===9.0.1
-rjsmin===1.1.0
+rjsmin===1.2.0
 icalendar===4.0.9
 decorator===4.4.2;python_version=='3.6'
 decorator===5.1.1;python_version=='3.8'
@@ -657,5 +658,3 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===0.24.2;python_version=='3.6'
 scikit-learn===1.0.2;python_version=='3.8'
-setuptools===59.6.0;python_version=='3.6'
-setuptools===62.1.0;python_version=='3.8'
