@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "28187a4e_203bed93",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-05-10T15:22:49Z",
+      "side": 1,
+      "message": "Error in Manila FT reported: https://bugs.launchpad.net/manila/+bug/1972867",
+      "revId": "3c4c5261b8ff05c0741ffb2b1586d0e5f98aef48",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
