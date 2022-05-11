@@ -33,6 +33,23 @@
       "message": "Oh boy, \u0027job-output.txt\u0027 is a wonderful 350MB in size 😮 Basically it\u0027s a whole load of \"Logging error\" messages, like the following:\n\n  2022-05-06 16:38:03.460279 | controller | Traceback (most recent call last):\n  2022-05-06 16:38:03.460460 | controller |   File \"/usr/lib/python3.8/logging/__init__.py\", line 440, in format\n  2022-05-06 16:38:03.460471 | controller |     return self._format(record)\n  2022-05-06 16:38:03.460476 | controller |   File \"/usr/lib/python3.8/logging/__init__.py\", line 436, in _format\n  2022-05-06 16:38:03.460481 | controller |     return self._fmt % record.__dict__\n  2022-05-06 16:38:03.460490 | controller | KeyError: \u0027global_request_id\u0027\n\nThat would be thanks to this change [1], which I wrote about on openstack-discuss a few weeks back [2]. I don\u0027t know what\u0027s going on here or why Tempest specifically fails here. Will investigate.\n\n[1] https://review.opendev.org/c/openstack/oslo.log/+/838190\n[2] http://lists.openstack.org/pipermail/openstack-discuss/2022-April/028307.html",
       "revId": "3cdc645e4d332b11a9c62e3466a2fa495ec91179",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "239c3f6d_dcb29982",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-05-11T11:56:23Z",
+      "side": 1,
+      "message": "I\u0027ll release a version 4.8.1 when this fix will be merged https://review.opendev.org/c/openstack/oslo.log/+/841383",
+      "revId": "3cdc645e4d332b11a9c62e3466a2fa495ec91179",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
