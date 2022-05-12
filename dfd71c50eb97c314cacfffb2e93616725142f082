@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b2e1e0d_4f6e203e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2022-05-12T10:17:42Z",
+      "side": 1,
+      "message": "Thanks, when we have final solution for https://bugs.launchpad.net/neutron/+bug/1973049 we can remove this",
+      "revId": "dfd71c50eb97c314cacfffb2e93616725142f082",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
