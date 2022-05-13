@@ -16,6 +16,23 @@
       "message": "With https://review.opendev.org/c/openstack/neutron/+/841712 neutron gate is green again",
       "revId": "488b1727bf79e1d6f1e9f0e086a5531709a7f5ca",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ea80851_d27c1c65",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-05-13T12:42:21Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "488b1727bf79e1d6f1e9f0e086a5531709a7f5ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
