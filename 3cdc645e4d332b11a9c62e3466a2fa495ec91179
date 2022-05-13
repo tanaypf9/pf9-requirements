@@ -50,6 +50,23 @@
       "message": "I\u0027ll release a version 4.8.1 when this fix will be merged https://review.opendev.org/c/openstack/oslo.log/+/841383",
       "revId": "3cdc645e4d332b11a9c62e3466a2fa495ec91179",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5bc6cbc3_2c16f723",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-05-13T11:12:38Z",
+      "side": 1,
+      "message": "4.8.1 is on the rails https://review.opendev.org/c/openstack/releases/+/841717",
+      "revId": "3cdc645e4d332b11a9c62e3466a2fa495ec91179",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
