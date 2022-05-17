@@ -16,6 +16,23 @@
       "message": "LGTM",
       "revId": "05996e009c55f757cf91cf0d94abd86dcb0f21c4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6974626e_c11468d5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30615
+      },
+      "writtenOn": "2022-05-17T16:36:43Z",
+      "side": 1,
+      "message": "Its dependent patch for https://review.opendev.org/c/openstack/openstack-ansible/+/777061 needs to move forward",
+      "revId": "05996e009c55f757cf91cf0d94abd86dcb0f21c4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
