@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a2a6cdd6_4d2778c1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-05-19T19:59:33Z",
+      "side": 1,
+      "message": "there are existing reviews on openstack-infra side to generate constraints for the newer python versions",
+      "revId": "ac77af5d4fe354189ca4a69d54d3c1ff82b83144",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3e3a06ea_54a4090e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-05-19T19:59:33Z",
+      "side": 1,
+      "message": "is anything being done to unbreak vitrage?",
+      "revId": "ac77af5d4fe354189ca4a69d54d3c1ff82b83144",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e33080d7_ac96a938",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-05-19T19:59:33Z",
+      "side": 1,
+      "message": "this is an automated file, so the line will be reverted on the next generate-constraints run.  The real fix is going to be either fixing vitrage and/or updating generate-constraints (in project-config iirc)",
+      "revId": "ac77af5d4fe354189ca4a69d54d3c1ff82b83144",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
