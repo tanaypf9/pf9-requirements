@@ -37,6 +37,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "5b239e51_ac7d053e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2022-05-20T15:38:42Z",
+      "side": 1,
+      "message": "Note that constraints shouldn\u0027t be used to cap things. Requirements are used to specify what valid dependencies are. If a version doesn\u0027t work and isn\u0027t valid it should be excluded in requirements. Then constraints calculate a single global set of valid versions for all requirements to ensure consistency in testing.",
+      "revId": "ac77af5d4fe354189ca4a69d54d3c1ff82b83144",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "e33080d7_ac96a938",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
