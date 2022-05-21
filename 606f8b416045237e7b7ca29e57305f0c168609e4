@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a0dcaf67_d5417667",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-05-21T14:00:17Z",
+      "side": 1,
+      "message": "let\u0027s wait for agreement in http://lists.openstack.org/pipermail/openstack-discuss/2022-May/028622.html",
+      "revId": "606f8b416045237e7b7ca29e57305f0c168609e4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
