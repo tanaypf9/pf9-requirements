@@ -16,6 +16,24 @@
       "message": "I\u0027m not sure this is what we want. I mean, so far we did directly the opposite and pin tempest for branches in Extended Maintenance (see \u003cseries\u003e-last tags in tempest).\nAlso, we have now a problem where it tempest was installed on train with upper constraints from master, see the fix for that [1]\n\n[1] https://review.opendev.org/c/openstack/nova/+/842813",
       "revId": "daeebdb2c6e277c3e45b688403fd6b49fec6eab5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c18189b_523bcad9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-05-23T20:33:26Z",
+      "side": 1,
+      "message": "well without backporting all the sshable fixes and doing new relase for the em branche or creat em branch of tempest we basically need to use newer version.\n\ni think we really need to conintue to use master tempest on em barnches or drop support for them when support is dropped in tempest.\n\nwe can maintain the em barnaches if we are pinned to old tempest unless we have a way to fix issue via new releases.",
+      "parentUuid": "a98e0cb8_c6955895",
+      "revId": "daeebdb2c6e277c3e45b688403fd6b49fec6eab5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
