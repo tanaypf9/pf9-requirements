@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a98e0cb8_c6955895",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-05-23T17:32:58Z",
+      "side": 1,
+      "message": "I\u0027m not sure this is what we want. I mean, so far we did directly the opposite and pin tempest for branches in Extended Maintenance (see \u003cseries\u003e-last tags in tempest).\nAlso, we have now a problem where it tempest was installed on train with upper constraints from master, see the fix for that [1]\n\n[1] https://review.opendev.org/c/openstack/nova/+/842813",
+      "revId": "daeebdb2c6e277c3e45b688403fd6b49fec6eab5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
