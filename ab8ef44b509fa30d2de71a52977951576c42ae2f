@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1bf8814_67ded110",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-05-23T16:32:17Z",
+      "side": 1,
+      "message": "ok so this is going to fail becasue the tepest job is using master for the requiremetns in the venv\n\ni could work around that but im testing if using the constraitf file form this patch actully resolved locally.\nits currenlty trying older version fo oslo.log but its takeing some time so im not sure this is what we want to even if pinning worked.\n\nhttps://opendev.org/openstack/requirements/raw/commit/ab8ef44b509fa30d2de71a52977951576c42ae2f/upper-constraints.txt\n\ngeneral question however do we expect the tempest vemnv to use the upper constratis under test or not?\n\ngiven tempest is pinend on stable ussuri i expected it to at least use ussuri not master.",
+      "revId": "ab8ef44b509fa30d2de71a52977951576c42ae2f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
