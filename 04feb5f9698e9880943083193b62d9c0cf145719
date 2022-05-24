@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c36c6811_ef17d050",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2022-05-24T21:24:00Z",
+      "side": 1,
+      "message": "This is blocking https://review.opendev.org/c/openstack/glance/+/841135",
+      "revId": "04feb5f9698e9880943083193b62d9c0cf145719",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
