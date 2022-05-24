@@ -1,4 +1,16 @@
 Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Code-Review+1: Raoul Scarazzini <rasca@mmul.it>
+Code-Review+2: Doug Hellmann <dhellmann@redhat.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Workflow+1: Doug Hellmann <dhellmann@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Tue, 27 Dec 2016 16:19:07 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/412428
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
+
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
 Code-Review+1: Raoul Scarazzini <rscarazz@redhat.com>
 Code-Review+2: Doug Hellmann <doug@doughellmann.com>
 Workflow+1: Doug Hellmann <doug@doughellmann.com>

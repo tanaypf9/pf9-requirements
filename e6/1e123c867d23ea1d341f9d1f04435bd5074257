@@ -1,3 +1,18 @@
+Code-Review+2: Doug Hellmann <dhellmann@redhat.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Code-Review+1: Thomas Bechtold <thomas.bechtold@canonical.com>
+Code-Review+1: Haïkel Guémar <hguemar@fedoraproject.org>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Dirk Mueller <dirk@dmllr.de>
+Workflow+1: Doug Hellmann <dhellmann@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 20 Apr 2017 20:56:28 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/446086
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
+
 Code-Review+1: Dirk Mueller <dirk@dmllr.de>
 Code-Review+1: Alberto Planas <aplanas@gmail.com>
 Code-Review+1: Matthew Thode <mthode@mthode.org>

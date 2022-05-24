@@ -1,3 +1,15 @@
+Code-Review+1: Imran Hayder Malik <hayderimran7@gmail.com>
+Code-Review+1: Chuck Short <charles.short@windriver.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Doug Hellmann <dhellmann@redhat.com>
+Workflow+1: Doug Hellmann <dhellmann@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 02 Nov 2016 19:57:28 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/389050
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
+
 Code-Review+1: Imran Hayder Malik <imran.malik@emc.com>
 Code-Review+1: Chuck Short <chuck.short@canonical.com>
 Code-Review+1: Matthew Thode <mthode@mthode.org>

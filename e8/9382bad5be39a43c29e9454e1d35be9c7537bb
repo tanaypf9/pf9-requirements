@@ -1,6 +1,20 @@
 Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
 Code-Review+1: Alberto Planas <aplanas@gmail.com>
 Code-Review+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Thomas Bechtold <thomas.bechtold@canonical.com>
+Code-Review+1: Guang Yee <gyee@suse.com>
+Code-Review+2: Doug Hellmann <dhellmann@redhat.com>
+Workflow+1: Doug Hellmann <dhellmann@redhat.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 22 May 2017 20:07:23 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/459636
+Project: openstack/requirements
+Branch: refs/heads/stable/newton
+
+Code-Review+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Alberto Planas <aplanas@gmail.com>
+Code-Review+1: Matthew Thode <mthode@mthode.org>
 Code-Review+1: Thomas Bechtold <tbechtold@suse.com>
 Code-Review+1: guang-yee <guang.yee@suse.com>
 Code-Review+2: Doug Hellmann <doug@doughellmann.com>
