@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "786b8879_f50bb25f",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-05-24T20:42:24Z",
+      "side": 1,
+      "message": "-arm64?",
+      "revId": "f1d5362005103ff900be5c38ab9a004e620bb9aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
