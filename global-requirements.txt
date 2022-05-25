@@ -514,13 +514,7 @@ openstack-release-test
 # NOTE(anilvenkata): This is required for profiling oslo.service processes
 Yappi!=0.98,!=0.99  # MIT
 
-# NOTE(yoctozepto): To avoid repeated breakage (this is a dep of deps)
-# (gmann): Few branchless tools like hacking, stackviz, OpenStackSDK, and
-# Keystoneauth keeping the support of py3.5 so we need to have zipp cap for
-# < py3.6. We need to keep it until we completely drop py3.5 from OpenStack.
-# https://governance.openstack.org/tc/goals/selected/ussuri/drop-py27.html#projects-keeping-py3-5-support
-zipp<2;python_version<'3.6'  # MIT
-zipp;python_version>='3.6'  # MIT
+zipp  # MIT
 
 # NOTE(prometheanfire): python3 caps, are not approved for use in OpenStack
 gitdb  # BSD
