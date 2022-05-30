@@ -2,6 +2,7 @@
     templates:
       - openstack-python3-zed-jobs
     check:
+      debug: true
       jobs:
         - build-wheel-cache-centos-7:
             files:
