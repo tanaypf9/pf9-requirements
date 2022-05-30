@@ -1,4 +1,5 @@
 - project:
+    debug: true
     templates:
       - openstack-python3-zed-jobs
     check:
