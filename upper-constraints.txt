@@ -112,6 +112,8 @@ rsd-lib===1.2.0
 XStatic-Jasmine===2.4.1.2
 googleapis-common-protos===1.56.2
 python-glanceclient===4.0.0
+python-glanceclient===3.6.0;python_version=='3.6'
+pyinotify===0.9.6
 pyinotify===0.9.6
 debtcollector===2.5.0
 requests-unixsocket===0.3.0
