@@ -105,6 +105,24 @@
       "parentUuid": "5d1c8046_ad1917e9",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4163b819_6dc24ee5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-05-31T15:12:14Z",
+      "side": 1,
+      "message": "Looks like I can\u0027t do this. I tried in [1] and got the following:\n\n  \u0027importlib-metadata\u0027 appears in global-requirements.txt but not upper-constraints.txt or blacklist.txt\n\n[1] https://review.opendev.org/c/openstack/requirements/+/844042/1",
+      "parentUuid": "7f7bdc54_1c3ee23d",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
