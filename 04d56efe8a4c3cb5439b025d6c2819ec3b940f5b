@@ -51,6 +51,23 @@
       "message": "recheck",
       "revId": "04d56efe8a4c3cb5439b025d6c2819ec3b940f5b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "069296c5_8536ecee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6914
+      },
+      "writtenOn": "2022-05-31T20:50:43Z",
+      "side": 1,
+      "message": "Release is ready",
+      "revId": "04d56efe8a4c3cb5439b025d6c2819ec3b940f5b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
