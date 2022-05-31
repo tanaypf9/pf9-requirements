@@ -69,6 +69,24 @@
       "parentUuid": "f64e229f_1cc0702c",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d1c8046_ad1917e9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-05-31T11:50:26Z",
+      "side": 1,
+      "message": "IIUC just drop it manually, once it is no longer in g-r, it shouldn\u0027t get re-added. But the removal also isn\u0027t automated, afaict. Or maybe the next proposal bot run would do it? But I think it is better to do it in a single patch.\n\nBtw. the failure I posted is more due to running with master constraints on bionic, which no longer will work. The cleanup in this patch still seems to be sane regardless of that.",
+      "parentUuid": "f64e229f_1cc0702c",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
