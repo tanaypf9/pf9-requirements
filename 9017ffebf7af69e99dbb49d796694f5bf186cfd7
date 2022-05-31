@@ -51,6 +51,24 @@
       "parentUuid": "227d414d_ca65b397",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ea87514_dda0a0fe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-05-31T11:49:42Z",
+      "side": 1,
+      "message": "Weird. I can\u0027t reproduce this locally. How is this happening?\n\n  $ cat requirements.txt \n  sphinx\n\n  $ cat constraints.txt \n  importlib-metadata\u003d\u003d\u003d4.11.4\n\n  $ virtualenv .venv --python\u003dpython3.8\n  $ source .venv/bin/activate\n  $ pip install -r requirements.txt -c constraints.txt\n  Collecting sphinx\n  ...\n  Successfully installed Jinja2-3.1.2 MarkupSafe-2.1.1 ...\n\nI wonder if this is the real root cause? Am I missing something?",
+      "parentUuid": "f64e229f_1cc0702c",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
