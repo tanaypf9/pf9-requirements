@@ -16,6 +16,23 @@
       "message": "\u003e Patch Set 1:\n\u003e \n\u003e the way I understand the discussion at the time is that we\u0027d start using the builtin python version\n\nThat would make sense if we weren\u0027t expecting importlib-metadata to change, however, they\u0027re still introducing features into this library that we\u0027d like to use. I need access to the \u0027packages_distributions\u0027 function [1] which was only introduced in Python 3.10 [2] but which was backported to the importlib-metadata rolling backport in version 4.4 of that library. Given this, it sounds like this is now the same situation as we faced with mock (the library) and we should use the same resolution, right?\n\n[1] https://review.opendev.org/c/openstack/cliff/+/842350/\n[2] https://docs.python.org/3/library/importlib.metadata.html#package-distributions\n[3] https://github.com/python/importlib_metadata#compatibility",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "227d414d_ca65b397",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-05-31T05:09:04Z",
+      "side": 1,
+      "message": "I think you\u0027ll also have to drop it from u-c, see e.g. https://zuul.opendev.org/t/openstack/build/5504f6afb3ce46fdad29afd9e0b59e19",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
