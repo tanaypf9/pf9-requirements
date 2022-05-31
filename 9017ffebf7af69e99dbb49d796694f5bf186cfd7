@@ -87,6 +87,24 @@
       "parentUuid": "f64e229f_1cc0702c",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f7bdc54_1c3ee23d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-05-31T11:52:29Z",
+      "side": 1,
+      "message": "\u003e IIUC just drop it manually, once it is no longer in g-r, it shouldn\u0027t get re-added. But the removal also isn\u0027t automated, afaict. Or maybe the next proposal bot run would do it? But I think it is better to do it in a single patch.\n\nOkay so just delete the line? Because there\u0027s no python version specifier present on the entry in upper-constraints.txt\n\n\u003e Btw. the failure I posted is more due to running with master constraints on bionic, which no longer will work. The cleanup in this patch still seems to be sane regardless of that.\n\nAh, okay. Ignore my follow-up comment above so.",
+      "parentUuid": "5d1c8046_ad1917e9",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
