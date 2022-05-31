@@ -395,6 +395,8 @@ zstd  # BSD License (2 clause)
 
 # Testing tools below, which are typically in test-requires.txt
 
+# It is pinned due to https://bugs.launchpad.net/nova/+bug/1975711
+autopep8<1.5.5.  # MIT
 bashate  # Apache-2.0
 couchdb  # Apache-2.0
 coverage!=4.4  # Apache-2.0
