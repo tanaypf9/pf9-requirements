@@ -33,6 +33,24 @@
       "message": "I think you\u0027ll also have to drop it from u-c, see e.g. https://zuul.opendev.org/t/openstack/build/5504f6afb3ce46fdad29afd9e0b59e19",
       "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f64e229f_1cc0702c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-05-31T11:37:02Z",
+      "side": 1,
+      "message": "Oh, how do I do that? Simply drop it? Do I need to add it to blacklist.txt?",
+      "parentUuid": "227d414d_ca65b397",
+      "revId": "9017ffebf7af69e99dbb49d796694f5bf186cfd7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
