@@ -287,7 +287,6 @@ oslo.log===5.0.0
 nodeenv===1.6.0
 gossip===2.4.0
 suds-community===1.1.1
-importlib-metadata===4.11.4
 oslo.middleware===4.5.1
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
