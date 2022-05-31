@@ -397,7 +397,7 @@ python-consul===1.1.0
 seqdiag===3.0.0
 numpy===1.22.4
 msgpack===1.0.3
-Sphinx===4.5.0
+Sphinx===4.4.0
 oslo.config===8.8.0
 openstackdocstheme===2.4.0
 osc-placement===3.2.0
