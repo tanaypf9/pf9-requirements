@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1f2306f5_2d943fb0",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-05-31T11:57:52Z",
+      "side": 1,
+      "message": "I think we want this in blacklist.txt, no?",
+      "revId": "ff00e75b1081f6fd039616c23891314a474e1139",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
