@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4f789510_249c2296",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-01T06:58:04Z",
+      "side": 1,
+      "message": "I don\u0027t think that this is the correct solution. sphinx 4.5.0 was in use since almost 8 weeks, the jobs started failing only now after the py3.6 caps were removed. Either upgrade the job to install python3.8 and use that, or as a hack try to run with yoga constraints for now.",
+      "revId": "b86b399b314816a99b30e9bc1b70ff45b0fa5b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
