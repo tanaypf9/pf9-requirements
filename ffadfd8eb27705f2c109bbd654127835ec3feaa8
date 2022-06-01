@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a4bbaaf5_ebc52049",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 398,
+      "author": {
+        "id": 31581
+      },
+      "writtenOn": "2022-06-01T11:02:14Z",
+      "side": 1,
+      "message": "I think we should set the max version here otherwise the upper-constraints entry will get flattened next time that file is generated:\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#adding-a-new-dependency\n\nWe can also have comments in this file, so it\u0027s a good place to link the launchpad",
+      "range": {
+        "startLine": 398,
+        "startChar": 0,
+        "endLine": 398,
+        "endChar": 8
+      },
+      "revId": "ffadfd8eb27705f2c109bbd654127835ec3feaa8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
