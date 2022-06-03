@@ -16,6 +16,24 @@
       "message": "I\u0027m very against this (or any cap), if nova has no plans to fix the pycodestyle compatability quickly I don\u0027t think we should add this.",
       "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0231da6c_01a4ce87",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 398,
+      "author": {
+        "id": 9708
+      },
+      "writtenOn": "2022-06-03T07:59:33Z",
+      "side": 1,
+      "message": "I\u0027m not sure I fully get context. If I understand correctly we want to unpin flake8. And for that we need https://review.opendev.org/c/openstack/hacking/+/816676 So I rebased that as it is passing locally for me now.",
+      "parentUuid": "82411d12_697d4708",
+      "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
