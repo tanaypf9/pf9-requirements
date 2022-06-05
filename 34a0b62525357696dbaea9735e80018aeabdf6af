@@ -34,6 +34,23 @@
       "parentUuid": "82411d12_697d4708",
       "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "08fe34fa_053b363a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 398,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-06-05T19:03:32Z",
+      "side": 1,
+      "message": "basically people tend to add caps to libs then forget about removing the cap at some point.  This eventually causes issues.",
+      "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
