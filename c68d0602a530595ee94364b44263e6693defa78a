@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8e392f6_bc0e1966",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2022-06-07T21:23:18Z",
+      "side": 1,
+      "message": "I\u0027m not declaring the variable correctly: https://zuul.opendev.org/t/openstack/build/9b97a331b4fa48d4b2a3f11beaddb58f/log/job-output.txt#432\n(would appreciate a suggestion!)",
+      "revId": "c68d0602a530595ee94364b44263e6693defa78a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
