@@ -16,6 +16,29 @@
       "message": "recheck",
       "revId": "6aed4ecbf72f274e46020611f71336511ca6f641",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "160afa38_f104bd33",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 33493
+      },
+      "writtenOn": "2022-06-07T09:25:44Z",
+      "side": 1,
+      "message": "can you add some explanation?, why upgrade to 1.8.2.2?",
+      "range": {
+        "startLine": 91,
+        "startChar": 0,
+        "endLine": 91,
+        "endChar": 25
+      },
+      "revId": "6aed4ecbf72f274e46020611f71336511ca6f641",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
