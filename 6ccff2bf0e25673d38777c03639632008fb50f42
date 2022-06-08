@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1917163_b8fdb799",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-08T08:12:52Z",
+      "side": 1,
+      "message": "Seems to work, see the testing in https://review.opendev.org/c/openstack/cinderlib/+/845026",
+      "revId": "6ccff2bf0e25673d38777c03639632008fb50f42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
