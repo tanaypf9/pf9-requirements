@@ -16,6 +16,23 @@
       "message": "Seems to work, see the testing in https://review.opendev.org/c/openstack/cinderlib/+/845026",
       "revId": "6ccff2bf0e25673d38777c03639632008fb50f42",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50f9b7b1_2ef743c8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2022-06-08T10:51:10Z",
+      "side": 1,
+      "message": "frickler: thanks for fixing this!",
+      "revId": "6ccff2bf0e25673d38777c03639632008fb50f42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
