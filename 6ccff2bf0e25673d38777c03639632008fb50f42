@@ -33,6 +33,23 @@
       "message": "frickler: thanks for fixing this!",
       "revId": "6ccff2bf0e25673d38777c03639632008fb50f42",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0af9ed43_e1aaabc3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2022-06-08T12:23:40Z",
+      "side": 1,
+      "message": "This isn\u0027t doing what I expected.  The error I\u0027m getting on the other patch (\"Attribute \"markers\" does not match\") [0] looks like the cinderlib requirements file is still being checked against requirements/master/global-requirements.\n[0] https://zuul.opendev.org/t/openstack/build/af3329b3cea44043a60bfd839a3296cd/log/job-output.txt#621\n\nin requirements:\n  $ git grep \u0027importlib-\u0027 origin/master -- global-requirements.txt\n  origin/master:global-requirements.txt:# Do not make importlib-metadata conditional on Python version: we depend on\n  origin/master:global-requirements.txt:importlib-metadata  # Apache-2.0\n\n  $ git grep \u0027importlib-\u0027 origin/stable/yoga -- global-requirements.txt\n  origin/stable/yoga:global-requirements.txt:importlib-metadata;python_version\u003c\u00273.8\u0027  # Apache-2.0\n\nin cinderlib:\n\n  $ git grep importlib origin/master -- requirements.txt \n  origin/master:requirements.txt:importlib_metadata\u003e\u003d1.7.0;python_version\u003c\u00273.8\u0027 # Apache-2.0\n\n\n",
+      "revId": "6ccff2bf0e25673d38777c03639632008fb50f42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
