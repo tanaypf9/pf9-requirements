@@ -85,6 +85,23 @@
       "message": "Tests failures are valid, need to wait until https://review.opendev.org/c/openstack/horizon/+/843346 is merged.",
       "revId": "04d56efe8a4c3cb5439b025d6c2819ec3b940f5b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1edc3a16_052fc60c",
+        "filename": "openstack_requirements/tests/files/upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-10T07:31:47Z",
+      "side": 1,
+      "message": "I\u0027m not sure why this test file needs to change? All the other versions in here are also way old.\n\nIf there isn\u0027t a specific reason, you could abandon this patch and let us go with https://review.opendev.org/c/openstack/requirements/+/844099 which contains all the metadata for the release.",
+      "revId": "04d56efe8a4c3cb5439b025d6c2819ec3b940f5b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
