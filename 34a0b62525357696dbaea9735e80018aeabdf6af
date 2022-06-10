@@ -51,6 +51,24 @@
       "message": "basically people tend to add caps to libs then forget about removing the cap at some point.  This eventually causes issues.",
       "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cd37ab92_24a5942a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 398,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-10T09:11:36Z",
+      "side": 1,
+      "message": "When hacking 5.0.0 gets released (which I hope can happen soon), will you still need this cap? From what I can see in the bug report, the answer should be \"no\". Possibly modulo nova having to clean up their backlog of adapting to hacking updates.",
+      "parentUuid": "0231da6c_01a4ce87",
+      "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
