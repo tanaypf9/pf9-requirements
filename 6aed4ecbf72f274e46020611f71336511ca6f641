@@ -63,6 +63,30 @@
       },
       "revId": "6aed4ecbf72f274e46020611f71336511ca6f641",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d95de138_dada4ab7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 6914
+      },
+      "writtenOn": "2022-06-10T15:25:55Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/requirements/+/843505 is abandoned.",
+      "parentUuid": "1032119c_60e2585f",
+      "range": {
+        "startLine": 91,
+        "startChar": 0,
+        "endLine": 91,
+        "endChar": 25
+      },
+      "revId": "6aed4ecbf72f274e46020611f71336511ca6f641",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
