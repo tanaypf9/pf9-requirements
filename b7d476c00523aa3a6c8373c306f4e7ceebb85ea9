@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac2a47e6_ec5aa912",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-14T07:19:24Z",
+      "side": 1,
+      "message": "Seems my neutron fix for pyroute2 was incomplete, will have another look.\nOctavia is still waiting for https://review.opendev.org/q/topic:fix-pyroute2-netns-mock , blocked by docs build waiting for a new taskflow release\nI updated https://etherpad.opendev.org/p/requirements-blockers accordingly",
+      "revId": "b7d476c00523aa3a6c8373c306f4e7ceebb85ea9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
