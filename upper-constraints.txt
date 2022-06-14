@@ -545,7 +545,7 @@ DateTimeRange===1.2.0
 cffi===1.15.0
 python-cyborgclient===1.7.0
 futurist===2.4.1
-jsonschema===3.2.0
+jsonschema===4.0.1 # let go to 4.0.1 instaead of 4.6 to see what broke in the 4.x major release
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.4.0
 alembic===1.8.0
