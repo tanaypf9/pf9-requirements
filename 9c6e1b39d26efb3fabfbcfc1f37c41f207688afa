@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32f8921d_3c94c895",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-15T12:27:13Z",
+      "side": 1,
+      "message": "Fast-approving as this is blocking octavia",
+      "revId": "9c6e1b39d26efb3fabfbcfc1f37c41f207688afa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
