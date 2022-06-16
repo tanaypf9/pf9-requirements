@@ -16,6 +16,23 @@
       "message": "merge conflict was from taskflow update",
       "revId": "e0b7418d74dc75f57563192ebd5588196e506830",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "afdabe12_e9b4789b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-16T07:29:31Z",
+      "side": 1,
+      "message": "Will go with https://review.opendev.org/c/openstack/requirements/+/845871 instead if that passes, since it is newer",
+      "revId": "e0b7418d74dc75f57563192ebd5588196e506830",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
