@@ -16,6 +16,23 @@
       "message": "unblock neutron go go",
       "revId": "03fc36e2e323a029a8c90a293596ca0d7f92c11a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebe38a1b_0bedbf56",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-06-17T08:38:11Z",
+      "side": 1,
+      "message": "Sorry for stopping this patch. I think I\u0027ve found the issue (and the fix). I would like to test it in the CI first.\n\nThanks a lot!",
+      "revId": "03fc36e2e323a029a8c90a293596ca0d7f92c11a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
