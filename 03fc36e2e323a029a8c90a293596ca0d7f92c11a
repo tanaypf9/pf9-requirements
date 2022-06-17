@@ -51,6 +51,23 @@
       "parentUuid": "ebe38a1b_0bedbf56",
       "revId": "03fc36e2e323a029a8c90a293596ca0d7f92c11a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "43f5e38b_952db11b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-06-17T10:36:08Z",
+      "side": 1,
+      "message": "The Neutron fix is working and the CI passing.\n\nI\u0027ll abandon this patch.\n",
+      "revId": "03fc36e2e323a029a8c90a293596ca0d7f92c11a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
