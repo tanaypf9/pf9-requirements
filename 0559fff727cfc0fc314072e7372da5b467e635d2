@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc770599_f96f207e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-21T19:00:10Z",
+      "side": 1,
+      "message": "Can we also stop trying to build the confluent-kafka wheel? Otherwise this job is still failing and we can better stop running it completely.",
+      "revId": "0559fff727cfc0fc314072e7372da5b467e635d2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
