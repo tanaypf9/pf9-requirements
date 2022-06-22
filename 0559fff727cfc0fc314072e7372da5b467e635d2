@@ -16,6 +16,24 @@
       "message": "Can we also stop trying to build the confluent-kafka wheel? Otherwise this job is still failing and we can better stop running it completely.",
       "revId": "0559fff727cfc0fc314072e7372da5b467e635d2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "822f1e21_fea9a2f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2022-06-22T10:28:08Z",
+      "side": 1,
+      "message": "Good point. Yes, we have to stop.",
+      "parentUuid": "dc770599_f96f207e",
+      "revId": "0559fff727cfc0fc314072e7372da5b467e635d2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
