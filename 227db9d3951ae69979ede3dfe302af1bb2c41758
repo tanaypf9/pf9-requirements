@@ -16,6 +16,24 @@
       "message": "Thanks for proposing this once again!\n\nHow about the other requirement files limiting or pinning the gnocchiclient version:\n\n1) https://opendev.org/openstack/requirements/src/commit/264c424c399b0ef931a729caa3aa76888e5727c7/global-requirements.txt#L251\n\nThis likely does block your change to use 7.0.7.\n\n\n2) https://opendev.org/openstack/requirements/src/commit/2f2467ad1508f4b125fc3f15c9454dc711baca01/openstack_requirements/tests/files/upper-constraints.txt#L111\n\nWondering where this is used, and why this is rather ancient.",
       "revId": "227db9d3951ae69979ede3dfe302af1bb2c41758",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5cd7f443_ac49acd5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2022-06-23T12:02:11Z",
+      "side": 1,
+      "message": "1) good catch! included in the next patch\n\n2) In my understanding this is being used in testing the requirements code itself.",
+      "parentUuid": "d4459056_42d65c50",
+      "revId": "227db9d3951ae69979ede3dfe302af1bb2c41758",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
