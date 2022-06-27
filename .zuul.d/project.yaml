@@ -32,35 +32,35 @@
         - requirements-tox-py39-check-uc
         - requirements-tox-validate-projects:
             voting: false
-        - cross-aodh-py38
-        - cross-barbican-py38
-        - cross-ceilometer-py38
-        - cross-cinder-py38
-        - cross-designate-py38
-        - cross-glance-py38
+        #- cross-aodh-py38
+        #- cross-barbican-py38
+        #- cross-ceilometer-py38
+        #- cross-cinder-py38
+        #- cross-designate-py38
+        #- cross-glance-py38
         - cross-heat-py38
-        - cross-horizon-py38
-        - cross-horizon-npm
-        - cross-ironic-py38
-        - cross-keystone-py38
-        - cross-kuryr-py38
-        - cross-manila-py38
-        - cross-masakari-py38
-        - cross-neutron-py38
-        - cross-nova-py38
-        - cross-placement-py38
-        - cross-osvif-py3
-        - cross-nova-functional
-        - cross-placement-functional-py38
-        - cross-octavia-py38
-        - cross-osc-tox-docs
-        - cross-swift-py38
-        - openstack-tox-py38
-        - openstacksdk-functional-devstack
-        - tempest-full-py3:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
+        #- cross-horizon-py38
+        #- cross-horizon-npm
+        #- cross-ironic-py38
+        #- cross-keystone-py38
+        #- cross-kuryr-py38
+        #- cross-manila-py38
+        #- cross-masakari-py38
+        #- cross-neutron-py38
+        #- cross-nova-py38
+        #- cross-placement-py38
+        #- cross-osvif-py3
+        #- cross-nova-functional
+        #- cross-placement-functional-py38
+        #- cross-octavia-py38
+        #- cross-osc-tox-docs
+        #- cross-swift-py38
+        #- openstack-tox-py38
+        #- openstacksdk-functional-devstack
+        #- tempest-full-py3:
+        #    irrelevant-files:
+        #      - ^(test-|)requirements.txt$
+        #      - ^setup.cfg$
     check-arm64:
       jobs:
         - requirements-tox-py38-check-uc-aarch64:
