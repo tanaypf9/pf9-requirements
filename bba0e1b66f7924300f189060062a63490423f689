@@ -16,6 +16,23 @@
       "message": "ceilometer is broken by this, recheck won\u0027t help",
       "revId": "bba0e1b66f7924300f189060062a63490423f689",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9c954a12_75827dbf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2022-06-27T12:27:30Z",
+      "side": 1,
+      "message": "ceilometer is fixed now",
+      "revId": "bba0e1b66f7924300f189060062a63490423f689",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
