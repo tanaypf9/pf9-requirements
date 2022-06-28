@@ -67,6 +67,23 @@
       "message": "Atleast this broke rally jobs:- https://zuul.opendev.org/t/openstack/builds?job_name\u003dneutron-ovs-rally-task\u0026project\u003dopenstack/neutron",
       "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06d40877_96d1f650",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2022-06-28T06:56:54Z",
+      "side": 1,
+      "message": "Rally blocks gnocchiclient 7.0.7 explicitly:\nhttps://github.com/openstack/rally-openstack/blob/master/requirements.txt#L9",
+      "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
