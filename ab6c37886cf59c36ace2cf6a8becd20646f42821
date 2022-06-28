@@ -84,6 +84,24 @@
       "message": "Rally blocks gnocchiclient 7.0.7 explicitly:\nhttps://github.com/openstack/rally-openstack/blob/master/requirements.txt#L9",
       "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "716b9d66_dff5b3f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32755
+      },
+      "writtenOn": "2022-06-28T06:58:45Z",
+      "side": 1,
+      "message": "\u003e Rally blocks gnocchiclient 7.0.7 explicitly:\n\u003e https://github.com/openstack/rally-openstack/blob/master/requirements.txt#L9\n\nAre you pushing a change for that as well then?",
+      "parentUuid": "06d40877_96d1f650",
+      "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
