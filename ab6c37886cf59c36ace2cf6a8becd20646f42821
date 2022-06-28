@@ -102,6 +102,24 @@
       "parentUuid": "06d40877_96d1f650",
       "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f00a498_4b283792",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2022-06-28T07:01:11Z",
+      "side": 1,
+      "message": "pushed https://review.opendev.org/c/openstack/rally-openstack/+/847879",
+      "parentUuid": "716b9d66_dff5b3f0",
+      "revId": "ab6c37886cf59c36ace2cf6a8becd20646f42821",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
