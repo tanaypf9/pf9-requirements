@@ -16,6 +16,23 @@
       "message": "lgtm",
       "revId": "b6187749c2cd78db7670b691dcb5e4ec5135b309",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98e5c0ef_2ac9dc65",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-06-28T11:10:52Z",
+      "side": 1,
+      "message": "seems we still need to pin protobuf until kuryr is fixed.",
+      "revId": "b6187749c2cd78db7670b691dcb5e4ec5135b309",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
