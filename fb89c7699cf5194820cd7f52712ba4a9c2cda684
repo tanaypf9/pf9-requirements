@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d897045_7c293c62",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-06-30T17:38:51Z",
+      "side": 1,
+      "message": "recheck tempest failing to find new boto3 - pypi index failure?",
+      "revId": "fb89c7699cf5194820cd7f52712ba4a9c2cda684",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
