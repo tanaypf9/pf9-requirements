@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "192692ec_090031a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-07-03T09:41:10Z",
+      "side": 1,
+      "message": "recheck not sure if cinder rbd failure is related",
+      "revId": "70282106c9d00df1ec0b6bfb830bf1858a2ebad5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
