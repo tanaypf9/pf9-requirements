@@ -33,6 +33,23 @@
       "message": "I made local tests against keystone, keystonemiddleware, and oslo.cache with a patched version of dogpile.cache that correspond to this latest version of dogpile, however I didn\u0027t see or reproduced this error.",
       "revId": "2ef5893ab1186f8ecdefe2adc4ff8a7119dee28d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7581ed57_569e6bf9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-07-06T11:37:06Z",
+      "side": 1,
+      "message": "Even the cross keystone job is successful.",
+      "revId": "2ef5893ab1186f8ecdefe2adc4ff8a7119dee28d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
