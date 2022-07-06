@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32ea4b37_a91067e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-07-06T11:16:29Z",
+      "side": 1,
+      "message": "The error seems legit, see https://zuul.opendev.org/t/openstack/build/73a57e762d3544efaa7dbe2b320e546c/log/job-output.txt#12575\n\nI think keystone needs some adjustments to support this new version of dogpile.cache.\n\nAdding a couple of keystone folks to this review to see how to fix that.",
+      "revId": "2ef5893ab1186f8ecdefe2adc4ff8a7119dee28d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
