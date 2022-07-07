@@ -50,6 +50,23 @@
       "message": "Even the cross keystone job is successful.",
       "revId": "2ef5893ab1186f8ecdefe2adc4ff8a7119dee28d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ee905ce9_bc2668d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-07-07T14:43:29Z",
+      "side": 1,
+      "message": "I think I found the issue, the problem come from my previous dogpile.cache patch (https://github.com/sqlalchemy/dogpile.cache/commit/1de93aab14c1274f20c1f44f8adff3b143c864f6). I just submited a fix https://gerrit.sqlalchemy.org/c/sqlalchemy/dogpile.cache/+/3978\n\nPlease hold dogpile.cache 1.1.7 away from here. Once my fix is merged I\u0027ll request a new version (1.1.8) and ban 1.1.7 from here.",
+      "revId": "2ef5893ab1186f8ecdefe2adc4ff8a7119dee28d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
