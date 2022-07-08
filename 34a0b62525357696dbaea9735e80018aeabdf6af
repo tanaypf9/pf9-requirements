@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "87ee4589_a560b506",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31581
+      },
+      "writtenOn": "2022-07-08T12:45:27Z",
+      "side": 1,
+      "message": "With [1] merged the original dependency conflict is resolved and there\u0027s no need to pin autopep8 at all. We can abandon this change.\n\nhttps://review.opendev.org/c/openstack/hacking/+/816676/",
+      "revId": "34a0b62525357696dbaea9735e80018aeabdf6af",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "82411d12_697d4708",
