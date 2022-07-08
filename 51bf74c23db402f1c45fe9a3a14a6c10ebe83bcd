@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "857deb63_e86836ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-08T15:33:07Z",
+      "side": 1,
+      "message": "You need to uncap the requirements in global-requirements.txt. The upper constraint should be automatically bumped then",
+      "revId": "51bf74c23db402f1c45fe9a3a14a6c10ebe83bcd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
