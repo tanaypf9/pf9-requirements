@@ -35,6 +35,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "657f5247_ffff22fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-11T08:59:31Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/requirements/+/849284",
+      "parentUuid": "857deb63_e86836ea",
+      "revId": "51bf74c23db402f1c45fe9a3a14a6c10ebe83bcd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e7a5a7dc_faf92775",
@@ -48,6 +66,24 @@
       "writtenOn": "2022-07-08T19:13:23Z",
       "side": 1,
       "message": "Need to uncap this",
+      "revId": "51bf74c23db402f1c45fe9a3a14a6c10ebe83bcd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "81e322a2_16e445ab",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 342,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-11T08:59:31Z",
+      "side": 1,
+      "message": "- https://review.opendev.org/c/openstack/requirements/+/849284\n- https://review.opendev.org/c/openstack/python-glanceclient/+/849285",
+      "parentUuid": "e7a5a7dc_faf92775",
       "revId": "51bf74c23db402f1c45fe9a3a14a6c10ebe83bcd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
