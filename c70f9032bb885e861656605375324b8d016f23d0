@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc54109f_968c7ff5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-07-12T11:56:23Z",
+      "side": 1,
+      "message": "recheck - os-brick 5.2.1 was not found by pypi, however it is there",
+      "revId": "c70f9032bb885e861656605375324b8d016f23d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
