@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f4e2f1b_d08febe7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-13T13:37:38Z",
+      "side": 1,
+      "message": "We\u0027re going to need to wait for the python-glanceclient bump first https://review.opendev.org/c/openstack/requirements/+/849656",
+      "revId": "902360c6183481218cfde6cbfa28446dd076ff94",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
