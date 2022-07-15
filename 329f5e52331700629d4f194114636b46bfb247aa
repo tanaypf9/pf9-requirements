@@ -16,6 +16,23 @@
       "message": "We need this to be able to use python-ldap on Fedora 34 [1]. I\u0027m just proposing this to see what\u0027s causing the hold up\n\n[1] https://github.com/python-ldap/python-ldap/pull/458",
       "revId": "329f5e52331700629d4f194114636b46bfb247aa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c540749a_f93bc8f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-15T14:41:34Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1: Code-Review+2\n\u003e \n\u003e looks like nothing, just hasn\u0027t been proposed yet\n\nOh, I thought that happened automatically? (I don\u0027t know how but assumed pypi crawling)",
+      "revId": "329f5e52331700629d4f194114636b46bfb247aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
