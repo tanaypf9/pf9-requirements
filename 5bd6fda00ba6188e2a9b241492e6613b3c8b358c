@@ -16,6 +16,23 @@
       "message": "recheck\n\ngranade job failed because of timeout",
       "revId": "5bd6fda00ba6188e2a9b241492e6613b3c8b358c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a83cdc12_8771ebd1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8833
+      },
+      "writtenOn": "2022-07-15T04:10:15Z",
+      "side": 1,
+      "message": "recheck (last recheck did not run)",
+      "revId": "5bd6fda00ba6188e2a9b241492e6613b3c8b358c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
