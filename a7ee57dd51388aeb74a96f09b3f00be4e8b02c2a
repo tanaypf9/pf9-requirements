@@ -33,6 +33,24 @@
       "message": "This version introduces an error in ip.neigh \"dump\" command that should be fixed. We\u0027ll blacklist this version once next version is released.",
       "revId": "a7ee57dd51388aeb74a96f09b3f00be4e8b02c2a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6416d6e1_147c1a26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-07-18T14:19:12Z",
+      "side": 1,
+      "message": "Bug: https://github.com/svinota/pyroute2/issues/962",
+      "parentUuid": "a1561e7d_1629401e",
+      "revId": "a7ee57dd51388aeb74a96f09b3f00be4e8b02c2a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
