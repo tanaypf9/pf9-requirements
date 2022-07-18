@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d724b0bc_93d9ec07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T04:38:04Z",
+      "side": 1,
+      "message": "I\u0027m guessing that: https://review.opendev.org/c/openstack/openstacksdk/+/837802 which implemenmts cacheing means that nova is no longer always hitting the underlying function.\n",
+      "revId": "c016c621d9990d981f486e1f52b96090db3b09f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
