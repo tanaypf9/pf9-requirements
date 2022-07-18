@@ -16,6 +16,23 @@
       "message": "Seems you still need to solve the warlock lock first.",
       "revId": "823f6853549fdd4d99768f5334f0fbde18ffdaaf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "abe8d248_b60f63dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T21:34:28Z",
+      "side": 1,
+      "message": "Can we abandon this in favor of: https://review.opendev.org/c/openstack/requirements/+/849102",
+      "revId": "823f6853549fdd4d99768f5334f0fbde18ffdaaf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
