@@ -50,6 +50,23 @@
       "message": "We\u0027re ready to merge this now, from Heat\u0027s PoV.",
       "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8effcdfd_3c5a0600",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T21:16:30Z",
+      "side": 1,
+      "message": "For the record, this is the heat fix: https://review.opendev.org/c/openstack/heat/+/850132",
+      "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
