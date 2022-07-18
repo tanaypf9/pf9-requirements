@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c77df609_bdc898ae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2022-07-18T07:58:35Z",
+      "side": 1,
+      "message": "pyrute2 went back to 1 pakage scheme (https://github.com/svinota/pyroute2/issues/935), thanks",
+      "revId": "a7ee57dd51388aeb74a96f09b3f00be4e8b02c2a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
