@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "850976e9_471dc2f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T23:29:27Z",
+      "side": 1,
+      "message": "I\u0027m looking to cleanup the review dashboard for openstack/requirements.  As such Can I ask you to do one of 3 things:\n\nAdd a comment letting reviewers known that this change is required ; or Abandon the change ; or Set the WIP flag\n\nI will suggest that all changes that recieve this comment, and don\u0027t react in July, be abandoned by the PTL.",
+      "revId": "ab2626a06b1116b3acbff7a7b5189f84a5203099",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
