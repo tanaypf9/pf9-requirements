@@ -33,6 +33,23 @@
       "message": "Oleksandr: Can you rebase this and address the comments?\n\nHerve: This is a bit of a weird thing, since monasca-agent has been using this library for a while now.. since the first commit, over 8 years ago 😂",
       "revId": "7db76f726987b1c9d85440f521578c0c4218eb02",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "31f836b3_00b2ffff",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T23:29:58Z",
+      "side": 1,
+      "message": "I\u0027m looking to cleanup the review dashboard for openstack/requirements.  As such Can I ask you to do one of 3 things:\n\nAdd a comment letting reviewers known that this change is required ; or Abandon the change ; or Set the WIP flag\n\nI will suggest that all changes that recieve this comment, and don\u0027t react in July, be abandoned by the PTL.",
+      "revId": "7db76f726987b1c9d85440f521578c0c4218eb02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
