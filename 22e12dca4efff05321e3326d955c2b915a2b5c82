@@ -33,6 +33,23 @@
       "message": "recheck\n\nwe\u0027ve fixed heat unit tests.",
       "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "44f9b2a1_7a4347d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-07-18T12:24:52Z",
+      "side": 1,
+      "message": "We\u0027re ready to merge this now, from Heat\u0027s PoV.",
+      "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
