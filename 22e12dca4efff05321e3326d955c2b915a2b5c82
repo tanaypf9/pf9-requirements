@@ -16,6 +16,23 @@
       "message": "Beacause of Ibac2bb7e2e4c9946c7384f0aab8e43d0d79ba645 4.0.1 of python-swiftclient is *kinda* a breaking change in that older clients maybe relying on the digest being sha1.  That\u0027s what\u0027s breaking heat.\n\nNow I totally agree that swift is in control of that API.  Given this is testing only and for master we don\u0027t really care we can probably just update the tests in heat",
       "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc17b457_e8ce7318",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-07-18T10:32:09Z",
+      "side": 1,
+      "message": "recheck\n\nwe\u0027ve fixed heat unit tests.",
+      "revId": "22e12dca4efff05321e3326d955c2b915a2b5c82",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
