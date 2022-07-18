@@ -16,6 +16,23 @@
       "message": "I don\u0027t think that this is the correct solution. sphinx 4.5.0 was in use since almost 8 weeks, the jobs started failing only now after the py3.6 caps were removed. Either upgrade the job to install python3.8 and use that, or as a hack try to run with yoga constraints for now.",
       "revId": "b86b399b314816a99b30e9bc1b70ff45b0fa5b38",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7e0e8253_78029d8b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-18T23:30:40Z",
+      "side": 1,
+      "message": "I\u0027m looking to cleanup the review dashboard for openstack/requirements.  As such Can I ask you to do one of 3 things:\n\nAdd a comment letting reviewers known that this change is required ; or Abandon the change ; or Set the WIP flag\n\nI will suggest that all changes that recieve this comment, and don\u0027t react in July, be abandoned by the PTL.",
+      "revId": "b86b399b314816a99b30e9bc1b70ff45b0fa5b38",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
