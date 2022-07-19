@@ -51,6 +51,23 @@
       "parentUuid": "a1561e7d_1629401e",
       "revId": "a7ee57dd51388aeb74a96f09b3f00be4e8b02c2a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bcd0a57_75df29f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29244
+      },
+      "writtenOn": "2022-07-19T05:05:29Z",
+      "side": 1,
+      "message": "Octavia is affected by a bug in 0.7.1 (https://github.com/svinota/pyroute2/issues/964), I think we should exclude 0.7.1 and wait for the next release.",
+      "revId": "a7ee57dd51388aeb74a96f09b3f00be4e8b02c2a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
