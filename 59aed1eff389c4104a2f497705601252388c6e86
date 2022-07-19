@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "159a1345_5bdb4cb9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-07-19T09:12:25Z",
+      "side": 1,
+      "message": "I would mention the Neutron bug [1] and the pyroute2 issues opened:\n* https://github.com/svinota/pyroute2/issues/962\n* https://github.com/svinota/pyroute2/issues/964\n\n[1]https://bugs.launchpad.net/neutron/+bug/1981963",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 16
+      },
+      "revId": "59aed1eff389c4104a2f497705601252388c6e86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
