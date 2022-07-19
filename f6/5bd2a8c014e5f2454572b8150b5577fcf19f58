@@ -1,0 +1,13 @@
+Code-Review+1: Tom Weininger <tweining@redhat.com>
+Code-Review+1: Rodolfo Alonso <ralonsoh@redhat.com>
+Code-Review+1: Lajos Katona <katonalala@gmail.com>
+Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>
+Code-Review+1: yatin <ykarel@redhat.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 19 Jul 2022 17:31:09 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/850295
+Project: openstack/requirements
+Branch: refs/heads/master
