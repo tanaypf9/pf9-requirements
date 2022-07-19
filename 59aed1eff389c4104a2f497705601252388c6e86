@@ -57,6 +57,24 @@
       "parentUuid": "979a4c43_f83c33bc",
       "revId": "59aed1eff389c4104a2f497705601252388c6e86",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ceba2192_32230c07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29244
+      },
+      "writtenOn": "2022-07-19T11:33:49Z",
+      "side": 1,
+      "message": "I have updated the commit message with all the mentioned links",
+      "parentUuid": "01f18e40_e0eb35ad",
+      "revId": "59aed1eff389c4104a2f497705601252388c6e86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
