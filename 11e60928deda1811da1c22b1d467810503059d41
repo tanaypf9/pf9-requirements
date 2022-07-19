@@ -50,6 +50,24 @@
       "message": "Traceback (most recent call last):\n  File \"/home/zuul/src/opendev.org/openstack/nova/nova/tests/functional/test_metadata.py\", line 190, in test_network_data_matches_schema\n    jsonschema.validate(res.json(), schema)\n  File \"/home/zuul/src/opendev.org/openstack/nova/.tox/functional/lib/python3.8/site-packages/jsonschema/validators.py\", line 1055, in validate\n    cls.check_schema(schema)\n  File \"/home/zuul/src/opendev.org/openstack/nova/.tox/functional/lib/python3.8/site-packages/jsonschema/validators.py\", line 203, in check_schema\n    raise exceptions.SchemaError.create_from(error)\njsonschema.exceptions.SchemaError: \u0027#/properties/networks\u0027 does not match \u0027^[^#]*#?$\u0027\n\nFailed validating \u0027pattern\u0027 in metaschema[\u0027allOf\u0027][1][\u0027properties\u0027][\u0027properties\u0027][\u0027additionalProperties\u0027][\u0027$dynamicRef\u0027][\u0027allOf\u0027][0][\u0027properties\u0027][\u0027$id\u0027]:\n    {\u0027$comment\u0027: \u0027Non-empty fragments not allowed.\u0027,\n     \u0027$ref\u0027: \u0027#/$defs/uriReferenceString\u0027,\n     \u0027pattern\u0027: \u0027^[^#]*#?$\u0027}\n\nOn schema[\u0027properties\u0027][\u0027networks\u0027][\u0027$id\u0027]:\n    \u0027#/properties/networks\u0027",
       "revId": "11e60928deda1811da1c22b1d467810503059d41",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcdefb54_755d1d96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-07-19T09:14:20Z",
+      "side": 1,
+      "message": "That\u0027s fixed in [1]. I thought it was merged already (gibi just +W\u0027d it)\n\n[1] https://review.opendev.org/c/openstack/nova/+/849881",
+      "parentUuid": "0f9837ea_f7ba0016",
+      "revId": "11e60928deda1811da1c22b1d467810503059d41",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
