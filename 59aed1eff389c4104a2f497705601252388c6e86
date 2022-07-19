@@ -39,6 +39,24 @@
       "message": "Looks reasonable to me.  More details would be good but a single issue link is enough.",
       "revId": "59aed1eff389c4104a2f497705601252388c6e86",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01f18e40_e0eb35ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-07-19T11:26:53Z",
+      "side": 1,
+      "message": "I disagree. Adding more information to the commit message creates a context for this patch. Both pyroute2 issues are relevant and the reference to the Neutron LP bug is important too. Commit messages must be as informative as possible in other not to forget the context of the patch in the next months or years.",
+      "parentUuid": "979a4c43_f83c33bc",
+      "revId": "59aed1eff389c4104a2f497705601252388c6e86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
