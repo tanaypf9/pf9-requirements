@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0ce616f4_8db15645",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-19T09:22:04Z",
+      "side": 1,
+      "message": "I think you\u0027re missing link here?  and I\u0027m guessing it\u0027s the 0.7.x releases?",
+      "range": {
+        "startLine": 9,
+        "startChar": 6,
+        "endLine": 9,
+        "endChar": 10
+      },
+      "revId": "d16109a8da78621b3c081ebd84069a215f142b0a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "55572865_9064676a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-19T09:22:04Z",
+      "side": 1,
+      "message": "Can you rebase this on https://review.opendev.org/c/openstack/requirements/+/850295 as the g-r change is largely the same.",
+      "revId": "d16109a8da78621b3c081ebd84069a215f142b0a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
