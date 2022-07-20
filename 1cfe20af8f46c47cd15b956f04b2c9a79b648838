@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff99868e_c227fe44",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-07-20T14:09:25Z",
+      "side": 1,
+      "message": "recheck\n\nunrelated error in Neutron [1] in tempest-full\n\n[1]https://paste.opendev.org/show/b7GTOWP1GgtU82L88bDc/",
+      "revId": "1cfe20af8f46c47cd15b956f04b2c9a79b648838",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
