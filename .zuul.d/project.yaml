@@ -52,6 +52,7 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
+            voting: false
     gate:
       jobs:
         - build-wheel-cache-centos-7:
@@ -100,6 +101,7 @@
             irrelevant-files:
               - ^(test-|)requirements.txt$
               - ^setup.cfg$
+            voting: false
     experimental:
       jobs:
         - tempest-pg-full:
