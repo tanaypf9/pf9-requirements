@@ -104,6 +104,24 @@
       "parentUuid": "369dd854_1b1119a7",
       "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fed6e647_f613fcdb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21798
+      },
+      "writtenOn": "2022-07-26T15:27:23Z",
+      "side": 1,
+      "message": "They do not have similar parent jobs (grenade-multinode vs legacy-dsvm-base), maybe something was fixed in newer job template?",
+      "parentUuid": "821f168b_73cfea4a",
+      "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }

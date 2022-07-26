@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9ee2f121_26a3e0e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21798
+      },
+      "writtenOn": "2022-07-26T15:27:23Z",
+      "side": 1,
+      "message": "+1 on unblocking stable/train, though the job definition in neutron may be a better place? neutron train backports are also blocked so setting it in job would workaround it in one place",
+      "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
