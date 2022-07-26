@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "059a2a49_12da10b3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2022-07-26T15:03:08Z",
+      "side": 1,
+      "message": "perhaps [train only] sign to make it clear that this not to make grenade non-voting on master, but for train only",
+      "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "e1cd85c8_32898efb",
