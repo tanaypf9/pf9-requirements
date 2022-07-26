@@ -16,6 +16,23 @@
       "message": "Checking the job in https://review.opendev.org/c/openstack/requirements/+/850827/",
       "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "369dd854_1b1119a7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2022-07-26T12:36:12Z",
+      "side": 1,
+      "message": "hmmm, seems like many runs fail with:\n2022-07-14 01:43:48.646797 | primary | Processing triggers for libc-bin (2.27-3ubuntu1.6) ...\n2022-07-14 04:27:45.905120 | primary | /home/zuul/workspace/devstack-gate/functions.sh: line 1009: 12039 Killed                  timeout -s 9 ${REMAINING_TIME}m bash -c \"source $WORKSPACE/devstack-gate/functions.sh \u0026\u0026 $cmd\"\n2022-07-14 04:27:45.905716 | primary | ERROR: the main setup script run by this job failed - exit code: 137\n\nfrom https://storage.gra.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_05f/849767/1/check/neutron-grenade/05f09e6/job-output.txt",
+      "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
