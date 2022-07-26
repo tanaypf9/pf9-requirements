@@ -16,6 +16,24 @@
       "message": "+1 on unblocking stable/train, though the job definition in neutron may be a better place? neutron train backports are also blocked so setting it in job would workaround it in one place",
       "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "06297ce9_a0e257af",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-07-26T16:39:43Z",
+      "side": 1,
+      "message": "I hvave not yet checked the same in neutron repo but this job is failing there too then it makes sense to add non-voting flag in the core definition.",
+      "parentUuid": "9ee2f121_26a3e0e6",
+      "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
