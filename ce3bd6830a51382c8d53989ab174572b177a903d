@@ -33,6 +33,23 @@
       "message": "From https://review.opendev.org/c/openstack/neutron/+/851003 seems that it helps to unblock gate at least.",
       "revId": "ce3bd6830a51382c8d53989ab174572b177a903d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "73f148d8_29052a8d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2022-07-26T12:17:45Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/nova/+/851006 works for it, so +1.",
+      "revId": "ce3bd6830a51382c8d53989ab174572b177a903d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
