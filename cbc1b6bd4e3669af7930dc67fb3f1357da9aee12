@@ -18,6 +18,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "4087e465_e977c499",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-07-26T15:18:33Z",
+      "side": 1,
+      "message": "Sounds like a good idea. Let me update the commit message.",
+      "parentUuid": "059a2a49_12da10b3",
+      "revId": "cbc1b6bd4e3669af7930dc67fb3f1357da9aee12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "e1cd85c8_32898efb",
