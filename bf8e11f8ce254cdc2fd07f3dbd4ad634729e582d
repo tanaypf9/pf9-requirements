@@ -34,6 +34,24 @@
       "parentUuid": "9ee2f121_26a3e0e6",
       "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de16b436_2dcf25f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 21798
+      },
+      "writtenOn": "2022-07-27T13:12:55Z",
+      "side": 1,
+      "message": "https://review.opendev.org/q/project:openstack/neutron+branch:stable/train+status:open\n\nCurrent open patch and the DNM test Lajos sent have this grenade failure indeed",
+      "parentUuid": "06297ce9_a0e257af",
+      "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
