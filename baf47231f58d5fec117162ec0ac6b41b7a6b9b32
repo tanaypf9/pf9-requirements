@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72a5748c_22a733f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-28T11:09:15Z",
+      "side": 1,
+      "message": "So I *think* the situation you\u0027re describing is something like:\n\nA project (oslo-config for example) may want to use this new shiny package_distributions feature (which I think you said was in 3.10) so oslo-config would like to be able to have:\n\nimportlib-metadata\u003e4.4;python_version\u003e\u003d3.8,python_version\u003c3.10\n\nin requirements.txt but we\u0027d just have:\n\nimportlib-metadata\n\nin global-requirements.\n\nAnother project could have\n\nimportlib-metadata\u003e4.4;python_version\u003e\u003d3.8,python_version\u003c\u003d3.9\n\nAnd your change makes that whole thinh \"hunky-t-dory\"?\n\n\n",
+      "revId": "baf47231f58d5fec117162ec0ac6b41b7a6b9b32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
