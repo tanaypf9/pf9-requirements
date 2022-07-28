@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dcb59f6c_35ea3357",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-07-28T09:48:11Z",
+      "side": 1,
+      "message": "I ran the update_constraints.sh script manually as the job failed previously due to some wrong job configuration:\n\nhttps://lists.openstack.org/pipermail/release-job-failures/2022-July/001609.html\n-\u003e\npropose-update-constraints https://zuul.opendev.org/t/openstack/build/e4e16222d2d5409a8b4d6b1311f7af6f : RETRY_LIMIT in 3m 15s",
+      "revId": "92e98bf195f2e24b0b6df27d3c5be5a61c5fe0fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
