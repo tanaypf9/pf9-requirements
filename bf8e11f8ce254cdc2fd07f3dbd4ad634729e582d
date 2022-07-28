@@ -52,6 +52,24 @@
       "parentUuid": "06297ce9_a0e257af",
       "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc7a8359_c9e8f8bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2022-07-28T04:11:13Z",
+      "side": 1,
+      "message": "I\u0027ve submitted a patch to neutron to make the failing grenade job non-voting.\n\nhttps://review.opendev.org/c/openstack/neutron/+/851330\n\nIf Neutron team approves that change then I\u0027ll abandon this.",
+      "parentUuid": "de16b436_2dcf25f5",
+      "revId": "bf8e11f8ce254cdc2fd07f3dbd4ad634729e582d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
