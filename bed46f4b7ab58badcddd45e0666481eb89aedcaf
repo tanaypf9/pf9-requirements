@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "84b861f5_79a1b3e1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10239
+      },
+      "writtenOn": "2022-07-29T11:41:15Z",
+      "side": 1,
+      "message": "recheck the Cinder failure is likely unrelated (flaky test?)",
+      "revId": "bed46f4b7ab58badcddd45e0666481eb89aedcaf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
