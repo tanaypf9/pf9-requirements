@@ -34,6 +34,24 @@
       "parentUuid": "72a5748c_22a733f3",
       "revId": "baf47231f58d5fec117162ec0ac6b41b7a6b9b32",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f12effa_bfe0e3f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-07-29T04:40:33Z",
+      "side": 1,
+      "message": "Yes please.  Otfen I\u0027m okay with discussion like that being caught in reviews, but I feel like this is a \"big enough\" point that it shoudl be in the commit message.",
+      "parentUuid": "bb27acf5_9aadb0f8",
+      "revId": "baf47231f58d5fec117162ec0ac6b41b7a6b9b32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
