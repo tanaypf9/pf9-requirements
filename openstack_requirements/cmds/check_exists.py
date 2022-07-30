@@ -60,19 +60,19 @@ def main(args=None):
     error_count = 0
 
     for require_file, data in project_data.get('requirements', {}).items():
-        print(u'\nComparing %s with global-requirements and upper-constraints'
+        print('\nComparing %s with global-requirements and upper-constraints'
               % require_file)
         requirements = requirement.parse(data)
         for name, spec_list in requirements.items():
             if not name or name in blacklist:
                 continue
             if name not in global_requirements:
-                print(u'%s from %s not found in global-requirements' % (
+                print('%s from %s not found in global-requirements' % (
                       name, require_file))
                 error_count += 1
                 continue
             if name not in upper_constraints:
-                print(u'%s from %s not found in upper-constraints' % (
+                print('%s from %s not found in upper-constraints' % (
                       name, require_file))
                 error_count += 1
                 continue
@@ -88,7 +88,7 @@ def main(args=None):
                         # then something is wrong.
                         if Version(uc_spec.version) not in specs:
                             print(
-                                u'%s must be <= %s from upper-constraints and '
+                                '%s must be <= %s from upper-constraints and '
                                 'include the upper-constraints version' %
                                 (name, uc_spec.version))
                             error_count += 1
