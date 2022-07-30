@@ -166,7 +166,7 @@ def to_content(reqs, marker_sep=';', line_prefix='', prefix=True):
         lines += _REQS_HEADER
     for req in reqs.reqs:
         lines.append(req.to_line(marker_sep, line_prefix))
-    return u''.join(lines)
+    return ''.join(lines)
 
 
 def to_dict(req_sequence):
