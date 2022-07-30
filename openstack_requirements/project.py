@@ -183,7 +183,7 @@ def write(project, actions, stdout, verbose, noop=False):
             stdout.write(action.message)
         elif type(action) is Verbose:
             if verbose:
-                stdout.write(u"%s\n" % (action.message,))
+                stdout.write("%s\n" % (action.message,))
         else:
             raise Exception("Invalid action %r" % (action,))
     if error:

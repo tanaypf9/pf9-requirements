@@ -52,7 +52,7 @@ class TestReadProject(testtools.TestCase):
 class TestProjectExtras(testtools.TestCase):
 
     def test_smoke(self):
-        proj = {'setup.cfg': textwrap.dedent(u"""
+        proj = {'setup.cfg': textwrap.dedent("""
             [extras]
             1 =
               foo
@@ -67,7 +67,7 @@ class TestProjectExtras(testtools.TestCase):
         self.assertEqual(expected, project.extras(proj))
 
     def test_none(self):
-        proj = {'setup.cfg': u"[metadata]\n"}
+        proj = {'setup.cfg': "[metadata]\n"}
         self.assertEqual({}, project.extras(proj))
 
     def test_no_setup_cfg(self):
@@ -78,7 +78,7 @@ class TestProjectExtras(testtools.TestCase):
 class TestExtrasParsing(testtools.TestCase):
 
     def test_none(self):
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -91,7 +91,7 @@ class TestExtrasParsing(testtools.TestCase):
         self.assertEqual(ini, (old_content, None, ''))
 
     def test_no_eol(self):
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -99,7 +99,7 @@ class TestExtrasParsing(testtools.TestCase):
             [entry_points]
             console_scripts =
                 foo = bar:quux""")
-        expected1 = textwrap.dedent(u"""
+        expected1 = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -112,7 +112,7 @@ class TestExtrasParsing(testtools.TestCase):
         self.assertEqual(ini, (expected1, None, suffix))
 
     def test_two_extras_raises(self):
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -131,7 +131,7 @@ class TestExtrasParsing(testtools.TestCase):
 
     def test_extras(self):
         # We get an AST for extras we can use to preserve comments.
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -151,13 +151,13 @@ class TestExtrasParsing(testtools.TestCase):
             console_scripts =
                 foo = bar:quux
             """)
-        prefix = textwrap.dedent(u"""
+        prefix = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
 
             """)
-        suffix = textwrap.dedent(u"""\
+        suffix = textwrap.dedent("""\
             [entry_points]
             console_scripts =
                 foo = bar:quux
@@ -176,7 +176,7 @@ class TestExtrasParsing(testtools.TestCase):
 class TestMergeSetupCfg(testtools.TestCase):
 
     def test_merge_none(self):
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             # something something
             name = fred
@@ -189,7 +189,7 @@ class TestMergeSetupCfg(testtools.TestCase):
         self.assertEqual(old_content, merged)
 
     def test_merge_extras(self):
-        old_content = textwrap.dedent(u"""
+        old_content = textwrap.dedent("""
             [metadata]
             name = fred
 
@@ -213,7 +213,7 @@ class TestMergeSetupCfg(testtools.TestCase):
             'a': requirement.Requirements([blank, r1]),
             'c': requirement.Requirements([blank, r2])}
         merged = project.merge_setup_cfg(old_content, reqs)
-        expected = textwrap.dedent(u"""
+        expected = textwrap.dedent("""
             [metadata]
             name = fred
 
@@ -241,7 +241,7 @@ class TestWriteProject(testtools.TestCase):
         actions = [
             project.File('foo', '123\n'),
             project.File('bar', '456\n'),
-            project.Verbose(u'fred')]
+            project.Verbose('fred')]
         project.write(proj, actions, stdout, True)
         foo = open(root + '/foo', 'rt').read()
         self.expectThat(foo, matchers.Equals('123\n'))
@@ -253,7 +253,7 @@ class TestWriteProject(testtools.TestCase):
         stdout = io.StringIO()
         root = self.useFixture(fixtures.TempDir()).path
         proj = {'root': root}
-        actions = [project.Verbose(u'fred')]
+        actions = [project.Verbose('fred')]
         project.write(proj, actions, stdout, False)
         self.expectThat(stdout.getvalue(), matchers.Equals(''))
 
@@ -269,7 +269,7 @@ class TestWriteProject(testtools.TestCase):
         stdout = io.StringIO()
         root = self.useFixture(fixtures.TempDir()).path
         proj = {'root': root}
-        actions = [project.StdOut(u'fred\n')]
+        actions = [project.StdOut('fred\n')]
         project.write(proj, actions, stdout, True)
         self.expectThat(stdout.getvalue(), matchers.Equals('fred\n'))
 
@@ -277,7 +277,7 @@ class TestWriteProject(testtools.TestCase):
         stdout = io.StringIO()
         root = self.useFixture(fixtures.TempDir()).path
         proj = {'root': root}
-        actions = [project.Error(u'fred')]
+        actions = [project.Error('fred')]
         with testtools.ExpectedException(Exception):
             project.write(proj, actions, stdout, True)
         self.expectThat(stdout.getvalue(), matchers.Equals('fred\n'))

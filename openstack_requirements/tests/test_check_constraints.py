@@ -87,7 +87,7 @@ class CheckExistsTest(testtools.TestCase):
 
         # Add some random package that wont exist in G-R
         with open(common.project_fixture.req_file, 'a') as req_file:
-            req_file.write(u'SomeRandomModule #Some random module\n')
+            req_file.write('SomeRandomModule #Some random module\n')
             req_file.flush()
 
         expected_out = ('somerandommodule from requirements.txt not found in'
