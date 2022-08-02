@@ -16,6 +16,23 @@
       "message": "recheck\n\ndependant patch was wrong, fixed now?",
       "revId": "4c0259330081dfb6b8611cba825594448c9ef02e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1eacf05c_442bc2d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-02T09:31:48Z",
+      "side": 1,
+      "message": "recheck\n\nStrange network/keystone errors in the ceilometer job logs unrelated to os-traits",
+      "revId": "4c0259330081dfb6b8611cba825594448c9ef02e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
