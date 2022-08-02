@@ -33,6 +33,23 @@
       "message": "recheck\n\nStrange network/keystone errors in the ceilometer job logs unrelated to os-traits",
       "revId": "4c0259330081dfb6b8611cba825594448c9ef02e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0ac9f999_ea6f03f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-08-02T17:00:33Z",
+      "side": 1,
+      "message": "recheck manila.tests.db.migrations.alembic.test_migration.TestManilaMigrationsMySQL.test_walk_versions failed with an unrelated db error.\n\nI have approved the dependent placement change so this should not be able to progress",
+      "revId": "4c0259330081dfb6b8611cba825594448c9ef02e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
