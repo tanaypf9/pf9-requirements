@@ -16,18 +16,18 @@
 
 import collections
 import re
+from openstack_requirements.cmds.utils import read_requirements_file
 
 from packaging import markers
 from packaging import specifiers
 
 from openstack_requirements import project
 from openstack_requirements import requirement
+from openstack_requirements import utils
+
 
 MIN_PY_VERSION = '3.5'
 PY3_SPECIFIER_RE = re.compile(r'python_version(==|>=|>)[\'"]3\.\d+[\'"]')
-BACKPORTS = {
-    'importlib-metadata',
-}
 
 
 class RequirementsList(object):
@@ -92,6 +92,7 @@ def _get_exclusions(req):
 
 def _is_requirement_in_global_reqs(local_req, global_reqs, allow_3_only=False):
     req_exclusions = _get_exclusions(local_req)
+    backports = read_requirements_file('backports.txt')
     for global_req in global_reqs:
 
         matching = True
