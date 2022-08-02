@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "45eeb2ec_28a6e5a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-02T22:40:02Z",
+      "side": 1,
+      "message": "recheck\n\nUnrelated manila MySQL failure",
+      "revId": "92bce581544b27cb2ffb5e492f9a5aff7f8b854b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
