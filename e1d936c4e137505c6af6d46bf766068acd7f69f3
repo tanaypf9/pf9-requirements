@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1223c7db_a9ff080a",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-08-02T10:51:52Z",
+      "side": 1,
+      "message": "These are persistent\n\n  \u003e\u003e\u003e def foo(x, y\u003ddict()):\n  ...     y[x] \u003d \u0027bar\u0027\n  ...     print(y)\n  ... \n  \u003e\u003e\u003e foo(\u0027a\u0027)\n  {\u0027a\u0027: \u0027bar\u0027}\n  \u003e\u003e\u003e foo(\u0027b\u0027)\n  {\u0027a\u0027: \u0027bar\u0027, \u0027b\u0027: \u0027bar\u0027}\n\nRather than do this, could we just make \u0027backports\u0027 a required argument? Nothing depends on this API, right?\n\n  def _is_requirement_in_global_reqs(\n      local_req,\n      global_reqs,\n      backports,\n      allow_3_only\u003dFalse,\n  ):\n\nhttps://towardsdatascience.com/python-pitfall-mutable-default-arguments-9385e8265422?gi\u003d584080f4eacc",
+      "range": {
+        "startLine": 91,
+        "startChar": 45,
+        "endLine": 91,
+        "endChar": 51
+      },
+      "revId": "e1d936c4e137505c6af6d46bf766068acd7f69f3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9f191166_d48e1c65",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 197,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-08-02T10:51:52Z",
+      "side": 1,
+      "message": "ditto",
+      "revId": "e1d936c4e137505c6af6d46bf766068acd7f69f3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "86201349_f7560ea1",
+        "filename": "openstack_requirements/check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 248,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-08-02T10:51:52Z",
+      "side": 1,
+      "message": "ditto",
+      "revId": "e1d936c4e137505c6af6d46bf766068acd7f69f3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
