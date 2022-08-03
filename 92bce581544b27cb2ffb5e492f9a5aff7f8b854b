@@ -16,6 +16,23 @@
       "message": "recheck\n\nUnrelated manila MySQL failure",
       "revId": "92bce581544b27cb2ffb5e492f9a5aff7f8b854b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "351d854e_7c35a6cf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-03T20:03:49Z",
+      "side": 1,
+      "message": "nova fix merged",
+      "revId": "92bce581544b27cb2ffb5e492f9a5aff7f8b854b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
