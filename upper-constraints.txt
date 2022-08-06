@@ -32,7 +32,7 @@ lxml===4.9.1
 vintage===0.4.1
 ntc-templates===3.0.0
 rst2txt===1.1.0
-setproctitle===1.3.0
+setproctitle===1.3.1
 pytest===7.1.2
 python-slugify===6.1.2
 cursive===0.2.2
@@ -55,7 +55,7 @@ oslo.context===5.0.0
 python-senlinclient===2.4.0
 rcssmin===1.1.0
 pycadf===3.1.1
-grpcio===1.48.0
+grpcio===1.47.0
 pysendfile===2.0.1
 sniffio===1.2.0
 fixtures===4.0.1
@@ -103,7 +103,7 @@ immutables===0.18
 python-swiftclient===4.0.1
 pyOpenSSL===22.0.0
 monasca-common===3.6.0
-zeroconf===0.38.7
+zeroconf===0.39.0
 scipy===1.9.0
 python-gnupg===0.4.9
 mypy-extensions===0.4.3
@@ -122,7 +122,7 @@ python-watcherclient===3.4.0
 MarkupSafe===2.1.1
 pypowervm===1.1.27
 ruamel.yaml.clib===0.2.6
-doc8===0.11.2
+doc8===1.0.0
 pymongo===4.2.0
 python-cloudkittyclient===4.5.0
 soupsieve===2.3.2.post1
@@ -149,7 +149,7 @@ virtualbmc===2.2.2
 deprecation===2.1.0
 SQLAlchemy===1.4.39
 pyroute2===0.7.2
-google-auth===2.9.1
+google-auth===2.10.0
 kazoo===2.8.0
 pyspnego===0.5.3
 XStatic-roboto-fontface===0.5.0.0
@@ -182,10 +182,10 @@ PyYAML===6.0
 beautifulsoup4===4.11.1
 os-net-config===15.2.0
 ovs===2.17.1.post1
-cryptography===36.0.2
+cryptography===37.0.4
 httpcore===0.15.0
 URLObject===2.4.3
-nocasedict===1.0.3
+nocasedict===1.0.4
 task-core===0.2.1
 psycopg2-binary===2.9.3
 openstack-release-test===3.3.1
@@ -199,11 +199,12 @@ prometheus-client===0.14.1
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.1.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
-django-compressor===4.0
-libvirt-python===8.5.0
+django-compressor===4.1
+libvirt-python===8.6.0
 python-zunclient===4.5.0
 tzlocal===4.2
 sphinxcontrib-jsmath===1.0.1
@@ -223,7 +224,7 @@ requests===2.28.1
 snowballstemmer===2.2.0
 Jinja2===3.1.2
 XStatic-Bootstrap-SCSS===3.4.1.0
-pyzabbix===1.1.0
+pyzabbix===1.2.0
 ptyprocess===0.7.0
 threadloop===1.0.2
 amqp===5.1.1
@@ -264,7 +265,7 @@ ssh-python===0.10.0
 enmerkar===0.7.1
 webcolors===1.12
 aodhclient===2.4.1
-autobahn===22.6.1
+autobahn===22.7.1
 SQLAlchemy-Utils===0.38.3
 retryz===0.1.9
 pluggy===1.0.0
@@ -290,7 +291,7 @@ oslo.middleware===5.0.0
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===4.1.1
-docutils===0.17.1
+docutils===0.19
 threadpoolctl===3.1.0
 os-ken===2.4.0
 ujson===5.4.0
@@ -307,7 +308,7 @@ retrying===1.3.3
 XStatic-Dagre===0.6.4.1
 platformdirs===2.5.2
 pydotplus===2.0.2
-boto3===1.24.42
+boto3===1.24.46
 jeepney===0.8.0
 stestr===3.2.1
 oslo.serialization===5.0.0
@@ -364,7 +365,7 @@ SecretStorage===3.3.2
 opentracing===2.4.0
 XStatic-Rickshaw===1.5.1.0
 iso8601===1.0.2
-tooz===2.11.1
+tooz===3.0.0
 linecache2===1.0.0
 oauth2client===4.1.3
 idna===3.3
@@ -395,7 +396,7 @@ python-consul===1.1.0
 seqdiag===3.0.0
 numpy===1.23.1
 msgpack===1.0.4
-Sphinx===4.5.0
+Sphinx===5.1.1
 oslo.config===9.0.0
 openstackdocstheme===3.0.0
 osc-placement===4.0.0
@@ -426,12 +427,12 @@ backports.zoneinfo===0.2.1;python_version=='3.8'
 oslo.upgradecheck===2.0.0
 stevedore===4.0.0
 pywinrm===0.4.3
-botocore===1.27.42
+botocore===1.27.46
 xmltodict===0.13.0
 pyasn1===0.4.8
 directord===0.12.0
 oslo.rootwrap===6.3.1
-Django===3.2.14
+Django===3.2.15
 pexpect===4.8.0
 contextvars===2.4
 cmd2===2.4.2
@@ -470,11 +471,11 @@ XStatic===1.0.2
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===5.8.0
 pyzmq===21.0.2
-nocaselist===1.0.5
+nocaselist===1.0.6
 oslo.db===12.0.0
 simplegeneric===0.8.1
 python-pcre===0.7
-yappi===1.3.5
+yappi===1.3.6
 mbstrdecoder===1.1.0
 abclient===0.2.3
 pymemcache===3.5.2
@@ -522,7 +523,7 @@ XenAPI===2.14
 importlib-resources===5.9.0;python_version=='3.8'
 python-keystoneclient===5.0.0
 ceilometer===18.0.0
-diskimage-builder===3.22.0
+diskimage-builder===3.23.0
 heat-translator===2.5.0
 python-magnumclient===3.7.0
 docker===5.0.3
@@ -538,7 +539,7 @@ DateTimeRange===1.2.0
 cffi===1.15.1
 python-cyborgclient===2.0.0
 futurist===2.4.1
-jsonschema===4.7.2
+jsonschema===4.9.1
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.4.0
 alembic===1.8.1
@@ -555,11 +556,11 @@ zipp===3.8.1
 greenlet===1.1.2
 XStatic-Angular-Vis===4.16.0.0
 iniconfig===1.1.1
-confluent-kafka===1.9.0
+confluent-kafka===1.9.2
 xvfbwrapper===0.2.9
 tosca-parser===2.6.0
 charset-normalizer===2.1.0
-Flask===2.1.3
+Flask===2.2.1
 httpx===0.23.0
 sqlalchemy-filters===0.12.0
 marathon===0.13.0
@@ -579,7 +580,7 @@ itsdangerous===2.1.2
 XStatic-jquery-ui===1.13.0.1
 monasca-statsd===2.4.0
 python-dateutil===2.8.2
-virtualenv===20.16.2
+virtualenv===20.16.3
 colorama===0.4.5
 confetti===2.5.3
 ironic-lib===5.2.0
@@ -589,4 +590,4 @@ XStatic-D3===3.5.17.0
 actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
-scikit-learn===1.1.1
+scikit-learn===1.1.2
