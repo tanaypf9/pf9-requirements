@@ -74,7 +74,7 @@ pysnmp===4.4.12
 Mako===1.2.1
 pyScss===1.4.0
 sphinxcontrib-htmlhelp===2.0.0
-XStatic-jQuery===1.12.4.1
+XStatic-jQuery===3.5.1.1
 ddt===1.5.0
 XStatic-Graphlib===2.1.7.0
 pyserial===3.5
