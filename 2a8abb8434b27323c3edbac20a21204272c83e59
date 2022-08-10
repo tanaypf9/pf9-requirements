@@ -34,6 +34,23 @@
       "parentUuid": "5361b144_c085f3cc",
       "revId": "2a8abb8434b27323c3edbac20a21204272c83e59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be22c284_a9296a5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-08-10T16:41:59Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e is there a reason cliff cannot do the job?  We\u0027d MUCH prefer not adding libs that duplicate pre-existing libs.\n\n1) This is a missing dependency in Neutron. These scripts have been in the repository for a long time. This patch just consolidates what is needed [1]\n2) click is a better option than cliff, according to [2]\n\nIn any case, if this patch is not accepted, I\u0027ll change the Neutron scripts to use cliff.\n\n[1]https://review.opendev.org/c/openstack/neutron/+/852586\n[2]https://python.libhunt.com/compare-cliff-vs-click\n",
+      "revId": "2a8abb8434b27323c3edbac20a21204272c83e59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
