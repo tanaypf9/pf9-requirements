@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68433bd0_d2794264",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-14T07:51:30Z",
+      "side": 1,
+      "message": "ironic failing with latest jsonschema is a known issue, see https://etherpad.opendev.org/p/requirements-blockers\n\nsadly no progress on it yet despite multiple mentions in ironic channel",
+      "revId": "8da71feebcb4dc9e8df3be6bb44f69774cbd02ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
