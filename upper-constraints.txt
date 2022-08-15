@@ -122,7 +122,7 @@ python-watcherclient===3.4.0
 MarkupSafe===2.1.1
 pypowervm===1.1.27
 ruamel.yaml.clib===0.2.6
-doc8===0.11.2
+doc8===1.0.0
 pymongo===4.2.0
 python-cloudkittyclient===4.5.0
 soupsieve===2.3.2.post1
@@ -157,7 +157,7 @@ pyudev===0.23.2
 eventlet===0.33.1
 openstack-doc-tools===3.3.1
 oslo.messaging===13.0.0
-jira===3.3.2
+jira===3.4.0
 extras===1.0.0
 PyJWT===2.4.0
 typing_extensions===4.3.0
@@ -182,7 +182,7 @@ PyYAML===6.0
 beautifulsoup4===4.11.1
 os-net-config===15.2.0
 ovs===2.17.1.post1
-cryptography===36.0.2
+cryptography===37.0.4
 httpcore===0.15.0
 URLObject===2.4.3
 nocasedict===1.0.4
@@ -199,6 +199,7 @@ prometheus-client===0.14.1
 oslosphinx===4.18.0
 gunicorn===20.1.0
 storpool===7.1.0
+pkg_resources===0.0.0
 textfsm===1.1.2
 python-3parclient===4.2.12
 unittest2===1.1.0
@@ -290,7 +291,7 @@ oslo.middleware===5.0.0
 XStatic-mdi===1.6.50.2
 django-pyscss===2.0.2
 uritemplate===4.1.1
-docutils===0.17.1
+docutils===0.19
 threadpoolctl===3.1.0
 os-ken===2.4.0
 ujson===5.4.0
@@ -395,7 +396,7 @@ python-consul===1.1.0
 seqdiag===3.0.0
 numpy===1.23.2
 msgpack===1.0.4
-Sphinx===4.5.0
+Sphinx===5.1.1
 oslo.config===9.0.0
 openstackdocstheme===3.0.0
 osc-placement===4.0.0
@@ -538,7 +539,7 @@ DateTimeRange===1.2.0
 cffi===1.15.1
 python-cyborgclient===2.0.0
 futurist===2.4.1
-jsonschema===4.7.2
+jsonschema===4.9.1
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.4.0
 alembic===1.8.1
