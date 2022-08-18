@@ -16,6 +16,23 @@
       "message": "recheck failures don\u0027t look related",
       "revId": "4dbd15d3b80027fdeb1c36286633570d82376de4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d99e592a_ef058e19",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27900
+      },
+      "writtenOn": "2022-08-18T17:40:17Z",
+      "side": 1,
+      "message": "hmm, I am bit speechless. locally it works for me with py38 and py39. also on ubuntu-focal VM it works?",
+      "revId": "4dbd15d3b80027fdeb1c36286633570d82376de4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
