@@ -33,6 +33,23 @@
       "message": "hmm, I am bit speechless. locally it works for me with py38 and py39. also on ubuntu-focal VM it works?",
       "revId": "4dbd15d3b80027fdeb1c36286633570d82376de4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ccc09f83_534cffc3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-18T19:56:38Z",
+      "side": 1,
+      "message": "the remaining failure is definitely unrelated, cf. https://github.com/pythongssapi/python-gssapi/issues/299",
+      "revId": "4dbd15d3b80027fdeb1c36286633570d82376de4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
