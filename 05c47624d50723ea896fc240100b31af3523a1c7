@@ -33,6 +33,23 @@
       "message": "recheck see if installation error is resolved",
       "revId": "05c47624d50723ea896fc240100b31af3523a1c7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a08ec387_ee969500",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-19T16:16:38Z",
+      "side": 1,
+      "message": "Looks good to me",
+      "revId": "05c47624d50723ea896fc240100b31af3523a1c7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
