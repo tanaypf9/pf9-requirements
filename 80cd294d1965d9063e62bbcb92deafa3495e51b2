@@ -33,6 +33,23 @@
       "message": "recheck py39 fixed",
       "revId": "80cd294d1965d9063e62bbcb92deafa3495e51b2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "682ca7a8_8be2a986",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-19T16:16:15Z",
+      "side": 1,
+      "message": "Looks good to me",
+      "revId": "80cd294d1965d9063e62bbcb92deafa3495e51b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
