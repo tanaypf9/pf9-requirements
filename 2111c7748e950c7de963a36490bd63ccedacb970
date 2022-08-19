@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "04d23b42_a605dfd8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-19T16:20:05Z",
+      "side": 1,
+      "message": "recheck\n\nCaught by the removal of gssapi 1.8.0 from pypi",
+      "revId": "2111c7748e950c7de963a36490bd63ccedacb970",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
