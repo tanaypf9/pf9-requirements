@@ -262,7 +262,8 @@ funcparserlib===0.3.6;python_version=='3.6'
 funcparserlib===1.0.0a0;python_version=='3.8'
 passlib===1.7.4
 dib-utils===0.0.11
-cliff===3.10.1
+cliff===3.10.1;python_version=='3.6'
+cliff===4.0.0;python_version=='3.8'
 os-brick===5.2.2
 ansible-runner===2.1.2
 pytz-deprecation-shim===0.1.0.post0
@@ -581,7 +582,8 @@ DateTimeRange===1.2.0
 cffi===1.15.0
 python-cyborgclient===1.7.0
 futurist===2.4.0
-jsonschema===3.2.0
+jsonschema===3.2.0  #;python_version=='3.6'
+#jsonschema===4.7.2;python_version>'3.6'
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.4.1
 alembic===1.7.6
