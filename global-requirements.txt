@@ -23,7 +23,8 @@ castellan  # Apache-2.0
 ceilometermiddleware  # Apache-2.0
 cachetools  # MIT License
 cffi  # MIT
-cliff!=2.9.0,!=2.17.0  # Apache-2.0
+cliff!=2.9.0,!=2.17.0;python_version>='3.6'  # Apache-2.0
+cliff<=3.10.1;python_version=='3.6'  # Apache-2.0
 cmd2!=0.8.3  # MIT
 confluent-kafka!=1.4.0  # Apache-2.0
 confspirator  # Apache-2.0
@@ -93,6 +94,7 @@ jsonpatch!=1.20  # BSD
 jsonpath-rw  # Apache-2.0
 jsonpath-rw-ext  # Apache-2.0
 jsonschema  # MIT
+jsonschema<=3.2.0;python_version=='3.6'  # MIT
 kazoo  # Apache-2.0
 keystoneauth1  # Apache-2.0
 keystonemiddleware  # Apache-2.0
