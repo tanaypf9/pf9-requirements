@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "795e0688_b902c396",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 5
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-08-23T16:50:50Z",
+      "side": 1,
+      "message": "its also causing failures on several other project branches\n\nhttps://opensearch.logs.openstack.org/_dashboards/app/discover/?security_tenant\u003dglobal#/?_g\u003d(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-30d,to:now))\u0026_a\u003d(columns:!(project,build_branch,build_name,message),filters:!(),index:\u002794869730-aea8-11ec-9e6a-83741af3fdcd\u0027,interval:auto,query:(language:kuery,query:\u0027%22The%20user%20requested%20(constraint)%20cliff%22\u0027),sort:!())\n\n134 hits in the last 30 days\n\nabout 40% of the failures are on voting jobs.",
+      "range": {
+        "startLine": 13,
+        "startChar": 0,
+        "endLine": 14,
+        "endChar": 12
+      },
+      "revId": "94f10e2fd9859c7adfba0d795e9abf50fd505068",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
