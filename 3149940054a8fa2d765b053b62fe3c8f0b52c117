@@ -16,6 +16,74 @@
       "message": "cool zuul is happy.\n\nwe will need the same on xena.\n\nas i noted in the opensech query there are 146 failure across multipel project on master, yoga and xena  and i think victoria althoguh that has rotated out of that search window.\n\nso +1 to backporting this.\n\nit does not break nova as we dont have any voting jobs that hit this but it will affect other projects that do.\n",
       "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "016b0f1f_60e3a1a7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-25T14:14:48Z",
+      "side": 1,
+      "message": "-1 for the \u003e\u003d3.6",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d4a17a82_51b6567c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-25T14:14:48Z",
+      "side": 1,
+      "message": "This should be either \"\u003e\u003d\u00273.8\u0027\" or at least \"\u003e3.6\".",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b167e285_409dcf6a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-25T14:14:48Z",
+      "side": 1,
+      "message": "Maybe add a comment about why this is needed? Also maybe better cap \"\u003c4.0.0\"? Not sure whether another stable release for cliff might happen, but it that would be the case, I don\u0027t think we would want to block it.",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa55755b_7ab12ca6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-25T14:14:48Z",
+      "side": 1,
+      "message": "Looking at the commit message, this would only be needed for python\u003d\u003d3.6. Otoh we seem to have this capped already by some transitive requirement, so one could argue whether this cap is needed at all. But I don\u0027t object to making it explicit like this, just amend the commit message if you do.",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
