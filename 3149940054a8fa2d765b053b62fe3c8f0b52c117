@@ -35,6 +35,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0f5a34fd_e9b8960b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-25T19:48:14Z",
+      "side": 1,
+      "message": "TL;DR Rats this is going to be messy.\n\nThere are a number of issues with this patch many of which have been pointed out.  \n\nI\u0027m -1 on this as the patch wont actually fix the issue that ceilometer is seeing, that we introduced unwittingly by removing python3.6 spport on master.\n\nYou can trivially reproduce this issue with tempest@master:\n\n [tony@thor ~]$ cd src/opendev.org/openstack/tempest\n [tony@thor tempest]$ tox -repy36 --notest\n \nI can\u0027t actually think of a good way to fix this issue and the only un-good option I can think of is to use some form, probably unpackaged, of python-3.8 on Centos-8s explitly and only for running tempest.\n\nOr maybe we can add back the py3.6 markers to the master upper-constraints file.  Testing that can\u0027t really be done in the gate though so we end up with a nasty \"merge this and hope\" situation\n\n#sorry",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d4a17a82_51b6567c",
