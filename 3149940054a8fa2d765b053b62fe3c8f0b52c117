@@ -54,6 +54,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e90dd027_15222d1a",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-25T14:59:42Z",
+      "side": 1,
+      "message": "I believe that these requirements also hold in 3.6, so it should be \u003e\u003d3.6, unless I duplicate the \u0027!\u003d2.9.0,!\u003d2.17.0\u0027 on line 27",
+      "parentUuid": "d4a17a82_51b6567c",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "b167e285_409dcf6a",
         "filename": "global-requirements.txt",
         "patchSetId": 7
@@ -82,6 +100,24 @@
       "writtenOn": "2022-08-25T14:14:48Z",
       "side": 1,
       "message": "Looking at the commit message, this would only be needed for python\u003d\u003d3.6. Otoh we seem to have this capped already by some transitive requirement, so one could argue whether this cap is needed at all. But I don\u0027t object to making it explicit like this, just amend the commit message if you do.",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8a717c1d_20500600",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-25T14:59:42Z",
+      "side": 1,
+      "message": "Warlock still requires jsonschema\u003c4 on 38",
+      "parentUuid": "fa55755b_7ab12ca6",
       "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
