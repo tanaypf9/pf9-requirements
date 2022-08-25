@@ -120,6 +120,24 @@
       "parentUuid": "fa55755b_7ab12ca6",
       "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c0569aa6_8c374c5e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-25T15:01:17Z",
+      "side": 1,
+      "message": "Please see the builds from PS6: https://zuul.opendev.org/t/openstack/buildset/da0434bca14d4c21934ca13e68cd8598",
+      "parentUuid": "8a717c1d_20500600",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
