@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f72a9603_0531fd3e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-08-25T12:50:20Z",
+      "side": 1,
+      "message": "cool zuul is happy.\n\nwe will need the same on xena.\n\nas i noted in the opensech query there are 146 failure across multipel project on master, yoga and xena  and i think victoria althoguh that has rotated out of that search window.\n\nso +1 to backporting this.\n\nit does not break nova as we dont have any voting jobs that hit this but it will affect other projects that do.\n",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
