@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "67cf69c5_52cd2ef4",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 644,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-25T19:11:38Z",
+      "side": 1,
+      "message": "You should add an update to the global-requirements.txt file. AFAIK, the upper-constraints file is generated using that.",
+      "range": {
+        "startLine": 644,
+        "startChar": 0,
+        "endLine": 644,
+        "endChar": 14
+      },
+      "revId": "24da5881c46b608ea1853fbb091b042de2a176df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
