@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "13449d00_d707f8f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-26T02:56:05Z",
+      "side": 1,
+      "message": "I actually think I\u0027m okay with this but I\u0027m not sure it\u0027s the correct fix for the Story/Issue that sparked this research.",
+      "revId": "24da5881c46b608ea1853fbb091b042de2a176df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "67cf69c5_52cd2ef4",
@@ -14,6 +31,30 @@
       "writtenOn": "2022-08-25T19:11:38Z",
       "side": 1,
       "message": "You should add an update to the global-requirements.txt file. AFAIK, the upper-constraints file is generated using that.",
+      "range": {
+        "startLine": 644,
+        "startChar": 0,
+        "endLine": 644,
+        "endChar": 14
+      },
+      "revId": "24da5881c46b608ea1853fbb091b042de2a176df",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dbf4d5fc_d4644829",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 644,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-26T02:56:05Z",
+      "side": 1,
+      "message": "That is reasonable comment.  However this file is only generated on the master branch.  For stable branches it\u0027s fine to manually edit the file like this.",
+      "parentUuid": "67cf69c5_52cd2ef4",
       "range": {
         "startLine": 644,
         "startChar": 0,
