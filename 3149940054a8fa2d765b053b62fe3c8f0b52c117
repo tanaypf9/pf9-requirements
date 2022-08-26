@@ -123,6 +123,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "29ed3790_3d94382f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-26T19:00:53Z",
+      "side": 1,
+      "message": "No ammount of patching stable/yoga will alter the behavior of tempest from master.\n\nI agree we have found a real problem but this isn\u0027t the correct fix.  and due to the way the stable branches and tempest operate we can\u0027t really test this speculativly.\n\nI think we\u0027re going to need several patches\n\n1) Update the *master* branch of requirements so that we include constraints with markers with python_version 3.6 [1]\n\n2) chnages to the generic devstack jobs such that we pin to a version of tempest that supports py3.6 on OSs that only have python3.6 available.  This feels hugely risky to me as it implies that yoga on these OSs (Centos 8) will never need to be patched.\n\n[1] This is actually a really \"big\" change to do properly as upper-constraints is a generated file but I think we\u0027re happy to accept that tech debt to unblock everyone",
+      "parentUuid": "32e6c2a6_4cacee80",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d4a17a82_51b6567c",
