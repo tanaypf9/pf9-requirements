@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66ffb861_65530a4c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-26T18:24:53Z",
+      "side": 1,
+      "message": "recheck\n\ncross-swift-py38 timed out",
+      "revId": "c2bbb86f2b133dfa83a50e42426d1c87b5839874",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
