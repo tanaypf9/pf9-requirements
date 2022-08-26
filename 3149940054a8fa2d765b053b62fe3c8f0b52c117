@@ -52,6 +52,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ac4e9d9_d69a46e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-26T12:58:14Z",
+      "side": 1,
+      "message": "Add the py36 markers into upper-constraints? You mean like in [1]: \n\n```\nsomepackage\u003d\u003d\u003d4.0.0;python_version\u003d\u003d\u00273.8\u0027\nsomepackage\u003d\u003d\u003d3.9.0;python_version\u003d\u003d\u00273.6\u0027\n```\nSince the effected jobs are already broken, could we try merging, seeing if it works and reverting if it doesn\u0027t? it\u0027s unlikely that we\u0027ll break anything else.\n\n[1] https://review.opendev.org/c/openstack/requirements/+/852935",
+      "parentUuid": "0f5a34fd_e9b8960b",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d4a17a82_51b6567c",
