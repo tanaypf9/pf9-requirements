@@ -70,6 +70,59 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea4ccd8b_c1fa21e9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-08-26T14:30:43Z",
+      "side": 1,
+      "message": "looks good to me, can add some comment inline as Jen suggested those.",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "322c27f1_66dff20c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-08-26T14:30:43Z",
+      "side": 1,
+      "message": "I agree with Emma Foley solution here. Tempest master does not support py3.6 or any other old version of python and to make it work on py3.6 env (where no other higher python version is available to be used in tempest virutal env), we need to adjust few constraints in requirement.",
+      "parentUuid": "3ac4e9d9_d69a46e3",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32e6c2a6_4cacee80",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-08-26T14:30:43Z",
+      "side": 1,
+      "message": "I agree with Emma Foley solution here. Tempest master does not support py3.6 or any other old version of python and to make it work on py3.6 env (where no other higher python version is available to be used in tempest virutal env), we need to adjust few constraints in requirement.\n\nCannot we do these directly in stable branch constraints instead of master  requirements constraints which does not need to support py3.6?",
+      "parentUuid": "3ac4e9d9_d69a46e3",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d4a17a82_51b6567c",
