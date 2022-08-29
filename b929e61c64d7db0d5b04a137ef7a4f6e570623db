@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d7b479b_e5c49d08",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-29T23:13:08Z",
+      "side": 1,
+      "message": "Thanks Emma for workign on this.  I don\u0027t think this is needed at all as even on older Operating Systems with python 3.6 (CentOS 8/8s) we shoudn\u0027t be installing a \"master\" version of tempest even inside a venv.\n\nGiven the tension between pinning tempest and introducing a potential gate blocker for any project that gates with CentOS and the complexity of handling multiple python interpeters the former is the least invasive approach.\n\n+1 for the dedication to see a job to the end, -1 because this chnage isn\u0027t needed",
+      "revId": "b929e61c64d7db0d5b04a137ef7a4f6e570623db",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "990bbdf2_8221c448",
