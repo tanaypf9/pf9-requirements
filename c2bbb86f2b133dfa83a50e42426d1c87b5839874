@@ -16,6 +16,23 @@
       "message": "recheck\n\ncross-swift-py38 timed out",
       "revId": "c2bbb86f2b133dfa83a50e42426d1c87b5839874",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "354a4ba4_83ae86f7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-29T10:17:34Z",
+      "side": 1,
+      "message": "I\u0027ve restored and updated the review on master: https://review.opendev.org/c/openstack/requirements/+/854038\n",
+      "revId": "c2bbb86f2b133dfa83a50e42426d1c87b5839874",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
