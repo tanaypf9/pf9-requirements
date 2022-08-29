@@ -141,6 +141,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f16f599_7787044f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13177
+      },
+      "writtenOn": "2022-08-29T09:31:26Z",
+      "side": 1,
+      "message": "I\u0027m unclear as to who is doing each of these. I can propose the patch to requirements:master, but I don\u0027t have the knowledge for devstack.",
+      "parentUuid": "29ed3790_3d94382f",
+      "revId": "3149940054a8fa2d765b053b62fe3c8f0b52c117",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d4a17a82_51b6567c",
