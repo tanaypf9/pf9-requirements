@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9722c26d_51881ab9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-08-29T18:39:41Z",
+      "side": 1,
+      "message": "Hi Thanks again for your change.\n\nI/We do have several questions, the most important is Why?  Why shoud we remove these annotations?  Does it case any incompatibility?\n\nThe second is please make the chnages uniform, with this patset there are still several unicode strings and to my mind it doesn\u0027t make sense to only do part of the codebase.\n\n [tony@thor requirements]$ git rev-parse HEAD\n a7c27fba03e10b3ebef6156d79eb2850c4e2efed\n [tony@thor requirements]$ (git grep -E \u0027u\"\u0027 ; git grep -E \"u\u0027\") | wc -l\n 23\n",
+      "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
