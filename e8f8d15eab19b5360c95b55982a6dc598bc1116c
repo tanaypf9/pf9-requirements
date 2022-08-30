@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5490f39c_7f9abba3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15519
+      },
+      "writtenOn": "2022-08-30T13:18:38Z",
+      "side": 1,
+      "message": "I just approved the change in Ironic to unblock this",
+      "revId": "e8f8d15eab19b5360c95b55982a6dc598bc1116c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
