@@ -69,6 +69,24 @@
       "message": "Agree with Tony, thanks.",
       "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "100624fc_0285cfc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35058
+      },
+      "writtenOn": "2022-08-30T05:58:02Z",
+      "side": 1,
+      "message": "Thank you. I have finished the revision. Thanks again for your careful advice.",
+      "parentUuid": "1cae0157_d1dc7928",
+      "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }

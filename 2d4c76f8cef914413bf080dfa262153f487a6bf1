@@ -16,6 +16,24 @@
       "message": "I\u0027m not opposed to this but I\u0027d like to know why?\n\nI\u0027ve been away from python/OpenStack for a while but what is the advantage to doing this?\n\nIf you\u0027re going to do it then why *only* this file/instances?\n\n requirements$ (git grep -E \u0027u\"\u0027 ; git grep -E \"u\u0027\") | wc -l\n 37\n",
       "revId": "2d4c76f8cef914413bf080dfa262153f487a6bf1",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "854a4ec4_a186c1f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35058
+      },
+      "writtenOn": "2022-08-30T05:58:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "096b96f4_40a7cb12",
+      "revId": "2d4c76f8cef914413bf080dfa262153f487a6bf1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
