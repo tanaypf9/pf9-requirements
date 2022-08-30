@@ -16,6 +16,41 @@
       "message": "I don\u0027t see why this should be done, either. While the u\u0027 prefix is redundant in python3, it is also not deprecated in any way afaict, so I don\u0027t see a reason to touch all this code, especially not the urgency.",
       "revId": "dc7a81b3bf1f0bf1f8a133be3b4190e344ac63f7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fed2057_db234058",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26458
+      },
+      "writtenOn": "2022-08-30T06:15:13Z",
+      "side": 1,
+      "message": "Agree, it\u0027s not urgency. 😊\n\nRemoval, friendly support for python3, and maintaining the consistency of the community code of each project; and keeping it will not affect anything.",
+      "parentUuid": "1d9712be_d0b1d9f6",
+      "revId": "dc7a81b3bf1f0bf1f8a133be3b4190e344ac63f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ceb717c6_381057ef",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26458
+      },
+      "writtenOn": "2022-08-30T06:15:13Z",
+      "side": 1,
+      "message": "Ke Niu is a new contributor who want to join OpenStack community, thank you for your guidance, I think he can learn more at this time.\n\nFrom Tony, you can know 1) Know what it is and what it is; and 2) Get things right once.\nFrom frickler, you can know, for uncertain things please asking project team or IRC firstly, then decide what to do or not to do.\n\nYou can spend more time digging into a favorite project, allowing yourself to be more deeply involved in the community.\n",
+      "revId": "dc7a81b3bf1f0bf1f8a133be3b4190e344ac63f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
