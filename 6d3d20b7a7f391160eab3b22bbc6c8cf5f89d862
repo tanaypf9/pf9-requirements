@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9e2ea0b1_51a9c1e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31068
+      },
+      "writtenOn": "2022-08-30T16:07:23Z",
+      "side": 1,
+      "message": "FYI, in RDO, ironic latest commits build fail because of [1] commit which is in oslo.db 12.1.0 release.\n\n[1] https://review.opendev.org/c/openstack/oslo.db/+/804775\n",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
