@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d9712be_d0b1d9f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-08-30T04:56:28Z",
+      "side": 1,
+      "message": "I don\u0027t see why this should be done, either. While the u\u0027 prefix is redundant in python3, it is also not deprecated in any way afaict, so I don\u0027t see a reason to touch all this code, especially not the urgency.",
+      "revId": "dc7a81b3bf1f0bf1f8a133be3b4190e344ac63f7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
