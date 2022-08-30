@@ -34,6 +34,41 @@
       "parentUuid": "9722c26d_51881ab9",
       "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cae0157_d1dc7928",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26458
+      },
+      "writtenOn": "2022-08-30T03:16:35Z",
+      "side": 1,
+      "message": "\u003e The second is please make the chnages uniform, with this patset there are still several unicode strings and to my mind it doesn\u0027t make sense to only do part of the codebase.\n\u003e \n\u003e  [tony@thor requirements]$ git rev-parse HEAD\n\u003e  a7c27fba03e10b3ebef6156d79eb2850c4e2efed\n\u003e  [tony@thor requirements]$ (git grep -E \u0027u\"\u0027 ; git grep -E \"u\u0027\") | wc -l\n\u003e  23\n\u003e \n\nYes, you should remove all unicode from this project ASAP, reduce the workload of repeated submission and review.",
+      "parentUuid": "85859996_ee6943a2",
+      "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5320448e_e1d58e62",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26458
+      },
+      "writtenOn": "2022-08-30T03:16:35Z",
+      "side": 1,
+      "message": "Agree with Tony, thanks.",
+      "revId": "a7c27fba03e10b3ebef6156d79eb2850c4e2efed",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
