@@ -37,6 +37,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "814defa1_b6953c93",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-09-02T12:14:49Z",
+      "side": 1,
+      "message": "on master this is unclampted\nhttps://github.com/openstack/requirements/blob/5b346cf74df6bbfc67f794c053d3c4210da4bacb/global-requirements.txt#L197\n-----\nok talking to gibi on irc this is semi intentional\n\nwhile we are waiting for the maintainer to decied if its a bug or not",
+      "parentUuid": "a95285b5_ef64efb8",
+      "revId": "7d6c7d37ae05efe078642d0b6d574b2260d4bfe5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "2adc1514_7fc10688",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
