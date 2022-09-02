@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7de4fba0_4f27721c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-09-02T11:26:02Z",
+      "side": 1,
+      "message": "This is an acceptable fix on stable/yoga + looks good. Thanks Gibi!",
+      "revId": "7d6c7d37ae05efe078642d0b6d574b2260d4bfe5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2adc1514_7fc10688",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-09-02T11:26:02Z",
+      "side": 1,
+      "message": "Yepp, 3.3.0 is the last but one release [1], should be fine.\n\n[1] https://pypi.org/project/prettytable/#history",
+      "range": {
+        "startLine": 155,
+        "startChar": 14,
+        "endLine": 155,
+        "endChar": 19
+      },
+      "revId": "7d6c7d37ae05efe078642d0b6d574b2260d4bfe5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
