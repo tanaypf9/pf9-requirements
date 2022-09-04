@@ -16,6 +16,23 @@
       "message": "FYI, in RDO, ironic latest commits build fail because of [1] commit which is in oslo.db 12.1.0 release.\n\n[1] https://review.opendev.org/c/openstack/oslo.db/+/804775\n",
       "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1805059_3427cf26",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2022-09-04T12:41:09Z",
+      "side": 1,
+      "message": "\u003e Patch Set 1:\n\u003e \n\u003e looks legit, I think we need 12.1.1 or so\n\nunfortunately it\u0027s unlikely that there\u0027s anything in oslo.db to fix.  This change is necessary for oslo.db and openstack applications in general to be able to run on SQLAlchemy 2.0.   So each individual application here such as Ironic etc. will need to be debugged and most likely repaired individually.   if a failure can be traced back to something oslo.db can do to improve the situation that can certainly happen, but a brief look seems to be generally related to the assumption that the ORM session includes an \"autocommit\" mode that runs SQL statements on ad-hoc connections.  That\u0027s being removed.    Similar assumptions in isolated spots were also observed in neutron, nova etc. and needed to be fixed.",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
