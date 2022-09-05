@@ -67,6 +67,24 @@
       "message": "This is rather easy to \"fix\" or at least ignore.\n\nAodh: https://review.opendev.org/c/openstack/aodh/+/855962\nDesignate: https://review.opendev.org/c/openstack/designate/+/855965\nManila: https://review.opendev.org/c/openstack/manila/+/855967\n\nI\u0027m working on the other failures (barbican, heat and ironic) now.\n\nThe real fix (i.e. not relying on autocommit semantics) is considerably more involved but can be done in the A cycle.",
       "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b60b472_ebc03e68",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-09-05T16:54:21Z",
+      "side": 1,
+      "message": "Here are the rest:\n\nIronic: https://review.opendev.org/c/openstack/ironic/+/855969\nHeat: https://review.opendev.org/c/openstack/heat/+/855970\nBarbican: https://review.opendev.org/c/openstack/barbican/+/855972",
+      "parentUuid": "9c649af9_4c249e48",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
