@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b8b0bca_31f4dbcb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-09-06T13:00:12Z",
+      "side": 1,
+      "message": "This patch should be merged to fix an issue between eventlet and fastner temporarly fixed into oslo.concurrency: https://lists.openstack.org/pipermail/openstack-discuss/2022-September/030325.html",
+      "revId": "1b66fbd0f98897c12f4b6e9361e44562894a1032",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
