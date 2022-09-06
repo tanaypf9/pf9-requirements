@@ -72,6 +72,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "2030b6f7_410c4d5b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2022-09-06T12:55:57Z",
+      "side": 1,
+      "message": "That could also work, however pinning prettytable on stable/yoga is maybe better, so that we avoid sudden broken py39 based jobs in the future.",
+      "parentUuid": "cabc7bb1_d8f95f06",
+      "revId": "7d6c7d37ae05efe078642d0b6d574b2260d4bfe5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "2adc1514_7fc10688",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
