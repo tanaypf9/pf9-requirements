@@ -138,6 +138,23 @@
       "message": "recheck",
       "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5db5e3a6_932b1f93",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-09-06T20:46:05Z",
+      "side": 1,
+      "message": "Couple of the patches have merged so we should see far fewer failures here now",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
