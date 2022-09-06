@@ -103,6 +103,24 @@
       "parentUuid": "6b60b472_ebc03e68",
       "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da6ff5f6_08ad35e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-09-06T07:14:19Z",
+      "side": 1,
+      "message": "Yeah, this is a temporary workaround to avoid reverting the oslo.db change. There\u0027s still work to be done here for these projects, for sure.",
+      "parentUuid": "96997d6a_df7497b8",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
