@@ -55,6 +55,23 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "cabc7bb1_d8f95f06",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-09-06T12:12:12Z",
+      "side": 1,
+      "message": "The breaking change has been reverted in 3.4.1, maybe just backport the block of 3.4.0 from master instead? https://review.opendev.org/c/openstack/requirements/+/855667",
+      "revId": "7d6c7d37ae05efe078642d0b6d574b2260d4bfe5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "2adc1514_7fc10688",
         "filename": "upper-constraints.txt",
         "patchSetId": 1
