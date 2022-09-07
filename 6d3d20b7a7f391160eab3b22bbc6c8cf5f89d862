@@ -155,6 +155,23 @@
       "message": "Couple of the patches have merged so we should see far fewer failures here now",
       "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "870bee03_d1387af1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-09-07T09:49:47Z",
+      "side": 1,
+      "message": "recheck ironic fix has landed, just placement left now hopefully",
+      "revId": "6d3d20b7a7f391160eab3b22bbc6c8cf5f89d862",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
