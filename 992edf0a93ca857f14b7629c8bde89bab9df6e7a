@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e40a5d0e_c68a0e9a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-09-13T08:32:51Z",
+      "side": 1,
+      "message": "RFE requested https://lists.openstack.org/pipermail/openstack-discuss/2022-September/030386.html",
+      "revId": "992edf0a93ca857f14b7629c8bde89bab9df6e7a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
