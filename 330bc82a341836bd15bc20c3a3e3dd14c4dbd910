@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c4be25f_c7c49667",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-09-21T05:14:23Z",
+      "side": 1,
+      "message": "In [1] baymodel support was removeed.  Story [2] states it\u0027s been deprecated for a long time.  The 4.0.0 release is clearly meant for zed, however heat still uses the baymodel and this is causing failures.\n\n\n[1] https://review.opendev.org/c/openstack/python-magnumclient/+/803629\n[2] https://storyboard.openstack.org/#!/story/2009104",
+      "revId": "330bc82a341836bd15bc20c3a3e3dd14c4dbd910",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
