@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6bb7c35_ffe59534",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-09-21T03:17:55Z",
+      "side": 1,
+      "message": "Looks good to me, needs to merge for ui-plugins to have the correct horizon",
+      "revId": "21d2de9e94c821ff87f797279729944326d07b78",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
