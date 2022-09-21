@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c86b3eff_849d9a71",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-09-21T05:01:05Z",
+      "side": 1,
+      "message": "No caode changes from 3.4.0, so it should be safe, but makes room for bugfixes",
+      "revId": "4aca3134b2679a8114b38807ac80afdc6875cd45",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
