@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e98991c_16cd5592",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 59,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-09-30T13:48:27Z",
+      "side": 1,
+      "message": "All of these should become -py39 now or maybe -py310 since py38 is no longer on the \"tested runtimes\" list [0]. Not sure if we want to do this in this patch or a follow-up.\n\n[0] https://governance.openstack.org/tc/reference/runtimes/2023.1.html",
+      "range": {
+        "startLine": 35,
+        "startChar": 10,
+        "endLine": 59,
+        "endChar": 28
+      },
+      "revId": "ed729a3fdc3e61696b29ed913c46340dee40be1e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
