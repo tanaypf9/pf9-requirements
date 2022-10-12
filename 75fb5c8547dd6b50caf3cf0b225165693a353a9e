@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35c5094a_ad5f4a3d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2022-10-12T16:56:30Z",
+      "side": 1,
+      "message": "The fix for the designate jsonschema failure is here: https://review.opendev.org/c/openstack/designate/+/861098",
+      "revId": "75fb5c8547dd6b50caf3cf0b225165693a353a9e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
