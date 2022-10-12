@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e485da9f_5f06915b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7973
+      },
+      "writtenOn": "2022-10-12T15:46:21Z",
+      "side": 1,
+      "message": "Failing barbican docs job for stable/victoria is here: https://zuul.opendev.org/t/openstack/build/9ea1053239024a2080d50563c81c98c0",
+      "revId": "36716b655d2da2477469f5812ccdc9d6145f127f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
