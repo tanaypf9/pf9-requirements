@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f4bcc04c_403366a6",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-10-12T19:17:52Z",
+      "side": 1,
+      "message": "do we want to remove this py38 check or update it to 310?",
+      "revId": "ba0b95bec368cdc182129a9ee9385d2f23b93189",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
