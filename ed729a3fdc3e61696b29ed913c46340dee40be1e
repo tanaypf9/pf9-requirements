@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f302eaab_409f7e6b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-10-13T23:51:11Z",
+      "side": 0,
+      "message": "openstack/murano-agent requirements.txt",
+      "revId": "ed729a3fdc3e61696b29ed913c46340dee40be1e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7858123b_78c0604f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-10-13T23:51:11Z",
+      "side": 0,
+      "message": "openstack/os-apply-config requirements.txt",
+      "revId": "ed729a3fdc3e61696b29ed913c46340dee40be1e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b2ba6a1_0417ed3e",
+        "filename": "global-requirements.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 333,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2022-10-13T23:51:11Z",
+      "side": 0,
+      "message": "can probably be removed\nopenstack/upstream-institute-virtual-environment elements/upstream-training/static/tmp/requirements.txt",
+      "revId": "ed729a3fdc3e61696b29ed913c46340dee40be1e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
