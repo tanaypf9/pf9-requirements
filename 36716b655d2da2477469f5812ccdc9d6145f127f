@@ -16,6 +16,23 @@
       "message": "Failing barbican docs job for stable/victoria is here: https://zuul.opendev.org/t/openstack/build/9ea1053239024a2080d50563c81c98c0",
       "revId": "36716b655d2da2477469f5812ccdc9d6145f127f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6db641b3_0516574d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7973
+      },
+      "writtenOn": "2022-10-13T13:46:00Z",
+      "side": 1,
+      "message": "Depending on this patch does fix the barbican stable/victoria docs gate for us: https://review.opendev.org/c/openstack/barbican/+/859721",
+      "revId": "36716b655d2da2477469f5812ccdc9d6145f127f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
