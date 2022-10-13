@@ -16,6 +16,24 @@
       "message": "do we want to remove this py38 check or update it to 310?",
       "revId": "ba0b95bec368cdc182129a9ee9385d2f23b93189",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9ff6e35c_a7c9797b",
+        "filename": ".zuul.d/project.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-13T06:02:38Z",
+      "side": 1,
+      "message": "This patch is focusing on the cross-* checks, I was planning to handle the remaining py38 things as follow-up.",
+      "parentUuid": "f4bcc04c_403366a6",
+      "revId": "ba0b95bec368cdc182129a9ee9385d2f23b93189",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
