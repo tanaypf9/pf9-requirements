@@ -16,6 +16,24 @@
       "message": "Can\u0027t swift use stable requirements for those historic setups? I don\u0027t think it is appropriate to block progress in all of OpenStack just for this.",
       "revId": "ee6f979b5545de3260a9837bac94d764e1f53515",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9de949ad_6658dcf7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34175
+      },
+      "writtenOn": "2022-10-17T12:29:27Z",
+      "side": 1,
+      "message": "Hi,\nI think you\u0027re right (although I still can\u0027t get the swift CI to do the right thing), so I\u0027ll abandon this change. Sorry for the noise.",
+      "parentUuid": "7e4a4686_893523a1",
+      "revId": "ee6f979b5545de3260a9837bac94d764e1f53515",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
