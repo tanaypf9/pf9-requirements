@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e32cf66f_bd7c843f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2022-10-17T19:09:09Z",
+      "side": 1,
+      "message": "I believe in-tree constraints were added for this case:\n\nhttps://opendev.org/openstack/swift/src/branch/master/py2-constraints.txt",
+      "revId": "5be9ca0280851285ea46ad823ef9129568bad53e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
