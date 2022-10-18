@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f8ee0eb6_34756d3b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 31245
+      },
+      "writtenOn": "2022-10-18T16:04:51Z",
+      "side": 1,
+      "message": "Ok sorry for that.",
+      "parentUuid": "7ce7b25a_d36a7494",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "710fad73_a8bbad7f",
         "filename": "/COMMIT_MSG",
         "patchSetId": 1
@@ -31,6 +49,24 @@
       "writtenOn": "2022-10-18T15:55:15Z",
       "side": 1,
       "message": "According to https://docs.sentry.io/clients/python/ raven is deprecated and should be replaced by sentry-sdk?",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2b49de72_98f32e85",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 31245
+      },
+      "writtenOn": "2022-10-18T16:04:51Z",
+      "side": 1,
+      "message": "I will check that.",
+      "parentUuid": "710fad73_a8bbad7f",
       "revId": "0160db44a1702b0c4e91811b7039caae34751158",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
