@@ -50,6 +50,24 @@
       "message": "Minimum versions should be specified per project, not globally",
       "revId": "0160db44a1702b0c4e91811b7039caae34751158",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "335d82db_c4e7fbf3",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 298,
+      "author": {
+        "id": 31245
+      },
+      "writtenOn": "2022-10-18T16:03:45Z",
+      "side": 1,
+      "message": "Ok sorry I will fix that now.",
+      "parentUuid": "e483582e_a8f9e363",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
