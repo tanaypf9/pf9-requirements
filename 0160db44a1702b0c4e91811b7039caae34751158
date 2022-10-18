@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7ce7b25a_d36a7494",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-18T15:55:15Z",
+      "side": 1,
+      "message": "Don\u0027t use a \".\" at the end of the subject. Also add the name of what you add. So:\n\nAdd new dependency: raven",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "710fad73_a8bbad7f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-18T15:55:15Z",
+      "side": 1,
+      "message": "According to https://docs.sentry.io/clients/python/ raven is deprecated and should be replaced by sentry-sdk?",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e483582e_a8f9e363",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 298,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-18T15:55:15Z",
+      "side": 1,
+      "message": "Minimum versions should be specified per project, not globally",
+      "revId": "0160db44a1702b0c4e91811b7039caae34751158",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
