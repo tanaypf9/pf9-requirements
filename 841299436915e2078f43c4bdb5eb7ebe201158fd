@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7377f67e_2206a46b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-10-19T15:38:52Z",
+      "side": 1,
+      "message": "Thanks!",
+      "revId": "841299436915e2078f43c4bdb5eb7ebe201158fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5dbf57ab_acb388fd",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-10-19T15:38:52Z",
+      "side": 1,
+      "message": "#sheesh, Were both \"wrong\"  looks like we hand in a list from[1], but that isn\u0027t a reason to hold this up at all.  If only we had a feature in pyhon that allowed us to do some kind of checking on types.\n\n[1] https://opendev.org/openstack/requirements/src/branch/master/playbooks/files/project-requirements-change.py#L144",
+      "range": {
+        "startLine": 29,
+        "startChar": 25,
+        "endLine": 29,
+        "endChar": 28
+      },
+      "revId": "841299436915e2078f43c4bdb5eb7ebe201158fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
