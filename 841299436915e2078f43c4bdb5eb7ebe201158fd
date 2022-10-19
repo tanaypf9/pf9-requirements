@@ -39,6 +39,30 @@
       },
       "revId": "841299436915e2078f43c4bdb5eb7ebe201158fd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57bb863c_8d955123",
+        "filename": "openstack_requirements/tests/test_check.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2022-10-19T16:31:54Z",
+      "side": 1,
+      "message": "If only. Dibs not adding type checks 😇",
+      "parentUuid": "5dbf57ab_acb388fd",
+      "range": {
+        "startLine": 29,
+        "startChar": 25,
+        "endLine": 29,
+        "endChar": 28
+      },
+      "revId": "841299436915e2078f43c4bdb5eb7ebe201158fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
