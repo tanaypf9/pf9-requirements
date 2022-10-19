@@ -39,6 +39,23 @@
       "message": "Hello,\n\nDo not hesitate to follow our guideline review to answer common questions about why we should add this new requirement.\n\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements",
       "revId": "22ceadb3aed308974f6f1ee0d2b03fb967264d09",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bed4912e_0c6ef022",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-10-19T17:40:52Z",
+      "side": 1,
+      "message": "Raven is deprecated, please update oslo.log to use sentry-sdk[1] instead.  There\u0027s a handy migration guide[2]\n\nAs an incentive I\u0027ll start answering the common questions:\n\nIs the library actively maintained?\n\nWe really want some indication that the library is something we can get support on if we or our users find a bug, and that we don’t have to take over and fork the library.\n\nPointers to recent activity upstream and a consistent release model are appreciated.\n\n----\nIs the library good code?                  Yes\nIs the library python 3 compatible?        Yes\nIs the library license compatible?         Yes BSD\nIs the library already packaged in the distros we target (Ubuntu latest / Fedora latest)?                                   No\nIs the function of this library already covered by other libraries in global-requirements.txt?                          No\nIs the library required for OpenStack project or related dev or infrastructure setup? (Answer to this should be Yes, of course) Which?     Yes [ oslo.log ]\n\nPlease provide details such as gerrit change request or launchpad bug/blueprint specifying the need for adding this library.\n                                           ??????\n\nIf the library release is managed by the Openstack release process does it use the cycle-with-intermediary release type?      N/A\n\nThis is needed to ensure that updated releases that consume requirements updates are available for integration/coninstallability tests with other projects.\n                                           Yes\n\nDo I need to update anything else?         Nossssssssssssssssssssssssssss\n----\n\n[1] https://pypi.org/project/sentry-sdk/\n[2] https://docs.sentry.io/platforms/python/migration/",
+      "revId": "22ceadb3aed308974f6f1ee0d2b03fb967264d09",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
