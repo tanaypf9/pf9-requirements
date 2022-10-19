@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c15944ff_4b03012c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-10-19T08:17:51Z",
+      "side": 1,
+      "message": "dependency",
+      "range": {
+        "startLine": 7,
+        "startChar": 8,
+        "endLine": 7,
+        "endChar": 18
+      },
+      "revId": "22ceadb3aed308974f6f1ee0d2b03fb967264d09",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebd00f5a_f51249f8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-10-19T08:17:51Z",
+      "side": 1,
+      "message": "Hello,\n\nDo not hesitate to follow our guideline review to answer common questions about why we should add this new requirement.\n\nhttps://docs.openstack.org/project-team-guide/dependency-management.html#for-new-requirements",
+      "revId": "22ceadb3aed308974f6f1ee0d2b03fb967264d09",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
