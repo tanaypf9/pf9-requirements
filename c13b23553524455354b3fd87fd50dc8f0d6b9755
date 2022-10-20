@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b36c4ba_07711fb4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 11
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-20T11:36:34Z",
+      "side": 1,
+      "message": "Fix for ironic getting discussed in https://review.opendev.org/c/openstack/ironic/+/861956, will update once that stabilizes",
+      "revId": "c13b23553524455354b3fd87fd50dc8f0d6b9755",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
