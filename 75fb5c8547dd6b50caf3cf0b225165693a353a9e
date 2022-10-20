@@ -50,6 +50,24 @@
       "message": "I\u0027m fine with the constraints stuff but I\u0027d rather not do the g-r changes in the same chnage.  Can we/I rebase https://review.opendev.org/c/openstack/requirements/+/813302 on top of this? so we can have that discussion and not hold up the u-c changes\n",
       "revId": "75fb5c8547dd6b50caf3cf0b225165693a353a9e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "520b046d_edd1f540",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 10
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-20T05:51:02Z",
+      "side": 1,
+      "message": "Yes, those changes were from my local testing and shouldn\u0027t have gone here at all. Cleaned up and added dep for the barbican patch that will hopefully make this whole thing pass. We could also pull cryptography into a dedicated patch if you think that this has been held up long enough now.",
+      "parentUuid": "4a1c521b_af2f64df",
+      "revId": "75fb5c8547dd6b50caf3cf0b225165693a353a9e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
