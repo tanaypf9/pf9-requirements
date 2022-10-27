@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "de263a22_7db5a987",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11655
+      },
+      "writtenOn": "2022-10-27T18:27:04Z",
+      "side": 1,
+      "message": "Horizon NPM failure seems very unrelated.",
+      "revId": "a9ddc96e3a369f410607105a207860f4cc35b20a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
