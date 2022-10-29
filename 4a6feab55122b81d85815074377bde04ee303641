@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "992574e3_fdc064e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-10-29T09:10:25Z",
+      "side": 1,
+      "message": "O.k., so let\u0027s do this step by step then. Note however that the periodic job currently does fail when trying to build anyjson https://zuul.opendev.org/t/openstack/build/c3b6e68e1e5b46a0bc7429767348937e so I doubt that this current patch will be enough to get it into working state again.",
+      "revId": "4a6feab55122b81d85815074377bde04ee303641",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
