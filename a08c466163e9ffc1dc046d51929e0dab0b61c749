@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0bbdc1c1_884f0b32",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-11-03T10:43:41Z",
+      "side": 1,
+      "message": "These changes LGTM, however the error seems legit but not related to this new release. The error is related to npm which seems not able to run firefox or something like that. I think this is related to jammy where something changed at the package level.",
+      "revId": "a08c466163e9ffc1dc046d51929e0dab0b61c749",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
