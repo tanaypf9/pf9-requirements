@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a9930124_bddb7acd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2022-11-03T21:01:35Z",
+      "side": 1,
+      "message": "Failure doesn\u0027t look related:\n\n\u003e Firefox stderr: /usr/bin/firefox: 12: xdg-settings: not found\n\nrecheck",
+      "revId": "bd6d236dc6ef2d6ab15dc2b1fb8fe147afbceb31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
