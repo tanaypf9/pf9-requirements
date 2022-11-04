@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c466d712_ab346b56",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-04T18:08:02Z",
+      "side": 1,
+      "message": "diskimage-builder is kinda \"funky\" in that it typically isn\u0027t co0-installed with OpenStack as such but used to generate images that OpenStack them consumes.  Given that and the fact it\u0027s branchless I struggled to think of a really good way of testing this.\n\nThe updates in diskimage-builder are quite substantial [1].  Given that I place it (X) on the following scale:\n\n Fine \u003c----X---------------------------\u003e \"This is fine\"[2]\n\n\n[1] https://paste.opendev.org/show/817463/\n[2] https://imgur.com/c4jt321",
+      "revId": "4de99c4c53887aa014675ac3bd8092d7feb10321",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
