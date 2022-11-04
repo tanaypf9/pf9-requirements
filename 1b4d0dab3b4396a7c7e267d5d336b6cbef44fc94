@@ -34,6 +34,23 @@
       "parentUuid": "202fcf8e_b72fbbf3",
       "revId": "1b4d0dab3b4396a7c7e267d5d336b6cbef44fc94",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bbf676e3_b50d883c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-04T18:18:54Z",
+      "side": 1,
+      "message": "Setting -W until there is a new release of oslo.log or a compatible fix lands in neutron",
+      "revId": "1b4d0dab3b4396a7c7e267d5d336b6cbef44fc94",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
