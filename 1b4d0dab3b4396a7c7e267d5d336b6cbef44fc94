@@ -16,6 +16,24 @@
       "message": "This version of oslo.log is breaking the Neutron CI: https://review.opendev.org/c/openstack/neutron/+/863315\n\nPS11 to PS12 enables oslo.log master (v5.0.1). That breaks the Neutron functional job.",
       "revId": "1b4d0dab3b4396a7c7e267d5d336b6cbef44fc94",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "34630bca_8031de7a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-11-04T16:00:43Z",
+      "side": 1,
+      "message": "https://bugs.launchpad.net/oslo.log/+bug/1995514",
+      "parentUuid": "202fcf8e_b72fbbf3",
+      "revId": "1b4d0dab3b4396a7c7e267d5d336b6cbef44fc94",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
