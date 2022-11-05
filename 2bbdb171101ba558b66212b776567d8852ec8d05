@@ -33,6 +33,23 @@
       "message": "Well that\u0027s embarrasing 😞",
       "revId": "2bbdb171101ba558b66212b776567d8852ec8d05",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b3f13d2d_638a9313",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-05T17:52:20Z",
+      "side": 1,
+      "message": "Horizon moved node jobs to focal with https://review.opendev.org/c/openstack/horizon/+/744647 starting with victoria, so I think this should be focal, too.",
+      "revId": "2bbdb171101ba558b66212b776567d8852ec8d05",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
