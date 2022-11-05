@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "354a43cd_1f33cba4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-05T17:52:40Z",
+      "side": 1,
+      "message": "Horizon moved node jobs to focal with https://review.opendev.org/c/openstack/horizon/+/744647 starting with victoria, so I think this should be focal, too.",
+      "revId": "d5227063143b2b699dae84f3e313ef1a7a16587a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
