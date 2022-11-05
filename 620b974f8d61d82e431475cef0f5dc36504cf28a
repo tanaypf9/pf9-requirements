@@ -16,6 +16,23 @@
       "message": "diskimage-builder is kinda \"funky\" in that it typically isn\u0027t co0-installed with OpenStack as such but used to generate images that OpenStack them consumes.  Given that and the fact it\u0027s branchless I struggled to think of a really good way of testing this.\n\nThe updates in diskimage-builder are quite substantial [1].  Given that I place it (X) on the following scale:\n\n Fine \u003c----X---------------------------\u003e \"This is fine\"[2]\n\n[1] https://paste.opendev.org/show/817463/\n[2] https://imgur.com/c4jt321",
       "revId": "620b974f8d61d82e431475cef0f5dc36504cf28a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b05605ff_48cf680e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-05T17:38:36Z",
+      "side": 1,
+      "message": "recheck\n\nTIMED_OUT in swift tests, unrelated to DIB update",
+      "revId": "620b974f8d61d82e431475cef0f5dc36504cf28a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
