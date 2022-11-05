@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f58ec402_0c83e7e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-05T17:46:22Z",
+      "side": 1,
+      "message": "recheck\n\nMasakari failure is unit test issue.  The list of tuples seems to have a non-deterministic order which means that the assert doesn\u0027t match.\n\n    testtools.matchers._impl.MismatchError: !\u003d:\nreference \u003d [(\u00271\u0027, \u0027active\u0027), (\u00272\u0027, \u0027stopped\u0027), (\u00273\u0027, \u0027error\u0027), (\u00273\u0027, \u0027stopped\u0027)]\nactual    \u003d [(\u00271\u0027, \u0027active\u0027), (\u00273\u0027, \u0027error\u0027), (\u00272\u0027, \u0027stopped\u0027), (\u00273\u0027, \u0027stopped\u0027)]",
+      "revId": "ae58e9fd05835170845ac1234029ee5ee96fec02",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
