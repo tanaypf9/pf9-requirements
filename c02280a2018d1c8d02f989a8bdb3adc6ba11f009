@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d4f241aa_7c1c13c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-05T17:35:06Z",
+      "side": 1,
+      "message": "recheck\n\nManila failures are unrelated",
+      "revId": "c02280a2018d1c8d02f989a8bdb3adc6ba11f009",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
