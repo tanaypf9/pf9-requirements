@@ -18,6 +18,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "6cc49aca_47934969",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 32927
+      },
+      "writtenOn": "2022-11-07T16:25:18Z",
+      "side": 1,
+      "message": "The only reason we update pytest is to reduce py usage.\nWe reduce py usage because of CVE.\nI agree that CVE is not really \"real\" but package is in maintanence mode. It\u0027s better to avoid py than to fight for it.\nPytest bump can be seen from commit code.\nThe main content of commit message should be reasoning of commit and not describing code change.\nAlso We specify explicitly py version in new patchset.",
+      "parentUuid": "f20e4c72_3694730f",
+      "revId": "49e1d4adc969691a2b848ce9846d79c00885bc1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "7102d601_46d49e04",
@@ -31,6 +49,24 @@
       "writtenOn": "2022-11-07T15:06:54Z",
       "side": 1,
       "message": "The failing test shows that more work is needed on the horizon side in order for this to work.",
+      "revId": "49e1d4adc969691a2b848ce9846d79c00885bc1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2dfd4288_7d16cd92",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32927
+      },
+      "writtenOn": "2022-11-07T16:25:18Z",
+      "side": 1,
+      "message": "Already in progress..\n863101: [CVE-2022-42969] Py is not used by pytest anymore | https://review.opendev.org/c/openstack/horizon/+/863101",
+      "parentUuid": "7102d601_46d49e04",
       "revId": "49e1d4adc969691a2b848ce9846d79c00885bc1f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
