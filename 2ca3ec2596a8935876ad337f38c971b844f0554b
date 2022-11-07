@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d48cb30_c773b74a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-07T20:27:57Z",
+      "side": 1,
+      "message": "recheck\n\ntempest failure in glance unrelated to metalsmith",
+      "revId": "2ca3ec2596a8935876ad337f38c971b844f0554b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
