@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f20e4c72_3694730f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-07T15:06:54Z",
+      "side": 1,
+      "message": "IMO the CVE is not worth being mentioned in the commit message header, see the discussion in the related pytest issue. Also the header should state what is actually being changed, which is to bump to latest pytest version, nothing directly happning with py.",
+      "revId": "49e1d4adc969691a2b848ce9846d79c00885bc1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7102d601_46d49e04",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-07T15:06:54Z",
+      "side": 1,
+      "message": "The failing test shows that more work is needed on the horizon side in order for this to work.",
+      "revId": "49e1d4adc969691a2b848ce9846d79c00885bc1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
