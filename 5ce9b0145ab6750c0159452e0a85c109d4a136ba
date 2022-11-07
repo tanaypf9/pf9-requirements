@@ -33,6 +33,23 @@
       "message": "These changes LGTM, however the error seems legit but not related to this new release. The error is related to npm which seems not able to run firefox or something like that. I think this is related to jammy where something changed at the package level.",
       "revId": "5ce9b0145ab6750c0159452e0a85c109d4a136ba",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13c5af21_dde799cc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-07T20:39:51Z",
+      "side": 1,
+      "message": "reccheck\n\nNPM issue should be resolved",
+      "revId": "5ce9b0145ab6750c0159452e0a85c109d4a136ba",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
