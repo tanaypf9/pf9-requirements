@@ -1,0 +1,9 @@
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Sean McGinnis <sean.mcginnis@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 07 Nov 2022 16:11:39 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/863865
+Project: openstack/requirements
+Branch: refs/heads/stable/yoga
