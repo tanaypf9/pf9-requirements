@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 07 Nov 2022 20:17:36 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/862650
+Project: openstack/requirements
+Branch: refs/heads/stable/wallaby
