@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7e6406d0_6934c402",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-07T20:26:38Z",
+      "side": 1,
+      "message": "recheck\n\nNeutron failure isn\u0027t releasted and didn\u0027t appear in check",
+      "revId": "6cadd874e2214443609d9efb10cfa4c4d0cd32d1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
