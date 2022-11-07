@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2ef9655_567d14e5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-07T21:00:54Z",
+      "side": 1,
+      "message": "Looks good to me.\n\nEven though this is related to a CVE it\u0027s unlikely to impact OpenStack as it requires an SVM repo.  and typically pytest isn\u0027t installed in a production environment",
+      "revId": "5053de6c19be69d4b088d4825dd4d7748e2a900d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
