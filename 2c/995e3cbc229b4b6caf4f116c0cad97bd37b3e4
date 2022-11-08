@@ -1,0 +1,9 @@
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 08 Nov 2022 00:11:55 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/863415
+Project: openstack/requirements
+Branch: refs/heads/master
