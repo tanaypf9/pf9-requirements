@@ -16,6 +16,23 @@
       "message": "As noted on the stevedore change [1], this won\u0027t work. While stevedore will only install importlib-metadata on Python 3.7, other packages can install it and we\u0027ll use it opportunistically. I\u0027ve proposed [2]. I think that\u0027s probably a better, long-term fix?\n\n[1] https://review.opendev.org/c/openstack/stevedore/+/860109\n[2] https://review.opendev.org/c/openstack/stevedore/+/860105/",
       "revId": "29a78542b31ba4af8eceb616c95f121d84513b93",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3133fc45_0b7e6eee",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-09T23:18:39Z",
+      "side": 1,
+      "message": "After waiting a while to check in on this, seeing that the stevedore changes[1] have been merged and released and given 3.7 isn\u0027t acyually a \"supoorted\" runtime[2] I\u0027m inclined to close this *ASSUMING* Matt confirms that we\u0027re okay with things as they stand today.\n\n\n[1] https://review.opendev.org/q/Ib9c2b0a14edea91e97d122d2ac93b650029f918e\n[2] https://governance.openstack.org/tc/reference/runtimes/yoga.html",
+      "revId": "29a78542b31ba4af8eceb616c95f121d84513b93",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
