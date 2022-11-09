@@ -16,6 +16,23 @@
       "message": "recheck\n\nI really thought I rechecked this yesterday",
       "revId": "b87589f0fe6d461274a544b95b1bfbb35145d17c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0eb5000a_6b67e039",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-09T23:12:08Z",
+      "side": 1,
+      "message": "recheck\n\nI *really* hope that this isn\u0027t a persistent problem.\n\n - Download snap \"snapd\" (17336) from channel \"stable\" (Get https://api.snapcraft.io/api/v1/snaps/download/PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4_17336.snap: read tcp 173.231.255.109:60312-\u003e185.125.188.54:443: read: connection reset by peer)\n ",
+      "revId": "b87589f0fe6d461274a544b95b1bfbb35145d17c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
