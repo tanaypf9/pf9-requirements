@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0722a8a_f29d707a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2022-11-09T23:20:31Z",
+      "side": 1,
+      "message": "recheck\n\n- Download snap \"bare\" (5) from channel \"stable\" (Get https://api.snapcraft.io/api/v1/snaps/download/EISPgh06mRh1vordZY9OZ34QHdd7OrdR_5.snap: read tcp 104.130.135.89:38050-\u003e185.125.188.54:443: read: connection reset by peer)\ndpkg: error processing archive /var/cache/apt/archives/chromium-browser_1%3a85.0.4183.83-0ubuntu0.20.04.2_amd64.deb (--unpack):\n\nHopefully this isn\u0027t a long term thing",
+      "revId": "43903b8757b8c1d45dcb97956be63581135845e0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
