@@ -16,6 +16,23 @@
       "message": "recheck pypi slow",
       "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bd0ff4c6_239bcf49",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-11-17T17:03:43Z",
+      "side": 1,
+      "message": "recheck cross-nova-py310",
+      "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
