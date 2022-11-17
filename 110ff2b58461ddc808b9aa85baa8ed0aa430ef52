@@ -16,6 +16,23 @@
       "message": "Let\u0027s go with the bot patch instead for sake of the metadata https://review.opendev.org/c/openstack/requirements/+/864741",
       "revId": "110ff2b58461ddc808b9aa85baa8ed0aa430ef52",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "afcf6671_7912e35d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-17T07:41:00Z",
+      "side": 1,
+      "message": "Oh, you are also doing the block thing. Maybe rebase on top of the other patch?",
+      "revId": "110ff2b58461ddc808b9aa85baa8ed0aa430ef52",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
