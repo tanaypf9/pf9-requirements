@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "307c9810_eafe73c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2022-11-17T11:41:19Z",
+      "side": 1,
+      "message": "recheck.\n\nSome requirements version mismatch are faced with os-win in some jobs.",
+      "revId": "5944f2c190a9a12677ad61ed4f3c916dac8cb86b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
