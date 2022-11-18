@@ -50,6 +50,23 @@
       "message": "I\u0027ll try to continue with https://review.opendev.org/c/openstack/neutron/+/837780. Give me some time to finish this patch that is linked to this new os-vif version.",
       "revId": "766ad6c106768111db8bb0f678eb033d912ac1e7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4dfe4fd0_2a0d87da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-11-18T17:29:38Z",
+      "side": 1,
+      "message": "I think [1] and [2] are solving this issue. I\u0027ll keep the -W and I\u0027ll re-check the Neutron patch several times to execute the affected job.\n\n[1]https://review.opendev.org/c/openstack/tempest/+/865041\n[2]https://review.opendev.org/c/openstack/neutron/+/837780",
+      "revId": "766ad6c106768111db8bb0f678eb033d912ac1e7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
