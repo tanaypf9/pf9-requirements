@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "11e0164f_f4321ada",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2022-11-18T14:53:21Z",
+      "side": 1,
+      "message": "as we have discussed before this is a bug in neutron not os-vif.\n\nwe have delete the port form the integration bridge before we remove the trunk bridge.\n\nneutron regardless of the backend should nolonger try to mangage the trunk bridge\nonce the port has been remvoed form the br-int.",
+      "revId": "766ad6c106768111db8bb0f678eb033d912ac1e7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
