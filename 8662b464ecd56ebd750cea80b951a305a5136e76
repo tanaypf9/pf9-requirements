@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e7abf52d_75387eec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2022-11-22T17:35:31Z",
+      "side": 1,
+      "message": "Verified to unblock barbican gate in https://review.opendev.org/c/openstack/barbican/+/864226",
+      "revId": "8662b464ecd56ebd750cea80b951a305a5136e76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
