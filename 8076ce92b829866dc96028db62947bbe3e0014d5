@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ebfc293c_2b663f56",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28223
+      },
+      "writtenOn": "2022-11-24T16:19:35Z",
+      "side": 1,
+      "message": "Hello there,\n\nWould it be possible to do this bump for stable/zed? I know it\u0027s usually not really accepted, but since this release runs on cs9, it would be good to get a correct version of the mentioned libraries.\n\nThank you for your feedback!",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
