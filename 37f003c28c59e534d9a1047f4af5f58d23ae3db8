@@ -33,6 +33,24 @@
       "message": "The errors seem to be consistent. I\u0027ll check why.",
       "revId": "37f003c28c59e534d9a1047f4af5f58d23ae3db8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "56546e56_1352a191",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-11-24T17:26:30Z",
+      "side": 1,
+      "message": "This error should be fixed once https://review.opendev.org/c/openstack/neutron/+/865590 is merged.",
+      "parentUuid": "aa25dbc1_ef858d04",
+      "revId": "37f003c28c59e534d9a1047f4af5f58d23ae3db8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
