@@ -51,6 +51,23 @@
       "parentUuid": "aa25dbc1_ef858d04",
       "revId": "37f003c28c59e534d9a1047f4af5f58d23ae3db8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b765cda_415db65c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2022-11-25T15:32:08Z",
+      "side": 1,
+      "message": "recheck, the neutron patch is merged now",
+      "revId": "37f003c28c59e534d9a1047f4af5f58d23ae3db8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
