@@ -307,7 +307,7 @@ mock===3.0.5
 PyYAML===5.3.1
 beautifulsoup4===4.9.0
 os-net-config===12.3.6
-ovs===2.11.0
+ovs===2.16.0
 cryptography===2.9
 URLObject===2.4.3
 psycopg2-binary===2.8.5
@@ -903,9 +903,9 @@ python-congressclient===2.0.1;python_version=='3.6'
 python-congressclient===2.0.1;python_version=='3.7'
 python-congressclient===2.0.1;python_version=='3.8'
 ovsdbapp===0.18.0;python_version=='2.7'
-ovsdbapp===1.2.3;python_version=='3.6'
-ovsdbapp===1.2.3;python_version=='3.7'
-ovsdbapp===1.2.3;python_version=='3.8'
+ovsdbapp===1.14.0;python_version=='3.6'
+ovsdbapp===1.14.0;python_version=='3.7'
+ovsdbapp===1.14.0;python_version=='3.8'
 aniso8601===8.0.0
 rjsmin===1.1.0
 icalendar===4.0.5
