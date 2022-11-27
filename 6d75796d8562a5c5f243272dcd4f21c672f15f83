@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2d5f696d_bb98b9de",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2022-11-27T18:31:41Z",
+      "side": 1,
+      "message": "recheck cross-manila-py38\n\n```\nkex_exchange_identification: Connection closed by remote host\nConnection closed by 23.253.20.233 port 22\nrsync: connection unexpectedly closed (0 bytes received so far) [Receiver]\nrsync error: unexplained error (code 255) at io.c(228) [Receiver\u003d3.2.3]\n```",
+      "revId": "6d75796d8562a5c5f243272dcd4f21c672f15f83",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
