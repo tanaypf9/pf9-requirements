@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3adb18d0_e1dff11b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11655
+      },
+      "writtenOn": "2022-12-08T16:12:06Z",
+      "side": 1,
+      "message": "recheck unrelated aodh failure where response objects are missing in the tests, where as more recent runs work just fine.",
+      "revId": "a09483f66b6b99b30df025837ba281b243dcd082",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
