@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff3d3988_2ea07a2b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11655
+      },
+      "writtenOn": "2022-12-08T16:09:14Z",
+      "side": 1,
+      "message": "This change can be abandoned, a change for sushy 4.1.5 has already merged in Ibaa72523fa74e5648687ea7bc066652b1b66332b\n",
+      "revId": "4e168d7597d1414c0e3be17499593b22430260b0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
