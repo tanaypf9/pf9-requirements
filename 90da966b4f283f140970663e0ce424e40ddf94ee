@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6283fb4e_bd33c8a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2022-12-16T22:10:57Z",
+      "side": 1,
+      "message": "recheck cross-ironic-py310 -- ironic.tests.unit.drivers.modules.test_snmp.SNMPDeviceDriverTestCase.test_power_on  AssertionError: Expected \u0027sleep\u0027 to be called once. Called 8 times.",
+      "revId": "90da966b4f283f140970663e0ce424e40ddf94ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
