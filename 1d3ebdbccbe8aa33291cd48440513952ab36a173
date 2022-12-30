@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7321f80c_a029b933",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2022-12-30T17:43:25Z",
+      "side": 1,
+      "message": "all other projects job failure need tox4 updates on project side.\n\nopenstack-tox-validate does not fail with tox4 error instead a valid failure due to u-c change \"Invalid constraint for  does not have 3 \"\u003d\": # TEST\"\n",
+      "revId": "1d3ebdbccbe8aa33291cd48440513952ab36a173",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
