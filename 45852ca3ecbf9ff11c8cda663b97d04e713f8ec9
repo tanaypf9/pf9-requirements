@@ -119,6 +119,23 @@
       "message": "recheck might be fixed by now?",
       "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "68e8e727_e387679c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-01-02T06:18:07Z",
+      "side": 1,
+      "message": "recheck tox got capped",
+      "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
