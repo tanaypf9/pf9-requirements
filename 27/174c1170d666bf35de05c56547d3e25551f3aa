@@ -1,0 +1,11 @@
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Code-Review+1: Grzegorz Grasza <xek@redhat.com>
+Code-Review+1: David Wilde <dwilde@redhat.com>
+Code-Review+2: Thierry Carrez <thierry@openstack.org>
+Workflow+1: Thierry Carrez <thierry@openstack.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 03 Jan 2023 16:06:59 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/869069
+Project: openstack/requirements
+Branch: refs/heads/master
