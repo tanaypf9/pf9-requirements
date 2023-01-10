@@ -16,6 +16,23 @@
       "message": "Semi-duplicate of https://review.opendev.org/c/openstack/requirements/+/863961\n\nyou also need to update u-c",
       "revId": "257ee4c24e462dfa6c14dd4b82cf1bf736c17612",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33a78523_f6982264",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-01-10T08:28:51Z",
+      "side": 1,
+      "message": "Actually, checking the proposal job, this might be enough and u-c would get updated once that job gets into a working state again.",
+      "revId": "257ee4c24e462dfa6c14dd4b82cf1bf736c17612",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
