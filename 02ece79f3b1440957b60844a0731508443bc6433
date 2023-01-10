@@ -16,6 +16,23 @@
       "message": "Very likely some projects aren\u0027t fixed yet, let\u0027s wait for CI results",
       "revId": "02ece79f3b1440957b60844a0731508443bc6433",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "113b3879_13b5da21",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-01-10T21:04:25Z",
+      "side": 1,
+      "message": "- mistral gate is fixed by https://review.opendev.org/q/topic:gate-fix-mistral-repo\n- placement one should be fixed also - https://review.opendev.org/c/openstack/placement/+/868418/\n- Fixed not yet merged\n  - barbican: https://review.opendev.org/c/openstack/barbican/+/869757\n  - keystone: https://review.opendev.org/c/openstack/keystone/+/869092\n  - aodh: https://review.opendev.org/c/openstack/aodh/+/869372\n  ",
+      "revId": "02ece79f3b1440957b60844a0731508443bc6433",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
