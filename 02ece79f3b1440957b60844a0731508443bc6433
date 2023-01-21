@@ -50,6 +50,23 @@
       "message": "recheck at least some fixes got merged",
       "revId": "02ece79f3b1440957b60844a0731508443bc6433",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e8a48e4c_a72dd752",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-01-21T00:54:02Z",
+      "side": 1,
+      "message": "recheck some more fixes merged.",
+      "revId": "02ece79f3b1440957b60844a0731508443bc6433",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
