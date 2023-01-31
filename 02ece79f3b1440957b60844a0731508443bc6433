@@ -84,6 +84,23 @@
       "message": "seems we are good here now",
       "revId": "02ece79f3b1440957b60844a0731508443bc6433",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "83a7d5cf_88265917",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-01-31T23:10:03Z",
+      "side": 1,
+      "message": "yeah, this is ready",
+      "revId": "02ece79f3b1440957b60844a0731508443bc6433",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
