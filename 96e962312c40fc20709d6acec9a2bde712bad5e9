@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "96e962312c40fc20709d6acec9a2bde712bad5e9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00d40726_788e49b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27900
+      },
+      "writtenOn": "2023-02-01T14:56:38Z",
+      "side": 1,
+      "message": "This should be abandoned in favor of https://review.opendev.org/c/openstack/requirements/+/872409/",
+      "revId": "96e962312c40fc20709d6acec9a2bde712bad5e9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
