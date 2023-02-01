@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b5caf98_ecd1cf7a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16137
+      },
+      "writtenOn": "2023-02-01T12:37:06Z",
+      "side": 1,
+      "message": "I want this to finish up these two which depends on functionality introduced in 14.2.0\n\nhttps://review.opendev.org/c/openstack/neutron-lib/+/871155\nhttps://review.opendev.org/c/openstack/tacker/+/871180",
+      "revId": "0b5f5d0273975dfa808e7f921dff14ed2887b9f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
