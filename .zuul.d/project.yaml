@@ -53,6 +53,14 @@
         - cross-masakari-py310
         - cross-mistral-py310
         - cross-neutron-py310
+        - dnm-cross-networking-bgpvpn-py310
+        - dnm-cross-networking-bagpipe-py310
+        - dnm-cross-networking-odl-py310
+        - dnm-cross-networking-sfc-py310
+        - dnm-cross-neutron-dynamic-routing-py310
+        - dnm-cross-neutron-fwaas-py310
+        - dnm-cross-neutron-vpnaas-py310
+        - dnm-cross-tap-as-a-service-py310
         - cross-nova-py310
         - cross-placement-py310
         - cross-osvif-py3
