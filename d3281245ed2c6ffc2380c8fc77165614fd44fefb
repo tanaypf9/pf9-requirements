@@ -16,6 +16,23 @@
       "message": "[neutron] https://bugs.launchpad.net/neutron/+bug/2004184: https://review.opendev.org/c/openstack/neutron-lib/+/872198",
       "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75a2d564_60cd9eaa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2023-02-01T19:07:35Z",
+      "side": 1,
+      "message": "Please do not merge a bump for SQL Alchemy 2.x in Antelope. There are many breaking changes here that not all projects are ready for.",
+      "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
