@@ -176,6 +176,94 @@
       tox_envlist: py310
 
 - job:
+    name: dnm-cross-networking-bgpvpn-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on networking-bgpvpn with py310.
+    required-projects:
+      - openstack/networking-bgpvpn
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-networking-bagpipe-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on networking-bagpipe with py310.
+    required-projects:
+      - openstack/networking-bagpipe
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-networking-odl-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on networking-odl with py310.
+    required-projects:
+      - openstack/networking-odl
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-networking-sfc-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on networking-sfc with py310.
+    required-projects:
+      - openstack/networking-sfc
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-neutron-dynamic-routing-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on neutron-dynamic-roting with py310.
+    required-projects:
+      - openstack/neutron-dynamic-routing
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-neutron-fwaas-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on neutron-fwaas with py310.
+    required-projects:
+      - openstack/neutron-fwaas
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-neutron-vpnaas-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on neutron-vpnaas with py310.
+    required-projects:
+      - openstack/neutron-vpnaas
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
+    name: dnm-cross-tap-as-a-service-py310
+    parent: requirements-cross-test
+    description: Run cross-project tests on tap-as-a-service with py310.
+    required-projects:
+      - openstack/tap-as-a-service
+      - openstack/neutron-lib
+    timeout: 3600
+    vars:
+      tox_envlist: py310
+
+- job:
     name: cross-nova-functional
     parent: requirements-cross-test
     description: Run cross-project functional tests on nova.
