@@ -33,6 +33,23 @@
       "message": "Please do not merge a bump for SQL Alchemy 2.x in Antelope. There are many breaking changes here that not all projects are ready for.",
       "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab01aa36_38b05cd6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-02T07:34:05Z",
+      "side": 1,
+      "message": "agree let\u0027s make it a coordinated effort.",
+      "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
