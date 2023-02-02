@@ -50,6 +50,24 @@
       "message": "agree let\u0027s make it a coordinated effort.",
       "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f834f574_8a49a91c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-02-02T13:41:18Z",
+      "side": 1,
+      "message": "Right, being so close to the feature and client libraries freeze, we should postpone this patch to the next release.",
+      "parentUuid": "ab01aa36_38b05cd6",
+      "revId": "d3281245ed2c6ffc2380c8fc77165614fd44fefb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
