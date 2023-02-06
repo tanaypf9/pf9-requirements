@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e86a3b8_818f44ba",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-06T15:25:43Z",
+      "side": 1,
+      "message": "recheck\nbagpipe issue seems unrelated to sqlalchemy 2.0",
+      "revId": "eccc910360fda836f8abb7b0401b93bb04ab866e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
