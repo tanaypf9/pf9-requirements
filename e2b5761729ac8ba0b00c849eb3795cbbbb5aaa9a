@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "152271d9_c9fd3e7f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2023-02-07T11:10:42Z",
+      "side": 1,
+      "message": "This patch proposed to be also packportable to all supported/EM releases.",
+      "revId": "e2b5761729ac8ba0b00c849eb3795cbbbb5aaa9a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
