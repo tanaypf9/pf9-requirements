@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "87cecfb5_a7b87ff8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 153,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-07T10:39:17Z",
+      "side": 1,
+      "message": "seems pyroute2 0.7.4 causes some issue with bagpipe, I have to check it in details",
+      "range": {
+        "startLine": 153,
+        "startChar": 0,
+        "endLine": 153,
+        "endChar": 16
+      },
+      "revId": "a0bffc85937f5e16def81d09ed0864aef7db3aa8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
