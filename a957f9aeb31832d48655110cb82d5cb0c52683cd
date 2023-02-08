@@ -33,6 +33,24 @@
       "message": "Looks like the kuyr failure is due to kuyr-kubernetes requiring the ``munch`` package but not having it in their ``test-requirements.txt``.",
       "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f5b45d3c_a29025eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-08T14:16:34Z",
+      "side": 1,
+      "message": "I pushed this one, hope it is enough: https://review.opendev.org/c/openstack/kuryr/+/873114",
+      "parentUuid": "6c3a89c3_ace1e611",
+      "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
