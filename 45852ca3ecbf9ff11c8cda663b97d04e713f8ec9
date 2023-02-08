@@ -136,6 +136,24 @@
       "message": "recheck tox got capped",
       "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0941a75d_c37c0c10",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-02-08T09:19:18Z",
+      "side": 1,
+      "message": "The issue in nova looks similar to the problem found in Neutron:\nhttps://bugs.launchpad.net/oslo.log/+bug/1995514\nhttps://bugs.launchpad.net/neutron/+bug/1995091\n\nWe would need the change in oslo.log [1] and then the privsep one [2] (still blocked until we have a oslo.log release containing [1]).\n\n[1]https://review.opendev.org/c/openstack/oslo.log/+/864252\n[2]https://review.opendev.org/c/openstack/oslo.privsep/+/864254",
+      "parentUuid": "68e8e727_e387679c",
+      "revId": "45852ca3ecbf9ff11c8cda663b97d04e713f8ec9",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
