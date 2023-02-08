@@ -1,6 +1,29 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "b38409c5_2558ead4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-08T13:56:24Z",
+      "side": 1,
+      "message": "- sqlalchemy, as it was removed from parent patch",
+      "range": {
+        "startLine": 7,
+        "startChar": 39,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "eccc910360fda836f8abb7b0401b93bb04ab866e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "5e86a3b8_818f44ba",
