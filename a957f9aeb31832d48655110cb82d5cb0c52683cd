@@ -51,6 +51,24 @@
       "parentUuid": "6c3a89c3_ace1e611",
       "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ead0e4da_c97bf7dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-09T10:24:37Z",
+      "side": 1,
+      "message": "Előd found that kuryr-kubernetes is the good place for this:\nhttps://review.opendev.org/c/openstack/kuryr-kubernetes/+/873152",
+      "parentUuid": "f5b45d3c_a29025eb",
+      "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
