@@ -22,6 +22,40 @@
       },
       "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "afca6934_104ddb70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2023-02-10T14:11:23Z",
+      "side": 1,
+      "message": "Overall, I personnally feel that merging such a big bump patch so close to RC1 (and FeatureFreeze for many projects) is way risky.\n\nIdeally, I\u0027d prefer to have our requirements to be upgraded at the beginning of a release rather than at the end (keeping in mind that next release will be a tock release)",
+      "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dfa32921_450147f6",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2023-02-10T14:11:23Z",
+      "side": 1,
+      "message": "I strong discourage to merge this patch as it is. \nWe haven\u0027t fully tested the recent version of libvirt and there are some indications it may create problems.",
+      "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
