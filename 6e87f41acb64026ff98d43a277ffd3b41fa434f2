@@ -41,6 +41,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a93011c_d27ebfcf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6962
+      },
+      "writtenOn": "2023-02-10T14:11:25Z",
+      "side": 1,
+      "message": "Hi, can you please also provide rationale for bumping other bits?\n\nThis patch his bumping a bit few too many things, afraid.  Including the libvirt-python to 9.0 -- which currently fails due to a known reason.\n\nAlso some other developers on #openstack-nova have expressed the same concern.",
+      "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dfa32921_450147f6",
