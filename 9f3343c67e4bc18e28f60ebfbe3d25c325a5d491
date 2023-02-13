@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "394c335a_0aeade86",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-13T15:37:03Z",
+      "side": 1,
+      "message": "recheck\nfailure with test discovery seems irrelevant",
+      "revId": "9f3343c67e4bc18e28f60ebfbe3d25c325a5d491",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
