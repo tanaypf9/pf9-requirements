@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e8c5cf23_a852b73e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-02-13T17:46:26Z",
+      "side": 1,
+      "message": "Thanks, it looks quite green now 😊",
+      "revId": "28248c2d01151b10c7dca8e373ca621228c57a86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
