@@ -33,6 +33,23 @@
       "message": "recheck - TimeoutError: The read operation timed out :S",
       "revId": "28248c2d01151b10c7dca8e373ca621228c57a86",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49fba38b_a5f1b6e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-14T18:42:59Z",
+      "side": 1,
+      "message": "recheck - unrelated nova error (?)",
+      "revId": "28248c2d01151b10c7dca8e373ca621228c57a86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
