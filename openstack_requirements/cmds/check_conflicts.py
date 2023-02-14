@@ -44,6 +44,7 @@ def main():
     for name, spec_list in upper_constraints.items():
         try:
             if name:
+                print(f'\nname: {name}\nspec_list: {spec_list}')
                 pyver = "python_version=='%s.%s'" % (sys.version_info[0],
                                                      sys.version_info[1])
                 for req, original_line in spec_list:
