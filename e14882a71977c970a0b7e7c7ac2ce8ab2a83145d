@@ -33,6 +33,23 @@
       "message": "recheck anyjson dropped",
       "revId": "e14882a71977c970a0b7e7c7ac2ce8ab2a83145d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ec697f9_9c7a619f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-02-14T11:02:53Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "e14882a71977c970a0b7e7c7ac2ce8ab2a83145d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
