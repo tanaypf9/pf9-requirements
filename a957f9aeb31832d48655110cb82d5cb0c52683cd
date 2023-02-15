@@ -69,6 +69,23 @@
       "parentUuid": "f5b45d3c_a29025eb",
       "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a82eab15_aabb059c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-02-15T10:59:51Z",
+      "side": 1,
+      "message": "This is superceded by 1.0.1 https://review.opendev.org/c/openstack/requirements/+/873598",
+      "revId": "a957f9aeb31832d48655110cb82d5cb0c52683cd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
