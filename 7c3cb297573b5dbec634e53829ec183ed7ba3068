@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb38979b_f8ab37da",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-15T04:26:20Z",
+      "side": 1,
+      "message": "\u003e Patch Set 3:\n\u003e \n\u003e I think we want to use https://review.opendev.org/873620\n\n@prometheanfire note that it does not solve all the issues as py3*-check-uc jobs will fail anyway :/ So this workaround is also needed to unblock the gate, unfortunately.",
+      "revId": "7c3cb297573b5dbec634e53829ec183ed7ba3068",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
