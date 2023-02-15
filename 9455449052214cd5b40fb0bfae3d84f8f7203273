@@ -16,6 +16,23 @@
       "message": "recheck maybe?",
       "revId": "9455449052214cd5b40fb0bfae3d84f8f7203273",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "15dabbd5_0dffc93e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-15T18:23:08Z",
+      "side": 1,
+      "message": "recheck - gate fix has merged",
+      "revId": "9455449052214cd5b40fb0bfae3d84f8f7203273",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
