@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7fa85b40_eb24c6c7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-02-15T11:37:46Z",
+      "side": 1,
+      "message": "Sorry, we\u0027ll need os-vif bump first: https://review.opendev.org/c/openstack/requirements/+/873418",
+      "revId": "841a8e09008a5228979bf7cdf506eb6e14ed58f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
