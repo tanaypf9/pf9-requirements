@@ -16,6 +16,24 @@
       "message": "I\u0027ll look into why octavia tests are failing, probably will need a patch to the octavia unit tests.",
       "revId": "3e47ed18c3b341a5003c86987ad9f4f223ac8621",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c4b04124_dca1dd14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-15T15:38:20Z",
+      "side": 1,
+      "message": "@Grzegorz see this patch: https://review.opendev.org/c/openstack/requirements/+/873732",
+      "parentUuid": "b60c4f63_613449b4",
+      "revId": "3e47ed18c3b341a5003c86987ad9f4f223ac8621",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
