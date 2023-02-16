@@ -146,7 +146,6 @@ traceback2===1.4.0
 arrow===1.2.3
 semantic-version===2.10.0
 async-timeout===4.0.2
-virtualbmc===3.0.0
 deprecation===2.1.0
 SQLAlchemy===1.4.41
 pyroute2===0.7.3
@@ -193,7 +192,6 @@ openstack-release-test===3.3.1
 validations-libs===1.8.0
 pylxd===2.3.1
 pycryptodomex===3.15.0
-anyjson===0.3.3
 requests-mock===1.10.0
 os-apply-config===13.1.0
 prometheus-client===0.14.1
@@ -418,7 +416,6 @@ distlib===0.3.6
 XStatic-Moment-Timezone===0.5.22.0
 dogpile.cache===1.1.8
 python-barbicanclient===5.4.0
-salt===3005.1
 api-object-schema===2.0.0
 WSME===0.11.0
 tomli===2.0.1
@@ -469,7 +466,6 @@ python-ironicclient===5.0.1
 XStatic===1.0.2
 XStatic-Angular-FileUpload===12.0.4.0
 python-openstackclient===6.0.0
-pyzmq===20.0.0
 nocaselist===1.0.6
 oslo.db===12.3.1
 simplegeneric===0.8.1
