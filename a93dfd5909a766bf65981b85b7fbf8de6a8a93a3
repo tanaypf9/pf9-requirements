@@ -33,6 +33,23 @@
       "message": "Fix for the heat unit test issue is here:\nhttps://review.opendev.org/c/openstack/heat/+/874045",
       "revId": "a93dfd5909a766bf65981b85b7fbf8de6a8a93a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c5162f9_2e0dcd72",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11628
+      },
+      "writtenOn": "2023-02-16T00:43:36Z",
+      "side": 1,
+      "message": "LGTM / Octavia is good with this bump",
+      "revId": "a93dfd5909a766bf65981b85b7fbf8de6a8a93a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
