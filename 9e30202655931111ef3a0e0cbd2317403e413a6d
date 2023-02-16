@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "38f8efc9_8295da0f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-16T20:06:37Z",
+      "side": 1,
+      "message": "Note: I could not yet figure out why these are causing failures during py3*-check-uc jobs, so only removing them shows that the jobs are working again with latest virtualenv (and its bundled setuptools). The error looks like this [1]. It fails in the DistInfoDistribution\u0027s __getattr__ method, and produces some error afterwards that seems to be coming from a setup.cfg\u0027s classifiers list line like:\n\n\u0027Programming Language :: Python :: Implementation :: CPython\u0027\n\nAnyway, I\u0027ve found hints that probably something is wrong with the packages \u0027metadata\u0027, but I could not figure out yet what is wrong.\n\n[1] https://paste.opendev.org/show/bEvQXxfo8FoufozDYxPY/",
+      "revId": "9e30202655931111ef3a0e0cbd2317403e413a6d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
