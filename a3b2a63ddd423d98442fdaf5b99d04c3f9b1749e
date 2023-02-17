@@ -68,6 +68,24 @@
       "parentUuid": "27928425_e97a39e0",
       "revId": "a3b2a63ddd423d98442fdaf5b99d04c3f9b1749e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4d63ce88_14d0bc1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-02-17T14:31:41Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/kuryr-kubernetes/+/874252",
+      "parentUuid": "1464671c_12e9fc21",
+      "revId": "a3b2a63ddd423d98442fdaf5b99d04c3f9b1749e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
