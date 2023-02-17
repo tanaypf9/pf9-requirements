@@ -16,6 +16,23 @@
       "message": "recheck tempest",
       "revId": "f77361d31f4f963bc99878f7e5c2cb413d2841bb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e15d9da6_0c05e813",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-02-17T09:44:42Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "f77361d31f4f963bc99878f7e5c2cb413d2841bb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
