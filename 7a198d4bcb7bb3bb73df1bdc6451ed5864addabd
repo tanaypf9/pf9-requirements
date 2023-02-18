@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b71dec45_7aeb8520",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-02-18T15:07:32Z",
+      "side": 1,
+      "message": "recheck py39 test failure\n\n```\n    raise ParserSyntaxError(\npkg_resources.extern.packaging._tokenizer.ParserSyntaxError: Expected end or semicolon (after version specifier)\n    lesscpy\u003e\u003d0.9h\n           ~~~~~^\n```",
+      "revId": "7a198d4bcb7bb3bb73df1bdc6451ed5864addabd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
