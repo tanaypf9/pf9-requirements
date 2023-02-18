@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49b061e0_aa146ae0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-02-18T15:09:10Z",
+      "side": 1,
+      "message": "recheck ironic job failure:\n\n```\nironic.tests.unit.drivers.modules.network.test_common.TestNeutronVifPortIDMixin.test_port_changed_client_id_fail\n```",
+      "revId": "f78ddcb2b5a98ee871a69c20387c6ba3e2390b18",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
