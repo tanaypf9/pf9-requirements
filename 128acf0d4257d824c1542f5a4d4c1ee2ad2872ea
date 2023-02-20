@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3067e24b_44977338",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2023-02-20T17:46:56Z",
+      "side": 1,
+      "message": "recheck confluent-kafka package installation problem",
+      "revId": "128acf0d4257d824c1542f5a4d4c1ee2ad2872ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
