@@ -16,6 +16,23 @@
       "message": "This is a latest release for oslo to allow to release tox\u0027s fix before cutting Antelope\u0027s branch.",
       "revId": "3138f1ebe3c22b6495aaede6d0251774e4fb4d21",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ead167b6_d5d2ec9b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-02-21T18:04:23Z",
+      "side": 1,
+      "message": "RFE requested here https://lists.openstack.org/pipermail/openstack-discuss/2023-February/032352.html",
+      "revId": "3138f1ebe3c22b6495aaede6d0251774e4fb4d21",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
