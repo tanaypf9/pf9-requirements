@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa4297df_300c0d3a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-02-21T17:47:07Z",
+      "side": 1,
+      "message": "This is a latest release for oslo to allow to release tox\u0027s fix before cutting Antelope\u0027s branch.",
+      "revId": "e8e1e3d0b25c8f4213b3b465f9714397b2580314",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
