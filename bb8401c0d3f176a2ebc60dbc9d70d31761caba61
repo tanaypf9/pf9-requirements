@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "24895438_b820a689",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27615
+      },
+      "writtenOn": "2023-02-21T07:31:24Z",
+      "side": 1,
+      "message": "recheck unrelated failure in openstack-tox-py39\n\n2023-02-21 05:59:13.702291 | ubuntu-focal |     raise InvalidRequirement(str(e)) from e\n2023-02-21 05:59:13.702302 | ubuntu-focal | pkg_resources.extern.packaging.requirements.InvalidRequirement: Expected end or semicolon (after version specifier)\n2023-02-21 05:59:13.702313 | ubuntu-focal |     lesscpy\u003e\u003d0.9h\n2023-02-21 05:59:13.702324 | ubuntu-focal |            ~~~~~^",
+      "revId": "bb8401c0d3f176a2ebc60dbc9d70d31761caba61",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
