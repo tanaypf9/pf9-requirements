@@ -16,6 +16,23 @@
       "message": "recheck confluent-kafka package installation problem",
       "revId": "128acf0d4257d824c1542f5a4d4c1ee2ad2872ea",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "696df129_5f69e991",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-02-22T16:00:43Z",
+      "side": 1,
+      "message": "noticed issues with this novaclient release[1] in some browbeat jobs internally, not sure if anything else too impacted:-\n\nTraceback (most recent call last):\n  File \"/home/stack/browbeat/.rally-venv/lib64/python3.9/site-packages/rally/task/runner.py\", line 69, in _run_scenario_once\n    getattr(scenario_inst, method_name)(**scenario_kwargs)\n  File \"rally/rally-plugins/netcreate-boot/netcreate_nova_boot_fip_ping.py\", line 49, in run\n    guest \u003d self._boot_server_with_fip(image, flavor, True,\n  File \"/home/stack/browbeat/.rally-venv/lib64/python3.9/site-packages/rally_openstack/task/scenarios/vm/utils.py\", line 144, in _boot_server_with_fip\n    server \u003d self._boot_server(image, flavor, **kwargs)\n  File \"/home/stack/browbeat/.rally-venv/lib64/python3.9/site-packages/rally_openstack/task/scenarios/nova/utils.py\", line 103, in _boot_server\n    server \u003d self.clients(\"nova\").servers.create(\nTypeError: create() got an unexpected keyword argument \u0027floating\u0027\n\nTraceback (most recent call last):\n  File \"/home/stack/browbeat/.rally-venv/lib64/python3.9/site-packages/rally/task/runner.py\", line 69, in _run_scenario_once\n    getattr(scenario_inst, method_name)(**scenario_kwargs)\n  File \"rally/rally-plugins/dynamic-workloads/dynamic_workload_min.py\", line 70, in run\n    self.boot_servers_with_fip(smallest_image, smallest_flavor, ext_net_id,\n  File \"/home/stack/browbeat/rally/rally-plugins/dynamic-workloads/vm.py\", line 102, in boot_servers_with_fip\n    guest \u003d self._boot_server_with_fip_and_tag(\n  File \"/home/stack/browbeat/rally/rally-plugins/dynamic-workloads/dynamic_utils.py\", line 163, in _boot_server_with_fip_and_tag\n    server \u003d self._boot_server_with_tag(image, flavor, tag, **kwargs)\n  File \"/home/stack/browbeat/rally/rally-plugins/dynamic-workloads/dynamic_utils.py\", line 148, in _boot_server_with_tag\n    server \u003d self._boot_server(image, flavor, auto_assign_nic, **kwargs)\n  File \"/home/stack/browbeat/.rally-venv/lib64/python3.9/site-packages/rally_openstack/task/scenarios/nova/utils.py\", line 103, in _boot_server\n    server \u003d self.clients(\"nova\").servers.create(\nTypeError: create() got an unexpected keyword argument \u0027floating\u0027\n\n\n[1] https://github.com/openstack/python-novaclient/commit/80ee69aa30d36e941547a9b67668adfaf57355fd",
+      "revId": "128acf0d4257d824c1542f5a4d4c1ee2ad2872ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
