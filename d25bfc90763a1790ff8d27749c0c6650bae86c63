@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4fff0a48_9e0f1b5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-02-23T14:28:12Z",
+      "side": 1,
+      "message": "Looks good. Though the fix is on the way in kuryr-kubernetes, it is still not there yet, so the best is make it possible to merge the openstacksdk u-c bump as soon as possible.\n\nAlso: This is not a great risk to merge as the kuryr-kubernetes fix is on the way, but unfortunately the process is not quick enough.",
+      "revId": "d25bfc90763a1790ff8d27749c0c6650bae86c63",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
