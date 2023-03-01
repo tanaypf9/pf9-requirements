@@ -51,6 +51,24 @@
       "parentUuid": "696df129_5f69e991",
       "revId": "128acf0d4257d824c1542f5a4d4c1ee2ad2872ea",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f5cfb5c8_fbc6531f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-03-01T06:33:36Z",
+      "side": 1,
+      "message": "just to update for browbeat we have pinned novaclient to working version for now https://review.opendev.org/c/x/browbeat/+/875509. @prometheanfire may be you missed my previous comments cross-heat-py310 failures are real so re-check will not help here.",
+      "parentUuid": "ae2025e4_07794794",
+      "revId": "128acf0d4257d824c1542f5a4d4c1ee2ad2872ea",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
