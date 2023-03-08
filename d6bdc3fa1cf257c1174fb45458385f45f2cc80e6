@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5658917a_1bad9a6a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 308
+      },
+      "writtenOn": "2023-03-08T13:38:40Z",
+      "side": 1,
+      "message": "Needed for Antelope correct release notes generation",
+      "revId": "d6bdc3fa1cf257c1174fb45458385f45f2cc80e6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
