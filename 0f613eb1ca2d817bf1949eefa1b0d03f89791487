@@ -67,6 +67,24 @@
       "message": "This patch proposed to block oslo.log 5.0.1 because without the changes landed by 5.0.2 and an oslo.privsep fix neutron\u0027 CI would failed, however, the patch to block was never merged and is still active https://review.opendev.org/c/openstack/requirements/+/864573/4",
       "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6611dc30_5092d647",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-03-10T17:10:40Z",
+      "side": 1,
+      "message": "@Rodolfo: this patch \u003d\u003e https://review.opendev.org/c/openstack/oslo.log/+/864252 is now present in oslo.log 5.1.0 (and even in 5.0.2 where you left a comment https://review.opendev.org/c/openstack/requirements/+/864741/1).\n\nHowever, I\u0027m not that we hit the same issue here, please can you confirm?",
+      "parentUuid": "ce090165_bf4a9197",
+      "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
