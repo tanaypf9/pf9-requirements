@@ -16,6 +16,23 @@
       "message": "recheck manila",
       "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d39b52bf_577e4c08",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-03-10T16:21:56Z",
+      "side": 1,
+      "message": "No functional changes have been added between the latest version of oslo.log (5.0.2) and this one (5.1.0), https://github.com/openstack/oslo.log/compare/5.0.2...5.1.0\n\n",
+      "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
