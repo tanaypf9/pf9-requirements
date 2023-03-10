@@ -1,0 +1,10 @@
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Code-Review+1: Sylvain Bauza <sbauza@redhat.com>
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Workflow+1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 10 Mar 2023 13:41:33 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/874234
+Project: openstack/requirements
+Branch: refs/heads/master
