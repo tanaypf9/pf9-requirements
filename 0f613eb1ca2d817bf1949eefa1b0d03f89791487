@@ -50,6 +50,23 @@
       "message": "Ignore my previous comment, I missed that oslo.log 5.0.1 and 5.0.2 also failed.\n\nA couple a eventlet changes have been added between 5.0.0 and 5.1.0 https://github.com/openstack/oslo.log/compare/5.0.0...5.1.0 \n\nMaybe it is a track to follow",
       "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce090165_bf4a9197",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-03-10T17:05:39Z",
+      "side": 1,
+      "message": "This patch proposed to block oslo.log 5.0.1 because without the changes landed by 5.0.2 and an oslo.privsep fix neutron\u0027 CI would failed, however, the patch to block was never merged and is still active https://review.opendev.org/c/openstack/requirements/+/864573/4",
+      "revId": "0f613eb1ca2d817bf1949eefa1b0d03f89791487",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
