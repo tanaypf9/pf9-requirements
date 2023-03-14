@@ -16,6 +16,23 @@
       "message": "+1\n\nThis is affecting Zed: https://review.opendev.org/c/openstack/requirements/+/877367",
       "revId": "4ebc05e62d7af57481bab40c83c5320acee35e59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "52425915_7770ad03",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-03-14T14:57:38Z",
+      "side": 1,
+      "message": "Yepp, indeed, i see the error on stable/zed [1]. Looks like a clean cherry pick. Thanks!\n\n[1] https://zuul.opendev.org/t/openstack/builds?job_name\u003dopenstack-tox-py38\u0026project\u003dopenstack%2Frequirements\u0026branch\u003dstable%2Fzed\u0026skip\u003d0",
+      "revId": "4ebc05e62d7af57481bab40c83c5320acee35e59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
