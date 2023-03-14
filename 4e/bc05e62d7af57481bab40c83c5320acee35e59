@@ -1,0 +1,11 @@
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Code-Review+1: Rodolfo Alonso <ralonsoh@redhat.com>
+Code-Review+1: Elod Illes <elod.illes@est.tech>
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Workflow+1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 14 Mar 2023 19:54:17 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/877269
+Project: openstack/requirements
+Branch: refs/heads/stable/zed
