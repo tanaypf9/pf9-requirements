@@ -16,6 +16,23 @@
       "message": "Indeed, this affects stable/yoga as well [1]. Clean cherry pick. Thanks!\n\n[1] https://zuul.opendev.org/t/openstack/builds?job_name\u003dopenstack-tox-py39\u0026project\u003dopenstack%2Frequirements\u0026branch\u003dstable%2Fyoga\u0026skip\u003d0",
       "revId": "474ac63f12bd21d731a7c1c7453580971c3e667e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cbb1f886_0ffb6f81",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-14T17:59:21Z",
+      "side": 1,
+      "message": "Fast approving as gate fix, see patches on top",
+      "revId": "474ac63f12bd21d731a7c1c7453580971c3e667e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
