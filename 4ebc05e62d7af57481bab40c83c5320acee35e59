@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1cb28627_a29c3837",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-03-14T14:53:29Z",
+      "side": 1,
+      "message": "+1\n\nThis is affecting Zed: https://review.opendev.org/c/openstack/requirements/+/877367",
+      "revId": "4ebc05e62d7af57481bab40c83c5320acee35e59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
