@@ -16,6 +16,24 @@
       "message": "Looks like these don\u0027t actually support our required Python versions:\n\n```\nERROR: Ignored the following versions that require a different python version: 0.2.1 Requires-Python \u003e2.6, !\u003d3.3.*, \u003c3.8; 3.10.0.0 Requires-Python \u003e\u003d2.7, !\u003d3.0.*, !\u003d3.1.*, !\u003d3.2.*, !\u003d3.3.*, \u003c3.5; 3.7.4.2 Requires-Python \u003e\u003d2.7, !\u003d3.0.*, !\u003d3.1.*, !\u003d3.2.*, !\u003d3.3.*, \u003c3.5\nERROR: Could not find a version that satisfies the requirement opentelemetry-exporter-otl\u003d\u003d\u003d1.16.0 (from versions: none)\nERROR: No matching distribution found for opentelemetry-exporter-otl\u003d\u003d\u003d1.16.0\n```",
       "revId": "b7dea1827a9d5ae32d83e6cc8d9aad9eaa0c93cb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c6ba91d_1b6809ca",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7730
+      },
+      "writtenOn": "2023-03-17T07:24:37Z",
+      "side": 1,
+      "message": "Thank you for this return. Looks like only py3 is supported. What should I do in that situation?",
+      "parentUuid": "f8550816_f3b7150e",
+      "revId": "b7dea1827a9d5ae32d83e6cc8d9aad9eaa0c93cb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
