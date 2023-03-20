@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "4b50e836ffc2b07fae001da30e17524547f19d42",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "506fbee1_11896965",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2023-03-20T20:10:00Z",
+      "side": 1,
+      "message": "what about bumping to 21 (or higher) instead?",
+      "revId": "4b50e836ffc2b07fae001da30e17524547f19d42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
