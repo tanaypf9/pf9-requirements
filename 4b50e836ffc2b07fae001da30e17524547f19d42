@@ -33,6 +33,24 @@
       "message": "what about bumping to 21 (or higher) instead?",
       "revId": "4b50e836ffc2b07fae001da30e17524547f19d42",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da6cc350_c6332f1e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28356
+      },
+      "writtenOn": "2023-03-20T21:14:14Z",
+      "side": 1,
+      "message": "because one of the libraries requires ``pyzmq\u003c\u003d20.0.0``. salt 3005 has requirement for pyzmq\u003c\u003d20.0.0.",
+      "parentUuid": "506fbee1_11896965",
+      "revId": "4b50e836ffc2b07fae001da30e17524547f19d42",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
