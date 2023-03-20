@@ -16,6 +16,23 @@
       "message": "Hello there,\n\nWould it be possible to do this bump for stable/zed? I know it\u0027s usually not really accepted, but since this release runs on cs9, it would be good to get a correct version of the mentioned libraries.\n\nThank you for your feedback!",
       "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7265cc94_87a6046f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2023-03-20T16:32:43Z",
+      "side": 1,
+      "message": "Maybe it should be bumped to 38.0.3 or 39?\n\nINFO:kolla.common.utils.openstack-base:WARNING: The candidate selected for download or install is a yanked version: \u0027cryptography\u0027 candidate (version 38.0.2 at https://files.pythonhosted.or\ng/packages/98/89/98df97a1b7c14bebe75dc64d88d3c997dae8370cc75e00fc0c5e3fdb6300/cryptography-38.0.2-cp36-abi3-manylinux_2_28_aarch64.whl (from https://pypi.org/simple/cryptography/) (requires\n-python:\u003e\u003d3.6))                                                                                                                                                                              INFO:kolla.common.utils.openstack-base:Reason for being yanked: Regression in OpenSSL.",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
