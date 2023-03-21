@@ -33,6 +33,41 @@
       "message": "Maybe it should be bumped to 38.0.3 or 39?\n\nINFO:kolla.common.utils.openstack-base:WARNING: The candidate selected for download or install is a yanked version: \u0027cryptography\u0027 candidate (version 38.0.2 at https://files.pythonhosted.or\ng/packages/98/89/98df97a1b7c14bebe75dc64d88d3c997dae8370cc75e00fc0c5e3fdb6300/cryptography-38.0.2-cp36-abi3-manylinux_2_28_aarch64.whl (from https://pypi.org/simple/cryptography/) (requires\n-python:\u003e\u003d3.6))                                                                                                                                                                              INFO:kolla.common.utils.openstack-base:Reason for being yanked: Regression in OpenSSL.",
       "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ebf7b12_978cb27d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-03-21T01:01:38Z",
+      "side": 1,
+      "message": "We can\u0027t do that as then zed would have newer versions that master or antelope/2023.1.  At some stage in the future we could look at doing the update you request but certainly not here\n\n\n[tony@thor requirements]$ for b in master stable/{2023.1,zed} ; do git grep -Ei \u0027^(pyopenssl|crypto)\u0027 origin/${b} -- upper-constraints.txt ; done\norigin/master:upper-constraints.txt:104:pyOpenSSL\u003d\u003d\u003d22.1.0\norigin/master:upper-constraints.txt:186:cryptography\u003d\u003d\u003d38.0.2\norigin/stable/2023.1:upper-constraints.txt:104:pyOpenSSL\u003d\u003d\u003d22.1.0\norigin/stable/2023.1:upper-constraints.txt:186:cryptography\u003d\u003d\u003d38.0.2\norigin/stable/zed:upper-constraints.txt:104:pyOpenSSL\u003d\u003d\u003d22.0.0\norigin/stable/zed:upper-constraints.txt:185:cryptography\u003d\u003d\u003d36.0.2",
+      "parentUuid": "7265cc94_87a6046f",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5c4c50ca_aae1697c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-03-21T01:01:38Z",
+      "side": 1,
+      "message": "This is a tricky one.  We do need to check the deltas on the bumped versions.  The fact that we needed a barbican fix implies to be that we\u0027re in a dangerous.\n\nPart of the challenge here is the constraits file is largely to stabalise testing in the gate even more so on stable branches, NOT about saying this is the version of $x that *has* to be used.  We expect distros to ship secure versions.\n\nI also understand that this is largely at odds with perception and use.\n\nSo:\n\nI\u0027m -1 because it doesn\u0027t fix or stabalise the gate\nI\u0027m -1 because it clearly alters APIs which has a potential do destabalise the gate\nI\u0027m +0 Beacuse I don\u0027t understand the conversation WRT rust runtimes and crypography\n\nI need to look ate the change logs for the impacted libraries",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
