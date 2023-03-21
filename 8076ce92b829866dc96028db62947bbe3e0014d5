@@ -68,6 +68,24 @@
       "message": "This is a tricky one.  We do need to check the deltas on the bumped versions.  The fact that we needed a barbican fix implies to be that we\u0027re in a dangerous.\n\nPart of the challenge here is the constraits file is largely to stabalise testing in the gate even more so on stable branches, NOT about saying this is the version of $x that *has* to be used.  We expect distros to ship secure versions.\n\nI also understand that this is largely at odds with perception and use.\n\nSo:\n\nI\u0027m -1 because it doesn\u0027t fix or stabalise the gate\nI\u0027m -1 because it clearly alters APIs which has a potential do destabalise the gate\nI\u0027m +0 Beacuse I don\u0027t understand the conversation WRT rust runtimes and crypography\n\nI need to look ate the change logs for the impacted libraries",
       "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d041c06_70a92c23",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 24072
+      },
+      "writtenOn": "2023-03-21T10:36:40Z",
+      "side": 1,
+      "message": "master to 39+, antelope/zed to 38.0.3 then?",
+      "parentUuid": "7ebf7b12_978cb27d",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
