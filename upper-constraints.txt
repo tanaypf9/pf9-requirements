@@ -400,6 +400,8 @@ numpy===1.21.2;python_version=='3.8'
 msgpack===1.0.2
 Sphinx===4.1.2
 oslo.config===8.7.1
+tempest===30.1.0;python_version=='3.6'
+tempest===33.0.0;python_version=='3.8'
 openstackdocstheme===2.3.1
 osc-placement===3.1.1
 zake===0.2.2
