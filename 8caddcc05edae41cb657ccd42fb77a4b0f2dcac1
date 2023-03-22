@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f84114f9_9a3a6db9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-03-22T14:23:15Z",
+      "side": 1,
+      "message": "recheck Weird manila failure\n\noslo_db.exception.DBConnectionError: (pymysql.err.InterfaceError) (0, \u0027\u0027)\n",
+      "revId": "8caddcc05edae41cb657ccd42fb77a4b0f2dcac1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
