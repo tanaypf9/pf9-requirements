@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b33a63c_bc23b74f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-03-22T20:04:48Z",
+      "side": 1,
+      "message": "It is not about adding tempest in upper constraints. master tempest in venv musg use the master constraints.\n\nI commented the problem details in https://review.opendev.org/c/openstack/heat/+/872055/comments/97d18747_95f46587\n\nbut we should not have tempest in uc. ",
+      "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
