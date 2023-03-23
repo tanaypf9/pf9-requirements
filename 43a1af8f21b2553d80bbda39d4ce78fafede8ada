@@ -16,6 +16,24 @@
       "message": "It is not about adding tempest in upper constraints. master tempest in venv musg use the master constraints.\n\nI commented the problem details in https://review.opendev.org/c/openstack/heat/+/872055/comments/97d18747_95f46587\n\nbut we should not have tempest in uc. ",
       "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e90951a6_b94bdfc0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-03-23T07:55:36Z",
+      "side": 1,
+      "message": "The latest tempest can no longer be installed with the xena constraint. Then having this pin would be helpful for people who aims to use tempest with xena constraints.\n\nI understand we basically should install latest tempest but in that case we should use master constraint (or any stable constraints newer than xena).",
+      "parentUuid": "9b33a63c_bc23b74f",
+      "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
