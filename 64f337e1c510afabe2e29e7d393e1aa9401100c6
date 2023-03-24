@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "551919e9_07845a44",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-03-24T18:21:32Z",
+      "side": 1,
+      "message": "This looks fine on the surface.  I have questions[1] about the impact/deprecation of the existing jaeger-client driver.  I don\u0027t really want to hold this up though.\n\nI\u0027ll also let it slide that we\u0027re missing answers to:\n\n\u003e\u003e\u003e Is the library already packaged in the distros we target (Ubuntu latest / Fedora latest)?\n\u003e\u003e\u003e Is the function of this library already covered by other libraries in global-requirements.txt?\n\n\n[1] https://meetings.opendev.org/irclogs/%23openstack-requirements/%23openstack-requirements.2023-03-24.log.html#t2023-03-24T18:04:03",
+      "revId": "64f337e1c510afabe2e29e7d393e1aa9401100c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
