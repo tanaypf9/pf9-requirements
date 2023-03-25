@@ -26,6 +26,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "29bd6f93_6980d006",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-25T09:55:02Z",
+      "side": 1,
+      "message": "sqla2.0 is topic for a dedicated patch. it seems there is some cap in place currently, too",
+      "parentUuid": "9e3c5cd7_217f47cb",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 18
+      },
+      "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "afca6934_104ddb70",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 4
@@ -71,6 +95,24 @@
       "writtenOn": "2023-02-10T14:11:23Z",
       "side": 1,
       "message": "I strong discourage to merge this patch as it is. \nWe haven\u0027t fully tested the recent version of libvirt and there are some indications it may create problems.",
+      "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96c34e44_0a8c336a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 207,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-25T09:55:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dfa32921_450147f6",
       "revId": "6e87f41acb64026ff98d43a277ffd3b41fa434f2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
