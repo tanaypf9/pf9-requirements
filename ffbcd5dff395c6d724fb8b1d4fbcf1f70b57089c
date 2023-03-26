@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "80bafc94_8e93858f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-26T09:16:19Z",
+      "side": 1,
+      "message": "if you still want this, you need to rebase. given the number of versions that didn\u0027t make it into u-c, likely everything \u003c5.2.0 would need to get blocked?",
+      "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
