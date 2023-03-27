@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bf0617b6_b49fd11a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-27T10:12:05Z",
+      "side": 1,
+      "message": "O.k., but this sounds to me like 5.0.2 and 5.1.0 at least also need to be blocked.\n\nPlus maybe oslo needs better integration testing.",
+      "revId": "6d6a24c597e195b21a830b3eb8b4e21ccf78712e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
