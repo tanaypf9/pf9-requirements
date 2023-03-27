@@ -52,6 +52,24 @@
       "parentUuid": "96dbda22_954593d3",
       "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "baab1365_ef8b05b8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-03-27T09:24:30Z",
+      "side": 1,
+      "message": "We produced the version 5.2.0 because the release notes shown the version 5.1.0 as available with antelope (https://releases.openstack.org/antelope/index.html#antelope-oslo-log) however, that was not really true because the requirements patches were not able to be merged and so the upper-constraints for antelope without this revert was stuck to the version 5.0.0.\n\nSo, the goal of the version 5.2.0 is to give a clear expectations to operators and distros maintainers of the state of oslo.log (a version with reverted changes)",
+      "parentUuid": "50bf5659_b36e2000",
+      "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
