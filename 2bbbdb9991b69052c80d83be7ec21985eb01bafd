@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e74eab0_98861e10",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2023-03-27T17:07:05Z",
+      "side": 1,
+      "message": "My understanding is that historically openstack has bumped linters and similar tools at the beginning of cycles with the expectation that it will break things. But also with the expectation that breaking things at the start of the cycle is the best time to do so and people can fix them.\n\nI think if that is still the process then this may not be necessary?",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
