@@ -16,6 +16,24 @@
       "message": "if you still want this, you need to rebase. given the number of versions that didn\u0027t make it into u-c, likely everything \u003c5.2.0 would need to get blocked?",
       "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96dbda22_954593d3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-03-27T08:55:56Z",
+      "side": 1,
+      "message": "Only this version is needed. Versions before 5.0.1 doesn\u0027t have [1]; versions after 5.0.1 have the patch fixing the issue introduced in [1] for some projects (Neutron). So far, just blocking 5.0.1 is enough.\n\n[1]https://review.opendev.org/c/openstack/oslo.log/+/852443\n[2]https://review.opendev.org/c/openstack/oslo.log/+/864252",
+      "parentUuid": "80bafc94_8e93858f",
+      "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
