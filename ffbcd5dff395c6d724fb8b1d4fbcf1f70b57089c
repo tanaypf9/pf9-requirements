@@ -34,6 +34,24 @@
       "parentUuid": "80bafc94_8e93858f",
       "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "50bf5659_b36e2000",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-03-27T09:17:58Z",
+      "side": 1,
+      "message": "You should notice that 5.2.0 (https://review.opendev.org/c/openstack/requirements/+/878130) is a revert of all the fixes introduced since 5.0.0. Indeed the previous requirements bumps were stucks by the gates (jobs failing) even with the fixes.\n\nThese fixes for now are removed from Antelope, and are still present on the master branch. If we want to reintroduce them we should also find why they broke the gates:\n\n- https://review.opendev.org/c/openstack/requirements/+/864741\n- https://review.opendev.org/c/openstack/requirements/+/873390\n\nThe reverts:\n- https://review.opendev.org/c/openstack/oslo.log/+/877816\n- https://review.opendev.org/c/openstack/oslo.log/+/877817\n- https://review.opendev.org/c/openstack/oslo.log/+/877818",
+      "parentUuid": "96dbda22_954593d3",
+      "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
