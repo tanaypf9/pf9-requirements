@@ -16,6 +16,24 @@
       "message": "O.k., but this sounds to me like 5.0.2 and 5.1.0 at least also need to be blocked.\n\nPlus maybe oslo needs better integration testing.",
       "revId": "6d6a24c597e195b21a830b3eb8b4e21ccf78712e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "38918cff_aed1cbe2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-03-28T10:05:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bf0617b6_b49fd11a",
+      "revId": "6d6a24c597e195b21a830b3eb8b4e21ccf78712e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }

@@ -70,6 +70,24 @@
       "parentUuid": "50bf5659_b36e2000",
       "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9049756a_8b5adccd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-03-28T10:05:01Z",
+      "side": 1,
+      "message": "I didn\u0027t see the reverts. I commented in the release requirements patch bumping the oslo.log version to 5.0.1 that a fix was merged to solve the possible issue introduced.\n\nIn any case, if you have reverted anything from \u003e5.0.0, it makes sense to block at least 5.0.1, 5.0.2 and 5.1.0. I\u0027ll update the patch.",
+      "parentUuid": "baab1365_ef8b05b8",
+      "revId": "ffbcd5dff395c6d724fb8b1d4fbcf1f70b57089c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
