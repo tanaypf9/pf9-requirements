@@ -16,6 +16,23 @@
       "message": "My understanding is that historically openstack has bumped linters and similar tools at the beginning of cycles with the expectation that it will break things. But also with the expectation that breaking things at the start of the cycle is the best time to do so and people can fix them.\n\nI think if that is still the process then this may not be necessary?",
       "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c376e48_e5e04900",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-03-28T04:39:31Z",
+      "side": 1,
+      "message": "mypy is listed in global-requirements and is thus treated like any other dependency, getting checked by a periodic job every week and updates proposed as soon as new versions appear on pypi. If you want to change that, discuss with the requirements team whether some special handling might be needed.\n\nDepending on your pov it has been good or bad luck that the proposal job has been broken for quite some time during the last cycle and even after it got repaired it took until now for projects to fix multiple issues so that only now the first u-c update in 6 months got merged. But expect that cadence to go back to normal in the future.",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
