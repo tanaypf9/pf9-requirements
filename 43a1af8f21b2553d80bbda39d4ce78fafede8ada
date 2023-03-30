@@ -34,6 +34,41 @@
       "parentUuid": "9b33a63c_bc23b74f",
       "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ce695eb4_25027245",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2023-03-30T06:35:52Z",
+      "side": 1,
+      "message": "I just don\u0027t like",
+      "parentUuid": "e90951a6_b94bdfc0",
+      "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca6325c6_a7fa3146",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2023-03-30T06:35:52Z",
+      "side": 1,
+      "message": "Feel free to ignore me, but I just don\u0027t like adding projects that are \"top level\" ones rather then libraries to u-c. As you might already have tempest in requirements, while using u-c for other libraries, so adding tempest to u-c will bring a regression to such usecases (which I personally treat as valid ones despite there\u0027s no much agreement).",
+      "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
