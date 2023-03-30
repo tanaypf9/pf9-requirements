@@ -16,6 +16,24 @@
       "message": "I\u0027d also prefer we update this package instead of downgrading it.\nOne of our Neutron agents is using `pyzmq\u003d\u003d23.2.1`.",
       "revId": "078c2e528e66aada59436cc53ed1b5781c761927",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f1c88d0a_be3f1175",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28356
+      },
+      "writtenOn": "2023-03-30T11:14:27Z",
+      "side": 1,
+      "message": "Me too, but salt 3005 has requirement for pyzmq\u003c\u003d20.0.0.",
+      "parentUuid": "2786f4af_ab8ef0bd",
+      "revId": "078c2e528e66aada59436cc53ed1b5781c761927",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
