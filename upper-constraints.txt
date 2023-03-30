@@ -194,7 +194,7 @@ nocasedict===2.0.0
 task-core===0.2.1
 psycopg2-binary===2.9.5
 openstack-release-test===4.0.0
-validations-libs===1.8.0
+validations-libs===1.9.0
 pylxd===2.3.1
 pycryptodomex===3.17
 requests-mock===1.10.0
