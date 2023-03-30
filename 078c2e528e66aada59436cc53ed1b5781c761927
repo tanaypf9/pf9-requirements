@@ -51,6 +51,24 @@
       "message": "Kolla got macros to handle u-c overrides: https://review.opendev.org/c/openstack/kolla/+/878649\n\nSo for now I am fine with whatever goes - will override if needed.",
       "revId": "078c2e528e66aada59436cc53ed1b5781c761927",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0a4c5821_4a40ee14",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25277
+      },
+      "writtenOn": "2023-03-30T14:06:07Z",
+      "side": 1,
+      "message": "Ah, in this case let\u0027s downgrade. `pyzmq\u003d\u003d19.0.2` appears to be working in our environment and anything is better than the broken version!",
+      "parentUuid": "f1c88d0a_be3f1175",
+      "revId": "078c2e528e66aada59436cc53ed1b5781c761927",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
