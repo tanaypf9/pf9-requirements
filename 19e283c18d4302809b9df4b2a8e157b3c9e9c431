@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7ebb4eb_756ff073",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-03-31T14:10:08Z",
+      "side": 1,
+      "message": "recheck - Swift job issue.",
+      "revId": "19e283c18d4302809b9df4b2a8e157b3c9e9c431",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
