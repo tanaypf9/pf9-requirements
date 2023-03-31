@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a468789_489af109",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25277
+      },
+      "writtenOn": "2023-03-31T09:55:13Z",
+      "side": 1,
+      "message": "Looks like we need a version \u003e19.0.2 but \u003c20.0.0 but there is nothing in-between available on pypi...",
+      "revId": "2473053c350d5a9034a6ed21d7ce91391b6937fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
