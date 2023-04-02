@@ -16,6 +16,23 @@
       "message": "Looks like we need a version \u003e19.0.2 but \u003c20.0.0 but there is nothing in-between available on pypi...",
       "revId": "2473053c350d5a9034a6ed21d7ce91391b6937fc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "22ea1e8d_a06b0095",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-02T11:48:54Z",
+      "side": 1,
+      "message": "if something is blocking newer pyzmq, we should fix that blocker rather than keep using extremely outdated software here. pyzmq 19.0.2 is almost three years old, recent 25.0.0 adds wheels for py310 and 311 which could help to avoid build issues like in https://review.opendev.org/c/openstack/requirements/+/879227",
+      "revId": "2473053c350d5a9034a6ed21d7ce91391b6937fc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
