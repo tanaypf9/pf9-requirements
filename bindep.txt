@@ -1,3 +1,4 @@
+# TEST
 # These are needed to build all the things in global-requirements, which we do
 # for integration testing, generate-constraints and wheel building.
 
