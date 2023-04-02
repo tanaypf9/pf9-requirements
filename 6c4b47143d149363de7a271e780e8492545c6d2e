@@ -16,6 +16,24 @@
       "message": "duplicated line?",
       "revId": "6c4b47143d149363de7a271e780e8492545c6d2e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cef16292_fe6de216",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 250,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-02T09:35:35Z",
+      "side": 1,
+      "message": "Ah, sorry, didn\u0027t mean to commit that. I was testing with capping pysaml2 only for py38, but then decided a) to put that into a dedicated patch and b) discuss first whether given the current PTI specs we should stop caring about py38 completely and just maintain master constraints for py39++",
+      "parentUuid": "5ee66072_5b5fa50b",
+      "revId": "6c4b47143d149363de7a271e780e8492545c6d2e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
