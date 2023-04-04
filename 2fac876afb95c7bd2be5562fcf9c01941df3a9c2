@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7629af45_f52c2a75",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-04T09:32:29Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/requirements/+/879230 is failing, seems to be the issue that was to be fixed by this pin",
+      "revId": "2fac876afb95c7bd2be5562fcf9c01941df3a9c2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
