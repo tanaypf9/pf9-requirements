@@ -547,7 +547,7 @@ futurist===2.4.1
 jsonschema===4.17.3
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.6.0
-alembic===1.9.4
+alembic===1.10.2
 execnet===1.9.0
 glance-store===4.3.0
 sphinxcontrib-programoutput===0.17
