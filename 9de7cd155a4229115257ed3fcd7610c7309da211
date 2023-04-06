@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f175fcac_33606215",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-04-06T14:08:37Z",
+      "side": 1,
+      "message": "We\u0027ll probably also want to add oslo.db 13.0.0 (or whatever it ends up being) here",
+      "revId": "9de7cd155a4229115257ed3fcd7610c7309da211",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
