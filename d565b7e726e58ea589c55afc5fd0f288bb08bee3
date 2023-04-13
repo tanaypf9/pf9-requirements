@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c49d147f_1b550bcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-04-13T12:57:09Z",
+      "side": 1,
+      "message": "I need first to address the issues in UTs \"neutron.tests.unit.services.metering.test_metering_plugin.TestMeteringPlugin\"\n\nI\u0027ll open a bug in Neutron",
+      "revId": "d565b7e726e58ea589c55afc5fd0f288bb08bee3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
