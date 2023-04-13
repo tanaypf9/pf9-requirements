@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "947b1d14_09b893d4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-13T05:23:29Z",
+      "side": 1,
+      "message": "Needs dependency to merge before approving",
+      "revId": "fbc45b75fd3bfd2db4915db4530f170c4fa8d4fe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
