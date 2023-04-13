@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Verified+2: Zuul
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Submitted-by: Zuul
+Submitted-at: Thu, 13 Apr 2023 15:48:36 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/880280
+Project: openstack/requirements
+Branch: refs/heads/stable/xena
