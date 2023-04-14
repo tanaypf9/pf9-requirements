@@ -596,3 +596,5 @@ actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.4
 scikit-learn===1.2.2
+types-requests===2.28.11.17
+types-simplejson===3.18.0.3
