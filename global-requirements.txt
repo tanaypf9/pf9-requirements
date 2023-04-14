@@ -516,3 +516,7 @@ zipp  # MIT
 gitdb  # BSD
 gitdb2  # BSD
 toml!=0.10.1  # Apache-2.0
+
+# Types packages
+types-requests
+types-simplejson
