@@ -16,6 +16,23 @@
       "message": "Needs dependency to merge before approving",
       "revId": "fbc45b75fd3bfd2db4915db4530f170c4fa8d4fe",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d172dfc4_cf331682",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-04-14T19:26:56Z",
+      "side": 1,
+      "message": "governance patch is merged, this is ready to go https://review.opendev.org/c/openstack/governance/+/880014",
+      "revId": "fbc45b75fd3bfd2db4915db4530f170c4fa8d4fe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
