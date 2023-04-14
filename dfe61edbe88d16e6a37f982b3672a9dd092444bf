@@ -16,6 +16,23 @@
       "message": "Looks good!",
       "revId": "dfe61edbe88d16e6a37f982b3672a9dd092444bf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47af6361_9c5d3283",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22629
+      },
+      "writtenOn": "2023-04-14T06:10:35Z",
+      "side": 1,
+      "message": "I think it\u0027s not going to merge, because it\u0027s stacked together with DNM: Test salt 3006.rc3",
+      "revId": "dfe61edbe88d16e6a37f982b3672a9dd092444bf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
