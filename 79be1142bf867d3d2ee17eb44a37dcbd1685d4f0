@@ -34,6 +34,23 @@
       "parentUuid": "cd163815_716ade11",
       "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c9a5de7_5cf54552",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-18T14:11:54Z",
+      "side": 1,
+      "message": "At least cinder and manila require further patches, too.",
+      "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
