@@ -51,6 +51,42 @@
       "message": "At least cinder and manila require further patches, too.",
       "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b7eb739c_573d75bd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-04-20T10:12:00Z",
+      "side": 1,
+      "message": "I\u0027ve patches to fix both oslo.db and sqlalchemy 2.x support for various projects:\n\ncinder: https://review.opendev.org/q/topic:sqlalchemy-20+is:open+-is:wip+project:openstack/cinder\n\nmanila: https://review.opendev.org/q/topic:sqlalchemy-20+is:open+-is:wip+project:openstack/manila\n\nnova: https://review.opendev.org/q/topic:sqlalchemy-20+is:open+-is:wip+project:openstack/nova",
+      "parentUuid": "2c9a5de7_5cf54552",
+      "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78211e9c_61a39680",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-04-20T10:12:00Z",
+      "side": 1,
+      "message": "I fixed this in [1]. I guess we need a release\n\n[1] https://review.opendev.org/c/openstack/python-aodhclient/+/880639",
+      "parentUuid": "5e2b554b_83f2d846",
+      "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
