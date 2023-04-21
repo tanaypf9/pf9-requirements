@@ -104,6 +104,23 @@
       "message": "recheck new release of python-aodhclient out so let\u0027s see what\u0027s left to fix",
       "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72646bb7_21ff5766",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-21T18:25:51Z",
+      "side": 1,
+      "message": "recheck needed the u-c bump to merge, too\n\nwould it also make sense to add the heads of your other stacks as deps or are those still too much in flux?",
+      "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
