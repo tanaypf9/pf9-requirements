@@ -87,6 +87,23 @@
       "parentUuid": "5e2b554b_83f2d846",
       "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9fa98f32_5b4ea145",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-04-21T09:30:00Z",
+      "side": 1,
+      "message": "recheck new release of python-aodhclient out so let\u0027s see what\u0027s left to fix",
+      "revId": "79be1142bf867d3d2ee17eb44a37dcbd1685d4f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
