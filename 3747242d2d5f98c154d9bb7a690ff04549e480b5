@@ -67,6 +67,24 @@
       "message": "Also if people still depend so much on py38, we should reintroduce the py38 check.",
       "revId": "3747242d2d5f98c154d9bb7a690ff04549e480b5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "df56cf42_1da44dd4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2023-04-24T18:33:44Z",
+      "side": 1,
+      "message": "I agree, we have dropped the py3.8 in this cycle and testing also should be gone. If we are keeping py38 support then it should be tested completely",
+      "parentUuid": "58ebd7f5_4f31e634",
+      "revId": "3747242d2d5f98c154d9bb7a690ff04549e480b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
