@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f40348fb_d472c218",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2023-04-24T16:33:25Z",
+      "side": 1,
+      "message": "Please please please, yes, please buy some time so Nova can find a solution on how to move some ceph job to Jammy without that being a hard gate blocker.\n\nI\u0027m sad that tooz upgraded their python support the hard way, but now the ship is sailed and I\u0027d rather enjoy if OpenStack as a whole consumer would assume this step as being big enough to get proper taskforce to address it.",
+      "revId": "3747242d2d5f98c154d9bb7a690ff04549e480b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
