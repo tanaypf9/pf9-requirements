@@ -50,6 +50,23 @@
       "message": "I think a better short-term workaround would be to just cap tooz for \u003c\u003dpy38.",
       "revId": "3747242d2d5f98c154d9bb7a690ff04549e480b5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58ebd7f5_4f31e634",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-04-24T18:10:41Z",
+      "side": 1,
+      "message": "Also if people still depend so much on py38, we should reintroduce the py38 check.",
+      "revId": "3747242d2d5f98c154d9bb7a690ff04549e480b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
