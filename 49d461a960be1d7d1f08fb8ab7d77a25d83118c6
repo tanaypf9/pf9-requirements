@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ba691e4_ef51a253",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-04-25T11:02:10Z",
+      "side": 1,
+      "message": "once projects drop py38 support this can be re reverted",
+      "revId": "49d461a960be1d7d1f08fb8ab7d77a25d83118c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
