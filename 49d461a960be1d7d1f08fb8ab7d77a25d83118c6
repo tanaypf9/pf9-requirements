@@ -16,6 +16,23 @@
       "message": "once projects drop py38 support this can be re reverted",
       "revId": "49d461a960be1d7d1f08fb8ab7d77a25d83118c6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90fa63c9_00269c4a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-04-25T11:03:00Z",
+      "side": 1,
+      "message": "thanks",
+      "revId": "49d461a960be1d7d1f08fb8ab7d77a25d83118c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
