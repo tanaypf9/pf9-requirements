@@ -1,5 +1,29 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc415841_0301d234",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 391,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-04-25T10:47:46Z",
+      "side": 1,
+      "message": "pysaml 7.4.0+ requires python\u003e\u003d3.9 https://github.com/IdentityPython/pysaml2/commit/7d34181fc0b7929e0100973e140d61f8fbf31d97 , so focal jobs broke again like it did with tooz https://review.opendev.org/c/openstack/requirements/+/881329\n\nwould be good to hold the updates until next steps are clear with focal jobs in master and projects adapt to it.",
+      "range": {
+        "startLine": 391,
+        "startChar": 0,
+        "endLine": 391,
+        "endChar": 7
+      },
+      "revId": "bda7d7fb77f93df3938b873b3d4b28e5594367ef",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
