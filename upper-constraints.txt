@@ -72,6 +72,7 @@ nosehtmloutput===0.0.7
 waitress===2.1.2
 os-refresh-config===13.1.0
 pysnmp===4.4.12
+pysnmplib===5.0.21
 types-PyYAML===6.0.12.9
 Mako===1.2.4
 pyScss===1.4.0
