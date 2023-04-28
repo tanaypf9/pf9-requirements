@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bc52bd94_fae2c0ec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-04-28T13:27:34Z",
+      "side": 1,
+      "message": "recheck cross-nova-functional timeout",
+      "revId": "b1b3403a048c7fff6a7d645f066735e6437c7035",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
