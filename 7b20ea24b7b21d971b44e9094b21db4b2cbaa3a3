@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "088d1e86_36793a57",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2023-05-03T11:00:18Z",
+      "side": 1,
+      "message": "Thanks prometheanfire for the pointers, I think this needs bit more investigation from my side and some discussions.\n\nWhile this is blocking the aodh requirements_check job merge, it does not change the fact that gnocchi has been long time requirement there.\n\nI\u0027ll keep the patch hanging for now and reach out with any details I find.",
+      "revId": "7b20ea24b7b21d971b44e9094b21db4b2cbaa3a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
