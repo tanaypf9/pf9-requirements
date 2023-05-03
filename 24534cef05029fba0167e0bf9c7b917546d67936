@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab577191_8860224a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14200
+      },
+      "writtenOn": "2023-05-03T13:19:35Z",
+      "side": 1,
+      "message": "lets wait for https://github.com/docker/docker-py/issues/3113\nand I\u0027ll try to fix the issue in the related project",
+      "revId": "24534cef05029fba0167e0bf9c7b917546d67936",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
