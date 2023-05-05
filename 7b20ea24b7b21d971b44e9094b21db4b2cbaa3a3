@@ -16,6 +16,23 @@
       "message": "Thanks prometheanfire for the pointers, I think this needs bit more investigation from my side and some discussions.\n\nWhile this is blocking the aodh requirements_check job merge, it does not change the fact that gnocchi has been long time requirement there.\n\nI\u0027ll keep the patch hanging for now and reach out with any details I find.",
       "revId": "7b20ea24b7b21d971b44e9094b21db4b2cbaa3a3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c70664a1_65bd1ba7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2023-05-05T12:36:50Z",
+      "side": 1,
+      "message": "After looking into the Aodh requirements bit more, gnocchi is not a lib aodh requires, but rather backend service. the gnocchi client is correctly already in the global requirements. It makes no sense to actually add gnocchi itself as requirement.\n\nI\u0027ve proposed a change to aodh to correct this and refactor some of it\u0027s requirements \u0026 tox venv builds. Will abandon this change as result.",
+      "revId": "7b20ea24b7b21d971b44e9094b21db4b2cbaa3a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
