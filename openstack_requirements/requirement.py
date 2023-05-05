@@ -10,7 +10,7 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-"""Requirements handling."""
+"""Dummy change -- Requirements handling."""
 
 # This module has no IO at all, and none should be added.
 
