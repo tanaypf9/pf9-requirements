@@ -16,6 +16,23 @@
       "message": "recheck pep8 fixed",
       "revId": "aa5ad2bcc64b64d1bf6d2a2bc5f36e2a04b7a216",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b24cedc0_f0001422",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-05-09T13:45:02Z",
+      "side": 1,
+      "message": "recheck - gate fix has landed",
+      "revId": "aa5ad2bcc64b64d1bf6d2a2bc5f36e2a04b7a216",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
