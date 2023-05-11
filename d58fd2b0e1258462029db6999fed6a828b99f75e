@@ -33,6 +33,41 @@
       "message": "just noticed that pep8 also failed, which is really weird because the error is:\n\n./openstack_requirements/cmds/update.py:39:80: E501 line too long (82 \u003e 79 characters)\n\nand there are no lines longer than 79 chars in that file",
       "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "caa9d0c9_c5d0f196",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T12:33:38Z",
+      "side": 1,
+      "message": "Actually, i take that back.  I was looking at master, not stable/yoga.  There is a too-long line in that file.",
+      "parentUuid": "ac31bb46_e3f57445",
+      "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "aa7fa88c_d1e83c63",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T12:33:38Z",
+      "side": 1,
+      "message": "Looks like https://review.opendev.org/#/q/Ia6bcf800a284 needs to be backported to yoga.",
+      "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
