@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8995ee28_873ceba2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T12:14:30Z",
+      "side": 1,
+      "message": "recheck cross-manila-py310 -- database timeout in manila.tests.db.migrations.alembic.test_migration.TestManilaMigrationsMySQL.test_walk_versions -- not related to os-brick",
+      "revId": "a4c376c82f8bc317bbea37a73a77711df23c02e8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
