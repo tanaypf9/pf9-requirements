@@ -1,0 +1,10 @@
+Verified+2: Zuul
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Rodolfo Alonso <ralonsoh@redhat.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Submitted-by: Zuul
+Submitted-at: Thu, 11 May 2023 20:25:15 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/882928
+Project: openstack/requirements
+Branch: refs/heads/master
