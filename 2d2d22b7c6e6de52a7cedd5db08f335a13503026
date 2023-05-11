@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "32c3eddc_2e846e3c",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 4146
+      },
+      "writtenOn": "2023-05-11T15:22:41Z",
+      "side": 1,
+      "message": "Nit: this isn\u0027t necessary in a multiline string.",
+      "range": {
+        "startLine": 39,
+        "startChar": 20,
+        "endLine": 39,
+        "endChar": 21
+      },
+      "revId": "2d2d22b7c6e6de52a7cedd5db08f335a13503026",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
