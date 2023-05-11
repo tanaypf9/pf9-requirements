@@ -16,6 +16,23 @@
       "message": "recheck cross-manila-py38 -- POST_FAILURE ... tests actually all passed, connection to the host was lost during post processing",
       "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac31bb46_e3f57445",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T12:26:13Z",
+      "side": 1,
+      "message": "just noticed that pep8 also failed, which is really weird because the error is:\n\n./openstack_requirements/cmds/update.py:39:80: E501 line too long (82 \u003e 79 characters)\n\nand there are no lines longer than 79 chars in that file",
+      "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
