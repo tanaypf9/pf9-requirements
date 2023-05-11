@@ -85,6 +85,23 @@
       "message": "Backport to fix the pep8 problem: https://review.opendev.org/c/openstack/requirements/+/882944",
       "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0e22a994_ccc2c071",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T20:29:15Z",
+      "side": 1,
+      "message": "recheck pep8 fix has merged",
+      "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
