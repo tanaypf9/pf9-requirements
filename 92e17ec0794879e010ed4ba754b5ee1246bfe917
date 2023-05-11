@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a19c261c_b6d7cd6d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 251,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T20:41:37Z",
+      "side": 1,
+      "message": "It\u0027s a jump from 6.2.0-\u003e6.2.2 because the update for the 6.2.1 release was missed.",
+      "revId": "92e17ec0794879e010ed4ba754b5ee1246bfe917",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
