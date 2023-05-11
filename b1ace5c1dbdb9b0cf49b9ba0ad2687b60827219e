@@ -22,6 +22,30 @@
       },
       "revId": "b1ace5c1dbdb9b0cf49b9ba0ad2687b60827219e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dc5ae4f3_d78130e0",
+        "filename": "openstack_requirements/cmds/update.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T15:29:22Z",
+      "side": 1,
+      "message": "I think frickler was trying to preserve the original as much as possible.  I\u0027m pretty sure that without the backslash you wind up with a newline before the first \u0027#\u0027, and you don\u0027t have that in the original string.",
+      "parentUuid": "267e45f4_01c6486a",
+      "range": {
+        "startLine": 39,
+        "startChar": 20,
+        "endLine": 39,
+        "endChar": 21
+      },
+      "revId": "b1ace5c1dbdb9b0cf49b9ba0ad2687b60827219e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
