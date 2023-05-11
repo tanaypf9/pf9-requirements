@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0c886ba_986be9dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-11T12:19:47Z",
+      "side": 1,
+      "message": "recheck cross-manila-py38 -- POST_FAILURE ... tests actually all passed, connection to the host was lost during post processing",
+      "revId": "d58fd2b0e1258462029db6999fed6a828b99f75e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
