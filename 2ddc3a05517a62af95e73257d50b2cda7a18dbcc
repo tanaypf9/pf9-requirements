@@ -16,6 +16,23 @@
       "message": "recheck pep8 fix has merged",
       "revId": "2ddc3a05517a62af95e73257d50b2cda7a18dbcc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ea731a3_6f74e69c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-12T15:42:43Z",
+      "side": 1,
+      "message": "recheck tempest-slow-py3 -- socket failure during tempest.scenario.test_security_groups_basic_ops.TestSecurityGroupsBasicOps.test_cross_tenant_traffic",
+      "revId": "2ddc3a05517a62af95e73257d50b2cda7a18dbcc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
