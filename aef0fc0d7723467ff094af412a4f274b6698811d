@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0af574b5_fde78e41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-05-15T12:26:23Z",
+      "side": 1,
+      "message": "recheck\n\nNot sure why some jobs are considering this a conflict:\n\n```\nThe conflict is caused by:\n    The user requested oslo.policy\u003e\u003d3.7.0\n    The user requested (constraint) oslo-policy\u003d\u003d\u003d4.2.0\n```",
+      "revId": "aef0fc0d7723467ff094af412a4f274b6698811d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
