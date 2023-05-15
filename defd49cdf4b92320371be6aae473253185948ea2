@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9528783_cc680319",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-05-15T09:20:21Z",
+      "side": 1,
+      "message": "recheck\ntempest-full-py3 timeout, tests were green",
+      "revId": "defd49cdf4b92320371be6aae473253185948ea2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
