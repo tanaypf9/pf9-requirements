@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe0e6cfc_4b12b76a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-05-17T19:32:49Z",
+      "side": 1,
+      "message": "recheck - tempest.api.object_storage.test_object_expiry.ObjectExpiryTest.test_get_object_at_expiry_time failure",
+      "revId": "afd822d5192aee2c91795e8ba44a22d67953f629",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
