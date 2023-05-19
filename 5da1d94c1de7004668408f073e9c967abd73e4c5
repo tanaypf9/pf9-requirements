@@ -16,6 +16,23 @@
       "message": "I\u0027m not sure if this is really an appropriate use of a version anti-pin (or whatever it\u0027s called). This was just a bug, didn\u0027t apply to everyone, didn\u0027t corrupt data or anything, and wasn\u0027t even a 100% fail. So I guess I\u0027ll leave it up to the requirements people. That said, it *does* block the version in question :)",
       "revId": "5da1d94c1de7004668408f073e9c967abd73e4c5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3cf8e420_328c82c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-05-19T03:44:27Z",
+      "side": 1,
+      "message": "I see your point, makes sense.",
+      "revId": "5da1d94c1de7004668408f073e9c967abd73e4c5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
