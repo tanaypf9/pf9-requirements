@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "485727e0_f9a08403",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-05-21T08:20:08Z",
+      "side": 1,
+      "message": "cinder and nova failures look real. another case of releasing things with insufficient testing imo :-(",
+      "revId": "43c28ec53314076d6d53582234d175870748593a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
