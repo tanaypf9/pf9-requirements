@@ -16,6 +16,24 @@
       "message": "Looks like stestr needs to be updated first.",
       "revId": "d008960e417181d5405e4217c4a5febcdc914cf7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb40006c_6b75d704",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-05-21T08:15:32Z",
+      "side": 1,
+      "message": "No, the first job just likely ran before piblishing on pypi was finished. this is a pretty common failure recently, maybe we should add some delay into the release automation. check the buildset timeline at https://zuul.opendev.org/t/openstack/buildset/d9fcf7dc275a44daa433028ebcec7e45",
+      "parentUuid": "20fc7273_efadc040",
+      "revId": "d008960e417181d5405e4217c4a5febcdc914cf7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
