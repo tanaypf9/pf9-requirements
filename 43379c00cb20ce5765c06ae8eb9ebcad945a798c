@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "307f0eb0_f3d50d48",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-05-24T09:26:57Z",
+      "side": 1,
+      "message": "meh, this is getting out of hands\n\nalso requests\u003d\u003d2.30.0 is bad \nhttps://github.com/psf/requests/security/advisories/GHSA-j8r2-6x86-q33q",
+      "revId": "43379c00cb20ce5765c06ae8eb9ebcad945a798c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
