@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1fe24037_742ddf12",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-06-12T14:45:17Z",
+      "side": 1,
+      "message": "Looks like there is a problem proposing updates to the `stable/2023.1` branch.",
+      "revId": "12f9054653dc8a45652ee5ff78efef6d6b800a8b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
