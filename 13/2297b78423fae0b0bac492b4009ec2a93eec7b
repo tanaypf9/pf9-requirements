@@ -1,0 +1,9 @@
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Submitted-by: Zuul
+Submitted-at: Mon, 12 Jun 2023 18:12:31 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/885592
+Project: openstack/requirements
+Branch: refs/heads/stable/zed
