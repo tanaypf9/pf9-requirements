@@ -16,6 +16,23 @@
       "message": "recheck - Unrelated tempest failure.",
       "revId": "265cad8956fd4d018f4aba4702247785d9b379f0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0fd6022_3a362011",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-06-13T17:26:37Z",
+      "side": 1,
+      "message": "Xstatic in general needs work/revision.",
+      "revId": "265cad8956fd4d018f4aba4702247785d9b379f0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
