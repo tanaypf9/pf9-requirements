@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "836c0f93_960f5585",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-06-13T18:50:28Z",
+      "side": 1,
+      "message": "Placement needs: https://review.opendev.org/c/openstack/placement/+/880623/\nNova needs: https://review.opendev.org/c/openstack/nova/+/880668/",
+      "revId": "70267faba7aeebba77b37ccf640d87fe97e4ee79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
