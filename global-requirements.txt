@@ -302,7 +302,6 @@ python-dateutil  # BSD
 python-binary-memcached  # MIT
 uhashring  # BSD
 
-# 2013.6 is the first version of pytz that is PEP 440 compatible.
 pytz  # MIT
 pyudev  # LGPLv2.1+
 PyYAML  # MIT
@@ -328,13 +327,8 @@ six  # MIT
 scipy  # BSD
 scikit-learn  # BSD
 setproctitle  # BSD
-# NOTE(yamahata):
-# bug work around of sqlalchemy
-# https://bitbucket.org/zzzeek/sqlalchemy/issues/3952/
-# The fix which is in git master branch is planned for 1.1.9
-SQLAlchemy!=1.1.5,!=1.1.6,!=1.1.7,!=1.1.8  # MIT
+SQLAlchemy  # MIT
 SQLAlchemy-Utils  # BSD License
-sqlalchemy-migrate  # Apache-2.0
 sqlalchemy-filters  # Apache-2.0
 sqlparse  # BSD
 stevedore!=3.0.0  # Apache-2.0
@@ -498,7 +492,7 @@ zake  # Apache-2.0
 zuul-sphinx  # Apache-2.0
 sadisplay  # BSD
 
-# NOTE(tonyb): Generally adding OpenSatck services isn't allowed but some consumers of ceilometer
+# NOTE(tonyb): Generally adding OpenStack services isn't allowed but some consumers of ceilometer
 # use it like a library so until there is a ceilometer-lib (or similar) this is our best option.
 ceilometer  # Apache-2.0
 
