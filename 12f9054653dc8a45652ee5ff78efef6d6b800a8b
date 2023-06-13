@@ -16,6 +16,24 @@
       "message": "Looks like there is a problem proposing updates to the `stable/2023.1` branch.",
       "revId": "12f9054653dc8a45652ee5ff78efef6d6b800a8b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dfdd7b3b_47f40ba5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-06-13T18:37:35Z",
+      "side": 1,
+      "message": "Wait, this is on the master branch but as you point out it\u0027s an antelope/2023.1 release/update.\n\nShould we:\na) check that the release-tools propose the right chnage ; and\nb) rebase this onto stable/2023.1",
+      "parentUuid": "1fe24037_742ddf12",
+      "revId": "12f9054653dc8a45652ee5ff78efef6d6b800a8b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
