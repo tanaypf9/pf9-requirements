@@ -152,7 +152,7 @@ semantic-version===2.10.0
 async-timeout===4.0.2
 virtualbmc===3.1.0
 deprecation===2.1.0
-SQLAlchemy===1.4.41
+SQLAlchemy===2.0.21
 pyroute2===0.7.7
 google-auth===2.17.3
 kazoo===2.9.0
@@ -269,7 +269,7 @@ enmerkar===0.7.1
 webcolors===1.13
 aodhclient===3.3.0
 autobahn===23.1.2
-SQLAlchemy-Utils===0.41.0
+SQLAlchemy-Utils===0.41.1
 retryz===0.1.9
 pluggy===1.0.0
 coverage===7.2.3
@@ -327,7 +327,6 @@ murano-pkg-check===0.3.0
 oslo.vmware===4.2.0
 XStatic-moment===2.8.4.3
 autopage===0.5.1
-sqlalchemy-migrate===0.13.0
 gitdb===4.0.10
 python-monascaclient===2.8.0
 ldap3===2.9.1
@@ -549,7 +548,7 @@ futurist===2.4.1
 jsonschema===4.17.3
 sphinxcontrib-devhelp===1.0.2
 python-blazarclient===3.7.0
-alembic===1.9.4
+alembic===1.12.0
 execnet===1.9.0
 glance-store===4.6.1
 sphinxcontrib-programoutput===0.17
