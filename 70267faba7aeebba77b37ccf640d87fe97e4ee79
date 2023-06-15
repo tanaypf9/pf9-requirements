@@ -16,6 +16,23 @@
       "message": "Placement needs: https://review.opendev.org/c/openstack/placement/+/880623/\nNova needs: https://review.opendev.org/c/openstack/nova/+/880668/",
       "revId": "70267faba7aeebba77b37ccf640d87fe97e4ee79",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1e9b618_5ecab7d5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-06-15T22:03:38Z",
+      "side": 1,
+      "message": "recheck nova and placement should work now (attempt 2)...",
+      "revId": "70267faba7aeebba77b37ccf640d87fe97e4ee79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
