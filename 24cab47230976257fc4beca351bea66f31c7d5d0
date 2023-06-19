@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f586dafb_9f6e21d1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-06-19T20:42:18Z",
+      "side": 1,
+      "message": "recheck - package publishing race I think",
+      "revId": "24cab47230976257fc4beca351bea66f31c7d5d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
