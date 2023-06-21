@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3b9cd1d_058cbb02",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-06-21T13:49:53Z",
+      "side": 1,
+      "message": "I think the update script still needs to be updated to propose to the correct stable branch.\n\n\u003e meta: series: antelope",
+      "revId": "3a14a5631d6e3e8d25041ce3bbf69e52f73dd869",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
