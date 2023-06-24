@@ -16,6 +16,24 @@
       "message": "recheck - transitent failures?",
       "revId": "505b5b233601e8e458092a601ecf26b25a950dad",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "17836484_34e5804a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-06-24T05:01:27Z",
+      "side": 1,
+      "message": "Real issue, needs a release of https://review.opendev.org/c/openstack/python-aodhclient/+/886753",
+      "parentUuid": "34fa914b_2c551f55",
+      "revId": "505b5b233601e8e458092a601ecf26b25a950dad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
