@@ -242,7 +242,7 @@ python-binary-memcached===0.31.2
 django-debreach===2.1.0
 sphinx-feature-classification===1.1.0
 django-pymemcache===1.0.0
-XStatic-JQuery-Migrate===3.3.2.1
+XStatic-JQuery-Migrate===1.2.1.2
 pytest-html===3.2.0
 appdirs===1.4.4
 tinyrpc===1.1.6
@@ -300,7 +300,8 @@ docutils===0.17.1
 threadpoolctl===3.1.0
 os-ken===2.6.0
 ujson===5.7.0
-selenium===3.141.0
+selenium===3.141.0;python_version=='3.6'
+selenium===4.1.0;python_version=='3.8'
 mypy===1.2.0
 mistral-lib===2.8.0
 dogtag-pki===11.2.1
