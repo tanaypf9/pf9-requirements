@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be965f2c_d92c985e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-06-29T13:59:15Z",
+      "side": 1,
+      "message": "Checking now what is happening with Neutron UTs: https://storage.gra.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_ef9/887270/1/check/cross-neutron-py310/ef93cf7/testr_results.html\n\nI\u0027ll update this patch once we have a result.",
+      "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
