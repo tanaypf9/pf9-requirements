@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f1e43edc_3e285758",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-06-29T13:52:48Z",
+      "side": 1,
+      "message": "recheck\n\n\u003e sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) connection to server on socket \"/tmp/tmpirzhd6ub/.s.PGSQL.9824\" failed: FATAL:  sorry, too many clients already",
+      "revId": "7185bad1dff7b170610cb059628e31ca8429d1b5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
