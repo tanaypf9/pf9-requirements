@@ -51,6 +51,23 @@
       "message": "Should be fixed now",
       "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "25def1ab_aa8c14a5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-06-30T08:13:38Z",
+      "side": 1,
+      "message": "recheck Neutron issue fixed",
+      "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
