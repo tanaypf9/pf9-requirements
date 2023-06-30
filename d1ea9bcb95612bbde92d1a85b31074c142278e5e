@@ -68,6 +68,24 @@
       "message": "recheck Neutron issue fixed",
       "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3bfc3cbc_e826dc74",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-06-30T08:13:53Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8bd32ba7_e2892d8e",
+      "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
