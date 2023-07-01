@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "33ebd647_0325023c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-07-01T20:19:47Z",
+      "side": 1,
+      "message": "duplicate of https://review.opendev.org/c/openstack/requirements/+/883141, needs someone to fix nova and cinder",
+      "revId": "5af0d8ef0a087be001a525ec6b9934fdf3b5ee65",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
