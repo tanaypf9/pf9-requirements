@@ -103,6 +103,23 @@
       "message": "recheck neutron error fixed",
       "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bca236f4_a7772e5c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-07-03T10:02:39Z",
+      "side": 1,
+      "message": "Another patch proposed to fix the test error: https://review.opendev.org/c/openstack/neutron/+/887495",
+      "revId": "d1ea9bcb95612bbde92d1a85b31074c142278e5e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
