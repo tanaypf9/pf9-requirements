@@ -33,6 +33,23 @@
       "message": "recheck - tempest timeout",
       "revId": "24cab47230976257fc4beca351bea66f31c7d5d0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dcfec275_0a4bbcbf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2023-07-07T21:55:56Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "24cab47230976257fc4beca351bea66f31c7d5d0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
