@@ -50,6 +50,23 @@
       "message": "recheck, tempest",
       "revId": "665481bbadd6b586a593d93e9bc223b369427923",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "278a4872_2abb3bc9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 29313
+      },
+      "writtenOn": "2023-07-12T09:31:42Z",
+      "side": 1,
+      "message": "test_bootable_volume_backup_and_restore is failing don\u0027t know why[1]\n\n[1] https://zuul.opendev.org/t/openstack/build/ae816c7170f445e484a94fd0a37844f9/log/job-output.txt#25634",
+      "revId": "665481bbadd6b586a593d93e9bc223b369427923",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
