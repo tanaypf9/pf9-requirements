@@ -33,6 +33,23 @@
       "message": "recheck nova and placement should work now (attempt 2)...",
       "revId": "70267faba7aeebba77b37ccf640d87fe97e4ee79",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bbd5c0e_5403a3a3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-07-12T11:57:08Z",
+      "side": 1,
+      "message": "keystone should also work now",
+      "revId": "70267faba7aeebba77b37ccf640d87fe97e4ee79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
