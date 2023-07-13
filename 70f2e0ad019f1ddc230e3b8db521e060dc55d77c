@@ -16,6 +16,24 @@
       "message": "recheck neutron issues should be fixed now",
       "revId": "70f2e0ad019f1ddc230e3b8db521e060dc55d77c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f2b8b1d_745ee4ea",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-07-13T15:25:14Z",
+      "side": 1,
+      "message": "Right, now is working.",
+      "parentUuid": "63e88832_f2fed316",
+      "revId": "70f2e0ad019f1ddc230e3b8db521e060dc55d77c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
