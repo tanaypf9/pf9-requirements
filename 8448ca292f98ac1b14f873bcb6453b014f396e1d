@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b10cad07_43055115",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6914
+      },
+      "writtenOn": "2023-07-19T16:31:49Z",
+      "side": 1,
+      "message": "recheck, https://review.opendev.org/c/openstack/requirements/+/888914 is merged",
+      "revId": "8448ca292f98ac1b14f873bcb6453b014f396e1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
