@@ -1,0 +1,9 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Tatiana Ovchinnikova <t.v.ovtchinnikova@gmail.com>
+Submitted-by: Zuul
+Submitted-at: Thu, 20 Jul 2023 02:34:30 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/887933
+Project: openstack/requirements
+Branch: refs/heads/master
