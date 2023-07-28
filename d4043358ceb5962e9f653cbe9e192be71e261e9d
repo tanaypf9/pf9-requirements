@@ -16,6 +16,23 @@
       "message": "this should have gone into this branch from the start, but due to a bug in the proposal bot it was submitted against master initially",
       "revId": "d4043358ceb5962e9f653cbe9e192be71e261e9d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "297b02a4_dbabdb10",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2023-07-28T21:55:22Z",
+      "side": 1,
+      "message": "recheck\n\n```\ncross-manila-py310 https://zuul.opendev.org/t/openstack/build/e24c80840a094d0990fe74cefcd60239 : FAILURE in 23m 16s\n```\n\na timeout exception in the db migrate job; happens rarely on \"slow\" nodes.",
+      "revId": "d4043358ceb5962e9f653cbe9e192be71e261e9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
