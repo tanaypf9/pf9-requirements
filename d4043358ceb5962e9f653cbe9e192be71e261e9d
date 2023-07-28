@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47dfc164_6d224440",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-07-28T09:29:23Z",
+      "side": 1,
+      "message": "this should have gone into this branch from the start, but due to a bug in the proposal bot it was submitted against master initially",
+      "revId": "d4043358ceb5962e9f653cbe9e192be71e261e9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
