@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "78919af7_e07b58f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25701
+      },
+      "writtenOn": "2023-08-10T11:56:29Z",
+      "side": 1,
+      "message": "recheck - failed in cross-cinder and manila looks nothing related to this change.",
+      "revId": "720635b93384f91f11b19fb420ae9412e75a1c71",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
