@@ -600,3 +600,4 @@ actdiag===3.0.0
 sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.4
 scikit-learn===1.2.2
+python-observabilityclient===0.0.4
