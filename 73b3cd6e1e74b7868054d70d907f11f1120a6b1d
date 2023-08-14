@@ -16,6 +16,23 @@
       "message": "Adding some Neutron ppl to ensure they agree",
       "revId": "73b3cd6e1e74b7868054d70d907f11f1120a6b1d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66055bbb_e77da2f0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-08-14T07:23:16Z",
+      "side": 1,
+      "message": "good catch, I was sure that all remnant of ryu was dropped when os-ken was froked from ryu.",
+      "revId": "73b3cd6e1e74b7868054d70d907f11f1120a6b1d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
