@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "89c2c60e_c951dcc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-08-18T08:38:28Z",
+      "side": 1,
+      "message": "Version 0.0.4 certainly doesn\u0027t sound mature to me. I would prefer if you could make using it in aodh optional for now. The commit message also still doesn\u0027t answer a lot of the required questions.\n\nIn addition the library doesn\u0027t claim support for python3.10, which is required now, and python3.11 very likely in a few weeks.",
+      "revId": "7325e5c2f960d0c34fc2818a7b006de23beaae8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
