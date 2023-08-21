@@ -16,6 +16,23 @@
       "message": "recheck - timeout",
       "revId": "3c10f0d04dcc7dbc598ef30f6350ec9286d8053f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da24f6b5_9cb3b9c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11975
+      },
+      "writtenOn": "2023-08-21T07:57:21Z",
+      "side": 1,
+      "message": "recheck - unrelated ssh timeout",
+      "revId": "3c10f0d04dcc7dbc598ef30f6350ec9286d8053f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
