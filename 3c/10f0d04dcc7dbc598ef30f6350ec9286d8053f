@@ -1,0 +1,11 @@
+Verified+2: Zuul
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Slawek Kaplonski <skaplons@redhat.com>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+1: Rodolfo Alonso <ralonsoh@redhat.com>
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Submitted-by: Zuul
+Submitted-at: Fri, 25 Aug 2023 16:28:23 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/890414
+Project: openstack/requirements
+Branch: refs/heads/master
