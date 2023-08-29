@@ -16,6 +16,23 @@
       "message": "Seeing that this new library is an OSC plugin, but not within OpenStack governance, I have even more concerns about making it required globally, since we have to ensure that no namespace collisions occur for OSC commands and that the common standards for OSC plugins are being followed. Adding sdks PTL to chime in on this.",
       "revId": "037c15892f19ec9ddb6272f76e6d89e122898cb6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e502ec4b_314803b1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27900
+      },
+      "writtenOn": "2023-08-29T06:53:47Z",
+      "side": 1,
+      "message": "The tool seems to be in the early development stages, maintenance guarantee is unclear. Having official project depend on unofficial one-man tool, which claims to be OpenStack related but not under OpenStack seems really weird. Though I am not going to block that from OSC/SDK side",
+      "revId": "037c15892f19ec9ddb6272f76e6d89e122898cb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
