@@ -52,6 +52,24 @@
       "parentUuid": "5ad756f0_3941c096",
       "revId": "7325e5c2f960d0c34fc2818a7b006de23beaae8f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f758d6e6_b10162a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-08-29T18:40:44Z",
+      "side": 1,
+      "message": "ACK, will do it this way then and abandon this patch. I can revive this review once the project is more acceptable as dependency.",
+      "parentUuid": "64d37350_baa7a3d7",
+      "revId": "7325e5c2f960d0c34fc2818a7b006de23beaae8f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }

@@ -33,6 +33,24 @@
       "message": "The tool seems to be in the early development stages, maintenance guarantee is unclear. Having official project depend on unofficial one-man tool, which claims to be OpenStack related but not under OpenStack seems really weird. Though I am not going to block that from OSC/SDK side",
       "revId": "037c15892f19ec9ddb6272f76e6d89e122898cb6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "09834e12_e88fcc15",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-08-29T18:40:44Z",
+      "side": 1,
+      "message": "Although the library is currently developed by single engineer, it is not a one-man-show project. It is a part or bigger initiative to make autoscaling work with Prometheus instead of Gnocchi. As I wrote above, I will abandon this review now and revive it once the project is more acceptable as hard dependency.",
+      "parentUuid": "e502ec4b_314803b1",
+      "revId": "037c15892f19ec9ddb6272f76e6d89e122898cb6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
