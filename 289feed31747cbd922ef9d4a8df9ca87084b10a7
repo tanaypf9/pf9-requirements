@@ -33,6 +33,24 @@
       "message": "Funnily enough, this isn\u0027t the latest version nor was it the latest version when it was proposed: Sphinx 7.0.0 was released way back in [April](https://pypi.org/project/Sphinx/#history). Is something else holding us back here?",
       "revId": "289feed31747cbd922ef9d4a8df9ca87084b10a7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a76277b_b1fd10ac",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-08-29T10:19:58Z",
+      "side": 1,
+      "message": "See PS1. Though I should have update the commit message. Also openstackdocstheme has been merged since then, maybe try another bump.",
+      "parentUuid": "5399e8f3_bbf6263b",
+      "revId": "289feed31747cbd922ef9d4a8df9ca87084b10a7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ],
   "submitRequirementResults": [
