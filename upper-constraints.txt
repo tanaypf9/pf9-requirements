@@ -75,7 +75,7 @@ pysnmp-lextudio===5.0.26
 types-PyYAML===6.0.12.9
 Mako===1.2.4
 pyScss===1.4.0
-sphinxcontrib-htmlhelp===2.0.1
+sphinxcontrib-htmlhelp===2.0.4
 XStatic-jQuery===3.5.1.1
 ddt===1.6.0
 XStatic-Graphlib===2.1.7.0
@@ -223,7 +223,7 @@ Pygments===2.15.1
 XStatic-Hogan===2.0.0.3
 XStatic-objectpath===1.2.1.0
 python-manilaclient===4.6.0
-sphinxcontrib-serializinghtml===1.1.5
+sphinxcontrib-serializinghtml===1.1.9
 requests===2.28.2
 snowballstemmer===2.2.0
 Jinja2===3.1.2
@@ -402,7 +402,7 @@ more-itertools===9.1.0
 seqdiag===3.0.0
 numpy===1.24.2
 msgpack===1.0.5
-Sphinx===6.2.1
+Sphinx===7.2.4
 oslo.config===9.2.0
 openstackdocstheme===3.2.0
 osc-placement===4.2.0
@@ -488,7 +488,7 @@ abclient===0.2.3
 pymemcache===4.0.0
 wrapt===1.15.0
 oslo.privsep===3.2.0
-sphinxcontrib-apidoc===0.3.0
+sphinxcontrib-apidoc===0.4.0
 oslo.policy===4.2.1
 python-muranoclient===2.7.0
 hvac===1.1.0
@@ -524,7 +524,7 @@ CouchDB===1.2
 netifaces===0.11.0
 cachetools===5.3.0
 ws4py===0.5.1
-sphinxcontrib-qthelp===1.0.3
+sphinxcontrib-qthelp===1.0.6
 keystoneauth1===5.3.0
 statsd===4.0.1
 XenAPI===23.8.0
@@ -547,7 +547,7 @@ cffi===1.15.1
 python-cyborgclient===2.2.1
 futurist===2.4.1
 jsonschema===4.17.3
-sphinxcontrib-devhelp===1.0.2
+sphinxcontrib-devhelp===1.0.5
 python-blazarclient===3.7.0
 alembic===1.9.4
 execnet===1.9.0
@@ -596,5 +596,5 @@ opentelemetry-proto===1.17.0
 XStatic-D3===3.5.17.0
 actdiag===3.0.0
 sysv-ipc===1.1.0
-sphinxcontrib-applehelp===1.0.4
+sphinxcontrib-applehelp===1.0.7
 scikit-learn===1.2.2
