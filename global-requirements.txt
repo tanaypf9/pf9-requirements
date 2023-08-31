@@ -434,7 +434,7 @@ nosehtmloutput  # Apache-2.0
 nosexcover  # BSD
 openstack-doc-tools  # Apache-2.0
 openstack.nose-plugin  # Apache-2.0
-openstacksdk  # Apache-2.0
+openstacksdk>=1.1.0  # Apache-2.0
 os-api-ref  # Apache-2.0
 oslosphinx  # Apache-2.0
 oslotest  # Apache-2.0
