@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "51896aeb_7920ec40",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-08-31T20:46:21Z",
+      "side": 1,
+      "message": "needs at least one more bump:\nsphinx 7.2.4 depends on sphinxcontrib-serializinghtml\u003e\u003d1.1.9\nThe user requested (constraint) sphinxcontrib-serializinghtml\u003d\u003d\u003d1.1.5",
+      "revId": "cfa9d5c1e0f20859343a1acf5a37c759b4e66817",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
