@@ -1,0 +1,11 @@
+Verified+2: Zuul
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Code-Review+1: Jay Faulkner <jay@jvf.cc>
+Code-Review+1: wdd <wangzihao@yovole.com>
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Submitted-by: Zuul
+Submitted-at: Thu, 31 Aug 2023 21:45:01 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/891224
+Project: openstack/requirements
+Branch: refs/heads/master
