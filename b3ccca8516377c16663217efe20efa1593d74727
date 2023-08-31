@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ba6685a_ab1bb026",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-08-31T16:18:15Z",
+      "side": 1,
+      "message": "There was https://review.opendev.org/c/openstack/requirements/+/891223 already for the ryu removal, approving this one now as combined gate fix.",
+      "revId": "b3ccca8516377c16663217efe20efa1593d74727",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
