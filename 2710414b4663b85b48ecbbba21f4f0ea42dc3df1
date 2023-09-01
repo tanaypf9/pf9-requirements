@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a6c7eaee_588aa29f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 309,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-01T06:58:56Z",
+      "side": 0,
+      "message": "hmm, good catch",
+      "range": {
+        "startLine": 309,
+        "startChar": 0,
+        "endLine": 309,
+        "endChar": 17
+      },
+      "revId": "2710414b4663b85b48ecbbba21f4f0ea42dc3df1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
