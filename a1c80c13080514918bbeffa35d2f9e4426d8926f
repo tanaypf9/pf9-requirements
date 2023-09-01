@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "038f5a65_a88f8c77",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-01T07:02:18Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/requirements/+/893403 removed ryu, is this patch still necessary?",
+      "revId": "a1c80c13080514918bbeffa35d2f9e4426d8926f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
