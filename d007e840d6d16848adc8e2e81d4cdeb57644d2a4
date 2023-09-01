@@ -16,6 +16,23 @@
       "message": "I think this should be done in neutronclient, not globally",
       "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "190938e3_5c6b42b7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-01T07:13:02Z",
+      "side": 1,
+      "message": "recheck\nhttps://review.opendev.org/c/openstack/requirements/+/893403 fixed the failing jobs,\nThanks, good idea",
+      "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
