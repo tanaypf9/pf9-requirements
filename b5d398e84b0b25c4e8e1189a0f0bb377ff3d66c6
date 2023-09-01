@@ -33,6 +33,24 @@
       "message": "This needs a !platform:debian-bookworm",
       "revId": "b5d398e84b0b25c4e8e1189a0f0bb377ff3d66c6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9794bdf5_0e1f113b",
+        "filename": "bindep.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-01T14:13:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fdd1f37e_59a2570b",
+      "revId": "b5d398e84b0b25c4e8e1189a0f0bb377ff3d66c6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
