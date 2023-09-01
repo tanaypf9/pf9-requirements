@@ -16,6 +16,23 @@
       "message": "Can we have some confirmation from Neutron team on this one?",
       "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e25df2d2_a95c4987",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-01T07:05:35Z",
+      "side": 1,
+      "message": "looks ok to me, but would ask ykarel or otherwiseguy",
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
