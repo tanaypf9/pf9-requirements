@@ -24,6 +24,30 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "f74e4ef4_1f9f77ff",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-09-01T07:33:32Z",
+      "side": 1,
+      "message": "I agree with Yatin. The main distribution used for testing is still using 2.17. If any other distribution needs a newer version, it could be installed then.",
+      "parentUuid": "6b09d5a8_16bc86b7",
+      "range": {
+        "startLine": 9,
+        "startChar": 24,
+        "endLine": 9,
+        "endChar": 64
+      },
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "ed1224e0_9ca482dc",
