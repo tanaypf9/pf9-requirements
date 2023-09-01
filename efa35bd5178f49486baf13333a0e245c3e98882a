@@ -1,6 +1,29 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "6b09d5a8_16bc86b7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-09-01T07:25:22Z",
+      "side": 1,
+      "message": "The reasoning looks wrong here\nas i see Ubuntu jammy is ovs2.17 https://packages.ubuntu.com/source/jammy-updates/openvswitch\nhttps://governance.openstack.org/tc/reference/runtimes/2023.1.html\n\nCentOS 9-Stream is on 3.1 though",
+      "range": {
+        "startLine": 9,
+        "startChar": 24,
+        "endLine": 9,
+        "endChar": 64
+      },
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "ed1224e0_9ca482dc",
