@@ -80,6 +80,23 @@
       "message": "looks ok to me, but would ask ykarel or otherwiseguy",
       "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "40175e8e_73e921e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-02T09:44:08Z",
+      "side": 1,
+      "message": "Blocking this for now based on the comments from Yatin and Rodolfo. We have now reached library freeze for Bobcat anyway, so this would need a FFE to be still merged before branching.",
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
