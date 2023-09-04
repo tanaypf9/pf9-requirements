@@ -16,6 +16,23 @@
       "message": "https://review.opendev.org/c/openstack/requirements/+/893403 removed ryu, is this patch still necessary?",
       "revId": "a1c80c13080514918bbeffa35d2f9e4426d8926f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c39bffdb_a413d367",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-09-04T08:36:19Z",
+      "side": 1,
+      "message": "If this patch is not working here, maybe we should cap tox and pyproject-api in tox.ini instead. It makes sense I guess, because this is a stable branch.",
+      "revId": "a1c80c13080514918bbeffa35d2f9e4426d8926f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
