@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3f31df4b_5b83324d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-09-05T20:47:05Z",
+      "side": 1,
+      "message": "Looks like this was added to support a `x/*` project, which we should not be tracking in openstack/requirements.",
+      "revId": "237d49d5ba63b817eece6376a284e990654f4ea5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
