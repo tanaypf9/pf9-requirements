@@ -33,6 +33,23 @@
       "message": "recheck\nhttps://review.opendev.org/c/openstack/requirements/+/893403 fixed the failing jobs,\nThanks, good idea",
       "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0595b8df_6e239652",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-09-05T09:50:15Z",
+      "side": 1,
+      "message": "Sorry, I don\u0027t understand this patch. The openstacksdk version in upper-constraints.txt is 1.5.0. Why is needed to define a minimum version in global-requirements? Should that be a constraint in each project?",
+      "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
