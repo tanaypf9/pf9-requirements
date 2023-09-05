@@ -50,6 +50,23 @@
       "message": "Sorry, I don\u0027t understand this patch. The openstacksdk version in upper-constraints.txt is 1.5.0. Why is needed to define a minimum version in global-requirements? Should that be a constraint in each project?",
       "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "91e1bbec_8c4fd537",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-09-05T20:49:02Z",
+      "side": 1,
+      "message": "Agree this should be a consuming project constraint, not tracked here.",
+      "revId": "d007e840d6d16848adc8e2e81d4cdeb57644d2a4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
