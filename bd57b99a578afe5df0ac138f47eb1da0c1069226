@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "081510ad_b7bf21fb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-06T12:23:39Z",
+      "side": 1,
+      "message": "recheck sphinx-rtd-theme was dropped\nalso technical -2 during reqs freeze",
+      "revId": "bd57b99a578afe5df0ac138f47eb1da0c1069226",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
