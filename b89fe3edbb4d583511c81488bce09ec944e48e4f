@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "93d2136e_07927df8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-06T12:21:29Z",
+      "side": 1,
+      "message": "technical -2, we are in requirements freeze now, will unblock after branching",
+      "revId": "b89fe3edbb4d583511c81488bce09ec944e48e4f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
