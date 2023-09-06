@@ -48,6 +48,30 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "9f045b7e_9eabdc1b",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2023-09-06T11:14:38Z",
+      "side": 1,
+      "message": "For both distros you most likely use UCA [1] or RDO (can\u0027t find where exactly it is, but it\u0027s assuming ovs3.1 is there). Moreover, RDO has backported OVS 3.1 back to Yoga due to recommendations received from Neutron team (as they told last year).\n\nBut the main problem with current 2.17.1 is that it capable of filling in disk withing 1 hour [2]\n\nSo it should be _at least_ 2.17.4 IIRC. And current constraints were not upgraded for couple of years at all, which makes real issues both in CI and real deployments. Like neutron-server with OVN occupies 3.5Gb of data in case of using SSL for OVN. That also results in DISK_FULL issues in CI.\n\n[1] http://ubuntu-cloud.archive.canonical.com/ubuntu/dists/jammy-updates/zed/main/binary-amd64/Packages\n[2] https://bugs.launchpad.net/openvswitch/+bug/1985062",
+      "parentUuid": "f74e4ef4_1f9f77ff",
+      "range": {
+        "startLine": 9,
+        "startChar": 24,
+        "endLine": 9,
+        "endChar": 64
+      },
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "ed1224e0_9ca482dc",
