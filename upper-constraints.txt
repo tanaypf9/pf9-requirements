@@ -152,7 +152,7 @@ semantic-version===2.10.0
 async-timeout===4.0.2
 virtualbmc===3.0.1
 deprecation===2.1.0
-SQLAlchemy===1.4.41
+SQLAlchemy===1.4.49
 pyroute2===0.7.7
 google-auth===2.17.3
 kazoo===2.9.0
