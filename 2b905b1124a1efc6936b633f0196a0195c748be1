@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "608e9471_d0cd7fc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-07T14:19:25Z",
+      "side": 1,
+      "message": "recheck nova-functional post failure seems unrelated, ssh error",
+      "revId": "2b905b1124a1efc6936b633f0196a0195c748be1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
