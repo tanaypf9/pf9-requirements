@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "00f1adfc_785fe412",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-09-08T09:27:52Z",
+      "side": 1,
+      "message": "Restored to see if it\u0027s possible to have the dependency at least as test requirement.",
+      "revId": "2e6bed84e6e7d1291f7f47c9ffe33c091c1611bb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
