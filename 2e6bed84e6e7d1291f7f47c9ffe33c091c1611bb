@@ -16,6 +16,23 @@
       "message": "Restored to see if it\u0027s possible to have the dependency at least as test requirement.",
       "revId": "2e6bed84e6e7d1291f7f47c9ffe33c091c1611bb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2d784a6_99679e3d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-08T09:51:47Z",
+      "side": 1,
+      "message": "This file is only for testing requirements of the requirements repo tooling",
+      "revId": "2e6bed84e6e7d1291f7f47c9ffe33c091c1611bb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
