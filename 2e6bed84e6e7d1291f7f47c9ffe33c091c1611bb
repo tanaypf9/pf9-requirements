@@ -33,6 +33,24 @@
       "message": "This file is only for testing requirements of the requirements repo tooling",
       "revId": "2e6bed84e6e7d1291f7f47c9ffe33c091c1611bb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48bde1dd_8376b618",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-09-08T10:36:01Z",
+      "side": 1,
+      "message": "Is it? So the test-requirements.txt in projects are also tested by the global-requirements file? I\u0027m asking because I\u0027ve hit [1].\n\n[1] https://zuul.opendev.org/t/openstack/build/4ff1e607b06544328796362f44188179/log/job-output.txt#609",
+      "parentUuid": "f2d784a6_99679e3d",
+      "revId": "2e6bed84e6e7d1291f7f47c9ffe33c091c1611bb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
