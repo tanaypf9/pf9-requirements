@@ -51,6 +51,24 @@
       "parentUuid": "7d85311a_1405e718",
       "revId": "6125144ec67d93186ca04d82139be3da636515e5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db6c79c4_12930661",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-09-11T13:29:11Z",
+      "side": 1,
+      "message": "Sean proposed this test fix: https://review.opendev.org/c/openstack/nova/+/894538\nLet\u0027s get that merged first and then the nova job will pass here as well. \\o/\nThanks Sean!",
+      "parentUuid": "53b89598_3fb81bfa",
+      "revId": "6125144ec67d93186ca04d82139be3da636515e5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
