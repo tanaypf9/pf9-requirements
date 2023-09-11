@@ -69,6 +69,23 @@
       "parentUuid": "53b89598_3fb81bfa",
       "revId": "6125144ec67d93186ca04d82139be3da636515e5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21cbf247_cdbbcb72",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-09-11T17:28:16Z",
+      "side": 1,
+      "message": "recheck - mentioned nova fix has landed",
+      "revId": "6125144ec67d93186ca04d82139be3da636515e5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
