@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "6125144ec67d93186ca04d82139be3da636515e5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7d85311a_1405e718",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2023-09-11T09:32:11Z",
+      "side": 1,
+      "message": "https://github.com/openstack/oslo.log/commit/6abf69e194c9dac13d26bca3e7ac1f710f9e26a0\n\nthis cannot merge in bobcat as its adding a hard block for python 3.8\nwhich is part of the suppoprted runtimes\nhttps://github.com/openstack/governance/blob/master/reference/runtimes/2023.1.rst#python-runtimes-for-20231\n\n\nthis can proceed after RC1 is cut\nhttps://github.com/openstack/governance/blob/master/reference/runtimes/2023.2.rst\nas that is the frist release where our min python version is 3.9",
+      "revId": "6125144ec67d93186ca04d82139be3da636515e5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
