@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d16f0e12_bf8ba38d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-12T11:18:20Z",
+      "side": 1,
+      "message": "We can drop the automati path for oslo.db bump https://review.opendev.org/c/openstack/requirements/+/887261, am I right?",
+      "revId": "21cd139038ff137ff53355c96ee55b914124a544",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
