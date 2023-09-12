@@ -86,6 +86,23 @@
       "message": "recheck - mentioned nova fix has landed",
       "revId": "6125144ec67d93186ca04d82139be3da636515e5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "120712c7_8730e4a1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-09-12T06:59:39Z",
+      "side": 1,
+      "message": "Thanks @Sean for the nova test fix, cross-nova-py310 is passing now! \\o/",
+      "revId": "6125144ec67d93186ca04d82139be3da636515e5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
