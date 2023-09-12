@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b1f2573_60f48f1c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-09-12T09:42:35Z",
+      "side": 1,
+      "message": "Hello,\n\nHere are some summarize of the errors met in the cross tests job.\n\n- The aodh error seems related to a connection error with a postgres database where too many connections seems to occur, and oslo.db doesn\u0027t seems to be present in the stack. (psycopg2.OperationalError: connection to server on socket \"/tmp/tmpus9gy3wq/.s.PGSQL.9824\" failed: FATAL:  sorry, too many clients already), but sqlalchemy is present.\n- the heat error seems to be an internal heat error related to a session that is already begun, oslo.db seems not present in the stack (eat.common.exception.ResourceFailure: InvalidRequestError: resources.HostKeys: A transaction is already begun on this Session.), but sqlalchemy is present.\n- The masakari error seems legit, and is related to oslo.db. Indeed the migration module of oslo.db has been removed and masakari still try to import it, so masakari needs refactor to fix that error https://opendev.org/openstack/oslo.db/commit/94d6e24ca19b0116eed00d5ccdb8a538918c6dcf\n- the manila error seems also legit, and is related to a class import not present in oslo.db, I think this issue is related to the alembic version pulled by oslo.db where this class has been surely removed. (AttributeError: module \u0027oslo_db.sqlalchemy.test_migrations\u0027 has no attribute \u0027WalkVersionsMixin\u0027), in this case manile would need some refactors.",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
