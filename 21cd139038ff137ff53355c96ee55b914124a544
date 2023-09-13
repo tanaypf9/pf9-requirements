@@ -16,6 +16,24 @@
       "message": "We can drop the automati path for oslo.db bump https://review.opendev.org/c/openstack/requirements/+/887261, am I right?",
       "revId": "21cd139038ff137ff53355c96ee55b914124a544",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "80b74bc3_61fd0cd8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-13T14:18:05Z",
+      "side": 1,
+      "message": "I think so, yes. As noted [on that review](https://review.opendev.org/c/openstack/requirements/+/887261/2#message-7905e0d445c87d7f15ca2e97b918c7d07e9bde3f), this stuff all has to go in together due to the lack of overlap in the oslo.db/sqlalchemy support matrix.",
+      "parentUuid": "d16f0e12_bf8ba38d",
+      "revId": "21cd139038ff137ff53355c96ee55b914124a544",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
