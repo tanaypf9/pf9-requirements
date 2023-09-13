@@ -68,6 +68,24 @@
       "message": "Actually maybe this should be abandoned as the release has been superceded by 14.0.0, but that seems to have even more failures https://review.opendev.org/c/openstack/requirements/+/893043\n\nSo maybe oslo.db should get more testing before it gets released?",
       "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d26f95b0_57bb83eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-13T14:16:53Z",
+      "side": 1,
+      "message": "\u003e Actually maybe this should be abandoned as the release has been superceded by 14.0.0, but that seems to have even more failures https://review.opendev.org/c/openstack/requirements/+/893043\n\nI think this can be abandoned, yes. There are almost no non-bugfix changes in 14.0.0: the only significant change (and the reason for the major version bump) was the removal of MySQL NDB support which was never implemented in other projects. I would wager that any additional failures are likely as a result of regressions in the projects and if this was now rechecked we\u0027d see the same failure mode.\n\n\u003e So maybe oslo.db should get more testing before it gets released?\n\nI think they will need to be done together, tbh. oslo.db 13.x and later doesn\u0027t work with sqlalchemy \u003c 2, and earlier version don\u0027t work with \u003e\u003d 2 (we weren\u0027t able to make a version that supported both). It\u0027s going to have to be a big bang upgrade, unfortunately.",
+      "parentUuid": "9f400e68_c9f028aa",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
