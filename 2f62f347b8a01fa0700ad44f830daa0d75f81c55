@@ -51,6 +51,23 @@
       "parentUuid": "99dc6ad8_7bba074b",
       "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9f400e68_c9f028aa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-13T07:49:24Z",
+      "side": 1,
+      "message": "Actually maybe this should be abandoned as the release has been superceded by 14.0.0, but that seems to have even more failures https://review.opendev.org/c/openstack/requirements/+/893043\n\nSo maybe oslo.db should get more testing before it gets released?",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
