@@ -33,6 +33,24 @@
       "message": "This can be dropped as https://review.opendev.org/c/openstack/requirements/+/879743 proposes the same oslo.db bump together with SQLAlchemy bump, am I right?",
       "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7273e319_dfe55670",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-13T07:40:46Z",
+      "side": 1,
+      "message": "I\u0027m not sure, I don\u0027t think the world is ready for SQLA 2.0 yet, so if we can get this in first, it would still be some progress.",
+      "parentUuid": "99dc6ad8_7bba074b",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
