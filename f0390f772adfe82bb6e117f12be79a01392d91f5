@@ -16,6 +16,23 @@
       "message": "this still needs work in multiple projects",
       "revId": "f0390f772adfe82bb6e117f12be79a01392d91f5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8075d130_7bf1d29e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-13T07:38:44Z",
+      "side": 1,
+      "message": "recheck unrelated tox issue should be fixed",
+      "revId": "f0390f772adfe82bb6e117f12be79a01392d91f5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
