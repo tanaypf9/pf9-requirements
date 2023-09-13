@@ -86,6 +86,24 @@
       "parentUuid": "9f400e68_c9f028aa",
       "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "31ad1c79_65844181",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-13T18:38:54Z",
+      "side": 1,
+      "message": "\u003e \u003e So maybe oslo.db should get more testing before it gets released?\n\u003e \n\u003e I think they will need to be done together, tbh. oslo.db 13.x and later doesn\u0027t work with sqlalchemy \u003c 2, and earlier version don\u0027t work with \u003e\u003d 2 (we weren\u0027t able to make a version that supported both). It\u0027s going to have to be a big bang upgrade, unfortunately.\n\noh, that\u0027s the first time I hear this. so oslo.db\u003e\u003d13 shouldn\u0027t be part of bobcat or any other release until all projects catch up. or someone decides to drop lagging projects from the release instead",
+      "parentUuid": "d26f95b0_57bb83eb",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
