@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af7665cf_fc2f980d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7973
+      },
+      "writtenOn": "2023-09-13T14:06:53Z",
+      "side": 1,
+      "message": "This patch fixes barbican\u0027s stable/victoria gate: https://review.opendev.org/c/openstack/barbican/+/894227",
+      "revId": "30e5e72fda7baea85872e8ad3ae4c608091fd524",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
