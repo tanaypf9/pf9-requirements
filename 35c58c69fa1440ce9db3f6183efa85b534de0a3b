@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "87f849d9_59752f96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11805
+      },
+      "writtenOn": "2023-09-14T19:15:33Z",
+      "side": 1,
+      "message": "I\u0027m seeing py3 unit test failures for python-os-api-ref 3.0.0. Is that expected?\n\n\u003d\u003d\u003d\u003d\u003d\u003d                                                                                                                                                                                                                                 \nTotals                                                                                                                                                                                                                                 \n\u003d\u003d\u003d\u003d\u003d\u003d                                                                                                                                                                                                                                 \nRan: 17 tests in 0.5889 sec.                                                                                                                                                                                                           \n - Passed: 14                                                                                                                                                                                                                          \n - Skipped: 0                                                                                                                                                                                                                          \n - Expected Fail: 0                                                                                                                                                                                                                    \n - Unexpected Success: 0                                                                                                                                                                                                               \n - Failed: 3                                                                                                                                                                                                                           \nSum of execute time for each test: 6.6072 sec.",
+      "revId": "35c58c69fa1440ce9db3f6183efa85b534de0a3b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
