@@ -122,6 +122,24 @@
       "parentUuid": "31ad1c79_65844181",
       "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "08fdc7a4_e8817db8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8313
+      },
+      "writtenOn": "2023-09-14T11:13:21Z",
+      "side": 1,
+      "message": "it can be a topic for the PTG to share this responsibilty as it is not just your one man task.",
+      "parentUuid": "53a83cb2_ef7389c9",
+      "revId": "2f62f347b8a01fa0700ad44f830daa0d75f81c55",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
