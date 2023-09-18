@@ -16,6 +16,24 @@
       "message": "Upper-constraints still has this capped at 1.4.2, so we shouldn\u0027t need to add this to global-requirements. That should be avoided anyway as it can make it difficult to uncap once things are able to move ahead.",
       "revId": "2afb97285547c210263078149c37b55655c8e280",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8cfdd41_452de6dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2023-09-18T13:43:49Z",
+      "side": 1,
+      "message": "ya i realised that after the fact\nhttps://review.opendev.org/c/openstack/nova-specs/+/895683 fixes nova-sepcs to use uc and a new release of stestr has been done 4.1.0 that also resolves the issue so im going to abandon this",
+      "parentUuid": "2f3037b2_9e34025e",
+      "revId": "2afb97285547c210263078149c37b55655c8e280",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
