@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f3037b2_9e34025e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-09-18T13:35:10Z",
+      "side": 1,
+      "message": "Upper-constraints still has this capped at 1.4.2, so we shouldn\u0027t need to add this to global-requirements. That should be avoided anyway as it can make it difficult to uncap once things are able to move ahead.",
+      "revId": "2afb97285547c210263078149c37b55655c8e280",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
