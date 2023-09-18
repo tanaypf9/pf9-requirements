@@ -445,7 +445,10 @@ purestorage  # BSD
 pysendfile;sys_platform!='win32'  # MIT
 python-3parclient  # Apache-2.0
 python-consul  # MIT License
-python-subunit  # Apache-2.0/BSD
+# pin python-subunit to 1.4.2 until stestr is fixed
+# https://github.com/mtreinish/stestr/issues/347
+# https://github.com/mtreinish/stestr/issues/350
+python-subunit<1.4.3  # Apache-2.0/BSD
 pyzmq  # LGPL+BSD
 redis!=4.0.0  # MIT
 requests-mock  # Apache-2.0
@@ -479,7 +482,10 @@ tabulate  # MIT
 testrepository  # Apache-2.0/BSD
 testresources  # Apache-2.0/BSD
 testscenarios  # Apache-2.0/BSD
-testtools  # MIT
+# pin testtools to 2.5.0 until stestr is fixed
+# https://github.com/mtreinish/stestr/issues/347
+# https://github.com/mtreinish/stestr/issues/350
+testtools<2.6.0  # MIT
 types-paramiko  # Apache-2.0
 tzdata  # MIT
 unittest2  # BSD
