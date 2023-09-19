@@ -50,6 +50,23 @@
       "message": "masakari and heat don\u0027t like this, failures look reproducible",
       "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c52f4ece_e70d4a3a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-09-19T13:34:01Z",
+      "side": 1,
+      "message": "recheck wondering if https://review.opendev.org/c/openstack/heat/+/893692 could fix the issue",
+      "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
