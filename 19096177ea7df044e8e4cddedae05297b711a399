@@ -101,6 +101,23 @@
       "message": "Technical -2 because we are in requirements freeze. You would have to request a FFE if you want this merged before we branch 2023.2.\n\nOther than that I heavily agree with Stephen.",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "891d9420_4bfae4d0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2023-09-21T16:45:43Z",
+      "side": 1,
+      "message": "It seems like we have a path forward and Stephen on the oslo side is willing to curate those fixes. That\u0027s a much happier path; is there a reason we don\u0027t want to go that way?\n\nI\u0027d prefer us not undo a large amount of work we\u0027ve already done to avoid a small amount of additional work now.",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
