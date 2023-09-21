@@ -16,6 +16,24 @@
       "message": "The errors in jobs comes from the fact that castellan recently added the ability to add or remove consumers to/from a managed object to indicate which object is associated with a specific secret.\n\nDuring the original implementation only barbican supported this feature, but apparently cinder and nova still do not support it.\n\nI\u0027d suggest to add the nova and the cinder team to this thread to see how to unlock castellan\u0027s versions bump.\n\n```\n2023-09-07 13:01:28.757245 | ubuntu-jammy | ~~~~~~~~~~~~~~~~~~~\n\n2023-09-07 13:01:28.757260 | ubuntu-jammy |     Traceback (most recent call last):\n\n2023-09-07 13:01:28.757285 | ubuntu-jammy |\n\n2023-09-07 13:01:28.757294 | ubuntu-jammy |       File \"/home/zuul/src/opendev.org/openstack/nova/nova/tests/unit/keymgr/test_conf_key_mgr.py\", line 51, in setUp\n\n2023-09-07 13:01:28.757302 | ubuntu-jammy |     self.key_mgr \u003d self._create_key_manager()\n\n2023-09-07 13:01:28.757310 | ubuntu-jammy |\n\n2023-09-07 13:01:28.757318 | ubuntu-jammy |       File \"/home/zuul/src/opendev.org/openstack/nova/nova/tests/unit/keymgr/test_conf_key_mgr.py\", line 45, in _create_key_manager\n\n2023-09-07 13:01:28.757326 | ubuntu-jammy |     return conf_key_mgr.ConfKeyManager(CONF)\n\n2023-09-07 13:01:28.757333 | ubuntu-jammy |\n\n2023-09-07 13:01:28.757340 | ubuntu-jammy |     TypeError: Can\u0027t instantiate abstract class ConfKeyManager with abstract methods add_consumer, remove_consumer\n\n\n2023-09-07 13:10:04.589693 | ubuntu-jammy |\n\n2023-09-07 13:10:04.589708 | ubuntu-jammy |     Traceback (most recent call last):\n\n2023-09-07 13:10:04.589724 | ubuntu-jammy |\n\n2023-09-07 13:10:04.589740 | ubuntu-jammy |       File \"/home/zuul/src/opendev.org/openstack/nova/nova/tests/functional/libvirt/test_vtpm.py\", line 134, in setUp\n\n2023-09-07 13:10:04.589755 | ubuntu-jammy |     self.key_mgr \u003d crypto._get_key_manager()\n\n2023-09-07 13:10:04.589771 | ubuntu-jammy |\n\n2023-09-07 13:10:04.589786 | ubuntu-jammy |       File \"/home/zuul/src/opendev.org/openstack/nova/nova/crypto.py\", line 61, in _get_key_manager\n\n2023-09-07 13:10:04.589802 | ubuntu-jammy |     _KEYMGR \u003d key_manager.API(configuration\u003dCONF)\n\n2023-09-07 13:10:04.589817 | ubuntu-jammy |\n\n2023-09-07 13:10:04.589832 | ubuntu-jammy |       File \"/home/zuul/src/opendev.org/openstack/nova/.tox/functional/lib/python3.10/site-packages/castellan/key_manager/__init__.py\", line 50, in API\n\n2023-09-07 13:10:04.589848 | ubuntu-jammy |     key_mgr \u003d cls(configuration\u003dconf)\n\n2023-09-07 13:10:04.589863 | ubuntu-jammy |\n\n2023-09-07 13:10:04.589879 | ubuntu-jammy |     TypeError: Can\u0027t instantiate abstract class FakeKeyManager with abstract methods add_consumer, remove_consumer\n```",
       "revId": "0a026396bc759a746db54bd96b0368b387ac0986",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b9dde90_bed05cc3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-21T13:34:50Z",
+      "side": 1,
+      "message": "This appears to be dead easy to resolve, btw:\n\n- [nova](https://review.opendev.org/c/openstack/nova/+/896100)\n- [cinder](https://review.opendev.org/c/openstack/cinder/+/896121)\n\nHopefully we can get those merged early in C.",
+      "parentUuid": "1988c758_1cc0dd06",
+      "revId": "0a026396bc759a746db54bd96b0368b387ac0986",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
