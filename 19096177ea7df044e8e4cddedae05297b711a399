@@ -67,6 +67,23 @@
       "message": "This was nightmare to get merged in the first place 🙈 I don\u0027t think the use of a some effectively unmaintained libraries should be a reason to pull it. I\u0027ve proposed an alternative [here](https://review.opendev.org/c/openstack/aodh/+/896125) that should be backportable and allow us to fix the gate until we manage to get a version of WSME with [the fix](https://review.opendev.org/c/x/wsme/+/893677) out.",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c56b5dbc_63dcb591",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2023-09-21T15:41:39Z",
+      "side": 1,
+      "message": "By the quick look:\nSolum https://zuul.opendev.org/t/openstack/build/e4b170cc25f2428caadce8870d27c62e\nMistral https://zuul.opendev.org/t/openstack/build/a3e00a6312cf46059fa81c56fe9b5e11\non top of Aodh are still affected.\n\nBy quick codesearch about dozen OpenStack projects still using wsme. Might have been a pain to get originally merged, but clearly wasn\u0027t tested well enough to do so.",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
