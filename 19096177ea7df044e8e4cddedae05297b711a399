@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0ca1c2d_d56af3cd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2023-09-21T10:53:17Z",
+      "side": 1,
+      "message": "The dependant docs job succeeded https://zuul.opendev.org/t/openstack/build/ab34268076b34a6190ae4040fc0c5084",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
