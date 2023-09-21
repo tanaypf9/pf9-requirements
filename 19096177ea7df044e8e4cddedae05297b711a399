@@ -50,6 +50,23 @@
       "message": "recheck unrelated post failures",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "295d9b1b_0a110e7f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-21T14:31:15Z",
+      "side": 1,
+      "message": "This was nightmare to get merged in the first place 🙈 I don\u0027t think the use of a some effectively unmaintained libraries should be a reason to pull it. I\u0027ve proposed an alternative [here](https://review.opendev.org/c/openstack/aodh/+/896125) that should be backportable and allow us to fix the gate until we manage to get a version of WSME with [the fix](https://review.opendev.org/c/x/wsme/+/893677) out.",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
