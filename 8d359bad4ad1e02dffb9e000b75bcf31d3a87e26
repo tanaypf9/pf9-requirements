@@ -37,6 +37,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "2a1faefa_1d0760b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-09-21T06:54:47Z",
+      "side": 1,
+      "message": "What do you mean by making actual release exactly? Is there anything else that needs to be done than creating release notes and docs?",
+      "parentUuid": "831b8052_ad761b12",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "cbec4830_ed9a4b2f",
         "filename": "test-requirements.txt",
         "patchSetId": 6
@@ -48,6 +66,24 @@
       "writtenOn": "2023-09-20T10:03:51Z",
       "side": 1,
       "message": "this still doesn\u0027t belong here",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f1bfa38_d6930aee",
+        "filename": "test-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-09-21T06:54:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "cbec4830_ed9a4b2f",
       "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
@@ -65,6 +101,24 @@
       "writtenOn": "2023-09-20T10:03:51Z",
       "side": 1,
       "message": "nit: missing newline at the end of the file",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27314e76_f5ab3de9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 603,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-09-21T06:54:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8eee45f3_35d9a73e",
       "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
