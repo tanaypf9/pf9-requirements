@@ -55,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "1fa376d0_af155360",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-21T18:22:53Z",
+      "side": 1,
+      "message": "Yes, I\u0027m talking about actually tagging a new version, producing release artefacts and publishing to pypi. Since the project is under openstack governance now, it will have to follow the same process as all other telemetry projects. I think https://releases.openstack.org/reference/using.html would be the best documentation to read plus maybe https://docs.openstack.org/project-team-guide/release-management.html",
+      "parentUuid": "2a1faefa_1d0760b6",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "cbec4830_ed9a4b2f",
         "filename": "test-requirements.txt",
         "patchSetId": 6
