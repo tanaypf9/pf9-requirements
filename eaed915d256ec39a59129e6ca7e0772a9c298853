@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "09d50d12_ed5deace",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-09-21T13:52:32Z",
+      "side": 1,
+      "message": "recheck - cross-keystone-py310 post failure",
+      "revId": "eaed915d256ec39a59129e6ca7e0772a9c298853",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
