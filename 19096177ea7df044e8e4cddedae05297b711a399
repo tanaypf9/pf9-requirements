@@ -84,6 +84,23 @@
       "message": "By the quick look:\nSolum https://zuul.opendev.org/t/openstack/build/e4b170cc25f2428caadce8870d27c62e\nMistral https://zuul.opendev.org/t/openstack/build/a3e00a6312cf46059fa81c56fe9b5e11\non top of Aodh are still affected.\n\nBy quick codesearch about dozen OpenStack projects still using wsme. Might have been a pain to get originally merged, but clearly wasn\u0027t tested well enough to do so.",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "545bd764_1ef46d54",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-21T16:29:47Z",
+      "side": 1,
+      "message": "Technical -2 because we are in requirements freeze. You would have to request a FFE if you want this merged before we branch 2023.2.\n\nOther than that I heavily agree with Stephen.",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
