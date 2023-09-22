@@ -67,6 +67,23 @@
       "message": "This is required for cloudkitty. Thank you!",
       "revId": "d3729c02ee8c64adeb4ab87fc7269b2c2041476e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e024d432_3f957f72",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2023-09-22T15:14:42Z",
+      "side": 1,
+      "message": "Glad to see this and will abandon https://review.opendev.org/c/openstack/requirements/+/896018 as soon as this merges and seems to work.",
+      "revId": "d3729c02ee8c64adeb4ab87fc7269b2c2041476e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
