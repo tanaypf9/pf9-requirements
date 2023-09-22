@@ -118,6 +118,24 @@
       "message": "It seems like we have a path forward and Stephen on the oslo side is willing to curate those fixes. That\u0027s a much happier path; is there a reason we don\u0027t want to go that way?\n\nI\u0027d prefer us not undo a large amount of work we\u0027ve already done to avoid a small amount of additional work now.",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "57469313_487c015b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-22T09:29:53Z",
+      "side": 1,
+      "message": "[WSME 0.12.1](https://pypi.org/project/WSME/0.12.1/) is now out, as is [sphinxcontrib-pecanwsme 0.11.0](https://pypi.org/project/sphinxcontrib-pecanwsme/0.11.0/). The former should fix the Sphinx issue, while the latter should fix Python 3.11 compat issues.",
+      "parentUuid": "891d9420_4bfae4d0",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
