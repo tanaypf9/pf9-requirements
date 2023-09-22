@@ -1,0 +1,10 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Hervé Beraud <herveberaud.pro@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 22 Sep 2023 19:32:44 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/895900
+Project: openstack/requirements
+Branch: refs/heads/stable/yoga
