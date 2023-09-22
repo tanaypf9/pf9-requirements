@@ -1,0 +1,9 @@
+Verified+2: Zuul
+Code-Review+1: Jay Faulkner <jay@jvf.cc>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Submitted-by: Zuul
+Submitted-at: Fri, 22 Sep 2023 22:30:55 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/894445
+Project: openstack/requirements
+Branch: refs/heads/master
