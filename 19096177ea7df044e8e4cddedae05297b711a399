@@ -154,6 +154,23 @@
       "parentUuid": "57469313_487c015b",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad20416b_48b1d23a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-22T11:35:43Z",
+      "side": 1,
+      "message": "Just for the sake of completeness, the FFE request for this is at https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035190.html , but I agree to prefer the wsme bump instead, let\u0027s move forward and not backwards.",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
