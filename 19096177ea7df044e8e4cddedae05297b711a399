@@ -136,6 +136,24 @@
       "parentUuid": "891d9420_4bfae4d0",
       "revId": "19096177ea7df044e8e4cddedae05297b711a399",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "96c00a06_cb2efa82",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-22T09:59:23Z",
+      "side": 1,
+      "message": "The `openstack/requirements` patch is [here](https://review.opendev.org/c/openstack/requirements/+/896195). The feature freeze exception email is [here](https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035196.html).",
+      "parentUuid": "57469313_487c015b",
+      "revId": "19096177ea7df044e8e4cddedae05297b711a399",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
