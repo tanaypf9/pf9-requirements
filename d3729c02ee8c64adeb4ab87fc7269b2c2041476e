@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16818fe3_f9273078",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-22T09:58:41Z",
+      "side": 1,
+      "message": "Feature freeze exception email published [here](https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035196.html).",
+      "revId": "d3729c02ee8c64adeb4ab87fc7269b2c2041476e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
