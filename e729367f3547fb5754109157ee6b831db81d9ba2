@@ -16,6 +16,24 @@
       "message": "tox-validate says: \"\u0027sqlalchemy-migrate\u0027 appears in global-requirements.txt but not upper-constraints.txt or blacklist.txt\"\n\nneed to drop it there, too",
       "revId": "e729367f3547fb5754109157ee6b831db81d9ba2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c5148c7c_5b506d81",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 5
+      },
+      "lineNbr": 331,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-22T13:27:37Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "7f3b3504_f8c1ffe5",
+      "revId": "e729367f3547fb5754109157ee6b831db81d9ba2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
