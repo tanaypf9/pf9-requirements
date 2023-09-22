@@ -16,6 +16,23 @@
       "message": "Feature freeze exception email published [here](https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035196.html).",
       "revId": "d3729c02ee8c64adeb4ab87fc7269b2c2041476e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3193c578_7ba4a36e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-22T11:31:10Z",
+      "side": 1,
+      "message": "FFE request in https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035196.html , needs DPL approval",
+      "revId": "d3729c02ee8c64adeb4ab87fc7269b2c2041476e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
