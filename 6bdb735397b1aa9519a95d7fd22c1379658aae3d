@@ -136,6 +136,23 @@
       "message": "I\u0027m looking at heat failures today.",
       "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "831fba7f_f2ebb749",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2023-09-25T17:32:21Z",
+      "side": 1,
+      "message": "Heat breakage is described here: https://bugs.launchpad.net/oslo.messaging/+bug/2037312\n\nand fixed here: https://review.opendev.org/c/openstack/oslo.messaging/+/896451\n\nWe need to land this; backport it and release bugfix all the way back to xena. Once backport has landed in stable/2023.2, we can cut 14.4.1 and update this and tests should pass.",
+      "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
