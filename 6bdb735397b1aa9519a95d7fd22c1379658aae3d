@@ -84,6 +84,24 @@
       "message": "recheck masakari updated",
       "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1bd27785_5e103189",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-09-25T08:15:16Z",
+      "side": 1,
+      "message": "heat tests still fails even with this fix.",
+      "parentUuid": "c52f4ece_e70d4a3a",
+      "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
