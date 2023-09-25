@@ -119,6 +119,23 @@
       "message": "recheck",
       "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3e672215_d0dde3a6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2023-09-25T16:31:15Z",
+      "side": 1,
+      "message": "I\u0027m looking at heat failures today.",
+      "revId": "6bdb735397b1aa9519a95d7fd22c1379658aae3d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
