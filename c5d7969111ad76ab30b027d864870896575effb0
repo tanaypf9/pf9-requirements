@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f975f7d5_feb85e39",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-09-26T14:13:03Z",
+      "side": 1,
+      "message": "As masakari seems in the way to be abandoned sooner or later, this solution works for me and will allow us to unlock oslo.db https://review.opendev.org/c/openstack/requirements/+/896053",
+      "revId": "c5d7969111ad76ab30b027d864870896575effb0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
