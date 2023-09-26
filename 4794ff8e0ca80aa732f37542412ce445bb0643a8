@@ -16,6 +16,23 @@
       "message": "RFE requested https://lists.openstack.org/pipermail/openstack-discuss/2023-September/035222.html",
       "revId": "4794ff8e0ca80aa732f37542412ce445bb0643a8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f247eb21_5f3071c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2023-09-26T13:41:10Z",
+      "side": 1,
+      "message": "All cross testing jobs are now ok",
+      "revId": "4794ff8e0ca80aa732f37542412ce445bb0643a8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
