@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "90f238ea_fefa3be2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 13
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-09-27T12:37:52Z",
+      "side": 1,
+      "message": "Spotted a bug in placement. Now fixed. This should result in the tempest job passing, I hope.",
+      "revId": "d2fb14dd054aadfbbed5753c4a079819b21b36d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
