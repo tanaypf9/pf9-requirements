@@ -16,6 +16,23 @@
       "message": "Spotted a bug in placement. Now fixed. This should result in the tempest job passing, I hope.",
       "revId": "d2fb14dd054aadfbbed5753c4a079819b21b36d6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "55a07fbf_98b44fb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 13
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-27T17:54:04Z",
+      "side": 1,
+      "message": "wow, this is really getting close",
+      "revId": "d2fb14dd054aadfbbed5753c4a079819b21b36d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
