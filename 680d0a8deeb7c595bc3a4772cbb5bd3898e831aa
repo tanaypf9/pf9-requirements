@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b7ca6735_84517704",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-28T14:16:53Z",
+      "side": 1,
+      "message": "Funny that this message is actually a bit redundant in this special case ;)",
+      "revId": "680d0a8deeb7c595bc3a4772cbb5bd3898e831aa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
