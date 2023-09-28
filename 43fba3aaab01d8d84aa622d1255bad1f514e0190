@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16906601_6dab825f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-28T05:36:45Z",
+      "side": 1,
+      "message": "no, we can do this now, it should not break any existing generation.\n\nthe idea is to start with running jobs for 3.10 and 3.11 in parallel and combine the results manually. we will have to manually adopt requirements bumps to be mergeable for the foreseeable future anyway",
+      "revId": "43fba3aaab01d8d84aa622d1255bad1f514e0190",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
