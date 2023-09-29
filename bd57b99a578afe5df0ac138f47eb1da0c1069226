@@ -16,6 +16,23 @@
       "message": "recheck sphinx-rtd-theme was dropped\nalso technical -2 during reqs freeze",
       "revId": "bd57b99a578afe5df0ac138f47eb1da0c1069226",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ede725bc_eda3c35c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-09-29T11:53:36Z",
+      "side": 1,
+      "message": "recheck let\u0027s see the current status",
+      "revId": "bd57b99a578afe5df0ac138f47eb1da0c1069226",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
