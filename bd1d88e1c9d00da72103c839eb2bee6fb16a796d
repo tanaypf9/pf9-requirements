@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d1adf34_a137636b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 27
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-02T06:27:02Z",
+      "side": 1,
+      "message": "wait until the release is done, just in case something urgent comes up",
+      "revId": "bd1d88e1c9d00da72103c839eb2bee6fb16a796d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
