@@ -33,6 +33,23 @@
       "message": "mypy is listed in global-requirements and is thus treated like any other dependency, getting checked by a periodic job every week and updates proposed as soon as new versions appear on pypi. If you want to change that, discuss with the requirements team whether some special handling might be needed.\n\nDepending on your pov it has been good or bad luck that the proposal job has been broken for quite some time during the last cycle and even after it got repaired it took until now for projects to fix multiple issues so that only now the first u-c update in 6 months got merged. But expect that cadence to go back to normal in the future.",
       "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f14db33_c891dfd1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-02T06:38:38Z",
+      "side": 1,
+      "message": "recheck new mypy bump pending",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
