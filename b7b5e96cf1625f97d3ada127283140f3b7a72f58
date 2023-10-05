@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e48727a7_3290033b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 3
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-05T16:56:16Z",
+      "side": 1,
+      "message": "They dropped support for python3.8 in 2.0.2, beautiful ignorance of semver. I hope we don\u0027t need py38 for docs builds anymore, will still update with a split pin in order to satisfy check-uc",
+      "revId": "b7b5e96cf1625f97d3ada127283140f3b7a72f58",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
