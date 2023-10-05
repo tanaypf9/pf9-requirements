@@ -88,6 +88,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "61796681_059ca160",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-10-05T11:59:12Z",
+      "side": 1,
+      "message": "Nope. There is still no caracal release set up in openstack/releases, so I cannot continue with [1] which is a prerequisite of this patch.\n\n[1] https://review.opendev.org/c/openstack/releases/+/896910",
+      "parentUuid": "87d30ae8_d2dc856a",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cbec4830_ed9a4b2f",
