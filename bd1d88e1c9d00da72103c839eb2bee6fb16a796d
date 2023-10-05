@@ -16,6 +16,23 @@
       "message": "wait until the release is done, just in case something urgent comes up",
       "revId": "bd1d88e1c9d00da72103c839eb2bee6fb16a796d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01a60b75_5649ee90",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 27
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-05T20:20:35Z",
+      "side": 1,
+      "message": "meh, seems this is going to have a merge conflict every other day, need to get it moving ...",
+      "revId": "bd1d88e1c9d00da72103c839eb2bee6fb16a796d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
