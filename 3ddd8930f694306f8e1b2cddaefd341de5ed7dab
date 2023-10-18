@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "699dbb7c_d050525f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-10-18T03:46:55Z",
+      "side": 1,
+      "message": "Unpin is being worked on in https://github.com/gnocchixyz/gnocchi/pull/1347 .",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
