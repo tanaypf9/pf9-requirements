@@ -108,6 +108,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "e2c8f6cc_a36136e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5241
+      },
+      "writtenOn": "2023-10-19T13:55:42Z",
+      "side": 1,
+      "message": "So the release patch [1] has been merged. Can we proceed with this patch now?\n\n[1] https://review.opendev.org/c/openstack/releases/+/896910",
+      "parentUuid": "1fa376d0_af155360",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "cbec4830_ed9a4b2f",
         "filename": "test-requirements.txt",
         "patchSetId": 6
