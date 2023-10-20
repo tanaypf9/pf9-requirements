@@ -141,6 +141,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "82aa47b3_f08bf393",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2023-10-20T05:52:23Z",
+      "side": 1,
+      "message": "Martin, you may have an updated version of this patch that didn\u0027t get pushed up for review?",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "cbec4830_ed9a4b2f",
@@ -207,6 +224,24 @@
       "side": 1,
       "message": "Done",
       "parentUuid": "8eee45f3_35d9a73e",
+      "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "873a8209_c5be1efc",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 603,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2023-10-20T05:52:23Z",
+      "side": 1,
+      "message": "so after the release on pypi, it needs to read\npython-observabilityclient\u003d\u003d\u003d0.1.0\n\nright?",
+      "parentUuid": "27314e76_f5ab3de9",
       "revId": "8d359bad4ad1e02dffb9e000b75bcf31d3a87e26",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
