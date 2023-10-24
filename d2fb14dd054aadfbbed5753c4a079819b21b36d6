@@ -33,6 +33,23 @@
       "message": "wow, this is really getting close",
       "revId": "d2fb14dd054aadfbbed5753c4a079819b21b36d6",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5be201a9_3f8adc41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 13
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8543
+      },
+      "writtenOn": "2023-10-24T13:52:21Z",
+      "side": 1,
+      "message": "Watcher will need to be updated as well: https://github.com/openstack/watcher/blob/fd6562382e394ed79a2717addeb8cb7123a69355/watcher/db/sqlalchemy/api.py#L47-L51",
+      "revId": "d2fb14dd054aadfbbed5753c4a079819b21b36d6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
