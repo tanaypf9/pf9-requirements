@@ -51,6 +51,23 @@
       "message": "3.5.1 was a bobcat release and added there in https://review.opendev.org/c/openstack/requirements/+/899025 . I would expect a new release like 3.6.0 to be made for master that can be added here",
       "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1e55f105_05190ada",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-25T15:10:23Z",
+      "side": 1,
+      "message": "oh, wait, this may have been a mistake of the release automation. I\u0027ll check with the release team",
+      "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
