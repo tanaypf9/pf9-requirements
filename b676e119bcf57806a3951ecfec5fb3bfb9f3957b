@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b04c049a_954c3f59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-25T12:43:07Z",
+      "side": 1,
+      "message": "3.5.1 is a release for stable/bobcat, I think it would be better to make another release for caracal to include it in master",
+      "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
