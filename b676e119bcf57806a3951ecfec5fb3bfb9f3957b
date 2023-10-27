@@ -68,6 +68,24 @@
       "message": "oh, wait, this may have been a mistake of the release automation. I\u0027ll check with the release team",
       "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1ed16339_988d61ad",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27442
+      },
+      "writtenOn": "2023-10-27T08:07:43Z",
+      "side": 1,
+      "message": "Hello, have you been able to get an answer from the release team?",
+      "parentUuid": "1e55f105_05190ada",
+      "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
