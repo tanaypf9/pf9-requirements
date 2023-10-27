@@ -86,6 +86,23 @@
       "parentUuid": "1e55f105_05190ada",
       "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc653e06_b769857f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-27T10:31:04Z",
+      "side": 1,
+      "message": "seems I was misreading things, so discard my last comment. I\u0027m still unsure what to do with this, maybe at least doing a cherry-pick of https://review.opendev.org/c/openstack/requirements/+/899025 into master would be cleaner? let\u0027s see what other reqs cores say",
+      "revId": "b676e119bcf57806a3951ecfec5fb3bfb9f3957b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
