@@ -16,6 +16,23 @@
       "message": "Unpin is being worked on in https://github.com/gnocchixyz/gnocchi/pull/1347 .",
       "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d849343e_807cd781",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-10-27T11:18:38Z",
+      "side": 1,
+      "message": "As discussed in the IRC channel, it seems weird that on one hand gnocchi choose to move out of openstack governance, while on the other hand now requirements should adopt the upper bounds it introduces due to being badly maintained.\n\nThere have been other solutions proposed like installing gnocchi in a dedicated environment or maybe even container, which I would prefer to be pursued first.",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
