@@ -51,6 +51,24 @@
       "parentUuid": "d849343e_807cd781",
       "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "da6f1c32_b8d99187",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4264
+      },
+      "writtenOn": "2023-10-30T10:00:19Z",
+      "side": 1,
+      "message": "I understand the reasoning here. However, that decision has been made ages ago and nobody here in telemetry was active at that time (in telemetry); people involved in telemetry back then are no longer involved.\n\nThere was a regression introduced in pyparsing https://github.com/pyparsing/pyparsing/issues/504 that is hitting gnocchi. There is a promise to fix, but it\u0027s taking time.",
+      "parentUuid": "076ad812_809fdc27",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
