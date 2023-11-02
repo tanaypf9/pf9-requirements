@@ -69,6 +69,24 @@
       "parentUuid": "076ad812_809fdc27",
       "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9a8746fb_237da94f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-02T07:59:10Z",
+      "side": 1,
+      "message": "There hasn\u0027t been much progress yet on the linked fix for gnocchi, one could start to wonder whether it can be considered a healthy project and should be in openstack requirements at all. Seeing that gnocchi is already working to introduce the next version pin https://github.com/gnocchixyz/gnocchi/pull/1354 , I still think looking into doing a separate installation for it would likely be worthwhile.\n\nNote also that a pin as proposed here causes a lot of maintenance effort as it has to be manually kept in place for every weekly requirements update.",
+      "parentUuid": "da6f1c32_b8d99187",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
