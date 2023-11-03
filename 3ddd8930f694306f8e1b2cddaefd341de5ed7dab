@@ -105,6 +105,23 @@
       "parentUuid": "9a8746fb_237da94f",
       "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5b6220f_51c0916c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16137
+      },
+      "writtenOn": "2023-11-03T14:42:00Z",
+      "side": 1,
+      "message": "I\u0027ve unpinned Gnocchi on master.",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
