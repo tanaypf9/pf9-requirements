@@ -122,6 +122,24 @@
       "message": "I\u0027ve unpinned Gnocchi on master.",
       "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ca3711de_116f9049",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-06T09:53:07Z",
+      "side": 1,
+      "message": "I do understand the frustration caused by the unfortunate decision by gnocchi to be separate from openstack governance, but the reality is that gnocchi is still essential to telemetry projects.\n\nAs Matthius mentioned there is a work to replace it, but until it becomes truly viable replacement we have to maintain a working set, otherwise telemetry is completely useless IMO.\n\nUsing a separate installation is a solution for our testing, but does not resolve the issue in all deployment pattern, especially ones using packaging, as there are not dependency version we can use to make both openstack and gnocchi work in a node.\n\nI\u0027ll abandon this as the original issue was resolved by gnocchi, but I\u0027d like to hightlight the reality that \"keep gnocchi away\" eventually means we can\u0027t maintain telemetry.",
+      "parentUuid": "8261c3b8_4dd49c4c",
+      "revId": "3ddd8930f694306f8e1b2cddaefd341de5ed7dab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
