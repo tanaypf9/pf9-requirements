@@ -18,6 +18,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d2d563b5_4c55fedb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-11-06T16:55:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "07b47e80_27b669da",
+      "revId": "daf7c40734bac91d0c5ef8dce6e18fc50127557f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "dda234e8_7f1a25b1",
@@ -31,6 +49,24 @@
       "writtenOn": "2023-11-06T16:28:14Z",
       "side": 1,
       "message": "We should update that template and replace Fedora by Debian I guess. Also latest LTS.",
+      "revId": "daf7c40734bac91d0c5ef8dce6e18fc50127557f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0edbe17d_ee6c8526",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-11-06T16:55:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "dda234e8_7f1a25b1",
       "revId": "daf7c40734bac91d0c5ef8dce6e18fc50127557f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
