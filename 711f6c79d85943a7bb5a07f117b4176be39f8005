@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3b262140_d4f2be19",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-08T17:17:29Z",
+      "side": 1,
+      "message": "Is this still usful for debugging or can it be abandonded?",
+      "revId": "711f6c79d85943a7bb5a07f117b4176be39f8005",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
