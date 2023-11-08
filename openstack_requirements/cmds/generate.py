@@ -40,6 +40,8 @@ def _parse_freeze(text):
         if not line:
             continue
         package, version = line.split('==')[:2]
+        if version.startswith("="):
+            version=version[1:]
         result.append((package, version))
     return result
 
