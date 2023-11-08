@@ -244,7 +244,7 @@ python-linstor  # LGPLv3
 
 pyngus  # Apache-2.0
 
-pyOpenSSL  # Apache-2.0
+pyOpenSSL<23.3.0  # Apache-2.0
 pyparsing  # MIT
 pyroute2!=0.5.4,!=0.5.5,!=0.7.1;sys_platform!='win32'  # Apache-2.0 (+ dual licensed GPL2)
 # pysnmp library is not maintained since 4 years, it is
@@ -334,7 +334,7 @@ setproctitle  # BSD
 # bug work around of sqlalchemy
 # https://bitbucket.org/zzzeek/sqlalchemy/issues/3952/
 # The fix which is in git master branch is planned for 1.1.9
-SQLAlchemy!=1.1.5,!=1.1.6,!=1.1.7,!=1.1.8  # MIT
+SQLAlchemy!=1.1.5,!=1.1.6,!=1.1.7,!=1.1.8,<2  # MIT
 SQLAlchemy-Utils  # BSD License
 sqlalchemy-migrate  # Apache-2.0
 sqlalchemy-filters  # Apache-2.0
