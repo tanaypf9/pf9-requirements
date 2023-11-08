@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f07634cd_6846c3dd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-08T16:46:33Z",
+      "side": 1,
+      "message": "Do we actually want explicit versions for each python version when they are the same? I noticed there are several that get rid of \u003e\u003d and add individual lines.",
+      "revId": "674ed5a82350ee78f7e895432d16edee0a11ee4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
