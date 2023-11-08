@@ -16,6 +16,24 @@
       "message": "Do we actually want explicit versions for each python version when they are the same? I noticed there are several that get rid of \u003e\u003d and add individual lines.",
       "revId": "674ed5a82350ee78f7e895432d16edee0a11ee4c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "670fdee8_1a07c477",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-08T17:02:26Z",
+      "side": 1,
+      "message": "I can go either way on that.  On one hand it\u0027s easier to be explict, and this file is supposed to be parsed by machines and they don\u0027t really \"care\".  On the other hand the shorter versions are easier for humans to reason about.\n\nThis chnage was generated with the tools in the follow-up DNM commit.",
+      "parentUuid": "f07634cd_6846c3dd",
+      "revId": "674ed5a82350ee78f7e895432d16edee0a11ee4c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
