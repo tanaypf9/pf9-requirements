@@ -69,6 +69,23 @@
       "message": "Feel free to ignore me, but I just don\u0027t like adding projects that are \"top level\" ones rather then libraries to u-c. As you might already have tempest in requirements, while using u-c for other libraries, so adding tempest to u-c will bring a regression to such usecases (which I personally treat as valid ones despite there\u0027s no much agreement).",
       "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "eca86f30_bc874893",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-09T16:44:00Z",
+      "side": 1,
+      "message": "We\u0027ve never needed this before, I suspect the need for this is covering up another issue.",
+      "revId": "43a1af8f21b2553d80bbda39d4ce78fafede8ada",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
