@@ -16,6 +16,23 @@
       "message": "recheck - gate should work now",
       "revId": "fea1a5db31a291bb0b20a4ff0761060c418eb5a4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea03f4e0_ad51fc57",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-09T17:19:49Z",
+      "side": 1,
+      "message": "recheck\n\nold change logs have been archived.",
+      "revId": "fea1a5db31a291bb0b20a4ff0761060c418eb5a4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
