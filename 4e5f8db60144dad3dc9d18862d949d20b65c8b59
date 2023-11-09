@@ -51,6 +51,24 @@
       "message": "recheck pypi too slow",
       "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8185a161_f05a8a7d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-09T14:44:51Z",
+      "side": 1,
+      "message": "\u003e OK I went through all failures and saw only nova and ironic get real failures caused by mocking.\n\nIn case someone else is interested in fixing the issue faster than me...\nAdding debug log revealed that a mock object like the example below is passed to convert_version_to_tuple and kills the function.\n\n```\n\u003c_AutospecMagicMock name\u003d\u0027objects.MyObj.VERSION\u0027 id\u003d\u0027140525135731536\u0027\u003e\n```",
+      "parentUuid": "13272b70_d2f3efb8",
+      "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
