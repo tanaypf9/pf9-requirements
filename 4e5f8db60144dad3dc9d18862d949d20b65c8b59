@@ -34,6 +34,23 @@
       "parentUuid": "24f7dd7a_bfa2d579",
       "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cb9459fd_0582e809",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-09T14:34:00Z",
+      "side": 1,
+      "message": "recheck pypi too slow",
+      "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
