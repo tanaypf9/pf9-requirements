@@ -104,6 +104,23 @@
       "parentUuid": "5d041c06_70a92c23",
       "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e7f352c_4f04a66d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-09T17:17:07Z",
+      "side": 1,
+      "message": "I\u0027m still -1 on this.  It\u0027s possible the zed is now untestable on CS9 which is rough.\n\nFor reference:\n\n[tony@thor requirements]$ for b in master stable/{2023.2,2023.1,zed} ; do git grep -Ei \u0027^(pyopenssl|crypto)\u0027 origin/${b} -- upper-constraints.txt ; done\norigin/master:upper-constraints.txt:105:pyOpenSSL\u003d\u003d\u003d23.2.0\norigin/master:upper-constraints.txt:191:cryptography\u003d\u003d\u003d41.0.4\norigin/stable/2023.2:upper-constraints.txt:105:pyOpenSSL\u003d\u003d\u003d23.1.1\norigin/stable/2023.2:upper-constraints.txt:190:cryptography\u003d\u003d\u003d40.0.2\norigin/stable/2023.1:upper-constraints.txt:104:pyOpenSSL\u003d\u003d\u003d22.1.0\norigin/stable/2023.1:upper-constraints.txt:186:cryptography\u003d\u003d\u003d38.0.2\norigin/stable/zed:upper-constraints.txt:104:pyOpenSSL\u003d\u003d\u003d22.0.0\norigin/stable/zed:upper-constraints.txt:185:cryptography\u003d\u003d\u003d36.0.2\n[tony@thor requirements]$",
+      "revId": "8076ce92b829866dc96028db62947bbe3e0014d5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
