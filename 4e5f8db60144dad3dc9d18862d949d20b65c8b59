@@ -16,6 +16,24 @@
       "message": "Some jobs failed because of requirement check failure which I\u0027m not too sure about.\n\neg. cross-glance-py310\n```\n2023-11-09 12:38:21.962647 | ubuntu-jammy | The conflict is caused by:\n2023-11-09 12:38:21.962664 | ubuntu-jammy |     The user requested oslo.utils\u003e\u003d3.33.0\n2023-11-09 12:38:21.962674 | ubuntu-jammy |     The user requested (constraint) oslo-utils\u003d\u003d\u003d6.3.0\n```\n\nThe failure in nova looks like a real error caused by mocking.",
       "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13272b70_d2f3efb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-09T14:29:10Z",
+      "side": 1,
+      "message": "OK I went through all failures and saw only nova and ironic get real failures caused by mocking.\n\nThe other jobs failed because of requirement check failure which I might need assistance about.\n\nThe failure in Masakari is caused by the fact that they still use sqmalchemy-migrate.",
+      "parentUuid": "24f7dd7a_bfa2d579",
+      "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
