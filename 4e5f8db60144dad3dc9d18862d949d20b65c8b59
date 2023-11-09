@@ -69,6 +69,24 @@
       "parentUuid": "13272b70_d2f3efb8",
       "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5a0f2bcf_c9b3adb6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-09T15:07:08Z",
+      "side": 1,
+      "message": "I reported https://bugs.launchpad.net/ironic/+bug/2043116 and submitted fixes for nova and ironic (See the links in the bug).\n\nIf recheck revealed the same error in other projects then we can apply the same approach.",
+      "parentUuid": "8185a161_f05a8a7d",
+      "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
