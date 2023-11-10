@@ -1,0 +1,12 @@
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+1: Erik Olof Gunnar Andersson <eandersson@blizzard.com>
+Code-Review+1: yatin <ykarel@redhat.com>
+Workflow+1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Code-Review+1: Brian Haley <haleyb.dev@gmail.com>
+Verified+2: Zuul
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Submitted-by: Zuul
+Submitted-at: Fri, 10 Nov 2023 10:50:17 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/900517
+Project: openstack/requirements
+Branch: refs/heads/master
