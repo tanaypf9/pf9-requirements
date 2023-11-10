@@ -87,6 +87,23 @@
       "parentUuid": "8185a161_f05a8a7d",
       "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0da85702_fa2dc96f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-10T05:34:47Z",
+      "side": 1,
+      "message": "recheck nova/ironic unit tests have been fixed.",
+      "revId": "4e5f8db60144dad3dc9d18862d949d20b65c8b59",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
