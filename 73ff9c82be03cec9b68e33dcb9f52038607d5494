@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e6b6ddc_74a470eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9649
+      },
+      "writtenOn": "2023-11-10T13:04:30Z",
+      "side": 1,
+      "message": "the -1 vote is due to a gate that expects 3 failures, but got only one failed test cases. Is this a false positive?",
+      "revId": "73ff9c82be03cec9b68e33dcb9f52038607d5494",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
