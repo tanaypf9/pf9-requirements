@@ -50,6 +50,23 @@
       "message": "recheck new mypy bump pending",
       "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5d50f53b_a95522ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-13T09:09:04Z",
+      "side": 1,
+      "message": "Is there a reason that the job in cinder is voting, but not gating, or this that just an oversight?",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
