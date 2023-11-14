@@ -67,6 +67,23 @@
       "message": "Is there a reason that the job in cinder is voting, but not gating, or this that just an oversight?",
       "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86b3d7b5_4b6dc85c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2023-11-14T15:14:04Z",
+      "side": 1,
+      "message": "@frickler: we were trying to conserve resources iirc, but that was probably not a good idea ... we should probably make it a gate job, too",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
