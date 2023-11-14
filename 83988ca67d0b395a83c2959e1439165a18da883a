@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "821307a6_aabab49d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-14T13:41:34Z",
+      "side": 1,
+      "message": "Needs neutron-client update?\n\n```\nThe conflict is caused by:\n    python-neutronclient 11.0.0 depends on osc-lib\u003e\u003d1.12.0\n    The user requested (constraint) osc-lib\u003d\u003d\u003d2.9.0\n```",
+      "revId": "83988ca67d0b395a83c2959e1439165a18da883a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
