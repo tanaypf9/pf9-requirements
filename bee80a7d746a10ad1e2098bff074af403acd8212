@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b187dc7b_e0c9f89d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-14T13:39:47Z",
+      "side": 1,
+      "message": "Looks like this may need a neutron-lib update first:\n\n```\nThe conflict is caused by:\n    neutron-lib 3.8.0 depends on os-ken\u003e\u003d0.3.0\n    The user requested (constraint) os-ken\u003d\u003d\u003d2.8.0\n```",
+      "revId": "bee80a7d746a10ad1e2098bff074af403acd8212",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
