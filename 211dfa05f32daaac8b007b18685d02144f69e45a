@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc079295_3c4f2f58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-14T13:42:25Z",
+      "side": 1,
+      "message": "recheck  openstacksdk-functional-devstack timeout",
+      "revId": "211dfa05f32daaac8b007b18685d02144f69e45a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
