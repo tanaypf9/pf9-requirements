@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d5dbc8f_8fc58cb3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-15T13:54:18Z",
+      "side": 1,
+      "message": "I\u0027m sceptical about this one, since the masakari cross job is still non-voting and broken",
+      "revId": "86a97fd8f555e734f6114929fe37ed4d9fe60e31",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
