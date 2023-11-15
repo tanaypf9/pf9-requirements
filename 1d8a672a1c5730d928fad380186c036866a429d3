@@ -33,6 +33,23 @@
       "message": "recheck\n\nold change logs have been archived.",
       "revId": "1d8a672a1c5730d928fad380186c036866a429d3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7f817993_342c53bf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-11-15T13:44:15Z",
+      "side": 1,
+      "message": "The failure in heat indicates something needs to be fixed in aodhclient ?\n\n```\n2023-11-09 17:32:42.111111 | ubuntu-jammy | The conflict is caused by:\n2023-11-09 17:32:42.111145 | ubuntu-jammy |     The user requested oslo.db\u003e\u003d6.0.0\n2023-11-09 17:32:42.111173 | ubuntu-jammy |     neutron-lib 3.4.1 depends on oslo.db\u003e\u003d4.44.0\n2023-11-09 17:32:42.111199 | ubuntu-jammy |     aodhclient 3.2.0 depends on oslo.db\u003c\u003d12.3.1\n2023-11-09 17:32:42.111224 | ubuntu-jammy |     The user requested (constraint) oslo-db\u003d\u003d\u003d12.3.2\n```",
+      "revId": "1d8a672a1c5730d928fad380186c036866a429d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
