@@ -121,6 +121,23 @@
       "message": "Blocking this for now based on the comments from Yatin and Rodolfo. We have now reached library freeze for Bobcat anyway, so this would need a FFE to be still merged before branching.",
       "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "60f8caea_723d0acc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17799
+      },
+      "writtenOn": "2023-11-15T18:24:36Z",
+      "side": 1,
+      "message": "This badly needs to be merged to pull in the fix for the bug Dmitriy mentioned. I am attempting to deploy an OVN based openstack cloud and my neutron agents are permanently unable to reconnect to OVS without an agent restart due to the bug, resulting in a totally unusable cloud.\n\nI am attempting to use 2023.1 and 2023.2, both use the same broken OVS python library defined in u-c.\n\nhttps://bugs.launchpad.net/openvswitch/+bug/1985062\nhttps://github.com/openvswitch/ovs/commit/1731ed43c6dca385ed1f6a7fb25148f0a34fd3b9",
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
