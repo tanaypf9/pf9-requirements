@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c673a3d1_3697930a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-16T13:22:40Z",
+      "side": 1,
+      "message": "For the short term I can do that.  I started doing it (for example: https://review.opendev.org/c/openstack/requirements/+/900564/1?usp\u003drelated-change) but I stopped as it was manual and I figured I\u0027d wait for this to \"go green\" and then do it.  Either via squashing or a seperate change.\n\nAs I said in a comment to Sean I\u0027m not convinced that the more human friendly format is needed, but that\u0027s something to be discussed as I get closer with implmenting this new process as a job.",
+      "parentUuid": "b600b0d2_6d6826e3",
+      "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "0a3b189b_6a6dcb4a",
         "filename": "upper-constraints.txt",
         "patchSetId": 8
@@ -37,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "6260ddef_86438610",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 474,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-16T13:22:40Z",
+      "side": 1,
+      "message": "Interesting, How\u0027d you root cause that?  I haven\u0027t looked but I assumed based on the \"new\" way I\u0027m generating this change it was just not needed for \u003e\u003d3.11",
+      "parentUuid": "0a3b189b_6a6dcb4a",
+      "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "5ec892dc_d56cd6d4",
         "filename": "upper-constraints.txt",
         "patchSetId": 8
@@ -48,6 +84,24 @@
       "writtenOn": "2023-11-16T06:26:05Z",
       "side": 1,
       "message": "seems this smaller bump doesn\u0027t work for cinder, since the error doesn\u0027t seem to happen with later alembic, it could be a reason to exclude this intermediate version. likely best keep the original version for now, the alembic bump is already being handled together with the sqla bump in a dedicated patch",
+      "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "006bbd86_601ce01e",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 603,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-16T13:22:40Z",
+      "side": 1,
+      "message": "It\u0027s unfortunate that there isn\u0027t an intermediate vesion that works.  I feel like the \"rename_table\" issue that stops manila working with the latest is a bug, but I need to do a little more research.",
+      "parentUuid": "5ec892dc_d56cd6d4",
       "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
