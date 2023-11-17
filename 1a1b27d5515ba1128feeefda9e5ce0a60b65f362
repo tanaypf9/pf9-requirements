@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "092a8d01_a2233969",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7166
+      },
+      "writtenOn": "2023-11-17T10:40:37Z",
+      "side": 1,
+      "message": "we need to figure out the right approach in order to address the behavioral breaking change from tooz.",
+      "revId": "1a1b27d5515ba1128feeefda9e5ce0a60b65f362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
