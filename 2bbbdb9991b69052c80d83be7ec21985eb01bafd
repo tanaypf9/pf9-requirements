@@ -84,6 +84,23 @@
       "message": "@frickler: we were trying to conserve resources iirc, but that was probably not a good idea ... we should probably make it a gate job, too",
       "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "853ad77c_0a562056",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-17T07:13:16Z",
+      "side": 1,
+      "message": "ok, let\u0027s go with this and see how stable it turns out to be",
+      "revId": "2bbbdb9991b69052c80d83be7ec21985eb01bafd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
