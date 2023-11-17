@@ -33,6 +33,23 @@
       "message": "recheck\n\ntempest test flap",
       "revId": "1a1b27d5515ba1128feeefda9e5ce0a60b65f362",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8412947a_b249f4f2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2023-11-17T17:13:05Z",
+      "side": 1,
+      "message": "recheck\n\nzuul/gerrit maintenance",
+      "revId": "1a1b27d5515ba1128feeefda9e5ce0a60b65f362",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
