@@ -73,6 +73,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "f7f891d4_b9a7cd1a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 474,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-20T05:34:35Z",
+      "side": 1,
+      "message": "This was just a guess based on looking at the pkg page on pypi. Maybe this need further looking into when the dep is pulled in and why.",
+      "parentUuid": "6260ddef_86438610",
+      "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "5ec892dc_d56cd6d4",
         "filename": "upper-constraints.txt",
         "patchSetId": 8
@@ -102,6 +120,24 @@
       "side": 1,
       "message": "It\u0027s unfortunate that there isn\u0027t an intermediate vesion that works.  I feel like the \"rename_table\" issue that stops manila working with the latest is a bug, but I need to do a little more research.",
       "parentUuid": "5ec892dc_d56cd6d4",
+      "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d95ade39_64c79071",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 8
+      },
+      "lineNbr": 603,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-20T05:34:35Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "006bbd86_601ce01e",
       "revId": "22246cdf640de6bb4da9e67c192edaf6449c9dda",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
