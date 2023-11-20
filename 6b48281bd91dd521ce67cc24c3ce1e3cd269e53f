@@ -33,6 +33,23 @@
       "message": "For cross-neutron-py310 https://zuul.opendev.org/t/openstack/build/aca8935ca0a64bf1a818467fcfc73de0 : FAILURE in 25m 29s\npushed https://review.opendev.org/c/openstack/neutron/+/901430",
       "revId": "6b48281bd91dd521ce67cc24c3ce1e3cd269e53f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7adf38f_d3592048",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-11-20T20:12:29Z",
+      "side": 1,
+      "message": "recheck neutron fix merged",
+      "revId": "6b48281bd91dd521ce67cc24c3ce1e3cd269e53f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
