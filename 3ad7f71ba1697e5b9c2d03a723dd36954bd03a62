@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c44c11c_9aadb207",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-20T14:23:28Z",
+      "side": 1,
+      "message": "recheck tempest-full error doesn\u0027t look related",
+      "revId": "3ad7f71ba1697e5b9c2d03a723dd36954bd03a62",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
