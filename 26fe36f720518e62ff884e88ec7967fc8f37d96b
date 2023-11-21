@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a4e69e5_8538463f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-11-21T13:13:12Z",
+      "side": 1,
+      "message": "recheck - tempest failure doesn\u0027t look related.",
+      "revId": "26fe36f720518e62ff884e88ec7967fc8f37d96b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
