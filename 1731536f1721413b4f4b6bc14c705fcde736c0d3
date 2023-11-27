@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b66bf6e7_8ad79ad7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2023-11-27T13:39:56Z",
+      "side": 1,
+      "message": "recheck - POST_FAILURE at cross-horizon-py310 job \u0026 no logs [1], probably unrelated (zuul?) issue?\n\n[1] https://zuul.opendev.org/api/tenant/openstack/build/a71aa3f689e94e05a2b9c2c358da00aa\n(this api response would contain the link to the logs, but it doesn\u0027t, so probably the logs are lost during the POST_FAILURE)",
+      "revId": "1731536f1721413b4f4b6bc14c705fcde736c0d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
