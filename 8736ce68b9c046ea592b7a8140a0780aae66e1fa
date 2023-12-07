@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "992551bc_6fd19295",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-12-07T18:06:35Z",
+      "side": 1,
+      "message": "Hey Simon! Can you also add this to upper-constraints.txt?",
+      "revId": "8736ce68b9c046ea592b7a8140a0780aae66e1fa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
