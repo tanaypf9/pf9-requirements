@@ -88,6 +88,24 @@
       "parentUuid": "ff527945_c2511178",
       "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7770e62c_3defd96b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-08T13:51:08Z",
+      "side": 1,
+      "message": "You could not add it to requirements at all, make the import optional and just install it into your testing environment explicitly. kolla is doing a similar thing for the podman python library.",
+      "parentUuid": "0b0c2fd0_d2bb32b6",
+      "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
