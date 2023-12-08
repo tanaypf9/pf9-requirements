@@ -52,6 +52,24 @@
       "parentUuid": "cfd8255f_e32d7a46",
       "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ff527945_c2511178",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-12-08T12:37:10Z",
+      "side": 1,
+      "message": "So I think the options are:\n\n- This feature can\u0027t be added as an official upstream capability\n- Develop a new library with an acceptable license\n- Check with the lawyers if there is any way an exclusion can be made for this (start with the TC?)",
+      "parentUuid": "daf066f4_2def720f",
+      "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
