@@ -34,6 +34,24 @@
       "parentUuid": "dea42f62_3625249b",
       "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "daf066f4_2def720f",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 8543
+      },
+      "writtenOn": "2023-12-08T12:14:32Z",
+      "side": 1,
+      "message": "Thanks for the link. Unfortunately, this seems to be the only library that\u0027s currently maintained.",
+      "parentUuid": "cfd8255f_e32d7a46",
+      "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
