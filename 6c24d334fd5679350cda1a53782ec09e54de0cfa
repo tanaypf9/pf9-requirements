@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dea42f62_3625249b",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-12-08T11:47:07Z",
+      "side": 1,
+      "message": "This is not an acceptable license for an OpenStack dependency.\n\n\u003e Licenses considered incompatible with this requirement include GPLv2, GPLv3, and AGPL.\n\nAGPL specifically puts restrictions on use for hosting providers that will be an issue for many using OpenStack. Is there an alternative library that can be used?",
+      "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
