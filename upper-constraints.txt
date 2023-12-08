@@ -206,6 +206,7 @@ gunicorn===21.2.0
 storpool===7.3.0
 textfsm===1.1.2
 python-3parclient===4.2.12
+python-libmaas===0.6.8
 unittest2===1.1.0
 django-compressor===4.4
 libvirt-python===9.7.0
