@@ -70,6 +70,24 @@
       "parentUuid": "daf066f4_2def720f",
       "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b0c2fd0_d2bb32b6",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 220,
+      "author": {
+        "id": 8543
+      },
+      "writtenOn": "2023-12-08T12:55:40Z",
+      "side": 1,
+      "message": "\"[A]GPL libraries used during validation or testing phases of development fall into a gray area - they are not presumed to be compatible or incompatible and instead are reviewed on a case by case basis.\"\n\nCould we add it to test-requirements.txt and have it as an optional dependency? Would that still cause licensing issues?",
+      "parentUuid": "ff527945_c2511178",
+      "revId": "6c24d334fd5679350cda1a53782ec09e54de0cfa",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
