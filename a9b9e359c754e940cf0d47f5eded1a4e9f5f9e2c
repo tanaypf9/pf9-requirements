@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "28e4a10e_b4ba9dec",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 11
+      },
+      "lineNbr": 404,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-12-12T18:18:28Z",
+      "side": 1,
+      "message": "fwiw, this is needed for Python 3.12 support (on Fedora 39)",
+      "revId": "a9b9e359c754e940cf0d47f5eded1a4e9f5f9e2c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
