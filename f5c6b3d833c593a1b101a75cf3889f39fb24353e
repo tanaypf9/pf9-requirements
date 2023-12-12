@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8146a3af_54828f49",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 13
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-12T19:30:54Z",
+      "side": 1,
+      "message": "Changing the topic so that this doesn\u0027t get messed up be the bot again.\n\nSee also https://review.opendev.org/c/openstack/requirements/+/900435. Also if you urgently need just a single version bump, proposing that as a dedicated commit might be the fastest solution.",
+      "revId": "f5c6b3d833c593a1b101a75cf3889f39fb24353e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
