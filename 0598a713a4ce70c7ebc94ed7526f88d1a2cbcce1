@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12086a60_5f1f7ce0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-12-14T15:26:38Z",
+      "side": 1,
+      "message": "recheck tempest timeout looks irrelevant",
+      "revId": "0598a713a4ce70c7ebc94ed7526f88d1a2cbcce1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
