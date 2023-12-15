@@ -50,6 +50,24 @@
       "message": "can we get the list back to being sorted, please?",
       "revId": "9644bf6d66612f773154b4123193eb97524a150e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0fb774c4_475e2feb",
+        "filename": "blacklist.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-12-15T15:42:19Z",
+      "side": 1,
+      "message": "done as a follow-up https://review.opendev.org/c/openstack/requirements/+/903765",
+      "parentUuid": "8f418413_9c4119a8",
+      "revId": "9644bf6d66612f773154b4123193eb97524a150e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
