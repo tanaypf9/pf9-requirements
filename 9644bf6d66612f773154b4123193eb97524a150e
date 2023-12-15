@@ -35,6 +35,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f498c57_fa43495c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-12-15T15:42:46Z",
+      "side": 1,
+      "message": "Can I add pins? Surely the requirements-check job will prevent that?",
+      "parentUuid": "fbaca919_cfdb6af1",
+      "revId": "9644bf6d66612f773154b4123193eb97524a150e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8f418413_9c4119a8",
