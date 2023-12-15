@@ -33,6 +33,23 @@
       "message": "Looks like py-pure-client requires too old dateutil, which conflicts with current u-c.\n\n```\n2023-12-07 18:51:32.169142 | ubuntu-focal | The conflict is caused by:\n2023-12-07 18:51:32.169184 | ubuntu-focal |     The user requested python-dateutil\u003d\u003d\u003d2.8.2\n2023-12-07 18:51:32.169202 | ubuntu-focal |     moto 4.2.3 depends on python-dateutil\u003c3.0.0 and \u003e\u003d2.1\n2023-12-07 18:51:32.169216 | ubuntu-focal |     croniter 1.4.1 depends on python-dateutil\n2023-12-07 18:51:32.169236 | ubuntu-focal |     pyghmi 1.5.63 depends on python-dateutil\u003e\u003d2.8.1\n2023-12-07 18:51:32.169248 | ubuntu-focal |     gnocchiclient 7.0.8 depends on python-dateutil\n2023-12-07 18:51:32.169261 | ubuntu-focal |     arrow 1.2.3 depends on python-dateutil\u003e\u003d2.7.0\n2023-12-07 18:51:32.169273 | ubuntu-focal |     pylxd 2.3.1 depends on python-dateutil\u003e\u003d2.4.2\n2023-12-07 18:51:32.169286 | ubuntu-focal |     influxdb 5.3.1 depends on python-dateutil\u003e\u003d2.6.0\n2023-12-07 18:51:32.169298 | ubuntu-focal |     influxdb-client 1.37.0 depends on python-dateutil\u003e\u003d2.5.3\n2023-12-07 18:51:32.169311 | ubuntu-focal |     freezegun 1.2.2 depends on python-dateutil\u003e\u003d2.7\n2023-12-07 18:51:32.169323 | ubuntu-focal |     oslo-log 5.4.0 depends on python-dateutil\u003e\u003d2.7.0\n2023-12-07 18:51:32.169340 | ubuntu-focal |     py-pure-client 1.44.0 depends on python-dateutil\u003c\u003d2.8.1 and \u003e\u003d2.5.3\n```",
       "revId": "9dcb69037fd525f46c7409dd786c1bd0c5ce7e80",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3894751b_4f6f6395",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13425
+      },
+      "writtenOn": "2023-12-15T05:05:49Z",
+      "side": 1,
+      "message": "Yes - we are rebuilding the package and removing the conflict. Updated release will be out next week at which point I will updsate the version number.",
+      "revId": "9dcb69037fd525f46c7409dd786c1bd0c5ce7e80",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
