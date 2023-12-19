@@ -53,6 +53,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "18487fad_8267e357",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-19T18:50:32Z",
+      "side": 1,
+      "message": "Not sure if that also holds true for test-requirements, the other option would be to add the pin in the job definition (tox.ini maybe)?\n\nBut we cannot merge this change as long as zuul says no.",
+      "parentUuid": "5f498c57_fa43495c",
+      "revId": "9644bf6d66612f773154b4123193eb97524a150e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8f418413_9c4119a8",
