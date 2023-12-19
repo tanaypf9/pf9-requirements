@@ -50,6 +50,23 @@
       "message": "Yes - we are rebuilding the package and removing the conflict. Updated release will be out next week at which point I will updsate the version number.",
       "revId": "9dcb69037fd525f46c7409dd786c1bd0c5ce7e80",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6373a4e_b7e19868",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13425
+      },
+      "writtenOn": "2023-12-19T15:49:44Z",
+      "side": 1,
+      "message": "recheck",
+      "revId": "9dcb69037fd525f46c7409dd786c1bd0c5ce7e80",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
