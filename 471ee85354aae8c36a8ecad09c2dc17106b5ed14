@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ba66e7db_d2ad0834",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2023-12-20T08:45:30Z",
+      "side": 1,
+      "message": "Looks like paramiko is now a blocker.\n\n```\n2023-12-19 16:46:26.935241 | ubuntu-focal | The conflict is caused by:\n2023-12-19 16:46:26.935270 | ubuntu-focal |     The user requested paramiko\u003d\u003d\u003d3.3.1\n2023-12-19 16:46:26.935328 | ubuntu-focal |     netmiko 4.1.2 depends on paramiko\u003e\u003d2.7.2\n2023-12-19 16:46:26.935358 | ubuntu-focal |     sshtunnel 0.4.0 depends on paramiko\u003e\u003d2.7.2\n2023-12-19 16:46:26.935383 | ubuntu-focal |     os-xenapi 0.3.4 depends on paramiko\u003e\u003d2.0.0\n2023-12-19 16:46:26.935405 | ubuntu-focal |     ncclient 0.6.13 depends on paramiko\u003e\u003d1.15.0\n2023-12-19 16:46:26.935420 | ubuntu-focal |     python-3parclient 4.2.12 depends on paramiko\n2023-12-19 16:46:26.935435 | ubuntu-focal |     scp 0.14.5 depends on paramiko\n2023-12-19 16:46:26.935450 | ubuntu-focal |     py-pure-client 1.45.0 depends on paramiko\u003c\u003d2.12.0 and \u003e\u003d2.11.0\n```",
+      "revId": "471ee85354aae8c36a8ecad09c2dc17106b5ed14",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
