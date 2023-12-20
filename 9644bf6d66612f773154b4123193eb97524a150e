@@ -88,6 +88,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bd169ea_baa49456",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-12-20T15:28:47Z",
+      "side": 1,
+      "message": "Done\n\nhttps://review.opendev.org/c/openstack/nova/+/903530",
+      "parentUuid": "18487fad_8267e357",
+      "revId": "9644bf6d66612f773154b4123193eb97524a150e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8f418413_9c4119a8",
