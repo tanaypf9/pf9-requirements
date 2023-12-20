@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "85134d90_a1d38fd7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-20T21:16:33Z",
+      "side": 1,
+      "message": "Looks like swift will have to adopt the mocking they do in their tests. Running some more integration tests with this might also be helpful.",
+      "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
