@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ebd9fbb2_bccce27b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 15
+      },
+      "lineNbr": 300,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-21T18:27:00Z",
+      "side": 1,
+      "message": "These ranges are the wrong way round, aren\u0027t they? We\u0027d need \u003c\u003d3.8 and \u003e\u003d3.10. But since we do not support python \u003c 3.8 I\u0027d prefer to also not give that impression and rather stick to \u003d\u003d3.8 instead.\n\nAnd then we\u0027re still missing a constraint for 3.9.",
+      "revId": "ffafcc6ba40fb2ff9794e63fab8ffc665c79585a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
