@@ -15,12 +15,11 @@
 
 """The project abstraction."""
 
+import configparser
 import collections
 import errno
 import io
 import os
-
-from six.moves import configparser
 
 from parsley import makeGrammar
 
