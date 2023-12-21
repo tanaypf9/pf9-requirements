@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0b5d5bc4_f1d3007c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-21T10:57:42Z",
+      "side": 1,
+      "message": "I\u0027m not sure why the job should start failing, did you test this already? I\u0027d also like to see the result of CI jobs with u-c bumped before approving this.",
+      "revId": "67bd2cb1ca331ee0ee893d8b0d3eedef519fe66a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
