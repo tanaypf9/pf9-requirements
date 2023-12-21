@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "038e996b_76683e79",
+        "filename": "openstack_requirements/tests/test_generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-21T16:29:33Z",
+      "side": 1,
+      "message": "This has some gap in between, so if we would have results for 3.8 and 3.10, there would be no pin at all for 3.9?\n\nI think this needs more test cases to verify the expected behavior, like with three python_versions where either pairs of freezes are equal or there are three different ones (all of these do actually occur for current u-c)",
+      "revId": "85f8ef327a603ac51eeb0a1edfe9e23df326ca9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
