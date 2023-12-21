@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29c9177e_69fd2d1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2023-12-21T13:55:25Z",
+      "side": 1,
+      "message": "Looks like a legit error:\n\n\u003e AttributeError: \u0027NoneType\u0027 object has no attribute \u0027metadata\u0027",
+      "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
