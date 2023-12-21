@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e572705a_cfd6535e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2023-12-21T15:44:10Z",
+      "side": 1,
+      "message": "recheck unrelated failure of tempest job",
+      "revId": "9118bb7c89812686e0ae11cc10059e5c0dc22cbc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
