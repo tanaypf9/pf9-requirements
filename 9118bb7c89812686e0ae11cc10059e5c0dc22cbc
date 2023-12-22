@@ -16,6 +16,23 @@
       "message": "recheck unrelated failure of tempest job",
       "revId": "9118bb7c89812686e0ae11cc10059e5c0dc22cbc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ec6d6b0c_0d5c01f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2023-12-22T08:24:21Z",
+      "side": 1,
+      "message": "So assuming cinder also got fixed with https://review.opendev.org/c/openstack/cinder/+/904143 I think we\u0027d be fine to proceed with this",
+      "revId": "9118bb7c89812686e0ae11cc10059e5c0dc22cbc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
