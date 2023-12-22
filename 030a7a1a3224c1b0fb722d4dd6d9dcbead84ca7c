@@ -51,6 +51,23 @@
       "message": "Needed patch merged, recheck",
       "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c09442f8_16711058",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2023-12-22T13:03:11Z",
+      "side": 1,
+      "message": "recheck trigger jobs",
+      "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
