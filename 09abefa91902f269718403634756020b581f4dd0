@@ -16,6 +16,41 @@
       "message": "Needs https://review.opendev.org/c/openstack/neutron/+/904109",
       "revId": "09abefa91902f269718403634756020b581f4dd0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "86109bed_3745afc0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-12-22T12:09:38Z",
+      "side": 1,
+      "message": "Needed patch merged, recheck",
+      "revId": "09abefa91902f269718403634756020b581f4dd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9b5fb6fe_8ee9ca36",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2023-12-22T12:09:38Z",
+      "side": 1,
+      "message": "Needed patch merged, recheck",
+      "parentUuid": "f52292cc_79a8b344",
+      "revId": "09abefa91902f269718403634756020b581f4dd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
