@@ -16,6 +16,24 @@
       "message": "Looks like swift will have to adopt the mocking they do in their tests. Running some more integration tests with this might also be helpful.",
       "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70f2af4e_a3d4f785",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2023-12-29T09:00:50Z",
+      "side": 1,
+      "message": "I\u0027m skeptical that\n```\nFatal Python error: Segmentation fault\n```\nwill be resolved by simply adjusting mocking. I wrote up https://github.com/eventlet/eventlet/issues/864 -- I\u0027ll see if I can dig into it more, but it seems like eventlet may need to consciously _not_ attempt to green existing locks upon monkey-patching 😕",
+      "parentUuid": "85134d90_a1d38fd7",
+      "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
