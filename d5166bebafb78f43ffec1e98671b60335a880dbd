@@ -34,6 +34,24 @@
       "parentUuid": "85134d90_a1d38fd7",
       "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1dad75f2_42a88bf8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-02T17:16:57Z",
+      "side": 1,
+      "message": "I only took a rough look at the job failure, sorry for the false blame, but at least it seems to have gotten things moving ... ;-)\n\nhttps://github.com/eventlet/eventlet/pull/866 proposed now, likely there\u0027ll be another version soon",
+      "parentUuid": "70f2af4e_a3d4f785",
+      "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
