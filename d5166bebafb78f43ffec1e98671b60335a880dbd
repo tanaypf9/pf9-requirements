@@ -52,6 +52,24 @@
       "parentUuid": "70f2af4e_a3d4f785",
       "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b0bd153b_6e16d6b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2024-01-03T21:22:46Z",
+      "side": 1,
+      "message": "No worries! And FWIW, I found I *could* dodge the bug by adjusting the mocking, so it turned out you were right: https://review.opendev.org/c/openstack/swift/+/904459\n\nI think it might still be best to wait for a new eventlet, though.",
+      "parentUuid": "1dad75f2_42a88bf8",
+      "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
