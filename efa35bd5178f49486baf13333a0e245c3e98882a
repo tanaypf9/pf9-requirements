@@ -138,6 +138,23 @@
       "message": "This badly needs to be merged to pull in the fix for the bug Dmitriy mentioned. I am attempting to deploy an OVN based openstack cloud and my neutron agents are permanently unable to reconnect to OVS without an agent restart due to the bug, resulting in a totally unusable cloud.\n\nI am attempting to use 2023.1 and 2023.2, both use the same broken OVS python library defined in u-c.\n\nhttps://bugs.launchpad.net/openvswitch/+bug/1985062\nhttps://github.com/openvswitch/ovs/commit/1731ed43c6dca385ed1f6a7fb25148f0a34fd3b9",
       "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a8bd7738_e41a414b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2024-01-04T15:43:11Z",
+      "side": 1,
+      "message": "OVS has been updated for C, so abandoning this change",
+      "revId": "efa35bd5178f49486baf13333a0e245c3e98882a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
