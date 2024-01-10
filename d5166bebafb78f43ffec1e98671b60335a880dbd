@@ -70,6 +70,24 @@
       "parentUuid": "1dad75f2_42a88bf8",
       "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e5ac626a_9a940225",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-10T17:03:50Z",
+      "side": 1,
+      "message": "As the root cause of the segfault is a pure python bug [1][2], with no reference to eventlet, I don\u0027t think that a new evenlet version would help much here.\n\nI think that until this bug is solved in the CPython side, we need the mock adjustment.\n\nI\u0027d suggest:\n\n1. to release a new swift version (not sure if cross tests are based on master branches or on specific pulled versions of services)\n2. recheck this patch\n3. if tests are ok with the mock adjustments, then, merge this patch.\n\nThoughts?\n\n[1] https://github.com/python/cpython/issues/113631\n[2] https://github.com/faster-cpython/ideas/issues/643",
+      "parentUuid": "b0bd153b_6e16d6b2",
+      "revId": "d5166bebafb78f43ffec1e98671b60335a880dbd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
