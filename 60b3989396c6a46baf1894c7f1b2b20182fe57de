@@ -16,6 +16,23 @@
       "message": "recheck jobs running before pkg was published to pypi",
       "revId": "60b3989396c6a46baf1894c7f1b2b20182fe57de",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3e91420_31277047",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-11T13:23:07Z",
+      "side": 1,
+      "message": "recheck nova functional failure didn\u0027t happen on first run, not sure if related?",
+      "revId": "60b3989396c6a46baf1894c7f1b2b20182fe57de",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
