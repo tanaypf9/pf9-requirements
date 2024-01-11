@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "71a93641_6a85019a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-11T15:43:53Z",
+      "side": 1,
+      "message": "This eventlet should help to manage the previous segfaults:\nhttps://github.com/eventlet/eventlet/commit/dec2ed5de1f170fad9539f0638278dbe36a3672f",
+      "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
