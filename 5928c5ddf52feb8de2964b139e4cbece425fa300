@@ -33,6 +33,24 @@
       "message": "I\u0027ve reported the test failures[1] to nova and glance and proposed the required fix.\nCurrently only these two projects use oslo.limit so the other project are not affected.\n\n[1] https://bugs.launchpad.net/nova/+bug/2049064",
       "revId": "5928c5ddf52feb8de2964b139e4cbece425fa300",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "767daba4_7f0627b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-12T16:47:38Z",
+      "side": 1,
+      "message": "Would it make sense to have this patch depend-on those two fixes in order to verify them?",
+      "parentUuid": "db7eeeda_65c7cc3c",
+      "revId": "5928c5ddf52feb8de2964b139e4cbece425fa300",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
