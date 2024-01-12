@@ -68,6 +68,23 @@
       "message": "Gates are now happy",
       "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e23cf29f_64e16d8b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-12T16:43:46Z",
+      "side": 1,
+      "message": "the failure in the cinder unit test looks related to eventlet, so even if it is only an instability instead of a 100% failure, I think this warrants closer inspection",
+      "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
