@@ -68,6 +68,23 @@
       "message": "recheck trigger jobs",
       "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03403824_af7c1a3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16688
+      },
+      "writtenOn": "2024-01-15T10:47:57Z",
+      "side": 1,
+      "message": "recheck neutron patch merged",
+      "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
