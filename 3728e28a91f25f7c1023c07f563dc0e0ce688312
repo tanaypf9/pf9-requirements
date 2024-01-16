@@ -102,6 +102,23 @@
       "message": "recheck",
       "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3d13a303_1e22a4dc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-16T09:14:24Z",
+      "side": 1,
+      "message": "recheck see more cinder results\n\nactually cinder tests were unstable in another patch, too, so maybe not related after all",
+      "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
