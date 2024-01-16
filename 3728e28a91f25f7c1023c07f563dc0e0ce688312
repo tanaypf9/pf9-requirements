@@ -154,6 +154,24 @@
       "message": "actually I mixed this up, it was ceilometer once failing in https://review.opendev.org/c/openstack/requirements/+/905606, so I think we can attribute both to general gate instability and go on with this and see how it fares \"in the wild\"",
       "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa09f59f_081927c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-16T13:21:27Z",
+      "side": 1,
+      "message": "WFM",
+      "parentUuid": "47b0043b_32c1be6c",
+      "revId": "3728e28a91f25f7c1023c07f563dc0e0ce688312",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ],
   "submitRequirementResults": [
