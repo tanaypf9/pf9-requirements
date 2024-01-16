@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "efa26e7a_8f9ce62c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-16T09:19:12Z",
+      "side": 1,
+      "message": "I like the idea, but I\u0027m not sure where this log file will end up in the CI and whether zuul needs to be told to collect it. Or do you intend this only to be used for local testing?",
+      "revId": "447cabd744366ce9cce83b84a133de4ec0d7a981",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
