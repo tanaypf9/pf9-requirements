@@ -16,6 +16,23 @@
       "message": "recheck unclear ceilometer failure",
       "revId": "04d623e0a20464c19167fbcb4fae034d7a57f512",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c72ac4e4_29acb572",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-16T11:00:38Z",
+      "side": 1,
+      "message": "recheck unrelated tempest volume backup failure",
+      "revId": "04d623e0a20464c19167fbcb4fae034d7a57f512",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
