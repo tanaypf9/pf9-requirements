@@ -33,6 +33,23 @@
       "message": "recheck unrelated tempest volume backup failure",
       "revId": "04d623e0a20464c19167fbcb4fae034d7a57f512",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f68be32d_38fc2dbc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-17T06:33:49Z",
+      "side": 1,
+      "message": "recheck is the aodh test failure consistent ?",
+      "revId": "04d623e0a20464c19167fbcb4fae034d7a57f512",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
