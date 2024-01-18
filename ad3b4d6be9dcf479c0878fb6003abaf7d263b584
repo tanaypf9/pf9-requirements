@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "35ad0426_2ae89e92",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-18T02:16:28Z",
+      "side": 1,
+      "message": "If needed I\u0027ll cycle this to the end of the chain to give https://review.opendev.org/c/openstack/nova/+/905314 time to land.\n\nI\u0027ll also add a Depends-On: that.",
+      "revId": "ad3b4d6be9dcf479c0878fb6003abaf7d263b584",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
