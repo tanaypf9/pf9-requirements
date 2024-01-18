@@ -1,0 +1,35 @@
+---
+- name: Install required python version packages
+  become: true
+  package:
+    name:
+    - "python{{ pyver }}"
+    - "python{{ pyver }}-venv"
+    - "python{{ pyver }}-dev"
+    state: present
+
+- name: Create a venv for python {{ pyver }}
+  command: python{{ pyver }} -m venv /tmp/venv-{{ pyver }}
+
+- name: Update core PyPi libraries
+  command: /tmp/venv-{{ pyver }}/bin/pip install -U pip setuptools wheel
+
+- name: Install everything in global-requirements
+  command: /tmp/venv-{{ pyver }}/bin/pip install -r {{ global_requirements_file }}
+
+- name: Generate freeze
+  shell: /tmp/venv-{{ pyver }}/bin/pip freeze | tee {{ artifacts_dir }}/{{ pyver }}_freeze
+  register: freeze
+
+- name: Return python{{ pyver }} freeze artifact to Zuul
+  zuul_return:
+    data:
+      zuul:
+        artifacts:
+        - name: freeze for python {{ pyver }}
+          url: "artifacts/{{ pyver }}_freeze"
+
+- name: Return python{{ pyver }} freeze variable to Zuul
+  zuul_return:
+    data:
+      "feeze_{{ pyver|replace('.', '_') }}": "{{ freeze.stdout_lines }}"
