@@ -1,0 +1,57 @@
+---
+- hosts: control
+  tasks:
+  - name: Wait for builders to complete
+    zuul_return:
+      zuul:
+        pause: true
+
+  - name: Focal Constraints
+    debug: var=focal_constraints
+
+  - name: Jammy Constraints
+    debug: var=jammy_constraints
+
+  - name: NG Constraints
+    debug: var=ng_constraints
+
+- hosts: focal
+  tasks:
+  - name: Do nothing
+    zuul_return:
+      data:
+        focal_constraints:
+          "3.8": |-
+            one
+            two
+            three
+          "3.9": |-
+            one
+            two
+            three
+
+- hosts: jammy
+  tasks:
+  - name: Do nothing
+    zuul_return:
+      data:
+        focal_constraints:
+          "3.10": |-
+            one
+            two
+            three
+          "3.11": |-
+            one
+            two
+            three
+
+- hosts: ng
+  tasks:
+  - name: Do nothing
+    zuul_return:
+      data:
+        focal_constraints:
+          "3.12": |-
+            one
+            two
+            three
