@@ -1,0 +1,21 @@
+---
+- name: Install required python version packages
+  become: true
+  package:
+    name:
+    - "python{{ pyver }}"
+    - "python{{ pyver }}-venv"
+    - "python{{ pyver }}-dev"
+    state: present
+
+- name: Create a venv for python {{ pyver }}
+  command: python{{ pyver }} -m venv /tmp/venv-{{ pyver }}
+
+- name: Update core PyPi libraries
+  command: /tmp/venv-{{ pyver }}/bin/pip install -U pip setuptools wheel
+
+- name: Install everything in global-requirements
+  command: /tmp/venv-{{ pyver }}/bin/pip install -r {{ global_requirements_file }}
+
+- name: Generate freeze
+  command: /tmp/venv-{{ pyver }}/bin/pip freeze

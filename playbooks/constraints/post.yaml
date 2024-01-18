@@ -1,0 +1,7 @@
+---
+host: all
+tasks:
+- name: Send it back
+  zuul_return:
+    data:
+      freeze_sets: "{{ freeze_sets }}"
