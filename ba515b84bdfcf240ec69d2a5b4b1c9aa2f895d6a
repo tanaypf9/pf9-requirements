@@ -1,6 +1,52 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "0ac19546_457b430f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-18T10:21:16Z",
+      "side": 1,
+      "message": "Do you speak about https://review.opendev.org/c/openstack/swift/+/905796?\n\nIf yes, a fix has been merged on the eventlet side, https://github.com/eventlet/eventlet/pull/890\n\nI\u0027ll soon generate a new eventlet release containing that fix.",
+      "range": {
+        "startLine": 11,
+        "startChar": 41,
+        "endLine": 11,
+        "endChar": 46
+      },
+      "revId": "ba515b84bdfcf240ec69d2a5b4b1c9aa2f895d6a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "53958495_98d88e03",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-18T10:21:16Z",
+      "side": 1,
+      "message": "Concerning manila I suppose you speak about this error https://zuul.opendev.org/t/openstack/build/6cbb53c97fd84dca8cab72744e9c061c, correct?\n\nIf yes, then, we (eventlet maintainer) already seen a similare case\nhttps://github.com/eventlet/eventlet/issues/896. This error is related to the new approach for greening existing locks and avoid segfaults (https://github.com/eventlet/eventlet/commit/dec2ed5de1f170fad9539f0638278dbe36a3672f).\n\nApparently ironic-inspector also faced this kind of error, they proposed a fix but related discussions are still on.\nhttps://review.opendev.org/c/openstack/ironic-inspector/+/906011\n\nBut please confirm that you refered to this problem about manila.",
+      "range": {
+        "startLine": 11,
+        "startChar": 51,
+        "endLine": 11,
+        "endChar": 57
+      },
+      "revId": "ba515b84bdfcf240ec69d2a5b4b1c9aa2f895d6a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "61ee91e1_615cdb94",
