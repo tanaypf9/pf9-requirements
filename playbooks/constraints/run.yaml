@@ -1,0 +1,30 @@
+---
+- hosts: all
+  strategy: free
+  roles:
+  - bindep
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Ensure {{ freeze_dir }} exists
+    file:
+      state: "directory"
+      path: "{{ freeze_dir }}"
+      mode: "u=rwx,g=rwx,o=rx"
+
+  - name: Generate a set of constraints for a single python version
+    include_tasks: generate.yaml
+    loop: "{{ python_versions }}"
+    loop_control:
+      loop_var: pyver
