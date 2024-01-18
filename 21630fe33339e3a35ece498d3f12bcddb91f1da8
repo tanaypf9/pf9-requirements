@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0945a93d_1ddf3adf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-18T09:59:51Z",
+      "side": 1,
+      "message": "The unit tests fix for nova has been merged so this should now pass CI.",
+      "revId": "21630fe33339e3a35ece498d3f12bcddb91f1da8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
