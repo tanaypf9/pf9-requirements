@@ -75,3 +75,48 @@
     files: ^bindep.txt$
     vars:
       tox_envlist: bindep
+
+# NOTE(tonyb): Eventually this job will need access to the proposal_ssh_key
+# secret so will need to live in project-config.  It's my understanding that
+# as project-config is a trusted repo it's .impossible to speculatively
+# execute jobs.  To aid job development I'm doing this in the requirements
+# repo
+- job:
+    name: requirements-generate-constraints-multinode
+    description: |
+      Generate constraints on multiple nodes and merge into a single unified constraints
+      file
+    parent: base
+    run: playbooks/constraints/run.yaml
+    branches: master
+    nodeset:
+      name: constraints-multinode
+      nodes:
+      - name: control
+        label: ubuntu-jammy
+      - name: focal
+        label: ubuntu-focal
+      - name: jammy
+        label: ubuntu-jammy
+      - name: ng
+        label: debian-bookworm
+      groups:
+      - name: control
+        nodes:
+        - control
+      - name: builders
+        nodes:
+        - focal
+        - jammy
+        - ng
+    vars:
+      update_target: requirements-constraints
+      python_versions:
+        focal:
+        - 3.8
+        - 3.9
+        jammy:
+        - 3.10
+        - 3.11
+        ng:
+        - 3.12
