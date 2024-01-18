@@ -1,0 +1,95 @@
+---
+# Copied from https://opendev.org/openstack/project-config/src/branch/master/proposal/pre.yaml
+# It is currently unused
+- hosts: all
+  pre_tasks:
+    - name: Ensure pip
+      include_role:
+        name: ensure-pip
+
+    - name: Install git-review
+      pip:
+        name: git-review
+        virtualenv: /opt/git-review
+        virtualenv_command: '{{ ensure_pip_virtualenv_command }}'
+      become: yes
+
+    - name: Link git-review
+      file:
+        src: /opt/git-review/bin/git-review
+        dest: /usr/local/bin/git-review
+        owner: root
+        group: root
+        state: link
+      become: yes
+
+    - name: Copy scripts to the script dir on the node
+      copy:
+        dest: '{{ ansible_user_dir }}/scripts/'
+        src: '{{ item }}'
+        mode: 0755
+      with_items:
+        - generate_puppetfile.sh
+        - propose_update.sh
+        - sync_openstack_ansible_common_files.sh
+
+  roles:
+    - role: configure-git
+      git_config:
+        user.name: OpenStack Proposal Bot
+        user.email: openstack-infra@lists.openstack.org
+        gitreview.username: proposal-bot
+    - copy-proposal-common-scripts
+      # For propose-update-constraints
+    - copy-release-tools-scripts
+    - add-sshkey
+    - bindep
+
+  tasks:
+    # NOTE: Due to a confluence of problems between requirements
+    # versions, java versions, zanata clients, etc. translation
+    # proposal jobs have to run on bionic.  However, ensure-tox uses
+    # ensure_pip_virtualenv_command, which installs using default
+    # python on the system.  On bionic this is 3.6, which can not deal
+    # with master upper-constraints.txt.
+    #
+    # So we bring in the python 3.8 packages and override ensure-tox
+    # to use this to create the tox environment.
+    - name: Setup Bionic
+      when: ansible_distribution == 'Ubuntu' and ansible_distribution_release == 'bionic'
+      block:
+        - name: Ensure python
+          include_role:
+            name: ensure-python
+          vars:
+            python_version: 3.8
+
+        - name: Setup virtualenv version
+          set_fact:
+            _venv_command: '/usr/bin/python3.8 -m venv'
+
+    # The base proposal jobs require both python3.8 and python3.9.
+    # Bring in Python 3.9 for them here.
+    - name: Setup Focal
+      when: ansible_distribution == 'Ubuntu' and ansible_distribution_release == 'focal'
+      block:
+        - name: Ensure python
+          include_role:
+            name: ensure-python
+          vars:
+            python_version: 3.9
+
+    - name: Install tox with venv command override
+      include_role:
+        name: ensure-tox
+      vars:
+        ensure_global_symlinks: true
+        ensure_pip_virtualenv_command: '{{ _venv_command }}'
+      when: _venv_command is defined
+
+    - name: Install tox without venv command override
+      include_role:
+        name: ensure-tox
+      vars:
+        ensure_global_symlinks: true
+      when: _venv_command is not defined
