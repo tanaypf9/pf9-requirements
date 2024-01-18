@@ -1,0 +1,36 @@
+---
+- hosts: all
+  roles:
+  - bindep
+  tasks:
+  - name: Install expected "bits"
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+  - name:
+    block:
+    - name: Install required python version packages
+      package:
+        name:
+        - "python{{ pyver }}"
+        - "python{{ pyver }}-venv"
+        - "python{{ pyver }}-dev"
+        state: present
+    - name: Create a venv
+      command: python{{ pyver }} -m venv /tmp/venv-{{ pyver }}
+    - name: Update core PyPi libraries
+      command: /tmp/venv-{{ pyver }}/bin/pip install -U pip setuptools wheel
+    - name: Install everything in global-requirements
+      command: /tmp/venv-{{ pyver }}/bin/pip install -r {{ global_requirements_file }}
+    - name: Generate freeze
+      command: /tmp/venv-{{ pyver }}/bin/pip freeze
+    loop: python_versions
+    loop_control:
+      loop_var: pyver
