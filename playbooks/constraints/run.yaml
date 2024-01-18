@@ -1,0 +1,22 @@
+---
+- hosts: all
+  roles:
+  - bindep
+  tasks:
+  - name: Install expected "bits"
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Generate a set of constraints for a single python version
+    include_tasks: playbooks/constraints/generate.yaml
+    loop: python_versions
+    loop_control:
+      loop_var: pyver
