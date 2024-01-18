@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61ee91e1_615cdb94",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-18T01:15:40Z",
+      "side": 1,
+      "message": "Single core approving as this change previously and the required approvals and is time critical",
+      "revId": "ba515b84bdfcf240ec69d2a5b4b1c9aa2f895d6a",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
