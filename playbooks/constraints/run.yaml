@@ -1,0 +1,37 @@
+---
+- hosts: all
+  strategy: free
+  roles:
+  - bindep
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Make a fact for later
+    set_fact:
+      freeze_sets: []
+
+  - name: Generate a set of constraints for a single python version
+    include_tasks: generate.yaml
+    loop: "{{ python_versions }}"
+    loop_control:
+      loop_var: pyver
+
+  - name: Dump freeze_sets on {{ inventory_hostname }}
+    debug:
+      msg: "{{ freeze_sets|to_yaml }}"
+
+  - name: Return python{{ pyver }} freeze variable to Zuul
+    zuul_return:
+      data:
+        freeze_sets: "{{ freeze_sets }}"
