@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ff530b69_1a05a485",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-18T23:58:45Z",
+      "side": 1,
+      "message": "recheck\n\nSDK unit tests failed in gate but not check",
+      "revId": "f255ec17ebba4a1bc8000aca003fa50a5bbcde79",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
