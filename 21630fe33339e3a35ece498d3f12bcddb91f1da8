@@ -16,6 +16,23 @@
       "message": "The unit tests fix for nova has been merged so this should now pass CI.",
       "revId": "21630fe33339e3a35ece498d3f12bcddb91f1da8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13bfd23b_ac82fa20",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-19T06:48:16Z",
+      "side": 1,
+      "message": "recheck gate failure in dep disappeared on recheck",
+      "revId": "21630fe33339e3a35ece498d3f12bcddb91f1da8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
