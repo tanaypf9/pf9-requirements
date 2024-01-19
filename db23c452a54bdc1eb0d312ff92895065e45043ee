@@ -52,6 +52,24 @@
       "parentUuid": "1a74cd7a_21a825b9",
       "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1d1a22fe_2b3a13e7",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 526,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-19T16:38:16Z",
+      "side": 0,
+      "message": "That sounds fair... If removal from u-c does not harm now then it\u0027d be better to bundle the removal instead of again requiring to rebase that patch. (seeing multiple recent rebase attempts caused by incoming bumps )",
+      "parentUuid": "763e67f3_6cbc310a",
+      "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
