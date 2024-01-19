@@ -16,6 +16,24 @@
       "message": "I think the preferred way of removing would be to remove it from global-requirements only, the next upper-constraints update will remove it if nothing else brings it in as a dependency.",
       "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a74cd7a_21a825b9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 526,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-19T16:15:44Z",
+      "side": 0,
+      "message": "Ack. Restored this line in the current version.",
+      "parentUuid": "25f50fc9_883d0ad4",
+      "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
