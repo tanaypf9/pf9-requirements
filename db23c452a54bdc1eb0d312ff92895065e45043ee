@@ -34,6 +34,24 @@
       "parentUuid": "25f50fc9_883d0ad4",
       "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "763e67f3_6cbc310a",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 526,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-19T16:29:26Z",
+      "side": 0,
+      "message": "I tend to disagree here. With the current state of the requirements project, bot generated updates get merged maybe twice a year if you\u0027re lucky, I wouldn\u0027t suggest to wait for that. The etcd3 project page on pypi also states that it supports a maximum of py3.6, so IMO there cannot be any reasonable use of it in any current project.\n\nWhat we could do is rebase https://review.opendev.org/c/openstack/requirements/+/900435 on top of this and include the removal from u-c there, but to me it makes more sense to bundle it together here.",
+      "parentUuid": "1a74cd7a_21a825b9",
+      "revId": "db23c452a54bdc1eb0d312ff92895065e45043ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
