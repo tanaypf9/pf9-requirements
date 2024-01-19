@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a95a95b_2cfa67b9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 178,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-19T13:28:21Z",
+      "side": 1,
+      "message": "so this is bumped because of https://github.com/PureStorage-OpenConnect/py-pure-client/blob/1.46.0/setup.py#L19 .",
+      "range": {
+        "startLine": 178,
+        "startChar": 0,
+        "endLine": 178,
+        "endChar": 17
+      },
+      "revId": "9f02a3edc2d3cab051dbf3d570a91c6f4055e171",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
