@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b72981ac_c1ed5bbb",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 12
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-19T09:32:18Z",
+      "side": 1,
+      "message": "I guess this was fixed by https://review.opendev.org/c/openstack/barbican/+/903657 ?",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 55
+      },
+      "revId": "e4b95986b6fb98f2d76192cfdb560074a2b99ef7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
