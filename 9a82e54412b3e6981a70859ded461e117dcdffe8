@@ -3,6 +3,29 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "4a8fe084_84dedbde",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 556,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-20T18:23:42Z",
+      "side": 1,
+      "message": "I noticed that we still have XenAPI and os-xenapi but these are no longer required, because nova removed XenAPI support. I\u0027ve pushed https://review.opendev.org/c/openstack/requirements/+/906190 .",
+      "range": {
+        "startLine": 556,
+        "startChar": 0,
+        "endLine": 556,
+        "endChar": 15
+      },
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "3427363a_7f6f87e8",
         "filename": "upper-constraints.txt",
         "patchSetId": 6
