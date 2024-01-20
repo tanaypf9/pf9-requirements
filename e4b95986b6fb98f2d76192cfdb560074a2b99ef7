@@ -22,6 +22,30 @@
       },
       "revId": "e4b95986b6fb98f2d76192cfdb560074a2b99ef7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "29d9024f_3770af41",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 12
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T11:35:15Z",
+      "side": 1,
+      "message": "ack, treated in fup",
+      "parentUuid": "b72981ac_c1ed5bbb",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 13,
+        "endChar": 55
+      },
+      "revId": "e4b95986b6fb98f2d76192cfdb560074a2b99ef7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
