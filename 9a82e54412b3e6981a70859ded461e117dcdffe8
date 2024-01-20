@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3427363a_7f6f87e8",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 630,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-20T18:18:08Z",
+      "side": 1,
+      "message": "scikit-learn 1.4.0 requires Python \u003e\u003d 3.9 so we have to pin it to 1.3.2 in Python 3.8",
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
