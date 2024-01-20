@@ -16,6 +16,24 @@
       "message": "need to bump cryptography at the same time\n\nalso https://pypi.org/project/pyOpenSSL/ has a warning:\n\nNote: The Python Cryptographic Authority strongly suggests the use of pyca/cryptography where possible. If you are using pyOpenSSL for anything other than making a TLS connection you should move to cryptography and drop your pyOpenSSL dependency.\n\nwe should ensure that the use within barbican or elsewhere in openstack is in line with that",
       "revId": "3dc281bbbb25490486e8328600fbb17f58c6f3ad",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "094bdad0_7fb44cd9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T11:36:24Z",
+      "side": 1,
+      "message": "I see you started some cleanups already, thanks for that",
+      "parentUuid": "da376718_02b5394c",
+      "revId": "3dc281bbbb25490486e8328600fbb17f58c6f3ad",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
