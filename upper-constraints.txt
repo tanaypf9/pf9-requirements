@@ -196,7 +196,6 @@ cryptography===41.0.5
 httpcore===1.0.2
 URLObject===2.4.3
 nocasedict===2.0.1
-task-core===0.2.1
 psycopg2-binary===2.9.9
 openstack-release-test===5.0.0
 validations-libs===1.9.0
@@ -458,7 +457,6 @@ pywinrm===0.4.3
 botocore===1.31.84
 xmltodict===0.13.0
 pyasn1===0.4.8
-directord===0.12.0
 oslo.rootwrap===7.1.0
 Django===4.2.8
 pexpect===4.8.0
