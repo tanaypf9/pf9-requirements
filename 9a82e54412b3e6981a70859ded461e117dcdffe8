@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e50ea9a_df2fbe29",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-20T18:24:50Z",
+      "side": 1,
+      "message": "Note for future reference...\nThe failure in aodh is a known intermittent failure. Looks like there is something odd done in the way they patch gnocchi clients in their tests which sometimes causes unexpected inter-effect between test cases.",
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4a8fe084_84dedbde",
