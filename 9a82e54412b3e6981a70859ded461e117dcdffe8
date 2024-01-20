@@ -18,6 +18,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d60ddcb9_e5dd3e97",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T18:27:32Z",
+      "side": 1,
+      "message": "oh good to know, I was trying to see what was going wrong there, will just rerun then",
+      "parentUuid": "5e50ea9a_df2fbe29",
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4a8fe084_84dedbde",
@@ -41,6 +59,30 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ec250358_2661cc98",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 556,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T18:27:32Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "4a8fe084_84dedbde",
+      "range": {
+        "startLine": 556,
+        "startChar": 0,
+        "endLine": 556,
+        "endChar": 15
+      },
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "3427363a_7f6f87e8",
@@ -54,6 +96,24 @@
       "writtenOn": "2024-01-20T18:18:08Z",
       "side": 1,
       "message": "scikit-learn 1.4.0 requires Python \u003e\u003d 3.9 so we have to pin it to 1.3.2 in Python 3.8",
+      "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59ed51cf_d3db8e6d",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 630,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T18:27:32Z",
+      "side": 1,
+      "message": "already on it",
+      "parentUuid": "3427363a_7f6f87e8",
       "revId": "9a82e54412b3e6981a70859ded461e117dcdffe8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
