@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d3a313b9_6b1b5920",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-20T14:45:50Z",
+      "side": 1,
+      "message": "Failure in manila is still present https://zuul.opendev.org/t/openstack/build/fe3673137aed4bc8b3dae769321e4423",
+      "revId": "2954d0ea39031239649c97e2b764375864315477",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
