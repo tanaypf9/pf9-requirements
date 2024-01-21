@@ -120,6 +120,30 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "725415f5_4ed7d325",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 27339
+      },
+      "writtenOn": "2024-01-21T19:16:31Z",
+      "side": 1,
+      "message": "As I said, i temporarily disabled horizon tests just to check if Zuul will verify without horizon test (that patch i\u0027ve already abandoned - because even if horizon test was turned off ..other tests failed ) ... but it didn\u0027t work.\n\nUnfortunatelly I\u0027ve found that cross-dependency magic currently not work :\u0027(, so I can\u0027t verify which patches should be reverted - maybe this one, maybe other one, maybe all of them ... We basically need to check ... But as you can see even trivial change in kolla-ansible template worked at friday ...",
+      "parentUuid": "33247ce6_e7d1761f",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "27e36ed5_96a43506",
