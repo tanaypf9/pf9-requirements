@@ -176,6 +176,24 @@
       "message": "There\u0027s no way we will revert 100+ version bumps just because some small bits may be failing. We can revert some things like the ruamel-yaml bump that may be causing some issues, but you\u0027ll need to document the exact issue and the focus still should be on fixing the issues in the consumers, rather than sticking to outdated library versions.",
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf8a46cb_fd1349d9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27339
+      },
+      "writtenOn": "2024-01-21T19:29:31Z",
+      "side": 1,
+      "message": "Hold your horses, of course I really don\u0027t want to do the step backwards, but this is the fastest way how to test it, isn\u0027t it ? \n\nI will amend commit message to [DNM].",
+      "parentUuid": "da8b4c38_aa98fbd7",
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
