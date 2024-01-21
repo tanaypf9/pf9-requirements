@@ -46,6 +46,30 @@
       },
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d60fca78_ab5cab1d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-21T18:11:55Z",
+      "side": 1,
+      "message": "Do you mind sharing the details of that horizon problem ? Reverting this is easy but we have to understand the problems, otherwise we are fully stuck with the current versions IMO.\n\nFor the issue with ansible-lint, I\u0027d suggest you bump ansible-lint to v6.22.0 which contains https://github.com/ansible/ansible-lint/commit/824d58fc35c63e413ed0f0a97976e3949d934eae",
+      "parentUuid": "fbb5df4b_244c90d1",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
