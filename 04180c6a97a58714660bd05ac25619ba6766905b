@@ -94,6 +94,30 @@
       },
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "33247ce6_e7d1761f",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-21T18:39:48Z",
+      "side": 1,
+      "message": "So it seems horizon returns 400 to healthcheck requests (GET /) and that is causing the problem. I\u0027m still unsure about the exact package bump which can cause this. Note that bump of django version was also recently merged[1] and that can theoretically affect horizon.\n\nWe probably have to check if this revert actually resolves the problem in kolla (does depends-on magic works ?) or hold the node to dig into the problem.\n\n[1] https://review.opendev.org/c/openstack/requirements/+/904202",
+      "parentUuid": "90140315_6272c0a2",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
