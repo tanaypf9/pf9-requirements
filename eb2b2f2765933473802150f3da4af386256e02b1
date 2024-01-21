@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d05fa234_2e028684",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 243,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-21T17:59:34Z",
+      "side": 0,
+      "message": "assuming this revert is related to your patch in kolla-ansible, the actual problem is the fact that ansible-lint has ruamel.yaml\u003c1.18 . We can probably revert this specific change if it works but I\u0027d rather attempt to remove that capping first.",
+      "range": {
+        "startLine": 243,
+        "startChar": 0,
+        "endLine": 243,
+        "endChar": 20
+      },
+      "revId": "eb2b2f2765933473802150f3da4af386256e02b1",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
