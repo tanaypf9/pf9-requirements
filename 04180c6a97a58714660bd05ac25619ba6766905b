@@ -22,6 +22,30 @@
       },
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fbb5df4b_244c90d1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 27339
+      },
+      "writtenOn": "2024-01-21T18:06:04Z",
+      "side": 1,
+      "message": "Yep, let me test it - but i am 90 percent sure that this broke a lot of things as you can see here (assuming that it will be this commit as it\u0027s changing quite a lot packages)\n\nhttps://review.opendev.org/c/openstack/kolla-ansible/+/906099 in entire ralation chain.\n\nFirstly I just saw that horizon is failing , so I checked requirements git, then I temporarily disabled horizon test job (as I saw there is Django bump version) and add as first commit in relation chain and waited for result - I thought that it will be  OKay except horizon and other stuff will be fine - but NO :( - there are more thing failing... \n\nSo, I am investigating ... Friday afternoon it was still working...",
+      "parentUuid": "a4bfba5e_79e09894",
+      "range": {
+        "startLine": 11,
+        "startChar": 0,
+        "endLine": 11,
+        "endChar": 34
+      },
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
