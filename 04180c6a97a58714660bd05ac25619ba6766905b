@@ -118,6 +118,23 @@
       },
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "27e36ed5_96a43506",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-21T18:42:27Z",
+      "side": 1,
+      "message": "looks like we also have to revert https://review.opendev.org/c/openstack/requirements/+/906092 .",
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
