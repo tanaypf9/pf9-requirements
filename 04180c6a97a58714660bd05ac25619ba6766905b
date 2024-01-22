@@ -212,6 +212,24 @@
       "parentUuid": "bf8a46cb_fd1349d9",
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "693d9c60_b30a499d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27339
+      },
+      "writtenOn": "2024-01-22T09:39:29Z",
+      "side": 1,
+      "message": "And what about this ? From log it\u0027s visible that it\u0027s problem in python \n\nhttps://a9f12b6a44dc386ddd99-cba8b685fc22597821cf94b3969a4442.ssl.cf1.rackcdn.com/905644/29/check/kolla-ansible-ubuntu/6737f66/primary/logs/kolla/all-ERROR.txt\n\nCheck https://review.opendev.org/c/openstack/kolla-ansible/+/905502/11 the last zuul verified -1 ...all tests are passing after revert (but i turned off horizon tests) ..",
+      "parentUuid": "d1b35afc_4748ce0c",
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ],
   "submitRequirementResults": [
