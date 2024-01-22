@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a48bf22_bd18b15a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-22T02:53:33Z",
+      "side": 1,
+      "message": "I\u0027m \"on the fence\" as the preferred format for constraints. Having said that I\u0027m not a firm +0 on the idea.  I won\u0027t block something like this merging, I\u0027ll review etc but I\u0027m not an advocate.  As I\u0027ve stated before I prefer the simple verbose for as it stands at the moment.\n\nWith all that said I think we need to cover more tests / scenarios.\n\n---\nalabaster\u003d\u003d\u003d0.7.13;python_version\u003d\u003d\u00273.8\u0027\nalabaster\u003d\u003d\u003d0.7.16;python_version\u003e\u003d\u00273.9\u0027\n---\n\n---\nasync-timeout\u003d\u003d\u003d4.0.3;python_version\u003d\u003d\u00273.10\u0027\nasync-timeout\u003d\u003d\u003d4.0.3;python_version\u003d\u003d\u00273.8\u0027\nasync-timeout\u003d\u003d\u003d4.0.3;python_version\u003d\u003d\u00273.9\u0027\n# NOT needed on pythons after 3.10\n---\n\n---\nimportlib-metadata\u003d\u003d\u003d6.2.1;python_version\u003d\u003d\u00273.8\u0027\nimportlib-metadata\u003d\u003d\u003d6.2.1;python_version\u003d\u003d\u00273.9\u0027\nimportlib-metadata\u003d\u003d\u003d6.11.0;python_version\u003e\u003d\u00273.10\u0027\n---\n\nI feel like there have been times when we\u0027ve needed \n\n--\nlibrary\u003d\u003d\u003dversion_1;python_version\u003c\u003d3.10\nlibrary\u003d\u003d\u003dversion_2;python_version\u003e\u003d3.11\n---\n\nbut I can\u0027t find that now.\n\nAlso longer term we\u0027ll need to think about what the constraints file and generation looks like for SLURP upgrades.  For example if we \"skip\" python versions, generate constraints for 3.8, 3.10, 3.11, 3.12[1], how would we want that specified.\n\nI don\u0027t have answers to any of those questions :/\n\n[1] Totally making up the python versions",
+      "revId": "85f8ef327a603ac51eeb0a1edfe9e23df326ca9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "038e996b_76683e79",
