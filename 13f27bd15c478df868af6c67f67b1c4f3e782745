@@ -50,6 +50,23 @@
       "message": "we\u0027re looking into plantuml https://plantuml.com/",
       "revId": "13f27bd15c478df868af6c67f67b1c4f3e782745",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37a0287a_4689d28e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-22T13:46:54Z",
+      "side": 1,
+      "message": "see also https://bugs.launchpad.net/ironic/+bug/2026345",
+      "revId": "13f27bd15c478df868af6c67f67b1c4f3e782745",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
