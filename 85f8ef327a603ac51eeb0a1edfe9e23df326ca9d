@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "21784be6_f36bd385",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-22T12:50:41Z",
+      "side": 1,
+      "message": "So how about we drop the \"\u003c\u003d\" part and use explicit \"\u003d\u003d\" matches for all python versions except the highest one that we\u0027re generating constraints for and just have \"\u003e\u003d\" for these. That should be able to cover all your examples, but still has the upside that constraints will also be applied to newer python versions, which I think will help both forward testing with new versions not covered by the PTI yes, as well as scenarios where stable branch deployments might want to use newer python.",
+      "parentUuid": "5a48bf22_bd18b15a",
+      "revId": "85f8ef327a603ac51eeb0a1edfe9e23df326ca9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "038e996b_76683e79",
         "filename": "openstack_requirements/tests/test_generate.py",
         "patchSetId": 1
@@ -48,6 +66,24 @@
       "writtenOn": "2024-01-01T19:19:37Z",
       "side": 1,
       "message": "Do we want this to be a new test instead of a changed test?",
+      "revId": "85f8ef327a603ac51eeb0a1edfe9e23df326ca9d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "230c876c_df3f3845",
+        "filename": "openstack_requirements/tests/test_generate.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-22T12:50:41Z",
+      "side": 1,
+      "message": "Well no, IIUC this test needs changing because the tested behaviour has changed. I just think additional testing is needed to cover more cases.",
+      "parentUuid": "13bcf3a2_3624c49b",
       "revId": "85f8ef327a603ac51eeb0a1edfe9e23df326ca9d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
