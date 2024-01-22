@@ -16,6 +16,23 @@
       "message": "recheck swift errors",
       "revId": "f6eecbc7f96914595200442d5ec071b59240b954",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ad2fffc2_58945a41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-22T06:23:01Z",
+      "side": 1,
+      "message": "Could designate make this a conditional dependency instead, importing it only in case the infoblox backend is actually getting used? Kolla has done a similar thing with the podman library.",
+      "revId": "f6eecbc7f96914595200442d5ec071b59240b954",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
