@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f5a99c42_aafa6b41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-22T02:23:15Z",
+      "side": 1,
+      "message": "This change previously have the required approvals.  It was held and rebaseed to allow https://review.opendev.org/c/openstack/requirements/+/906191 to merge and it\u0027s larger and more complex.\n\nThis has now been rebased and updated.  Thanks!",
+      "revId": "deb03b3cb38b2fbea84265efe6ffd85d8d6454fd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
