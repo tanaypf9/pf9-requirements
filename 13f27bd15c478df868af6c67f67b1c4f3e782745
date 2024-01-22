@@ -33,6 +33,23 @@
       "message": "so not enough progress since https://review.opendev.org/c/openstack/requirements/+/897537 ...",
       "revId": "13f27bd15c478df868af6c67f67b1c4f3e782745",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b954e4f_938c6575",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2024-01-22T13:22:46Z",
+      "side": 1,
+      "message": "we\u0027re looking into plantuml https://plantuml.com/",
+      "revId": "13f27bd15c478df868af6c67f67b1c4f3e782745",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
