@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b087363_280fcb99",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 7
+      },
+      "lineNbr": 226,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-22T02:02:58Z",
+      "side": 1,
+      "message": "This could probably be:\n\nexceptiongroup\u003d\u003d\u003d1.2.0;python_version\u003c\u003d\u00273.10\u0027\n\nIf we\u0027re going for simple and human readable.",
+      "range": {
+        "startLine": 224,
+        "startChar": 0,
+        "endLine": 226,
+        "endChar": 44
+      },
+      "revId": "31bafca0b965c36e56df02e0f8e9e08d26cfacb0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
