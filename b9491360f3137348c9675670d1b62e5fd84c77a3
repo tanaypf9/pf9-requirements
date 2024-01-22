@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ee4b848_5662869e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-22T02:36:45Z",
+      "side": 1,
+      "message": "Thanks.\n\nThe use of this is file is far less helpful than it was in the past.  We should try to find users and look to see if there is a \"better way\" and then remove it.  In the meantime we should keep it updated.",
+      "revId": "b9491360f3137348c9675670d1b62e5fd84c77a3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
