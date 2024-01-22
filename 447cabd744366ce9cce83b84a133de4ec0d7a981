@@ -16,6 +16,23 @@
       "message": "I like the idea, but I\u0027m not sure where this log file will end up in the CI and whether zuul needs to be told to collect it. Or do you intend this only to be used for local testing?",
       "revId": "447cabd744366ce9cce83b84a133de4ec0d7a981",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fb0ab98a_1a5962f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-22T02:39:08Z",
+      "side": 1,
+      "message": "This is good for local testing.  As pointed out for maximum benefit we\u0027d want it added to [1] so that the logs are helpful in the event of job failure. \n\n\n[1] https://opendev.org/openstack/project-config/src/branch/master/zuul.d/projects.yaml#L4594-L4599",
+      "revId": "447cabd744366ce9cce83b84a133de4ec0d7a981",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
