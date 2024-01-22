@@ -194,6 +194,24 @@
       "parentUuid": "da8b4c38_aa98fbd7",
       "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1b35afc_4748ce0c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-22T07:49:04Z",
+      "side": 1,
+      "message": "It was not clear if you actually aim to revert the change or this is just for testing. If it\u0027s for testing then it\u0027s ok (though we probably just keep -2 to avoid merging this)\n\nJust fyi, according to https://review.opendev.org/c/openstack/horizon/+/906225, all horizon tests pass with the new u-c. So the issue is not related to horizon core, but is something specific to reqeests to / (or probably the way how haproxy hit that path)",
+      "parentUuid": "bf8a46cb_fd1349d9",
+      "revId": "04180c6a97a58714660bd05ac25619ba6766905b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
