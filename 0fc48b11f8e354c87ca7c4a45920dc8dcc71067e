@@ -50,6 +50,24 @@
       "message": "I\u0027m removing my +A from this so we can land the \"larger more complex\" https://review.opendev.org/c/openstack/requirements/+/906164/\n\nOnce that merges this will be a \"trivial\" rebase and easy merge",
       "revId": "0fc48b11f8e354c87ca7c4a45920dc8dcc71067e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "056bf36f_696f6e1b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-01-22T02:10:39Z",
+      "side": 1,
+      "message": "Yeah but IMHO they should really drop that implementation since xen support was already removed from nova...",
+      "parentUuid": "b4a76565_eb3fba13",
+      "revId": "0fc48b11f8e354c87ca7c4a45920dc8dcc71067e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
