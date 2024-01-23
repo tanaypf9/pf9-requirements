@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc51c86f_e9994581",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2024-01-23T22:11:38Z",
+      "side": 1,
+      "message": "Well *that\u0027s* interesting -- Swift doesn\u0027t currently have any jobs running on debian-bookworm; I guess there\u0027s some difference in the sqlite3 library used, and its ability to detect malformed databases?\n```\n            copy(os.path.join(os.path.dirname(__file__),\n                              \u0027malformed_example.db\u0027),\n                 os.path.join(dbpath, \u00271.db\u0027))\n            broker \u003d DatabaseBroker(os.path.join(dbpath, \u00271.db\u0027))\n            broker.db_type \u003d \u0027test\u0027\n\u003e           with self.assertRaises(sqlite3.DatabaseError) as raised, \\\n                    broker.get() as conn:\nE                   AssertionError: DatabaseError not raised\n```",
+      "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
