@@ -85,6 +85,23 @@
       "message": "recheck neutron patch merged",
       "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc67e986_01bdc5d7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2024-01-24T08:01:02Z",
+      "side": 1,
+      "message": "neutron job pass, but there are other unrelated failures, broken from long, seems related to DNM patch from frickler https://review.opendev.org/c/openstack/requirements/+/893388",
+      "revId": "030a7a1a3224c1b0fb722d4dd6d9dcbead84ca7c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
