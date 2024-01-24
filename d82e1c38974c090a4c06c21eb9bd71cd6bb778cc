@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "30e8ce5e_52bd0698",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-24T05:29:30Z",
+      "side": 1,
+      "message": "Why not use Ubuntu-Jammy it has 3.10 and 3.11",
+      "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "717c2a77_95e310ae",
         "filename": ".zuul.d/cross-jobs.yaml",
         "patchSetId": 3
