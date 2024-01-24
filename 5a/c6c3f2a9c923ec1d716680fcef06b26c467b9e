@@ -1,0 +1,10 @@
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Submitted-by: Zuul
+Submitted-at: Wed, 24 Jan 2024 21:13:14 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/906475
+Comments-Total: 2
+Project: openstack/requirements
+Branch: refs/heads/stable/2023.1
