@@ -33,6 +33,24 @@
       "message": "This is good for local testing.  As pointed out for maximum benefit we\u0027d want it added to [1] so that the logs are helpful in the event of job failure. \n\n\n[1] https://opendev.org/openstack/project-config/src/branch/master/zuul.d/projects.yaml#L4594-L4599",
       "revId": "447cabd744366ce9cce83b84a133de4ec0d7a981",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64670787_0d3cafb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-01-24T11:06:15Z",
+      "side": 1,
+      "message": "Yeah, this was mainly for local testing. I\u0027ll add the zuul asset in a follow-up.",
+      "parentUuid": "fb0ab98a_1a5962f9",
+      "revId": "447cabd744366ce9cce83b84a133de4ec0d7a981",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
