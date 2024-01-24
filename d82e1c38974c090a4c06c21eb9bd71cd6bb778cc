@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": true,
+      "key": {
+        "uuid": "717c2a77_95e310ae",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 15343
+      },
+      "writtenOn": "2024-01-24T05:21:41Z",
+      "side": 1,
+      "message": "Wrote up https://bugs.launchpad.net/swift/+bug/2051067 for the swift failure.\n\nWe should be able to run this job on `ubuntu-jammy`, though, if we want to move forward with py311 faster. I think it should just be a matter of also specifying `python_version: \u00273.11\u0027` here in `vars` -- at any rate, that seems to be the main difference in [swift\u0027s py311 job](https://opendev.org/openstack/swift/src/branch/master/.zuul.yaml#L140-L153).",
+      "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": false,
       "key": {
         "uuid": "fc51c86f_e9994581",
