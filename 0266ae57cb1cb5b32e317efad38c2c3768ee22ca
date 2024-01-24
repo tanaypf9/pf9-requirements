@@ -33,6 +33,23 @@
       "message": "recheck\n\nold change logs have been archived.",
       "revId": "0266ae57cb1cb5b32e317efad38c2c3768ee22ca",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0afb207c_9d9ca63c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-24T10:03:39Z",
+      "side": 1,
+      "message": "recheck\n\nLogs have been removed, this time I really am \"keen\" to get this merged!",
+      "revId": "0266ae57cb1cb5b32e317efad38c2c3768ee22ca",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
