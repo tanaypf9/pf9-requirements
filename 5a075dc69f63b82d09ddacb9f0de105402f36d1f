@@ -16,6 +16,23 @@
       "message": "recheck\n\nold change logs have been archived.",
       "revId": "5a075dc69f63b82d09ddacb9f0de105402f36d1f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a7f2d9f8_c3c7ff58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-01-24T21:31:54Z",
+      "side": 1,
+      "message": "recheck - gate is fixed",
+      "revId": "5a075dc69f63b82d09ddacb9f0de105402f36d1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
