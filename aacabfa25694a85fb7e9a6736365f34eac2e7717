@@ -67,6 +67,23 @@
       "message": "recheck - gate is fixed so this should be OK to merge now. let\u0027s merge this for Tony\u0027s sake. :)",
       "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ca9581a_767ebde6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-24T23:53:52Z",
+      "side": 1,
+      "message": "recheck\n\nStrange subunit error",
+      "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
