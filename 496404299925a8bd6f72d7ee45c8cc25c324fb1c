@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78f4083c_5d07c360",
+        "filename": "playbooks/constraints/post.yaml",
+        "patchSetId": 16
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-24T10:56:03Z",
+      "side": 1,
+      "message": "iiuc this should be \"- hosts:all\" and the tasks indented below, just like for the other plays?",
+      "revId": "496404299925a8bd6f72d7ee45c8cc25c324fb1c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
