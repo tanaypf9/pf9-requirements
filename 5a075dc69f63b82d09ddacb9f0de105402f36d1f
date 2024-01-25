@@ -33,6 +33,23 @@
       "message": "recheck - gate is fixed",
       "revId": "5a075dc69f63b82d09ddacb9f0de105402f36d1f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5709f76c_1d39f8d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-25T01:46:46Z",
+      "side": 1,
+      "message": "recheck\n\nUnrelated barbican failure",
+      "revId": "5a075dc69f63b82d09ddacb9f0de105402f36d1f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
