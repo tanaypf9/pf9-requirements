@@ -33,6 +33,23 @@
       "message": "recheck - gate is fixed",
       "revId": "b79cdc19c6673e9783d3a042dff3b21d184b9138",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f062bf8_a4b83dae",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-25T01:45:25Z",
+      "side": 1,
+      "message": "recheck\n\nJob timeout in swift .... which doesn\u0027t use glance_store",
+      "revId": "b79cdc19c6673e9783d3a042dff3b21d184b9138",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
