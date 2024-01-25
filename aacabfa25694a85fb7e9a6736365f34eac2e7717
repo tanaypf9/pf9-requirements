@@ -101,6 +101,23 @@
       "message": "recheck\n\nERROR: Wheel \u0027neutron\u0027 located at /tmp/pip-unpack-__g9h4f8/neutron-22.0.0.0rc1-py3-none-any.whl is invalid.\n\ncorrupt wheel in the RAX mirror?",
       "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "42135b89_8e336a18",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-25T10:06:03Z",
+      "side": 1,
+      "message": "this keeps failing the heat cross test, not sure if it is actually related, but I think some further checking might be good",
+      "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
