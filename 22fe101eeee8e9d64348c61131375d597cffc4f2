@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "278b902c_14eaf8d1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-25T01:19:47Z",
+      "side": 1,
+      "message": "I\u0027m reworking the constraints generation so don\u0027t \"stress\" about collecting the artifact",
+      "revId": "22fe101eeee8e9d64348c61131375d597cffc4f2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
