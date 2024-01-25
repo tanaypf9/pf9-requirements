@@ -18,6 +18,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "94d0a74d_2715933e",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-25T07:20:53Z",
+      "side": 1,
+      "message": "Jammy only has an rc version of py3.11, I\u0027d prefer to test some current version.",
+      "parentUuid": "30e8ce5e_52bd0698",
+      "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "717c2a77_95e310ae",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-01-24T05:21:41Z",
       "side": 1,
       "message": "Wrote up https://bugs.launchpad.net/swift/+bug/2051067 for the swift failure.\n\nWe should be able to run this job on `ubuntu-jammy`, though, if we want to move forward with py311 faster. I think it should just be a matter of also specifying `python_version: \u00273.11\u0027` here in `vars` -- at any rate, that seems to be the main difference in [swift\u0027s py311 job](https://opendev.org/openstack/swift/src/branch/master/.zuul.yaml#L140-L153).",
+      "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "faebd1cb_6d6f964a",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 3
+      },
+      "lineNbr": 240,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-25T07:20:53Z",
+      "side": 1,
+      "message": "Jammy only has an rc version of py3.11, we could still have used that as a workaround, but it seems not to be neccessary anyy more.",
+      "parentUuid": "717c2a77_95e310ae",
       "revId": "d82e1c38974c090a4c06c21eb9bd71cd6bb778cc",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
