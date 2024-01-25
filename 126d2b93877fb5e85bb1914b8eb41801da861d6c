@@ -16,6 +16,23 @@
       "message": "recheck\n\nold change logs have been archived. It may be too late to add things to stable/yoga but #curious",
       "revId": "126d2b93877fb5e85bb1914b8eb41801da861d6c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9cc4f6b3_14051346",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-25T00:16:29Z",
+      "side": 1,
+      "message": "recheck\n\nSee: https://review.opendev.org/c/openstack/requirements/+/886602/comments/22667c70_83cfc21e",
+      "revId": "126d2b93877fb5e85bb1914b8eb41801da861d6c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
