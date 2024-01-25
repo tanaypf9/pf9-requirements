@@ -1,0 +1,12 @@
+Code-Review+1: James Denton <james.denton@outlook.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Code-Review+1: Damian Dąbrowski <damian@dabrowski.cloud>
+Submitted-by: Zuul
+Submitted-at: Thu, 25 Jan 2024 07:15:58 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/892892
+Comments-Total: 3
+Project: openstack/requirements
+Branch: refs/heads/stable/2023.1
