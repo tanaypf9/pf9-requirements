@@ -33,6 +33,23 @@
       "message": "thx for the update",
       "revId": "e2317dd62eec208ad5f1fcb58cb7c09860f61514",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6341823_5b85bcb5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-25T09:48:35Z",
+      "side": 1,
+      "message": "I\u0027m not 100% on this being correct.  However let\u0027s merge it now and if needed add the 310 jobs back?\n\nIf I read [1] correctly we need 3.8, 3.9, 3.10 and 3.11 supported for the D/2024.1 release\n\n[1] https://governance.openstack.org/tc/reference/runtimes/2024.1.html",
+      "revId": "e2317dd62eec208ad5f1fcb58cb7c09860f61514",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
