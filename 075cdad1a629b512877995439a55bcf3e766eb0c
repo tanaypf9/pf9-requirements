@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "684d5341_c7576f78",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "Would be nice if you could list the manual changes",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d6c8bedb_b57046c3",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "I think this was intentional because it is no longer needed with py311?",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "78d9f6cb_857f5295",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 166,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "wrong revert. I would actually like to test 0.35.0, but we can do that in a dedicated patch maybe",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a8c8168f_e41c4276",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "same as with async-timeout",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "291c243d_79860c4c",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "I\u0027m wary of using some alpha build",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c464dc6a_3c640786",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 323,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "IIUC we still need to keep this capped in order not to break docs builds",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "573bf645_895c8bba",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 447,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-27T19:23:24Z",
+      "side": 1,
+      "message": "dito",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
