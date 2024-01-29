@@ -33,6 +33,23 @@
       "message": "Please do not merge this until we validate the documentation jobs can pass with this eventlet version.",
       "revId": "08f829d8375b4059af365191e0907069be9fb739",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5374d6d2_f5c8631f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2024-01-29T17:07:07Z",
+      "side": 1,
+      "message": "Looks like https://github.com/eventlet/eventlet/pull/866/files fixed the incompatibilities between some of the ironic-inspector libraries and eventlet lock greening (importing for autodoc purposes causes monkey_patching late, and there\u0027s no way to fix this AFAICT).\n\nI validated ironic-inspector docs build cleanly with 0.35.0. Should we also ensure that we exclude 0.34.* from requirements for completeness?",
+      "revId": "08f829d8375b4059af365191e0907069be9fb739",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
