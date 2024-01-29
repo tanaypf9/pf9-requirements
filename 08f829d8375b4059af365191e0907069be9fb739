@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76a0d6d5_d91d25ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-29T10:08:30Z",
+      "side": 1,
+      "message": "0.35.0 fix the swift error (for context see https://review.opendev.org/c/openstack/swift/+/905796 and the previous proposed bump https://review.opendev.org/c/openstack/requirements/+/904147).",
+      "revId": "08f829d8375b4059af365191e0907069be9fb739",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
