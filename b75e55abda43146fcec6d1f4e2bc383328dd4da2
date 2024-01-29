@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b74179e_ffbd9978",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 14288
+      },
+      "writtenOn": "2024-01-29T04:43:37Z",
+      "side": 1,
+      "message": "should we !\u003d this particular one?  I suppose not if upstream wants to publish more alpha/beta/rcs...",
+      "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
