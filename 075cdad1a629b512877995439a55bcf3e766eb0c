@@ -38,6 +38,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9a039474_e20a1d34",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-29T06:35:26Z",
+      "side": 1,
+      "message": "How is this done? The commit message still says nothing about the manual changes that were made.",
+      "parentUuid": "8f225e87_2a95dbec",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d6c8bedb_b57046c3",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
@@ -102,6 +120,24 @@
       "side": 1,
       "message": "Done",
       "parentUuid": "522da9e6_32396766",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7c68fd03_ec24d26b",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-29T06:35:26Z",
+      "side": 1,
+      "message": "I also disagree with the \"\u003c\u003d3.10\" variant, cf. https://review.opendev.org/c/openstack/requirements/+/904211/comments/5a48bf22_bd18b15a, why not keep these caps unchanged until we have proper automation for them?",
+      "parentUuid": "98ed1472_8aa38db7",
       "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },

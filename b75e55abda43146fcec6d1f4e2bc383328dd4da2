@@ -16,6 +16,24 @@
       "message": "should we !\u003d this particular one?  I suppose not if upstream wants to publish more alpha/beta/rcs...",
       "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "13e4c6ab_f55c4ad8",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-29T06:35:26Z",
+      "side": 1,
+      "message": "Why would you add this cap here explicitly, but not the others that we keep applying manually, like Pillow, alembic and sqla?",
+      "parentUuid": "8b74179e_ffbd9978",
+      "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
