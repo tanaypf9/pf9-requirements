@@ -54,6 +54,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "522da9e6_32396766",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-29T04:14:31Z",
+      "side": 1,
+      "message": "I agree this should have a `;python_version\u003c\u003d3.10` but I\u0027m also willing to accept this as next week the constraints generation will try to put this back and we can correct it then.\n\nHaving said that *if* we need to re-spin this change for other reasons  It\u0027d be good to make it explicit.",
+      "parentUuid": "d6c8bedb_b57046c3",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "78d9f6cb_857f5295",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
@@ -88,6 +106,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "c79984b5_9155f391",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 221,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-29T04:14:31Z",
+      "side": 1,
+      "message": "Yup I agree, same comment as async-timeout",
+      "parentUuid": "a8c8168f_e41c4276",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "291c243d_79860c4c",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
@@ -99,6 +135,24 @@
       "writtenOn": "2024-01-27T19:23:24Z",
       "side": 1,
       "message": "I\u0027m wary of using some alpha build",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b12e0c6a_c03505c9",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 256,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-29T04:14:31Z",
+      "side": 1,
+      "message": "This is an indirect requirement (via blockdiag), it looks like development began again about 10 months ago, and 2.0.0a0 was released in Nov last year.  Based on[1] the focus seems to be removing support for 2.7 and adding support for 3.12.\n\nAs this has the potential to break docs builds for everyone I think I\u0027d err on the side of saving this for early next cycle.\n\n\n[1] https://github.com/vlasovskikh/funcparserlib/blob/master/docs/changes.md",
+      "parentUuid": "291c243d_79860c4c",
       "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
@@ -133,6 +187,24 @@
       "writtenOn": "2024-01-27T19:23:24Z",
       "side": 1,
       "message": "dito",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "023091b3_bf6213c5",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 447,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-29T04:14:31Z",
+      "side": 1,
+      "message": "Yup I agree, same comment as async-timeout",
+      "parentUuid": "573bf645_895c8bba",
       "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
