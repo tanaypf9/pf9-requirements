@@ -18,6 +18,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "a228c048_e909f796",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2024-01-30T18:58:06Z",
+      "side": 1,
+      "message": "recheck 0.35.1 should be in more mirrors now, I hope :D",
+      "revId": "b88debab9d2c455f154ea0fa5d5845be689c7a27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c5dc4e3e_573e9b80",
@@ -31,6 +48,24 @@
       "writtenOn": "2024-01-30T18:33:38Z",
       "side": 1,
       "message": "nit: if this needs a respin, also add !\u003d0.34.0 ?",
+      "revId": "b88debab9d2c455f154ea0fa5d5845be689c7a27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8ce6e1aa_4d8d6cbc",
+        "filename": "global-requirements.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2024-01-30T18:58:06Z",
+      "side": 1,
+      "message": "There is no 0.34.0: https://pypi.org/project/eventlet/0.34.0/",
+      "parentUuid": "c5dc4e3e_573e9b80",
       "revId": "b88debab9d2c455f154ea0fa5d5845be689c7a27",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
