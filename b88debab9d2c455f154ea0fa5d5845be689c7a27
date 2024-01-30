@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b5793a20_f9eeba1c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28522
+      },
+      "writtenOn": "2024-01-30T18:24:29Z",
+      "side": 1,
+      "message": "recheck\n\nLGTM https://pypi.org/project/eventlet/0.35.1/",
+      "revId": "b88debab9d2c455f154ea0fa5d5845be689c7a27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
