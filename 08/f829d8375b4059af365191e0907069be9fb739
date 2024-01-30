@@ -1,0 +1,12 @@
+Code-Review+2: Matthew Thode <mthode@mthode.org>
+Workflow+1: Matthew Thode <mthode@mthode.org>
+Verified+2: Zuul
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+1: Jay Faulkner <jay@jvf.cc>
+Submitted-by: Zuul
+Submitted-at: Tue, 30 Jan 2024 02:48:22 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/907048
+Comments-Total: 3
+Comments-Unresolved: 1
+Project: openstack/requirements
+Branch: refs/heads/master
