@@ -35,6 +35,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ef5ac740_96184aed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10342
+      },
+      "writtenOn": "2024-01-30T19:21:08Z",
+      "side": 1,
+      "message": "You can see a fixed docs job here: https://review.opendev.org/c/openstack/ironic-inspector/+/907247",
+      "revId": "b88debab9d2c455f154ea0fa5d5845be689c7a27",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "c5dc4e3e_573e9b80",
