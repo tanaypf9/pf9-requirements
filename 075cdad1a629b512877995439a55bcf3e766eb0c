@@ -56,6 +56,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "dc059624_57b33262",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-30T00:38:15Z",
+      "side": 1,
+      "message": "You are correct.  This wasn\u0027t done.  I got \"done happy\"",
+      "parentUuid": "9a039474_e20a1d34",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d6c8bedb_b57046c3",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
@@ -138,6 +156,24 @@
       "side": 1,
       "message": "I also disagree with the \"\u003c\u003d3.10\" variant, cf. https://review.opendev.org/c/openstack/requirements/+/904211/comments/5a48bf22_bd18b15a, why not keep these caps unchanged until we have proper automation for them?",
       "parentUuid": "98ed1472_8aa38db7",
+      "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cc72c0e3_e3dddaa4",
+        "filename": "upper-constraints.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 155,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-30T00:38:15Z",
+      "side": 1,
+      "message": "Fair enough. I\u0027ll revert those hunks",
+      "parentUuid": "7c68fd03_ec24d26b",
       "revId": "075cdad1a629b512877995439a55bcf3e766eb0c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },

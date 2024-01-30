@@ -34,6 +34,24 @@
       "parentUuid": "8b74179e_ffbd9978",
       "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b52774b3_69170455",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-30T00:38:15Z",
+      "side": 1,
+      "message": "funcparserlib is an indirect requirement, and I don\u0027t beleieve any of the testing we have against upper-constraints.txt will catch a regression in this library.  I figured codifying that we don\u0027t want 2.x here with the comment to revert was a safe option to avoid human error.\n\nWith respect to the libraries you mentioned they cause gate failures.  Having said that I\u0027m actually in favor of adding appropriate version specifiers to reduce the manual work we\u0027re doing.",
+      "parentUuid": "13e4c6ab_f55c4ad8",
+      "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
