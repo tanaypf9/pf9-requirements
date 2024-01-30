@@ -118,6 +118,23 @@
       "message": "this keeps failing the heat cross test, not sure if it is actually related, but I think some further checking might be good",
       "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9818d3fd_9eaf5aec",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-01-30T06:32:38Z",
+      "side": 1,
+      "message": "I can reproduce the heat failure on an unmodified openstack/heat:stable/zed, so I don\u0027t think the failure here is specific to the oslo.messaging bump.\n\nI tried running, one of, the failing tests under stestr run --pdb ... (on a fresh ubuntu-focal container) but the heat unit tests seem to send std{out,err} to /dev/null so I didn\u0027t get very far.\n\n@Takashi, can you see if you can reproduce/debug?",
+      "revId": "aacabfa25694a85fb7e9a6736365f34eac2e7717",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
