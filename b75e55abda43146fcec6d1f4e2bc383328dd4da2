@@ -52,6 +52,24 @@
       "parentUuid": "13e4c6ab_f55c4ad8",
       "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fc58cba8_d6b5ea79",
+        "filename": "global-requirements.txt",
+        "patchSetId": 6
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-31T06:13:35Z",
+      "side": 1,
+      "message": "Pillow is kind of in the same situation I\u0027d say, which is why we were twice able to bump it and had to revert when docs builds were failing. for sqla if we\u0027d cap to \u003c2, we could at least pull in updates to the 1.x series. but ok, we can discuss this again next time around, no need to hold this up.",
+      "parentUuid": "b52774b3_69170455",
+      "revId": "b75e55abda43146fcec6d1f4e2bc383328dd4da2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
