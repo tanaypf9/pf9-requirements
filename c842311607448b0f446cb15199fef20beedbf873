@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "331d7d32_00ecbf1e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 15
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-01-31T06:27:28Z",
+      "side": 1,
+      "message": "ok, that message was for real now. rebased onto master, bumped sqla to latest version, dropped deps that were already merged",
+      "revId": "c842311607448b0f446cb15199fef20beedbf873",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
