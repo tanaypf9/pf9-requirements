@@ -103,6 +103,24 @@
       "parentUuid": "423c95e8_73cdb37c",
       "revId": "1d8a672a1c5730d928fad380186c036866a429d3",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5d2fe88b_ca22483a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-01-31T13:02:24Z",
+      "side": 1,
+      "message": "I think this should allow us to release this olso.db version: https://review.opendev.org/c/openstack/python-aodhclient/+/907318",
+      "parentUuid": "221e5978_6caeb4aa",
+      "revId": "1d8a672a1c5730d928fad380186c036866a429d3",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
