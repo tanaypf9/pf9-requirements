@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "238aeaf6_0f60e3a9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-01T19:21:27Z",
+      "side": 1,
+      "message": "let\u0027s get this in still to have a consistent state when transitioning to unmaintained",
+      "revId": "7708c793ab67cd579f3576196a3b510e6c226996",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
