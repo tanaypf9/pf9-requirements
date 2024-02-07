@@ -16,6 +16,23 @@
       "message": "cinder fixed moto usage in https://review.opendev.org/c/openstack/cinder/+/908192",
       "revId": "816edd8b3e1fe5d9800a78ca996b6737c277563b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "890bc439_5e5fed58",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-07T09:35:20Z",
+      "side": 1,
+      "message": "recheck tempest test failure looks likely unrelated",
+      "revId": "816edd8b3e1fe5d9800a78ca996b6737c277563b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
