@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a2621d2_f25b63b5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-02-09T18:26:15Z",
+      "side": 1,
+      "message": "Trivial, generated patch. LGTM.",
+      "revId": "2cc6122416f71967cc61bf25e0db1abf6168c8fb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
