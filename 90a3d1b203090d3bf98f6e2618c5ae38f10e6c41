@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "36d8f274_07501944",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-11T23:27:03Z",
+      "side": 1,
+      "message": "FWIW I see this is still a problem:\n\ncurl -sLk https://pypi.org/pypi/scrypt/json \u003e tmp/scrypt.json\njq \u0027.releases[\"0.8.21\"][].filename\u0027 tmp/scrypt.json",
+      "revId": "90a3d1b203090d3bf98f6e2618c5ae38f10e6c41",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
