@@ -1,0 +1,26 @@
+---
+- hosts: all
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Create a venv for requirements code
+    command: python3 -m venv {{ requirements_dir }}/.venv
+
+  - name: Install everything in openstack_requirements
+    command: |-
+      {{ requirements_dir }}/.venv/bin/pip install -e {{ requirements_dir }}
+
+  - name: Debugging fu
+    debug:
+      msg: "{{ freeze_sets|to_yaml }}"
