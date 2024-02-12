@@ -32,4 +32,4 @@
 - name: Return python{{ pyver }} freeze variable to Zuul
   zuul_return:
     data:
-      "feeze_{{ pyver}}": "{{ freeze.stdout_lines }}"
+      "feeze_{{ pyver|replace('.', '_') }}": "{{ freeze.stdout_lines }}"
