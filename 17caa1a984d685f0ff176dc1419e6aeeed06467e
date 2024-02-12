@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9084334c_c1770f91",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-12T00:50:20Z",
+      "side": 1,
+      "message": "recheck\n\n\nFlapping DB error in Manila",
+      "revId": "17caa1a984d685f0ff176dc1419e6aeeed06467e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
