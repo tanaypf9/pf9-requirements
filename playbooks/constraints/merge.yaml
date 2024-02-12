@@ -1,0 +1,25 @@
+---
+- name: Set freeze_name fact
+  set_fact:
+    freeze_name: "freeze_{{ pyver|replace('.', '_') }}"
+
+- name: Generate a set of constraints for a single python version
+  copy:
+    dest: "{{ artifacts_dir }}/{{ pyver }}_freeze.txt"
+    content: "{{ freeze_sets[freeze_name]|join('\n') }}{{ '\n' }}"
+
+- name: Debugging fu sets
+  debug:
+    msg: "{{ freeze_sets }}"
+
+- name: Debugging fu name
+  debug:
+    msg: "{{ freeze_name }}"
+
+- name: Debugging fu freeze
+  debug:
+    msg: "{{ freeze_sets[freeze_name] }}"
+
+- name: Add args
+  set_fact:
+    constraints_args: "{{ constraints_args }} -c {{ pyver }}:{{ artifacts_dir }}/{{ pyver }}_freeze.txt"
