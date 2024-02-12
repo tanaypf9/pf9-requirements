@@ -2,6 +2,9 @@
     check:
       jobs:
         - requirements-generate-constraints-multinode
+        - requirements-merge-constraints:
+            dependencies:
+              requirements-generate-constraints-multinode
     gate:
       jobs:
         - build-wheel-cache-centos-8-stream:
