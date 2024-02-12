@@ -17,7 +17,10 @@ import fixtures
 import testtools
 from testtools import matchers
 
-from openstack_requirements.cmds import generate
+from openstack_requirements.cmdlib import _clone_versions
+from openstack_requirements.cmdlib import _combine_freezes
+from openstack_requirements.cmdlib import _freeze
+from openstack_requirements.cmdlib import _parse_freeze
 
 
 class TestFreeze(testtools.TestCase):
@@ -46,7 +49,7 @@ class TestFreeze(testtools.TestCase):
         req = self.useFixture(fixtures.TempDir()).path + '/r.txt'
         with open(req, 'wt') as output:
             output.write('fixtures==2.0.0')
-        frozen = generate._freeze(req, pyversion)
+        frozen = _freeze(req, pyversion)
         expected_version = pyversion[-3:]
         self.expectThat(frozen, matchers.HasLength(2))
         self.expectThat(frozen[0], matchers.Equals(expected_version))
@@ -59,13 +62,13 @@ class TestParse(testtools.TestCase):
 
     def test_parse(self):
         text = "linecache2==1.0.0\nargparse==1.2\n\n# fred\n"
-        parsed = generate._parse_freeze(text)
+        parsed = _parse_freeze(text)
         self.assertEqual(
             [('linecache2', '1.0.0'), ('argparse', '1.2')], parsed)
 
     def test_editable_banned(self):
         text = "-e git:..."
-        self.assertRaises(Exception, generate._parse_freeze, text)  # noqa
+        self.assertRaises(Exception, _parse_freeze, text)  # noqa
 
 
 class TestCombine(testtools.TestCase):
@@ -76,14 +79,14 @@ class TestCombine(testtools.TestCase):
         freeze_34 = ('3.4', fixtures)
         self.assertEqual(
             ['fixtures===1.2.0\n'],
-            list(generate._combine_freezes([freeze_27, freeze_34])))
+            list(_combine_freezes([freeze_27, freeze_34])))
 
     def test_distinct_items(self):
         freeze_27 = ('2.7', [('fixtures', '1.2.0')])
         freeze_34 = ('3.4', [('fixtures', '1.2.0'), ('enum', '1.5.0')])
         self.assertEqual(
             ["enum===1.5.0;python_version=='3.4'\n", 'fixtures===1.2.0\n'],
-            list(generate._combine_freezes([freeze_27, freeze_34])))
+            list(_combine_freezes([freeze_27, freeze_34])))
 
     def test_different_versions(self):
         freeze_27 = ('2.7', [('fixtures', '1.2.0')])
@@ -95,7 +98,7 @@ class TestCombine(testtools.TestCase):
 
     def test_duplicate_pythons(self):
         with testtools.ExpectedException(Exception):
-            list(generate._combine_freezes([('2.7', []), ('2.7', [])]))
+            list(_combine_freezes([('2.7', []), ('2.7', [])]))
 
     def test_blacklist(self):
         blacklist = ['Fixtures']
@@ -103,7 +106,7 @@ class TestCombine(testtools.TestCase):
         freeze_34 = ('3.4', [('fixtures', '1.2.0'), ('enum', '1.5.0')])
         self.assertEqual(
             ["enum===1.5.0;python_version=='3.4'\n"],
-            list(generate._combine_freezes(
+            list(_combine_freezes(
                 [freeze_27, freeze_34], blacklist=blacklist)))
 
     def test_blacklist_with_safe_name(self):
@@ -112,7 +115,7 @@ class TestCombine(testtools.TestCase):
                              ('enum', '1.5.0')])
         self.assertEqual(
             ['enum===1.5.0\n'],
-            list(generate._combine_freezes(
+            list(_combine_freezes(
                 [freeze_27], blacklist=blacklist)))
 
 
@@ -135,7 +138,7 @@ class TestClone(testtools.TestCase):
         freezes = [freeze_27, freeze_34]
         expected_freezes = [freeze_27, freeze_34, freeze_35]
 
-        generate._clone_versions(freezes, options)
+        _clone_versions(freezes, options)
 
         self.assertEqual(expected_freezes, freezes)
 
@@ -151,7 +154,7 @@ class TestClone(testtools.TestCase):
         freezes = [freeze_27, freeze_34, freeze_35]
         expected_freezes = [freeze_27, freeze_34, freeze_35]
 
-        generate._clone_versions(freezes, options)
+        _clone_versions(freezes, options)
 
         self.assertEqual(expected_freezes, freezes)
 
@@ -167,7 +170,7 @@ class TestClone(testtools.TestCase):
         freezes = [freeze_27, freeze_35]
         expected_freezes = [freeze_27, freeze_35, freeze_34]
 
-        generate._clone_versions(freezes, options)
+        _clone_versions(freezes, options)
 
         self.assertEqual(expected_freezes, freezes)
 
@@ -183,6 +186,6 @@ class TestClone(testtools.TestCase):
         freezes = [freeze_27, freeze_35]
         expected_freezes = [freeze_27, freeze_35, freeze_34, freeze_36]
 
-        generate._clone_versions(freezes, options)
+        _clone_versions(freezes, options)
 
         self.assertEqual(expected_freezes, freezes)
