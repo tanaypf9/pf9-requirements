@@ -1,0 +1,40 @@
+---
+- hosts: all
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Create a venv for requirements code
+    command: python3 -m venv {{ requirements_dir }}/.venv
+
+  - name: Install everything in openstack_requirements
+    command: "{{ requirements_dir }}/.venv/bin/pip install -e {{ requirements_dir }}"
+
+  - name: Create fact for merge-constraints
+    set_fact:
+      constraints_args: ""
+
+  - name: Generate a set of constraints for a single python version
+    include_tasks: merge.yaml
+    loop: "{{ python_versions }}"
+    loop_control:
+      loop_var: pyver
+
+  - name: Deugging args
+    debug: var=constraints_args
+
+  - name: Run merge-constraints
+    shell: >-
+      {{ requirements_dir }}/.venv/bin/merger-constraints -b {{ requirements_dir }}/blacklist.txt
+        {{ constraints-args }} |
+          tee {{ artifacts_dir }}/upper-constraints.txt
