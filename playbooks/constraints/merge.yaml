@@ -1,0 +1,34 @@
+---
+- hosts: all
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Create a venv for requirements code
+    command: python3 -m venv {{ requirements_dir }}/.venv
+
+  - name: Install everything in openstack_requirements
+    command: |-
+      {{ requirements_dir }}/.venv/bin/pip install -e {{ requirements_dir }}
+
+  - name: Generate a set of constraints for a single python version
+    copy:
+      dest: "{{ artifacts_dir }}/{{ pyver }}_freeze.txt"
+      content: "{{ lookup('vars', 'freeze_' ~ (pyver|replace('.', '_')), default=[]) }}"
+    loop: "{{ python_versions }}"
+    loop_control:
+      loop_var: pyver
+
+  - name: Debugging fu
+    debug:
+      msg: "{{ lookup('vars', 'freeze_' ~ (pyver|replace('.', '_')), default=[]) }}"
