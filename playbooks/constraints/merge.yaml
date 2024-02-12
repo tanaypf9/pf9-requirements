@@ -1,0 +1,49 @@
+---
+- hosts: all
+  roles:
+  - ensure_pip
+  tasks:
+  - name: Install expected "bits"
+    become: true
+    package:
+      name:
+      - build-essential
+      - git
+      - python3-all
+      - python3-pip
+      - python3-all-dev
+      - python3-venv
+      - tox
+      state: present
+
+  - name: Create a venv for requirements code
+    command: python -m venv {{ requirements_dir }}/.venv
+
+  - name: Install everything in openstack_requirements
+    command: |-
+      {{ requirements_dir }}/.venv/bin/pip install -e {{ src_dir }}
+
+  - name: Debugging fu
+    debug:
+      msg: |
+        pyver: {{ pyver }}
+        freeze: {{ lookup(var, "feeze_" ~ pyver)|default([])}}
+    loop: "{{ python_versions|list }}"
+
+  # - name: Generate constraints
+  #   shell: |-
+  #     {{ src_dir }}/.venv/bin/merge-constraints -b {{ src_dir }}/blacklist.txt | tee {{ artifacts_dir }}/upper-constraints.txt
+  #   register: constraints
+
+  # - name: Return constraints artifact to Zuul
+  #   zuul_return:
+  #     data:
+  #       zuul:
+  #         artifacts:
+  #         - name: freeze for python {{ pyver }}
+  #           url: "artifacts/{{ pyver }}_freeze"
+
+  # - name: Return constraints variable to Zuul
+  #   zuul_return:
+  #     data:
+  #       "upper_constraints": "{{ constraints.stdout_lines }}"

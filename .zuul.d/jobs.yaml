@@ -81,6 +81,29 @@
 # as project-config is a trusted repo it's .impossible to speculatively
 # execute jobs.  To aid job development I'm doing this in the requirements
 # repo
+
+- job:
+    name: requirements-merge-constraints
+    description: |
+      Placeholder to debug merge-constraints tool.  Eventually most of this will be moved to project-config
+      and replace the existing job
+    parent: base
+    run: playbooks/constraints/merge.yaml
+    branches: master
+    attempts: 1
+    timeout: 1800
+    nodeset:
+      nodes:
+      - name: jammy
+        label: ubuntu-jammy
+    # vars:
+    #   requirements_dir: "{{ ansible_user_dir }}/{{ zuul.projects['opendev.org/openstack/requirements'].src_dir }}"
+    #   python_versions:
+    #   - "3.8"
+    #   - "3.9"
+    #   - "3.10"
+    #   - "3.11"
+
 - job:
     name: requirements-generate-constraints-multinode
     description: |
