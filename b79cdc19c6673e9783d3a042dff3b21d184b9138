@@ -67,6 +67,23 @@
       "message": "recheck - cross-nova-functional job timeout",
       "revId": "b79cdc19c6673e9783d3a042dff3b21d184b9138",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1226ab9_800feed3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-13T23:49:52Z",
+      "side": 1,
+      "message": "recheck\n\nThe nova-functional errors are strange and don\u0027t seem to be specifically related to glance_store.  The fact they passed check, timed_out in gate and then failed check indicates, to me, that they\u0027re somewhat \"confused\".",
+      "revId": "b79cdc19c6673e9783d3a042dff3b21d184b9138",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
