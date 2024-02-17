@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "29c5cd23_e06b0df6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-17T04:28:23Z",
+      "side": 1,
+      "message": "* The failure in heat will be fixed by https://review.opendev.org/c/openstack/heat/+/909293\n\n* It seems one of the manila test failures is caused by a bug in netaddr which will be fixed by https://github.com/netaddr/netaddr/issues/368 (we can add some workaround in manila or oslo.utils if needed)\n\n* Many of the test failures are related to autocommit\u003dTrue or execute and are likely triggered by sqlalchemy bump",
+      "revId": "4438d2c49a70d22b8d1d0926d00062f5e64433ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
