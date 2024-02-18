@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "373d3c23_ee54c5b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 16
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-18T09:12:46Z",
+      "side": 1,
+      "message": "rebased, bumped to latest versions of sqla and alembic",
+      "revId": "fbabd599e3f1d23f8008edbdf88fbe95796941ae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
