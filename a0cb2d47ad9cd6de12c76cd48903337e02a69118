@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72f53c42_e0948c88",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11655
+      },
+      "writtenOn": "2024-02-19T22:57:48Z",
+      "side": 1,
+      "message": "Looks like 5.0.35 changed from asyncore to asyncio, which is an issue, I\u0027ll be opening a bug against the project.",
+      "revId": "a0cb2d47ad9cd6de12c76cd48903337e02a69118",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
