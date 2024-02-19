@@ -34,6 +34,24 @@
       "parentUuid": "29c5cd23_e06b0df6",
       "revId": "4438d2c49a70d22b8d1d0926d00062f5e64433ee",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8bb57d02_2ff524a8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-19T14:05:45Z",
+      "side": 1,
+      "message": "Some of the updates that are blocked here are now tackled in dedicated reviews to allow projects to verify their fixes, see\n\nnetaddr:\nhttps://review.opendev.org/c/openstack/requirements/+/909300\n\nSQLAlchemy + alembic:\nhttps://review.opendev.org/c/openstack/requirements/+/879743\n\npysnmp-lextudio:\nhttps://review.opendev.org/c/openstack/requirements/+/909314\n\nWill do the same for jsonschema, which I think causes the last assertionerrors. Failures caused by pillow aren\u0027t seen in cross-test, but are tracked in https://bugs.launchpad.net/nova/+bug/2026345",
+      "parentUuid": "e6363759_73bcf612",
+      "revId": "4438d2c49a70d22b8d1d0926d00062f5e64433ee",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
