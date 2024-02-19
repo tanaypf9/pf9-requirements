@@ -562,7 +562,7 @@ DateTimeRange===2.2.0
 cffi===1.16.0
 python-cyborgclient===2.3.0
 futurist===2.4.1
-jsonschema===4.19.2
+jsonschema===4.21.1
 sphinxcontrib-devhelp===1.0.2;python_version=='3.8'
 sphinxcontrib-devhelp===1.0.6;python_version>='3.9'
 python-blazarclient===4.0.0
