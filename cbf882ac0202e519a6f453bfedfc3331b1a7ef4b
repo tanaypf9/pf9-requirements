@@ -33,6 +33,23 @@
       "message": "lgtm, waiting for gov change merge before approving",
       "revId": "cbf882ac0202e519a6f453bfedfc3331b1a7ef4b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "41e546d2_5cd5c45a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2024-02-21T20:05:06Z",
+      "side": 1,
+      "message": "lgtm.",
+      "revId": "cbf882ac0202e519a6f453bfedfc3331b1a7ef4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
