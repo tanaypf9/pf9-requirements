@@ -16,6 +16,23 @@
       "message": "Thank you!",
       "revId": "ac406a7c7d8fb17f31921f8093d9b9f9005e148e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61a23cbc_b7d2048c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9303
+      },
+      "writtenOn": "2024-02-22T19:02:32Z",
+      "side": 1,
+      "message": "This has broken glance gate and particularly all the services which are using nova-ceph-multistore job\n\nhttps://bugs.launchpad.net/glance/+bug/2054732",
+      "revId": "ac406a7c7d8fb17f31921f8093d9b9f9005e148e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
