@@ -16,6 +16,23 @@
       "message": "Looks good, assuming any additional testing doesn\u0027t uncover other issues. But CI is happy.",
       "revId": "4498765558e6f715a0ee90cd6eb2880fa5d24d56",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1a4b6309_4d4ab468",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-22T14:41:43Z",
+      "side": 1,
+      "message": "afaict we didn\u0027t do any additional testing for the bump from 41.x to 42.0.3, either",
+      "revId": "4498765558e6f715a0ee90cd6eb2880fa5d24d56",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
