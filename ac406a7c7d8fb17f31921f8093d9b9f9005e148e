@@ -50,6 +50,23 @@
       "message": "agree with the revert to unblock the gate",
       "revId": "ac406a7c7d8fb17f31921f8093d9b9f9005e148e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ce67ee6_4c63589e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4393
+      },
+      "writtenOn": "2024-02-22T20:56:59Z",
+      "side": 1,
+      "message": "recheck swift returned 503, doubtful it\u0027s related",
+      "revId": "ac406a7c7d8fb17f31921f8093d9b9f9005e148e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
