@@ -50,6 +50,23 @@
       "message": "lgtm.",
       "revId": "cbf882ac0202e519a6f453bfedfc3331b1a7ef4b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "837ae048_6a36730f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-22T03:59:40Z",
+      "side": 1,
+      "message": "As soon as the dependent patch lands this can enter the gate pipeline",
+      "revId": "cbf882ac0202e519a6f453bfedfc3331b1a7ef4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
