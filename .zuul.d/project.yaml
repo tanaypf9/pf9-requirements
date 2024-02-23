@@ -132,6 +132,8 @@
               - ^setup.cfg$
     experimental:
       jobs:
+        - nova-ceph-multinode
+        - tempest-integrated-storage
         - tempest-pg-full:
             irrelevant-files:
               - ^(test-|)requirements.txt$
