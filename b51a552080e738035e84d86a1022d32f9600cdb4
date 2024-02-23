@@ -16,6 +16,23 @@
       "message": "recheck\n\ndnspython/eventlet issue?",
       "revId": "b51a552080e738035e84d86a1022d32f9600cdb4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1b566d69_8233ff19",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-23T12:29:58Z",
+      "side": 1,
+      "message": "rebased due to merge conflict",
+      "revId": "b51a552080e738035e84d86a1022d32f9600cdb4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
