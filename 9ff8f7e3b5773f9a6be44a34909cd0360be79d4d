@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "92d332c7_48b6e1fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-23T06:39:11Z",
+      "side": 1,
+      "message": "recheck\n\nno idea, but I\u0027m hoping for dnspython/eventlet ?",
+      "revId": "9ff8f7e3b5773f9a6be44a34909cd0360be79d4d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
