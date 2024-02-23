@@ -16,6 +16,24 @@
       "message": "I know this has been hashed and rehashed elsewhere before, but I really think it\u0027s unlikely that one of the versions between the lowest supported version and the highest supported version would be broken without one of those goal posts also showing a problem. I would love to see some of those middle versions removed from at least some of the runs to reduce CI load. Like maybe for the initial submit run all tests, but for the merge only run the upper and lower versions, or vice versa.\n\nJust sharing my 2 cents.",
       "revId": "2a29c10e6ab9ecac7eb264268154edf479289103",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "586ff619_9a31e9bd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-23T19:03:21Z",
+      "side": 1,
+      "message": "if we have versioned constraints this may happen. like if we have a new library that is only present for py \u003e\u003d 3.9, but later drops support for py3.9, it won\u0027t be noticed by only running 3.8 and 3.11 tests. having a delta between voting check and gate jobs has turned out to not be a good idea in multiple occasions, too.\n\nalso the uc checks are pretty fast compared to all the other tests that we have, so I don\u0027t think that cleaning them up should have high impact",
+      "parentUuid": "7243b137_61b66172",
+      "revId": "2a29c10e6ab9ecac7eb264268154edf479289103",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
