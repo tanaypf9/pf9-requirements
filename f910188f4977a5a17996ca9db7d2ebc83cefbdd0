@@ -33,6 +33,23 @@
       "message": "will first need to verify that these jobs work in this context",
       "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b429f14_d7c4e131",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-23T12:15:23Z",
+      "side": 1,
+      "message": "recheck unrelated tempest-full failure, experimental jobs looking fine",
+      "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
