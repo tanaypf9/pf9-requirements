@@ -50,6 +50,23 @@
       "message": "recheck unrelated tempest-full failure, experimental jobs looking fine",
       "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "25a5c300_5116b0e6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2024-02-23T17:43:56Z",
+      "side": 1,
+      "message": "Thanks, lgtm and we can add more jobs here if anything we see are not captured in cross project jobs in check/gate pipeline.",
+      "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
