@@ -16,6 +16,23 @@
       "message": "recheck\n\nno idea, but I\u0027m hoping for dnspython/eventlet ?",
       "revId": "9ff8f7e3b5773f9a6be44a34909cd0360be79d4d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0d998137_393f160f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-23T07:46:15Z",
+      "side": 1,
+      "message": "that keystone failure looks like a timing issue to me, very likely unrelated, will have to check with keystone team if it repeats",
+      "revId": "9ff8f7e3b5773f9a6be44a34909cd0360be79d4d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
