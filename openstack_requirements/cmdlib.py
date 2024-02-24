@@ -11,10 +11,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+from collections import OrderedDict
 import copy
 from datetime import datetime
 import hashlib
 import os.path
+import packaging.version
 import shutil
 import subprocess
 import sys
@@ -24,6 +26,10 @@ import fixtures
 
 from openstack_requirements import requirement
 
+# from functools import partial
+# from pprint import pprint
+# import random
+# pprint = partial(pprint, stream=sys.stderr, width=100)
 
 def _parse_freeze(text):
     """Parse a freeze into structured data.
@@ -119,6 +125,7 @@ def _combine_freezes(freezes, blacklist=None):
         won't be included in the output.
     :return: A list of '\n' terminated lines for a requirements file.
     """
+
     packages = {}  # {package : {version : [py_version]}}
     excludes = frozenset((requirement.canonical_name(s)
                           for s in blacklist) if blacklist else ())
@@ -132,6 +139,23 @@ def _combine_freezes(freezes, blacklist=None):
             packages.setdefault(
                 package, {}).setdefault(version, []).append(py_version)
 
+    # NOTE(tonyb):
+    # We need this deeply nested structure to be in a predictable order
+    # so we can infer that earlier entires represent the oldest items,
+    # Be that python version or requirements_library version.
+    # Here we ensure reference_versions is sorted by semver.
+    reference_versions.sort(key=packaging.version.Version)
+    # Now more completely order various package/version+pythons data structure.
+    for package, versions in packages.items():
+        orig = copy.deepcopy(versions)
+        versions = OrderedDict()
+        keys = sorted(orig.keys(), key=packaging.version.Version)
+        for version in keys:
+            py_vers = copy.copy(orig[version])
+            py_vers.sort(key=packaging.version.Version)
+            versions[version] = py_vers
+        packages[package] = versions
+
     for package, versions in sorted(packages.items()):
         if package.lower() in excludes:
             continue
@@ -139,11 +163,14 @@ def _combine_freezes(freezes, blacklist=None):
         if len(versions) > 1:
             # markers for packages with multiple versions - we use python
             # version ranges for these
-            for idx, (version, py_versions) in enumerate(sorted(versions.items())):  # noqa: E501
+            for idx, (version, py_versions) in enumerate(versions.items()):
                 if idx == 0:  # lower-bound
                     marker = f"python_version<='{py_versions[-1]}'"
                 elif idx + 1 != len(versions):  # intermediate version(s)
-                    marker = f"python_version>='{py_versions[0]}',<={py_versions[-1]}"  # noqa: E501
+                    if py_versions[0] == py_versions[-1]:
+                        marker = f"python_version=='{py_versions[0]}'"  # noqa: E501
+                    else:
+                        marker = f"python_version>='{py_versions[0]}',<='{py_versions[-1]}'"  # noqa: E501
                 else:  # upper-bound
                     marker = f"python_version>='{py_versions[0]}'"
 
@@ -151,8 +178,8 @@ def _combine_freezes(freezes, blacklist=None):
         elif list(versions.values())[0] != reference_versions:
             # markers for packages with a single version - these are usually
             # version specific so we use strict python versions for these
-            for idx, (version, py_versions) in enumerate(sorted(versions.items())):  # noqa: E501
-                for py_version in sorted(py_versions):
+            for idx, (version, py_versions) in enumerate(versions.items()):
+                for py_version in py_versions:
                     marker = f"python_version=='{py_version}'"
                     yield f'{package}==={version};{marker}\n'
         else:

@@ -118,6 +118,76 @@ class TestCombine(testtools.TestCase):
             list(_combine_freezes(
                 [freeze_27], blacklist=blacklist)))
 
+    def test_single_middle(self):
+        """Check when all intermediate releases are the same we use =="""
+        # This data is deliberately out of order to validate that
+        # _combine_freezes() will order the data correctly
+        freezes = [
+            ('3.10', [('networkx', '3.3')],),
+            ('3.11', [('networkx', '3.3')],),
+            ('3.8', [('networkx', '3.1')],),
+            ('3.9', [('networkx', '3.2.1')],),
+        ]
+        self.assertEqual(
+            ["networkx===3.1;python_version<='3.8'\n",
+             "networkx===3.2.1;python_version=='3.9'\n",
+             "networkx===3.3;python_version>='3.10'\n"],
+            list(_combine_freezes(freezes))
+        )
+
+    def test_mutiple_middle(self):
+        """Check when not all intermediate releases are the same we ranges"""
+        # This data is deliberately out of order to validate that
+        # _combine_freezes() will order the data correctly
+        freezes = [
+            ('3.10', [('networkx', '3.2.1')],),
+            ('3.11', [('networkx', '3.3')],),
+            ('3.8', [('networkx', '3.1')],),
+            ('3.9', [('networkx', '3.2.1')],),
+        ]
+        self.assertEqual(
+            ["networkx===3.1;python_version<='3.8'\n",
+             "networkx===3.2.1;python_version>='3.9',<='3.10'\n",
+             "networkx===3.3;python_version>='3.11'\n"],
+            list(_combine_freezes(freezes))
+        )
+
+    def test_mixed_and_many_pythons(self):
+        """When we have a mix of package and python versions use ranges"""
+        # This data is deliberately out of order to validate that
+        # _combine_freezes() will order the data correctly
+        freezes = [
+            ('3.10', [('networkx', '3.2.1')],),
+            ('3.11', [('networkx', '3.3')],),
+            ('3.8', [('networkx', '3.1')],),
+            ('3.9', [('networkx', '3.2.1')],),
+            ('3.12', []),
+        ]
+        self.assertEqual(
+            ["networkx===3.1;python_version<='3.8'\n",
+             "networkx===3.2.1;python_version>='3.9',<='3.10'\n",
+             "networkx===3.3;python_version>='3.11'\n"],
+            list(_combine_freezes(freezes))
+        )
+
+    def test_single_with_missing(self):
+        """When we have a single package versions use === and omit missing pythons"""
+        # This data is deliberately out of order to validate that
+        # _combine_freezes() will order the data correctly
+        freezes = [
+            ('3.10', [('networkx', '3.3')],),
+            ('3.11', [('networkx', '3.3')],),
+            ('3.8', [('networkx', '3.3')],),
+            ('3.9', [('networkx', '3.3')],),
+            ('3.12', []),
+        ]
+        self.assertEqual(
+            ["networkx===3.3;python_version=='3.8'\n",
+             "networkx===3.3;python_version=='3.9'\n",
+             "networkx===3.3;python_version=='3.10'\n",
+             "networkx===3.3;python_version=='3.11'\n"],
+            list(_combine_freezes(freezes))
+        )
 
 class Namespace(object):
     def __init__(self, **kwargs):
