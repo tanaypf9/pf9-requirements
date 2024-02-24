@@ -67,6 +67,23 @@
       "message": "Thanks, lgtm and we can add more jobs here if anything we see are not captured in cross project jobs in check/gate pipeline.",
       "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6d57d7ef_7551afc4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-24T03:46:42Z",
+      "side": 1,
+      "message": "This is fine.\n\nIt\u0027d be nice to have more information around which jobs cover which libraries.",
+      "revId": "f910188f4977a5a17996ca9db7d2ebc83cefbdd0",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
