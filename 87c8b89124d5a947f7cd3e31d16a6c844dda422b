@@ -16,6 +16,23 @@
       "message": "recheck post failure on placement job and no logs",
       "revId": "87c8b89124d5a947f7cd3e31d16a6c844dda422b",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "84fa80b0_3e40700d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-24T03:43:36Z",
+      "side": 1,
+      "message": "recheck\n\nPOST_FAILURE without logs in the gate pipeline",
+      "revId": "87c8b89124d5a947f7cd3e31d16a6c844dda422b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
