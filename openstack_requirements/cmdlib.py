@@ -15,6 +15,7 @@ import copy
 from datetime import datetime
 import hashlib
 import os.path
+import packaging.version
 import shutil
 import subprocess
 import sys
@@ -119,6 +120,13 @@ def _combine_freezes(freezes, blacklist=None):
         won't be included in the output.
     :return: A list of '\n' terminated lines for a requirements file.
     """
+
+    def version_keyfunc(tuple_arg):
+        """
+        """
+        (req_version, py_version) = tuple_arg
+        return packaging.version.Version(py_version)
+
     packages = {}  # {package : {version : [py_version]}}
     excludes = frozenset((requirement.canonical_name(s)
                           for s in blacklist) if blacklist else ())
@@ -139,7 +147,7 @@ def _combine_freezes(freezes, blacklist=None):
         if len(versions) > 1:
             # markers for packages with multiple versions - we use python
             # version ranges for these
-            for idx, (version, py_versions) in enumerate(sorted(versions.items())):  # noqa: E501
+            for idx, (version, py_versions) in enumerate(sorted(versions.items(), key=version_keyfunc)):  # noqa: E501
                 if idx == 0:  # lower-bound
                     marker = f"python_version<='{py_versions[-1]}'"
                 elif idx + 1 != len(versions):  # intermediate version(s)
