@@ -86,6 +86,24 @@
       "parentUuid": "76911ce0_9417e09a",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e4246c90_f6797cfd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-26T10:02:34Z",
+      "side": 1,
+      "message": "These patches include not only changes to replace sqlalchemy-migrate by alembic, but also ones to adopt sqlalchemy-2.0. IIUC the current failure is related to the removal of sqlalchemy-migrate support. According to https://codesearch.opendev.org/?q\u003dsqlalchemy-migrate\u0026i\u003dnope\u0026literal\u003dnope\u0026files\u003drequirements.txt\u0026excludeFiles\u003d\u0026repos\u003d, it seems ec2api, murano and trove are still using sqlalchemy-migrate but I\u0027m not too sure if we have to pend the removal again for these potentially inactive projects.\n\nTalking about the failure in manila, I guess https://review.opendev.org/c/openstack/manila/+/910166 would resolve it.",
+      "parentUuid": "d8c596dc_0c546670",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
