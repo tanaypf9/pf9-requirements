@@ -50,6 +50,24 @@
       "message": "The failure in manila is quite strange because WalkVersionsMixin was removed some time ago...\n\nhttps://github.com/openstack/oslo.db/commit/94d6e24ca19b0116eed00d5ccdb8a538918c6dcf",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "76911ce0_9417e09a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15197
+      },
+      "writtenOn": "2024-02-26T08:27:11Z",
+      "side": 1,
+      "message": "13.0.0 to 14.1.0 were all Bobcat deliverables: https://releases.openstack.org/bobcat/index.html#oslo-db\n\nWalkVersionsMixin was added back in 14.1.0 because many projects were not ready in time for the Bobcat release. See https://lists.openstack.org/archives/list/openstack-discuss@lists.openstack.org/message/22QKLVHX25Z22T5C2S7Z34XTED6K6Y7H/\n\nI am not sure if the situation has significantly changed since the revert just before Bobcat release.",
+      "parentUuid": "5f922ca1_55b5aed4",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
