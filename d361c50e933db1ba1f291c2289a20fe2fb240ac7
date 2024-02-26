@@ -104,6 +104,24 @@
       "parentUuid": "d8c596dc_0c546670",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fe60e086_b7d1a3f1",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-26T10:08:30Z",
+      "side": 1,
+      "message": "\u003e it seems ec2api, murano and trove are still using sqlalchemy-migrate but I\u0027m not too sure if we have to pend the removal again for these potentially inactive projects.\n\nI guess this was wrong and the change would not directly break them, because these projects own their implementations for sqlalchemy-migrate rather than using oslo.db for it.",
+      "parentUuid": "e4246c90_f6797cfd",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
