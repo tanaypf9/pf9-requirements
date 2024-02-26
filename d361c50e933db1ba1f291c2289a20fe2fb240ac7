@@ -68,6 +68,24 @@
       "parentUuid": "5f922ca1_55b5aed4",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d8c596dc_0c546670",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15197
+      },
+      "writtenOn": "2024-02-26T08:36:15Z",
+      "side": 1,
+      "message": "See https://review.opendev.org/q/topic:%22sqlalchemy-20%22+is:open for pending patches, including Manila.",
+      "parentUuid": "76911ce0_9417e09a",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
