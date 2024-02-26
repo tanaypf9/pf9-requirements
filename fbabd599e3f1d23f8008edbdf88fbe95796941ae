@@ -50,6 +50,23 @@
       "message": "recheck one more time for corvus",
       "revId": "fbabd599e3f1d23f8008edbdf88fbe95796941ae",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a4ce64dc_ab1827c4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 16
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-02-26T16:54:30Z",
+      "side": 1,
+      "message": "recheck zuul should work better now",
+      "revId": "fbabd599e3f1d23f8008edbdf88fbe95796941ae",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
