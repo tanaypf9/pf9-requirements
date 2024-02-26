@@ -33,6 +33,23 @@
       "message": "failures in manila and aodh look real",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5f922ca1_55b5aed4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-26T07:50:59Z",
+      "side": 1,
+      "message": "The failure in manila is quite strange because WalkVersionsMixin was removed some time ago...\n\nhttps://github.com/openstack/oslo.db/commit/94d6e24ca19b0116eed00d5ccdb8a538918c6dcf",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
