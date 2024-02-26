@@ -33,6 +33,24 @@
       "message": "check experimental",
       "revId": "4845af8877b78a81a66ba7108cde6be5b7baec2f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "41d8ccc2_76b8723f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-26T09:22:02Z",
+      "side": 1,
+      "message": "I\u0027ve submitted a fix https://review.opendev.org/c/openstack/oslo.context/+/910153 . Once that is merged then we may need a new oslo.context release then we can attempt this bump again.",
+      "parentUuid": "1d7c3db3_7a6463e2",
+      "revId": "4845af8877b78a81a66ba7108cde6be5b7baec2f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
