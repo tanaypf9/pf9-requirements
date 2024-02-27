@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4841b88b_a7bfb712",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-02-27T19:28:05Z",
+      "side": 1,
+      "message": "prometheanfire: yepp, the intention with this Unmaintained status was to remove any responsibility of teams about \"their\" unmaintained/* branches :) but let me know if you want to join to the group of unmaintainers :D (openstack-unmaintain-core)",
+      "revId": "8474108f1a273432a187cf2bc6f63c627a332c65",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
