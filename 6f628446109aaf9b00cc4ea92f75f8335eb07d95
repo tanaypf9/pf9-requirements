@@ -50,6 +50,24 @@
       "message": "kuryr imports pytz, but doesn\u0027t list it as a requirement. this worked so far since oslo.serialization required pytz, which has changed with the latest release",
       "revId": "6f628446109aaf9b00cc4ea92f75f8335eb07d95",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3892eda4_d647f122",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-27T14:40:29Z",
+      "side": 1,
+      "message": "There is a patch already proposed https://review.opendev.org/c/openstack/kuryr-kubernetes/+/910149 so we can recheck this once that is merged...",
+      "parentUuid": "17ee7845_b51a8c8c",
+      "revId": "6f628446109aaf9b00cc4ea92f75f8335eb07d95",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
