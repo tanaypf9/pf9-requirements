@@ -1,0 +1,9 @@
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Tue, 27 Feb 2024 21:32:02 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/909992
+Comments-Total: 2
+Project: openstack/requirements
+Branch: refs/heads/stable/2023.2
