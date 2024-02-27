@@ -16,6 +16,23 @@
       "message": "recheck\n\naodh doesn\u0027t use os-brick",
       "revId": "c34ac4c0db979819319ff506950bd92dc654b82d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "99537bfd_518e588b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-27T14:41:14Z",
+      "side": 1,
+      "message": "recheck tempest-full-py3 once passed so the current failure would be transient.",
+      "revId": "c34ac4c0db979819319ff506950bd92dc654b82d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
