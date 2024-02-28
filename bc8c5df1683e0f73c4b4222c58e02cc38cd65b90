@@ -34,6 +34,23 @@
       "parentUuid": "c1ff1199_5d6dcd6a",
       "revId": "bc8c5df1683e0f73c4b4222c58e02cc38cd65b90",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98ad1045_768609eb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-28T04:24:33Z",
+      "side": 1,
+      "message": "I suspect this release was made in error or is otherwise invalid?\n\nThere is no path from 4.3.0 -\u003e 4.4.0.  4.3.0 should never have been used on the master branch as it was/is a stable/2023.2 release only.  This release contains a number of reverts [1] which AFAICT are incompatible with the current key_manager class.\n\n\n[1] https://review.opendev.org/q/project:openstack/castellan+branch:stable/2023.2+is:merged+Revert",
+      "revId": "bc8c5df1683e0f73c4b4222c58e02cc38cd65b90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
