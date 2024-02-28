@@ -16,6 +16,24 @@
       "message": "recheck failures in nova and glance are real. rechecking to get valid results fo octavia (and see if aodh failure is transient or not)",
       "revId": "bc8c5df1683e0f73c4b4222c58e02cc38cd65b90",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "021eba6a_85e839e0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-28T02:32:38Z",
+      "side": 1,
+      "message": "I\u0027ve submitted the changes to fix nova tests and glance tests.\n\nhttps://review.opendev.org/q/topic:%22castellan-caracal-bump%22",
+      "parentUuid": "c1ff1199_5d6dcd6a",
+      "revId": "bc8c5df1683e0f73c4b4222c58e02cc38cd65b90",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
