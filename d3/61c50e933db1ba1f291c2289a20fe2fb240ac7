@@ -1,0 +1,12 @@
+Code-Review+1: WangYun <wangyun@yovole.com>
+Verified+2: Zuul
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Code-Review-1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Zuul
+Submitted-at: Wed, 28 Feb 2024 12:24:57 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/909930
+Comments-Total: 13
+Comments-Unresolved: 1
+Project: openstack/requirements
+Branch: refs/heads/master
