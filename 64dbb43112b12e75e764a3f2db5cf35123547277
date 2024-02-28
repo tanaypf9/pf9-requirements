@@ -16,6 +16,24 @@
       "message": "for the record i do not belive this is in line with the non clinet lib freeze.\nim not going to block it but this is an expction to that policy.\n\nthe non clinet lib freeze not only applies to the code of the lib but also to the requirements repo. non new non client lib release should be pulled after the non client lib freeze deadline which was last week and castellan is a non clint lib.\n\nwe shouold not need to review compatibality change to enable it in nova a this time that work should have been done before the non clinet lib freeze also.\n\ni have +2 the nova patch but please avoid bumping non clinet libs between the non client lib deadline and feature freeze.\n\nwe wount alwasy have time to review them or agree that its safe to bump them in that ime period.",
       "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "056b231b_81a52b95",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-28T23:32:56Z",
+      "side": 1,
+      "message": "In general I agree with you, and thank you for reviewing the nova patch.\n\nI do disagree that the requirements repo freezes (for non-client libraries) with the non-client release freeze.\n\nHaving said that, this is indeed an exception situation and should have been treated more inline with the exception policy.  I appologise for not doing that.\n\nI also don\u0027t have all the context but based on my research it looks like:\n\na) 4.4.0 is an descendant of 4.2.0\nb) 4.3.0 was released for 2023.2/Bobcat which contains a number of reverts\n   https://review.opendev.org/c/openstack/releases/+/896237\nc) The 4.3.0 release was accepted into master/2024.1/Caracal arguably by mistake\n   https://review.opendev.org/c/openstack/requirements/+/896254\nd) there has not been a release of castellan since 4.3.0\n\nAll this means that we have been testing master with something that wasn\u0027t intended for master, the code has been merged for 6+months just it was hidden and the nova change has been around for 6+months but due to all of the above hasn\u0027t been reviewed.\n\nIn terms of possible paths forward  I can see several\n\n1) Update castellan (with an FFE) to make the consumers code and exception code backwards compatible and release that as 4.4.1 and block/ignore 4.4.0\n2) Block/ignore 4.4.0 on master, do the appropriate shenanigans to cut an early stable/2024.1 branch based on stable/2023.2/bobcat/4.3.0 and circle back to this early in 2024.2/Dalmatian probably with an early 5.0.0 castellan release\n3) Accept mistakes weer made and take steps needed to allow 4.4.0 into 2024.1/Caracal\n\nI don\u0027t have a strong opinion about the way forward, only that one should be found.    I guess option 3 is the path we\u0027re on, but I have a preference for option 1",
+      "parentUuid": "d9859208_e3cd3e4d",
+      "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
