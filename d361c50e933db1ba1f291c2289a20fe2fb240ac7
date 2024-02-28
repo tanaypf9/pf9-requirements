@@ -156,6 +156,23 @@
       "message": "recheck to see if aodh failure is consistent.",
       "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a77127e8_9d86778a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-02-28T03:56:23Z",
+      "side": 1,
+      "message": "Looks like the failures have been fixed in the impacted projects",
+      "revId": "d361c50e933db1ba1f291c2289a20fe2fb240ac7",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
