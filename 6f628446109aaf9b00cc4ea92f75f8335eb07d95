@@ -68,6 +68,23 @@
       "parentUuid": "17ee7845_b51a8c8c",
       "revId": "6f628446109aaf9b00cc4ea92f75f8335eb07d95",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f18b14a_a0e3fe59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-28T02:33:08Z",
+      "side": 1,
+      "message": "recheck the kuryr change has been merged",
+      "revId": "6f628446109aaf9b00cc4ea92f75f8335eb07d95",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
