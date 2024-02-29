@@ -52,6 +52,24 @@
       "parentUuid": "056b231b_81a52b95",
       "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "187233c9_f221d081",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2024-02-29T11:33:27Z",
+      "side": 1,
+      "message": "... gerrit lost this so lets try again\n\nwe could tag 4.4.0 as 5.0.0 just to capture the api break but honestly since the relase has already happend i dont think we need to correct the api with a 4.4.1 in a rush.\n\nit looks like only galnce an nova was affected ans you could argue that we should not inhiert form teh base class although it is a public api.\n\nthe takeway here for me is when we are revieing release changes we shoudl consider if a ABC has addded new functions that dont have a default impl and treat that as if they added/removed new required fucntion parmaters or removed a function.\n\ni.e. treat it as an api breakage and therefor a major version bump because it requires exisitng users to change there code to maintian the existing fuctionaltiy.",
+      "parentUuid": "0cc43b62_c5f346ab",
+      "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
