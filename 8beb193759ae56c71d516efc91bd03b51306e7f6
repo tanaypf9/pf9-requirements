@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "692f5bae_5eac556d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 22629
+      },
+      "writtenOn": "2024-02-29T11:28:58Z",
+      "side": 1,
+      "message": "W-1 until Magnum gets fixed (oslo.db and autocommit)",
+      "revId": "8beb193759ae56c71d516efc91bd03b51306e7f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
