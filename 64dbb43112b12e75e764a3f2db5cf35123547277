@@ -70,6 +70,24 @@
       "parentUuid": "0cc43b62_c5f346ab",
       "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07d02d51_38bee6c9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-02-29T11:37:23Z",
+      "side": 1,
+      "message": "\u003e it looks like only galnce an nova was affected ans you could argue that we should not inhiert form teh base class although it is a public api.\n\nI didn\u0027t explain the details well so there may be some misunderstanding about what I said.\nI totally agree with the change made in KeyManager class and this is really API breaking change which should be avoided or at least announced as a major bump.\n\nHowever the failure in glance is caused by a different change https://review.opendev.org/c/openstack/castellan/+/909051 and this is just touching the unit tests. The unit test failure in glance is caused by the fact they implement their unit tests usng something from castellan.tests which I\u0027m saying not intended.",
+      "parentUuid": "187233c9_f221d081",
+      "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
