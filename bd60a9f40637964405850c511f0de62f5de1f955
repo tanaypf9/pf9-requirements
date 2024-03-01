@@ -16,6 +16,23 @@
       "message": "recheck\n\nSeems unrelated:  https://storage.gra.cloud.ovh.net/v1/AUTH_dcaab5e32b234d56b626f72581e3644c/zuul_opendev_logs_0e5/910635/1/check/cross-glance-py311/0e59319/testr_results.html",
       "revId": "bd60a9f40637964405850c511f0de62f5de1f955",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f7bef660_2a269241",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-01T07:52:42Z",
+      "side": 1,
+      "message": "recheck unstable aodh jobs?",
+      "revId": "bd60a9f40637964405850c511f0de62f5de1f955",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
