@@ -16,6 +16,23 @@
       "message": "I\u0027m okay with this.  I do have a couple of questions ...\n\nWe added bcrypt 4.1.2 about 2 months ago, why is this an issue now?\n\nWhen you say you\u0027re looking at removing the library, I assume you mean passlib, Are you looking at other users of passlib (eg trove) also?",
       "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "14a8553e_bd572f3c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-01T07:26:43Z",
+      "side": 1,
+      "message": "technical -2 while we\u0027re in requirements freeze\n\nif this is really needed for the current cycle, you would have to request a freeze exception on the ML",
+      "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
