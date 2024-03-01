@@ -327,7 +327,6 @@ ceilometer  # Apache-2.0
 ceilometermiddleware  # Apache-2.0
 cliff  # Apache-2.0
 debtcollector  # Apache-2.0
-dib-utils  # Apache-2.0
 diskimage-builder  # Apache-2.0
 etcd3gw  # Apache-2.0
 futurist  # Apache-2.0
