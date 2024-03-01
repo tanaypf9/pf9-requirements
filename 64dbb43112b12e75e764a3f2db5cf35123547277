@@ -88,6 +88,23 @@
       "parentUuid": "187233c9_f221d081",
       "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c9286f09_aeb769e3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-01T07:51:15Z",
+      "side": 1,
+      "message": "the requirements freeze explicitly exludes releases made from OpenStack projects, so IMO it does not apply this patch at all\n\nin the interest of a coordinated global OpenStack release it also is important that other repos run their tests against the latest release of libraries, which is what this patch achieves, so I think it should be merged as soon as possible.\n\nI do support the argument that this possibly should have been a major version bump, but that should be discussed with the oslo team and possibly the release team to see whether another release should be made",
+      "revId": "64dbb43112b12e75e764a3f2db5cf35123547277",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
