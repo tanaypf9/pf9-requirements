@@ -1,0 +1,9 @@
+Verified+2: Zuul
+Code-Review+1: Shanjiayi <shanjiayi@yovole.com>
+Code-Review+2: Tony Breeds <tony@bakeyournoodle.com>
+Workflow+1: Tony Breeds <tony@bakeyournoodle.com>
+Submitted-by: Zuul
+Submitted-at: Fri, 01 Mar 2024 06:13:56 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/910586
+Project: openstack/requirements
+Branch: refs/heads/master
