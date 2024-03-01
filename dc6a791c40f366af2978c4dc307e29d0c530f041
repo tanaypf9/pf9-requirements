@@ -16,6 +16,23 @@
       "message": "recheck - package publishing race",
       "revId": "dc6a791c40f366af2978c4dc307e29d0c530f041",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "08b77e71_74f15266",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-01T18:24:56Z",
+      "side": 1,
+      "message": "recheck unrelated designate failure",
+      "revId": "dc6a791c40f366af2978c4dc307e29d0c530f041",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
