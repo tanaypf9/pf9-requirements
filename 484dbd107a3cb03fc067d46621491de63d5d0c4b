@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3767ed47_2cfefdd5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-03-01T03:22:44Z",
+      "side": 1,
+      "message": "recheck\n\n(I admit I didn\u0027t check but I\u0027m not certain the tempest job uses octaviaclient)",
+      "revId": "484dbd107a3cb03fc067d46621491de63d5d0c4b",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
