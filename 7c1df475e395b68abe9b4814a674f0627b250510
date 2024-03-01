@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b0d28304_ec0fcf76",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-03-01T03:15:41Z",
+      "side": 1,
+      "message": "I\u0027m okay with this.  I do have a couple of questions ...\n\nWe added bcrypt 4.1.2 about 2 months ago, why is this an issue now?\n\nWhen you say you\u0027re looking at removing the library, I assume you mean passlib, Are you looking at other users of passlib (eg trove) also?",
+      "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
