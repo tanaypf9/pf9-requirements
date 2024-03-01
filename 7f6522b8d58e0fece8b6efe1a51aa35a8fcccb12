@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "65035462_ff793b32",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 17
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-01T07:18:40Z",
+      "side": 1,
+      "message": "rebased on latest master. temporarily dropped depends-on aodh stack, since that is currently broken\n\ntechnical -2 while we\u0027re in requirements freeze",
+      "revId": "7f6522b8d58e0fece8b6efe1a51aa35a8fcccb12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
