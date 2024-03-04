@@ -16,6 +16,23 @@
       "message": "recheck tempest volume test failure",
       "revId": "8ace413f24e7917a07a993616e607db761a0cd12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c12b73f3_79d4497f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-04T17:04:46Z",
+      "side": 1,
+      "message": "recheck now a nova tempest failure *sigh*",
+      "revId": "8ace413f24e7917a07a993616e607db761a0cd12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
