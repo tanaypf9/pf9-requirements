@@ -33,6 +33,24 @@
       "message": "technical -2 while we\u0027re in requirements freeze\n\nif this is really needed for the current cycle, you would have to request a freeze exception on the ML",
       "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f72d0957_e817e570",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 7414
+      },
+      "writtenOn": "2024-03-04T16:53:50Z",
+      "side": 1,
+      "message": "I\u0027m confused about the timing as well, I also don\u0027t understand why the bump in requirements isn\u0027t breaking in keystones CI jobs. I cannot deploy devstack at the moment without changing the requirements though. I see the error in devstack gate logs [1] but the operation continues through some sort of Zuul magic.\n\nI\u0027m not committed to removing passlib, the removal introduces a whole host of issues that we\u0027ll need to solve with older passwords that were hashed using passlib.  With it\u0027s maintenance status and however [2] is resolved we may need to look at removal, in which case we can work with the other users of passlib to remove the package.\n\nI\u0027m going to set this as a WIP while I investigate options.  Thanks for the feedback.\n\n[1]: https://zuul.opendev.org/t/openstack/build/d0b63f0f89634d23a2214d9c698bdb83/log/job-output.txt#12964\n[2]: https://foss.heptapod.net/python-libs/passlib/-/issues/187",
+      "parentUuid": "b0d28304_ec0fcf76",
+      "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
