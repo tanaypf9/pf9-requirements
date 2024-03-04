@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "26c5fda5_3abb84c6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-04T07:52:46Z",
+      "side": 1,
+      "message": "formal -2 because of reqs freeze, IIUC we\u0027ll have to wait until after branching 2024.1",
+      "revId": "6931370ca1c960bf2f050a919e84231b2c3259dd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
