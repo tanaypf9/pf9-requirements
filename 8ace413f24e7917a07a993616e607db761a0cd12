@@ -33,6 +33,23 @@
       "message": "recheck now a nova tempest failure *sigh*",
       "revId": "8ace413f24e7917a07a993616e607db761a0cd12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a3cd2b5_ada0248e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-03-05T05:00:53Z",
+      "side": 1,
+      "message": "recheck unstable aodh tests",
+      "revId": "8ace413f24e7917a07a993616e607db761a0cd12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
