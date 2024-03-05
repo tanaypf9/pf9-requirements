@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e4e4e365_d87678f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-05T10:14:35Z",
+      "side": 1,
+      "message": "still needs a fix in nova, cf. https://review.opendev.org/c/openstack/requirements/+/910221 (bump to 4.4.0)",
+      "revId": "6230793a37d1ce67a7565d4ac876ffd3b6138352",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
