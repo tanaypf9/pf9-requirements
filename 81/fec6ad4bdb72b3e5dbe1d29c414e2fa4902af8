@@ -1,0 +1,9 @@
+Code-Review+2: Elod Illes <elod.illes@est.tech>
+Workflow+1: Elod Illes <elod.illes@est.tech>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 06 Mar 2024 17:59:43 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/911147
+Comments-Total: 1
+Project: openstack/requirements
+Branch: refs/heads/unmaintained/wallaby
