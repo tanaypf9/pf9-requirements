@@ -3,6 +3,23 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "64c79f96_2e467f50",
+        "filename": ".zuul.d/cross-jobs.yaml",
+        "patchSetId": 2
+      },
+      "lineNbr": 148,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-03-08T15:53:42Z",
+      "side": 1,
+      "message": "nit: you mean magnum",
+      "revId": "8beb193759ae56c71d516efc91bd03b51306e7f6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "692f5bae_5eac556d",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 2
