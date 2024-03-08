@@ -1,0 +1,9 @@
+Workflow+1: Elod Illes <elod.illes@est.tech>
+Code-Review+2: Elod Illes <elod.illes@est.tech>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 08 Mar 2024 19:17:34 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/910573
+Comments-Total: 8
+Project: openstack/requirements
+Branch: refs/heads/master
