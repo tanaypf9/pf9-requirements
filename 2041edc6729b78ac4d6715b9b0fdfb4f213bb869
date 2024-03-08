@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a9160ea2_af154f1c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-03-08T16:45:54Z",
+      "side": 1,
+      "message": "typo is fixed. patch looks good to me and new job run looks good too according to logs. Tony was already +2 on the previous patch which is basically the same (only a typo was fixed), so considering that I +2+W this now.",
+      "revId": "2041edc6729b78ac4d6715b9b0fdfb4f213bb869",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
