@@ -16,6 +16,23 @@
       "message": "This was discussed on release meeting and also an RFE [1] was sent to ML. Looks good to me, but let\u0027s wait for the CI to finish.\n\n[1] https://lists.openstack.org/archives/list/openstack-discuss@lists.openstack.org/thread/LM7O4WMGDRDBDSTGAFT2U5VTVPWDLYEI/",
       "revId": "4f0d8d4547325dca6c4f408921b7e31bd1cc194d",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "622f16c5_2e269c2c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-03-11T13:07:28Z",
+      "side": 1,
+      "message": "CI has passed I think this is good to go.",
+      "revId": "4f0d8d4547325dca6c4f408921b7e31bd1cc194d",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
