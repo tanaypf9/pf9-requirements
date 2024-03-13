@@ -33,6 +33,24 @@
       "message": "lgtm, thanks",
       "revId": "29de2bdd384832dff97c542e9fe71748c5e9489c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d724c9e5_fec2be35",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 28619
+      },
+      "writtenOn": "2024-03-13T18:08:44Z",
+      "side": 1,
+      "message": "Filling in disk with SSL errors doesn\u0027t sound too good for CI either.\nAlso, I guess, then we should revive topic about lower-constraints to allow project to maintain their own constraints, if that is required now.",
+      "parentUuid": "9e47aee8_25a46e0d",
+      "revId": "29de2bdd384832dff97c542e9fe71748c5e9489c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
