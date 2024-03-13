@@ -16,6 +16,23 @@
       "message": "Adding neutron PTL for feedback before approving\n\nAlso general note that upper-constraints.txt for stable branches is not expected to track all bugfix releases, just to guarantee a stable CI environment. Production deployments should use their own constraints.",
       "revId": "29de2bdd384832dff97c542e9fe71748c5e9489c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8fc22686_bd2380cd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2024-03-13T02:25:41Z",
+      "side": 1,
+      "message": "lgtm, thanks",
+      "revId": "29de2bdd384832dff97c542e9fe71748c5e9489c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
