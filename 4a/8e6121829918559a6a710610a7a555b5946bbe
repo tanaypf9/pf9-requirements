@@ -1,0 +1,12 @@
+Code-Review+1: Takashi Kajinami <kajinamit@oss.nttdata.com>
+Code-Review+2: Sean McGinnis <sean.mcginnis@gmail.com>
+Code-Review+2: Jens Harbott <frickler@offenerstapel.de>
+Verified+2: Zuul
+Workflow+1: Jens Harbott <frickler@offenerstapel.de>
+Code-Review+1: Michal Arbet <michal.arbet@ultimum.io>
+Submitted-by: Zuul
+Submitted-at: Fri, 22 Mar 2024 17:20:08 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/913409
+Comments-Total: 1
+Project: openstack/requirements
+Branch: refs/heads/master
