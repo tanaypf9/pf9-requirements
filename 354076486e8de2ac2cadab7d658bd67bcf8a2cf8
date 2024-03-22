@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "59b32176_7becefaf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-22T17:02:23Z",
+      "side": 1,
+      "message": "recheck cleanup failure in test_project_update_enable",
+      "revId": "354076486e8de2ac2cadab7d658bd67bcf8a2cf8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
