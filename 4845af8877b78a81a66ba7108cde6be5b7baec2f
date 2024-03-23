@@ -51,6 +51,23 @@
       "parentUuid": "1d7c3db3_7a6463e2",
       "revId": "4845af8877b78a81a66ba7108cde6be5b7baec2f",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd2c50c4_bfc83293",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-03-23T11:06:24Z",
+      "side": 1,
+      "message": "there was a new oslo.context release, but no new oslo.messaging release, so I think that this bump is still needed",
+      "revId": "4845af8877b78a81a66ba7108cde6be5b7baec2f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ],
   "submitRequirementResults": [
