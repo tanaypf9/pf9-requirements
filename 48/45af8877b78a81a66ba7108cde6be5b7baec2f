@@ -1,0 +1,11 @@
+Code-Review+2: Elod Illes <elod.illes@est.tech>
+Code-Review+2: Dr. Jens Harbott <frickler@offenerstapel.de>
+Workflow+1: Dr. Jens Harbott <frickler@offenerstapel.de>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 25 Mar 2024 13:29:46 +0000
+Reviewed-on: https://review.opendev.org/c/openstack/requirements/+/909906
+Comments-Total: 5
+Comments-Unresolved: 1
+Project: openstack/requirements
+Branch: refs/heads/master
