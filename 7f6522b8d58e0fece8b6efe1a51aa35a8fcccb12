@@ -16,6 +16,24 @@
       "message": "rebased on latest master. temporarily dropped depends-on aodh stack, since that is currently broken\n\ntechnical -2 while we\u0027re in requirements freeze",
       "revId": "7f6522b8d58e0fece8b6efe1a51aa35a8fcccb12",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "994dd1b2_ba6033fc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 17
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-02T10:54:41Z",
+      "side": 1,
+      "message": "jfyi (for other reviewers like zzzeek), aodh [should be fixed now](https://review.opendev.org/c/openstack/aodh/+/896097).",
+      "parentUuid": "65035462_ff793b32",
+      "revId": "7f6522b8d58e0fece8b6efe1a51aa35a8fcccb12",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
