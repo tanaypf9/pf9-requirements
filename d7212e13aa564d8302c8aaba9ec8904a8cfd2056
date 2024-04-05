@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7c98c063_091acd70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-04-05T21:21:26Z",
+      "side": 1,
+      "message": "These aren\u0027t installed by default, but they are tracked as part of the \"optional requirements\" of driver installations: https://opendev.org/openstack/cinder/src/branch/master/driver-requirements.txt\n\nSo it really depends on the configuration. Maybe one of the more active Cinder cores can weigh in on whether this is still tracked and tested somehow.",
+      "revId": "d7212e13aa564d8302c8aaba9ec8904a8cfd2056",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
