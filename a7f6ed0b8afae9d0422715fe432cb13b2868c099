@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ac4ee0d_065cb4f4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 18
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-05T10:23:43Z",
+      "side": 1,
+      "message": "recheck get some fresh logs after the release, but I don\u0027t think manila is ready yet?",
+      "revId": "a7f6ed0b8afae9d0422715fe432cb13b2868c099",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
