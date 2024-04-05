@@ -16,6 +16,23 @@
       "message": "formal -2 because of reqs freeze, IIUC we\u0027ll have to wait until after branching 2024.1",
       "revId": "6931370ca1c960bf2f050a919e84231b2c3259dd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c225a745_8f104cf8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-05T10:13:42Z",
+      "side": 1,
+      "message": "freeze is over, still need to resolve issues in the dependency chain",
+      "revId": "6931370ca1c960bf2f050a919e84231b2c3259dd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
