@@ -69,6 +69,23 @@
       "parentUuid": "14a8553e_bd572f3c",
       "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ebc28358_d4a2b99f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-05T10:21:40Z",
+      "side": 1,
+      "message": "the release is done, so we could proceed if still needed, any update from your investigations?",
+      "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
