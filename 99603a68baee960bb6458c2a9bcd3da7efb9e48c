@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "64f15155_ad1c127d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-06T11:39:41Z",
+      "side": 1,
+      "message": "recheck the failure in aodh job looks unrelated.",
+      "revId": "99603a68baee960bb6458c2a9bcd3da7efb9e48c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
