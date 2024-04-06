@@ -16,6 +16,24 @@
       "message": "These aren\u0027t installed by default, but they are tracked as part of the \"optional requirements\" of driver installations: https://opendev.org/openstack/cinder/src/branch/master/driver-requirements.txt\n\nSo it really depends on the configuration. Maybe one of the more active Cinder cores can weigh in on whether this is still tracked and tested somehow.",
       "revId": "d7212e13aa564d8302c8aaba9ec8904a8cfd2056",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9fbf2e9_4a89e4c8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-06T09:03:34Z",
+      "side": 1,
+      "message": "We should, but the note in that file suggests what I\u0027m doing here is correct:\n\n```\n# Document dependencies that are only used if using\n# certain drivers.  This file is not managed by\n# requirements tools.\n# check [extras] section of setup.cfg for versions.\n```\n\nAlso, we\u0027re missing a few dependencies here that are listed there:\n\n- `python-lefthandclient`\n- `pyxcli`\n- `infi.dtypes.wwn`\n- `infi.dtypes.iqn`\n\nSo if these are to stay here, we should probably add those and start checking `driver-requirements.txt` against machinery (but I don\u0027t think we should).",
+      "parentUuid": "7c98c063_091acd70",
+      "revId": "d7212e13aa564d8302c8aaba9ec8904a8cfd2056",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
