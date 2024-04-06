@@ -16,6 +16,23 @@
       "message": "I think this might, _finally_, be ready for review",
       "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6ba1c610_a34cbd2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-06T08:55:58Z",
+      "side": 1,
+      "message": "recheck mistake on the earlier manila patch revision",
+      "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
