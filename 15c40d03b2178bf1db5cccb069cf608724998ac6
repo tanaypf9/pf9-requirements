@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "07102c74_b4a967d5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-07T06:41:43Z",
+      "side": 1,
+      "message": "shouldn\u0027t these also be dropped from u-c, then?",
+      "revId": "15c40d03b2178bf1db5cccb069cf608724998ac6",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
