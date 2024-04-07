@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "15ab06a9_17e4ad7c",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 328,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-07T07:24:35Z",
+      "side": 1,
+      "message": "This seems to be a similar case like for neutron/networking projects. Maybe it makes sense to have a dedicated section for these?\n\nOr even have a section for all projects under OpenStack governance, matching how we would be grouping imports?",
+      "revId": "dbeeaaa0668e026743a55489fb07ea33a03488b2",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
