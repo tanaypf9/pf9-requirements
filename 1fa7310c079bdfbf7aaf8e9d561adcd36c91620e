@@ -33,6 +33,23 @@
       "message": "recheck mistake on the earlier manila patch revision",
       "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6bfaa072_1d1c1ddd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-07T06:26:05Z",
+      "side": 1,
+      "message": "yay, so if manila manages to merge the stack soon, we might be able to merge this and get the remaining projects to fix their stuff within this cycle",
+      "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
