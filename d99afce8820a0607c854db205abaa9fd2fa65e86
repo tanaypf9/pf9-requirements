@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "60577a78_feef7b2c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 16
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-07T07:43:02Z",
+      "side": 1,
+      "message": "recheck timeout on instance deletion in sdk job, rpc errors, not sure if related",
+      "revId": "d99afce8820a0607c854db205abaa9fd2fa65e86",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
