@@ -16,6 +16,23 @@
       "message": "recheck unrelated tempest failure",
       "revId": "d068d9323c3476b7c07088ac0b327e585da35f36",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b4bc179b_60215c52",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-07T06:34:30Z",
+      "side": 1,
+      "message": "we do have the latest version in u-c already\n\nit also seems that projects should migrate to using the more modern tomlkit instead, but that isn\u0027t blocking this cleanup",
+      "revId": "d068d9323c3476b7c07088ac0b327e585da35f36",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
