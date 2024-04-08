@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "47558a17_e524a448",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27615
+      },
+      "writtenOn": "2024-04-08T13:05:50Z",
+      "side": 1,
+      "message": "i also feel the setup.cfg file handles the installation of driver specific requirements[1] but i will add more cinder cores to the conversation.\n\n[1] https://opendev.org/openstack/cinder/src/branch/master/setup.cfg#L79-L125",
+      "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
