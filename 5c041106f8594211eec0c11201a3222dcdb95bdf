@@ -33,6 +33,23 @@
       "message": "Seems right now.",
       "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d5b44d7f_40b9eab7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2024-04-08T13:25:16Z",
+      "side": 1,
+      "message": "I\u0027m ok with removing these from upper constraints, but I think they should stay in global requirements.  As the dependency management docs say, \"Global requirements gives us a single place where we can evaluate these things so that we can make a global decision for OpenStack on the suitability of the library.\"[0]\n\nSome of these driver-specific requirements are used by multiple projects, e.g., cinder and glance and manila, so I think it makes sense that these should be reviewed at a higher level than just the cinder project, for example.  Additionally, the projects (cinder, for example) when proposing to use a library, benefit from some review from the requirements team, and can backstop licensing issues and other red flags.\n\n\n[0] https://docs.openstack.org/project-team-guide/dependency-management.html",
+      "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
