@@ -84,6 +84,23 @@
       "message": "I think around Networking we are ready for this",
       "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4ba4cf48_7d264a7b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2024-04-09T22:58:46Z",
+      "side": 1,
+      "message": "Should be good for neutron as our sqlalchemy master job is already green.",
+      "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
