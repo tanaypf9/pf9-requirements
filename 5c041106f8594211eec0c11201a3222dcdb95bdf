@@ -84,6 +84,24 @@
       "message": "I am having second thoughts about removing them from upper-constraints as well.  A site that uses some particular cinder backend may also use it for manila and glance_store, so we do have some co-installability concerns, plus given that openstack lags behind other libraries in terms of what versions of python they support, it would be good to have these in upper constraints.",
       "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "05bd0f62_5d076672",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-09T17:20:21Z",
+      "side": 1,
+      "message": "This is a fair point. If this is the case, do we need to start testing those dependencies via the requirements job and do we need to add the missing dependencies noted previously?\n\n\u003e - `python-lefthandclient`\n\u003e - `pyxcli`\n\u003e - `infi.dtypes.wwn`\n\u003e - `infi.dtypes.iqn`",
+      "parentUuid": "d1f8d8a5_3fda2907",
+      "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
