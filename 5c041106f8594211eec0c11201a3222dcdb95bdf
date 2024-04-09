@@ -67,6 +67,23 @@
       "message": "Brian makes a good point.",
       "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d1f8d8a5_3fda2907",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5314
+      },
+      "writtenOn": "2024-04-09T14:36:08Z",
+      "side": 1,
+      "message": "I am having second thoughts about removing them from upper-constraints as well.  A site that uses some particular cinder backend may also use it for manila and glance_store, so we do have some co-installability concerns, plus given that openstack lags behind other libraries in terms of what versions of python they support, it would be good to have these in upper constraints.",
+      "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
