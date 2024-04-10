@@ -16,6 +16,24 @@
       "message": "New packages in g-r are still missing from u-c.",
       "revId": "93f345cd2e6b102aaba198b2c41cf9ca9510e887",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "150e3ce5_85f0f40b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34429
+      },
+      "writtenOn": "2024-04-10T16:33:30Z",
+      "side": 1,
+      "message": "Only types-setuptools was missing in u-c. types-python-dateutil is there already.",
+      "parentUuid": "c5d1906d_12115a1b",
+      "revId": "93f345cd2e6b102aaba198b2c41cf9ca9510e887",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
