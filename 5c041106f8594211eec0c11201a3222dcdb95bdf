@@ -102,6 +102,23 @@
       "parentUuid": "d1f8d8a5_3fda2907",
       "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d0e175e2_f27d4a84",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-11T02:28:56Z",
+      "side": 1,
+      "message": "I\u0027m happy to go either way on this.\n\nfull removal from global-requirements and upper-constraints *OR* adding the drivers-requirements.txt to the check machinery. \n\nEach has pros and cons.",
+      "revId": "5c041106f8594211eec0c11201a3222dcdb95bdf",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
