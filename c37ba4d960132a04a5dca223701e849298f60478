@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2bfbbfb5_add922bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-04-12T13:58:03Z",
+      "side": 1,
+      "message": "Zuul\u0027s happy, so looks good to me.",
+      "revId": "c37ba4d960132a04a5dca223701e849298f60478",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
