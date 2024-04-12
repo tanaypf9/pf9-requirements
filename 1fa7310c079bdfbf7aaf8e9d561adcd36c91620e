@@ -118,6 +118,24 @@
       "message": "So manila is ready, I do however worry about projects that are not covered by cross-testing of this repo. Should we at least announce this bump happening on the ML? And possibly give them at least a couple of days to be able to check things?",
       "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab34e947_28d11e96",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 19
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-12T10:40:54Z",
+      "side": 1,
+      "message": "I already did it.\n\nhttps://lists.openstack.org/archives/list/openstack-discuss@lists.openstack.org/thread/RBHXHTO3GUOOXVSZXD4C2O3TKDOH2QSC/",
+      "parentUuid": "f8734aef_e7d4417c",
+      "revId": "1fa7310c079bdfbf7aaf8e9d561adcd36c91620e",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
