@@ -33,6 +33,23 @@
       "message": "freeze is over, still need to resolve issues in the dependency chain",
       "revId": "6931370ca1c960bf2f050a919e84231b2c3259dd",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "137fff5b_495fa82a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 8556
+      },
+      "writtenOn": "2024-04-16T17:21:26Z",
+      "side": 1,
+      "message": "governance change is merged, this is good to go now.",
+      "revId": "6931370ca1c960bf2f050a919e84231b2c3259dd",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
