@@ -36,6 +36,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1930fd9c_57ac4d85",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:26:44Z",
+      "side": 1,
+      "message": "Moved to a [separate patch](https://review.opendev.org/c/openstack/requirements/+/916059).",
+      "parentUuid": "19fda6e1_e30d3e80",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "07d3c595_0de6b97a",
@@ -67,6 +85,24 @@
       "side": 1,
       "message": "I missed that. Proposed [this change](https://review.opendev.org/c/openstack/cinder/+/916056).",
       "parentUuid": "07d3c595_0de6b97a",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32848137_7e7390d0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:26:44Z",
+      "side": 1,
+      "message": "Moved to a [separate patch](https://review.opendev.org/c/openstack/requirements/+/916060).",
+      "parentUuid": "246f2683_d9412d9e",
       "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
@@ -106,6 +142,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "01795512_fa5bf150",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:26:44Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bd92caf8_a3f1912d",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "27032f6f_295040e0",
@@ -119,6 +173,24 @@
       "writtenOn": "2024-04-17T09:52:59Z",
       "side": 1,
       "message": "This is also referenced in taskflow and some other projects, not sure about the \"required\" part, but also not obvious to me that it really can be cleaned up.",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0023960b_1cf53b31",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:26:44Z",
+      "side": 1,
+      "message": "Okay, probably can\u0027t remove this yet so. I\u0027ve moved it to the deprecated section instead.",
+      "parentUuid": "27032f6f_295040e0",
       "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
