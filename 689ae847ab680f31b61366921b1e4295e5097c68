@@ -193,6 +193,24 @@
       "parentUuid": "27032f6f_295040e0",
       "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0331f4c6_9e6c3f07",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:27:15Z",
+      "side": 1,
+      "message": "Good point. I\u0027d misread that. I\u0027ve now moved this to the deprecated section instead.",
+      "parentUuid": "27032f6f_295040e0",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
