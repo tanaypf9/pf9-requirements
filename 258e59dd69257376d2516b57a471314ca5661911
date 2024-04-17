@@ -16,6 +16,24 @@
       "message": "Would it make sense to split this into two parts, so that the reordering commit could be added to .git-blame-ignore-revs ?\n\nThx for adding the verification snippet.",
       "revId": "258e59dd69257376d2516b57a471314ca5661911",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c47d0eb_039d1538",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T14:25:54Z",
+      "side": 1,
+      "message": "I\u0027d initially done that, but tbh the grouping reorders stuff so much that there\u0027s no real advantage to it: it simply makes rebasing harder.",
+      "parentUuid": "5f019107_e732a956",
+      "revId": "258e59dd69257376d2516b57a471314ca5661911",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
