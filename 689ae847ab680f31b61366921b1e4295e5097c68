@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4ebe469a_ca60afa9",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-17T09:52:59Z",
+      "side": 1,
+      "message": "https://opendev.org/openstack/devstack-plugin-kafka/src/commit/4e1c82f63767524f3de04da010974009bc7f0a0f/devstack/plugin.sh#L92-L93",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "07d3c595_0de6b97a",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-17T09:52:59Z",
+      "side": 1,
+      "message": "This is still in cinder reqs?\nhttps://opendev.org/openstack/cinder/src/commit/b36142602e4a478e0e9349126ab2bee92f3f2d18/requirements.txt#L15",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b1297fb_f92417f1",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-17T09:52:59Z",
+      "side": 1,
+      "message": "Still needed by swift for their py2.7 support?\nhttps://opendev.org/openstack/swift/src/branch/master/py2-constraints.txt#L27",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "27032f6f_295040e0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-17T09:52:59Z",
+      "side": 1,
+      "message": "This is also referenced in taskflow and some other projects, not sure about the \"required\" part, but also not obvious to me that it really can be cleaned up.",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
