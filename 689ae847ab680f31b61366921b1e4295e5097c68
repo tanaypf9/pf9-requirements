@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "19fda6e1_e30d3e80",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:25:11Z",
+      "side": 1,
+      "message": "Thanks, I was only looking at various requirements.txt files. Proposed [this change](https://review.opendev.org/c/openstack/devstack-plugin-kafka/+/916054).",
+      "parentUuid": "4ebe469a_ca60afa9",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "07d3c595_0de6b97a",
         "filename": "/COMMIT_MSG",
         "patchSetId": 4
@@ -37,6 +55,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "246f2683_d9412d9e",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:25:11Z",
+      "side": 1,
+      "message": "I missed that. Proposed [this change](https://review.opendev.org/c/openstack/cinder/+/916056).",
+      "parentUuid": "07d3c595_0de6b97a",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "7b1297fb_f92417f1",
         "filename": "/COMMIT_MSG",
         "patchSetId": 4
@@ -48,6 +84,24 @@
       "writtenOn": "2024-04-17T09:52:59Z",
       "side": 1,
       "message": "Still needed by swift for their py2.7 support?\nhttps://opendev.org/openstack/swift/src/branch/master/py2-constraints.txt#L27",
+      "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bd92caf8_a3f1912d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 4
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-17T11:25:11Z",
+      "side": 1,
+      "message": "That\u0027s a constraints file, not a requirements file. I assumed meant it was at most an indirect dependency? I was also under the assumption that we do not track indirect dependencies here?",
+      "parentUuid": "7b1297fb_f92417f1",
       "revId": "689ae847ab680f31b61366921b1e4295e5097c68",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
