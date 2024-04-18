@@ -16,6 +16,24 @@
       "message": "May I ask for a few more moments so that we get the fix for octavia and taskflow landed ?\nAlso, as I mentioned in my mail, aodh functional jobs are broken with this bump and needs further investigation.",
       "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fd4a4c79_cae89184",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-18T18:51:48Z",
+      "side": 1,
+      "message": "My previous comment still stands.",
+      "parentUuid": "dcb94dbb_ababc50f",
+      "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
