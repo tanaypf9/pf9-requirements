@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fc3265d6_6efbaa92",
+        "filename": "tools/lint.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 142,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-18T05:38:08Z",
+      "side": 1,
+      "message": "nit: released",
+      "range": {
+        "startLine": 142,
+        "startChar": 63,
+        "endLine": 142,
+        "endChar": 70
+      },
+      "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4db5c5b7_aa73d8d5",
+        "filename": "tools/lint.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-18T05:38:08Z",
+      "side": 1,
+      "message": "This comment is misleading, since it uses v1.45 as example, which suggests a large number of releases in between. What really matters is the first release after the exclude, likely v1.23 in this case. And what worries me is what happens if v1.22 is old, but v1.23 was only released recently, like a week ago. IMO we wouldn\u0027t want to drop the exlude right away then. But I agree that checking the age of v1.23 would be much more complicated, maybe too complicated for this use case. One could also argue that a project that needs 2 years to produce a fixed release could be considered unmaintained and should maybe not be getting used at all, but again I\u0027m not sure how to detect this in an automated fashion.",
+      "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
