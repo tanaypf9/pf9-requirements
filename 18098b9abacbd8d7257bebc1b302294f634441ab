@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8f64581d_85e4f4b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-18T15:26:15Z",
+      "side": 1,
+      "message": "recheck `fixtures._fixtures.timeout.TimeoutException` in cinder unit tests, probably worth reporting as a bug...",
+      "revId": "18098b9abacbd8d7257bebc1b302294f634441ab",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
