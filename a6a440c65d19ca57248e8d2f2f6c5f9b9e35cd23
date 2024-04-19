@@ -70,6 +70,24 @@
       "parentUuid": "210e44bf_ed097a2d",
       "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "43425448_e2802379",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-19T07:21:38Z",
+      "side": 1,
+      "message": "I was hoping to get someone from telemetry team to look into it but the problem wiht them is most of the core reviewers are not iavailable in irc and does not really active in reviews... I roughly guess https://review.opendev.org/c/openstack/aodh/+/916382 is what we need but if this does not resolve the problem then I can\u0027t commit myself to fixing the problem timely so yeah let\u0027s merge this knowing aodh is broken and leave it to them ...",
+      "parentUuid": "d8b6031a_0a7c9cd2",
+      "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
