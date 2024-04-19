@@ -16,6 +16,24 @@
       "message": "I think this line could be dropped, too",
       "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "81cd64f5_d8e85919",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 245,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2024-04-19T10:24:32Z",
+      "side": 1,
+      "message": "thank you for the review \nI actually need to more tests on the latest version so I\u0027ll put this on hold for the time being",
+      "parentUuid": "5633f772_996dd017",
+      "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
