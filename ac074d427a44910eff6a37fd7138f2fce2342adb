@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11871160_44aee646",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-19T12:39:03Z",
+      "side": 1,
+      "message": "Ignore this. Horizon used *built-in* pymemcache backend, not django-pymemcache ...",
+      "revId": "ac074d427a44910eff6a37fd7138f2fce2342adb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
