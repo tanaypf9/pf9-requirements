@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b1b90178_5954c26e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-04-19T11:17:46Z",
+      "side": 1,
+      "message": "Looks like this may be a legitimate issue in cinder:\n\n```\n      File \"/home/zuul/src/opendev.org/openstack/cinder/cinder/backup/drivers/ceph.py\", line 328, in _connect_to_rados\n    except self.rados.Error:\n\n    TypeError: catching classes that do not inherit from BaseException is not allowed\n```",
+      "revId": "f485440491cf78a289c362d7669b90151eea779c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
