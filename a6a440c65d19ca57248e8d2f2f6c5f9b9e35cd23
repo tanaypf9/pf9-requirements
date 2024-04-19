@@ -88,6 +88,24 @@
       "parentUuid": "d8b6031a_0a7c9cd2",
       "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d33c4558_8bcd2c6b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 5202
+      },
+      "writtenOn": "2024-04-19T14:54:12Z",
+      "side": 1,
+      "message": "Thanks Takashi,\n\nI\u0027ll get myself sorted back to IRC by next week, meanwhile can you point me to the failing job?",
+      "parentUuid": "43425448_e2802379",
+      "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
