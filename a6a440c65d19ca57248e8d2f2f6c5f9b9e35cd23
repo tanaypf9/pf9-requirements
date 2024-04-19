@@ -34,6 +34,24 @@
       "parentUuid": "dcb94dbb_ababc50f",
       "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "210e44bf_ed097a2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-04-19T01:06:24Z",
+      "side": 1,
+      "message": "OK Octavia was unblocked but aodh is still remaining.",
+      "parentUuid": "fd4a4c79_cae89184",
+      "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
