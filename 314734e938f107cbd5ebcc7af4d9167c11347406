@@ -39,6 +39,24 @@
       "message": "This comment is misleading, since it uses v1.45 as example, which suggests a large number of releases in between. What really matters is the first release after the exclude, likely v1.23 in this case. And what worries me is what happens if v1.22 is old, but v1.23 was only released recently, like a week ago. IMO we wouldn\u0027t want to drop the exlude right away then. But I agree that checking the age of v1.23 would be much more complicated, maybe too complicated for this use case. One could also argue that a project that needs 2 years to produce a fixed release could be considered unmaintained and should maybe not be getting used at all, but again I\u0027m not sure how to detect this in an automated fashion.",
       "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e46768c_19b7fb35",
+        "filename": "tools/lint.py",
+        "patchSetId": 4
+      },
+      "lineNbr": 144,
+      "author": {
+        "id": 15334
+      },
+      "writtenOn": "2024-04-23T10:38:40Z",
+      "side": 1,
+      "message": "We _could_ do this, but given it\u0027s a manually run tool it\u0027s possible to verify these changes. I just did this and didn\u0027t spot anything that filled the rather specific criteria of \"the most recent release was released very recently and the second (and potentially third, and foruth, and fifth, ...) most recent release(s) were blacklisted and released over 2 years ago). IMO what\u0027s done here is good enough.",
+      "parentUuid": "4db5c5b7_aa73d8d5",
+      "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
