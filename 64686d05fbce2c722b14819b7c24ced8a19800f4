@@ -68,6 +68,24 @@
       "message": "can we actually drop this one as it seems to be unmaintained?",
       "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4ba98cdf_c0500b03",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 23851
+      },
+      "writtenOn": "2024-04-23T13:13:12Z",
+      "side": 1,
+      "message": "I don\u0027t have anything against it, ironic migrated to lextudio since a while, but I\u0027m not sure if some other project is still using it",
+      "parentUuid": "7d2d56af_53e69efc",
+      "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
