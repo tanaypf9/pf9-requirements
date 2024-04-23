@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "ce46355a_12dba870",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-04-23T17:47:14Z",
+      "side": 1,
+      "message": "Ok, I\u0027m not completely convinced yet, but also not strictly against. Let\u0027s see what other reviewers think.",
+      "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fc3265d6_6efbaa92",
