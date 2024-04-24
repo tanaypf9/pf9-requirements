@@ -16,6 +16,24 @@
       "message": "Just to point out, this isn\u0027t what we call pinning. That would be restricting the version in the global requirements file. We _always_ put a limit in upper constraints for requirements to make sure we control which versions are used and that new releases of dependencies don\u0027t randomly break things.",
       "revId": "1f97af70a0c967798920f89f4189af289cc09a32",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e467c501_975d8ed3",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 8
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 34429
+      },
+      "writtenOn": "2024-04-24T16:22:46Z",
+      "side": 1,
+      "message": "thanks. I updated the commit message.",
+      "parentUuid": "f7b0591d_591ec9bd",
+      "revId": "1f97af70a0c967798920f89f4189af289cc09a32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
