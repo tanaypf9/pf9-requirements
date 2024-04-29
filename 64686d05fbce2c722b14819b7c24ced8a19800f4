@@ -86,6 +86,24 @@
       "parentUuid": "7d2d56af_53e69efc",
       "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "48915e77_61e0f235",
+        "filename": "global-requirements.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 246,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-29T21:49:48Z",
+      "side": 1,
+      "message": "It\u0027s still used in a couple of places \n\nopenstack/vitrage:requirements.txt:31:pysnmp\u003e\u003d4.4.4 # BSD ; and\nx/networking-hpe:requirements.txt:7:pysnmp\u003e\u003d4.2.3 # BSD\n\nbut I don\u0027t really think eitehr of these are blockers for removing pysnmp from global-requirements.",
+      "parentUuid": "4ba98cdf_c0500b03",
+      "revId": "64686d05fbce2c722b14819b7c24ced8a19800f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
