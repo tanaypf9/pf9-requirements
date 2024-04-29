@@ -1,5 +1,23 @@
 {
-  "comments": [],
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b2a8d23b_62b2372c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 9
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-29T20:45:43Z",
+      "side": 1,
+      "message": "FWIW I wouldn\u0027t have blocked this change but I feel like it introduces a new sort of tech-debt (that needs to be tracked by the requirements team) due to the way Python has added type support.\n\nAs far as I can tell type support is ignored at runtime and is essentially a fancy linter[1].  Since Iaf6d2c4aed92f35240b393939bbf76fd7d5d9aa2 we have mypy in blacklist.txt [2],  Type packages aren\u0027t needed at runtime and do not require global coordination.\n\n\n[1] Frome: https://docs.python.org/3/library/typing.html\n    \"The Python runtime does not enforce function and variable type annotations. They can be used by third party tools such as type checkers, IDEs, linters, etc.\"\n[2] https://review.opendev.org/c/openstack/requirements/+/903751",
+      "revId": "f624135ca4c4ba5ea0a119ab89ef7818ea9a4c18",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ],
   "submitRequirementResults": [
     {
       "submitRequirement": {
