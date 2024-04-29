@@ -16,6 +16,23 @@
       "message": "recheck the failure in aodh job looks unrelated.",
       "revId": "99603a68baee960bb6458c2a9bcd3da7efb9e48c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cb4f3e60_ae69d57e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-29T22:52:42Z",
+      "side": 1,
+      "message": "If lockfile is in upper-constraints,txt but not in global-requirements.txt then it is used, indirectly, but some library that is in global-requirements.txt.  If we remove this then it\u0027ll just get added back when we next generate upper-constraints.txt.\n\nWe don\u0027t have a good place to see this (but I think we\u0027ll get it \"for free\" when I finish https://review.opendev.org/q/topic:constraints-tools-updates.\n\nI spun up a workre locally and used pipdeptree:\n\nzuul@ubuntu-jammy:~/src/opendev.org/openstack/requirements$ ~/venv/bin/pipdeptree --python ~/venv/bin/python3 --warn silence --reverse --packages lockfile\nlockfile\u003d\u003d0.12.2\n└── python-daemon\u003d\u003d3.0.1 [requires: lockfile\u003e\u003d0.10]\n    └── ansible-runner\u003d\u003d2.3.6 [requires: python-daemon]",
+      "revId": "99603a68baee960bb6458c2a9bcd3da7efb9e48c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
