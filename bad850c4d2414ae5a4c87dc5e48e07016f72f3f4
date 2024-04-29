@@ -16,6 +16,23 @@
       "message": "recheck",
       "revId": "bad850c4d2414ae5a4c87dc5e48e07016f72f3f4",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a415e4b_5572f4a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-29T21:26:56Z",
+      "side": 1,
+      "message": "Looks like monasca forked it at some stage[1] and is unused [2]\n\n\n[1] https://opendev.org/openstack/monasca-common/src/branch/master/tox.ini#L67\n[2] https://codesearch.openstack.org/?q\u003dpython-kafka\u0026i\u003dnope\u0026literal\u003dnope\u0026files\u003drequirements.txt\u0026excludeFiles\u003d\u0026repos\u003d",
+      "revId": "bad850c4d2414ae5a4c87dc5e48e07016f72f3f4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
