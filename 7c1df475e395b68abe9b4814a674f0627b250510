@@ -86,6 +86,23 @@
       "message": "the release is done, so we could proceed if still needed, any update from your investigations?",
       "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7115e8fe_e8316ba2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-30T15:10:45Z",
+      "side": 1,
+      "message": "After looking closer at the issue, I agree that there is a very noisy log message but IIUC they\u0027re not fatal.  All that\u0027s failing is the detection of the bcrypt version.\n\nAlso the Current maintainer is *trying* to revive the project[1] so I\u0027m less willing to pin this.\n\n[1] https://foss.heptapod.net/python-libs/passlib/-/issues/187#note_346669",
+      "revId": "7c1df475e395b68abe9b4814a674f0627b250510",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
