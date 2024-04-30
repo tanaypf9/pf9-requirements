@@ -296,6 +296,7 @@ xvfbwrapper  #license: MIT
 
 blockdiag  # Apache-2.0
 doc8  # Apache-2.0
+docutils  # OSI-Approved Open Source, Public Domain
 pydot  # MIT License
 pydotplus  # MIT License
 Pygments  # BSD license
