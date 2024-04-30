@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f42404d3_00b5f343",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-04-30T17:21:07Z",
+      "side": 1,
+      "message": "Why was this being held back?  Does the newest Sphinx introduce build failures in docs?",
+      "revId": "2a48805ea8cb2b7b1c5f7c296b026b5e33486075",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
