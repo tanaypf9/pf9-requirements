@@ -2,7 +2,6 @@
 
 alembic  # MIT
 amqp  # BSD
-ansible-runner  # Apache 2.0
 appdirs  # MIT License
 apscheduler  # MIT License
 autobahn  # MIT License
