@@ -63,6 +63,30 @@
       },
       "revId": "afc0b1aff0484336c3c3222940dafa08073bc6f8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "521e900a_44c6d47d",
+        "filename": "openstack_requirements/cmds/check_exists.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-05-01T14:22:52Z",
+      "side": 1,
+      "message": "Actually I left that comment on the wrong file.  I meant to add it to generate which is called at here:   https://opendev.org/openstack/project-config/src/branch/master/playbooks/proposal/propose_update.sh#L39-L41\n\nso your implementation in PS2 should be fine.\n\nHaving said that I *think* check_exists is old code that isn\u0027t used anymore.  Or is used manually by some of the core team?\n\nEither way what you\u0027ve done is great.",
+      "parentUuid": "bb7965a4_7b985944",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 45
+      },
+      "revId": "afc0b1aff0484336c3c3222940dafa08073bc6f8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
