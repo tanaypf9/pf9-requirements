@@ -39,6 +39,30 @@
       },
       "revId": "afc0b1aff0484336c3c3222940dafa08073bc6f8",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bb7965a4_7b985944",
+        "filename": "openstack_requirements/cmds/check_exists.py",
+        "patchSetId": 1
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2024-05-01T01:40:01Z",
+      "side": 1,
+      "message": "Ack, I figured as much. Do we need to keep the --blacklist as well? I couldn\u0027t see via codesearch where this was called.",
+      "parentUuid": "25ebf934_4e821044",
+      "range": {
+        "startLine": 42,
+        "startChar": 0,
+        "endLine": 45,
+        "endChar": 45
+      },
+      "revId": "afc0b1aff0484336c3c3222940dafa08073bc6f8",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
