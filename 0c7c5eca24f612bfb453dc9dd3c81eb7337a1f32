@@ -16,6 +16,24 @@
       "message": "Looks good to me.\n\nThere\u0027s a small chance this will break $stuff but it it does it should be easy to locate and fix.\n\nWe will need to update the proposal tooling in project-config but this is a solid step forward.",
       "revId": "0c7c5eca24f612bfb453dc9dd3c81eb7337a1f32",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e943a1c_f961dd4a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2024-05-01T16:18:00Z",
+      "side": 1,
+      "message": "Ack. I have a project-config patch ready to go, as well as a project-team-guide to update the docs, should be linked here eventually.",
+      "parentUuid": "e917d3f6_8b3d07c9",
+      "revId": "0c7c5eca24f612bfb453dc9dd3c81eb7337a1f32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
