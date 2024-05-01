@@ -18,8 +18,8 @@
       zuul_work_dir: "{{ (zuul.projects.values() | selectattr('required') | selectattr('name', 'match', '^(?!openstack/requirements)') | list)[0].src_dir }}"
       tox_constraints_file: "{{ ansible_user_dir }}/{{ zuul.projects['opendev.org/openstack/requirements'].src_dir }}/upper-constraints.txt"
     files:
-      - upper-constraints.txt
-      - .zuul.d/cross-jobs.yaml
+    - upper-constraints.txt
+    - .zuul.d/cross-jobs.yaml
 
 - job:
     name: requirements-cross-npm
@@ -42,14 +42,16 @@
       tox_constraints_file: "{{ ansible_user_dir }}/{{ zuul.projects['opendev.org/openstack/requirements'].src_dir }}/upper-constraints.txt"
     pre-run: playbooks/nodejs-pre.yaml
     files:
-      - upper-constraints.txt
-      - .zuul.d/cross-jobs.yaml
+    - upper-constraints.txt
+    - .zuul.d/cross-jobs.yaml
 
 - job:
     name: cross-aodh-py38
     parent: requirements-cross-test
     description: Run cross-project tests on aodh with py38.
-    required-projects: openstack/aodh
+    required-projects:
+    - name: openstack/aodh
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -57,7 +59,9 @@
     name: cross-barbican-py38
     parent: requirements-cross-test
     description: Run cross-project tests on barbican with py38.
-    required-projects: openstack/barbican
+    required-projects:
+    - name: openstack/barbican
+      override-checkout: stable/zed
     vars:
       tox_envlist: py38
 
@@ -65,7 +69,9 @@
     name: cross-ceilometer-py38
     parent: requirements-cross-test
     description: Run cross-project tests on ceilometer with py38.
-    required-projects: openstack/ceilometer
+    required-projects:
+    - name: openstack/ceilometer
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -73,7 +79,9 @@
     name: cross-cinder-py38
     parent: requirements-cross-test
     description: Run cross-project tests on cinder with py38.
-    required-projects: openstack/cinder
+    required-projects:
+    - name: openstack/cinder
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -81,7 +89,9 @@
     name: cross-designate-py38
     parent: requirements-cross-test
     description: Run cross-project tests on designate with py38.
-    required-projects: openstack/designate
+    required-projects:
+    - name: openstack/designate
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -89,7 +99,9 @@
     name: cross-glance-py38
     parent: requirements-cross-test
     description: Run cross-project tests on glance with py38.
-    required-projects: openstack/glance
+    required-projects:
+    - name: openstack/glance
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -97,7 +109,9 @@
     name: cross-heat-py38
     parent: requirements-cross-test
     description: Run cross-project tests on heat with py38.
-    required-projects: openstack/heat
+    required-projects:
+    - name: openstack/heat
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -105,7 +119,9 @@
     name: cross-horizon-py38
     parent: requirements-cross-test
     description: Run cross-project tests on horizon with py38.
-    required-projects: openstack/horizon
+    required-projects:
+    - name: openstack/horizon
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -113,7 +129,9 @@
     name: cross-horizon-npm
     parent: requirements-cross-npm
     description: Run cross-project tests on horizon with npm.
-    required-projects: openstack/horizon
+    required-projects:
+    - name: openstack/horizon
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: npm
 
@@ -121,7 +139,9 @@
     name: cross-keystone-py38
     parent: requirements-cross-test
     description: Run cross-project tests on keystone with py38.
-    required-projects: openstack/keystone
+    required-projects:
+    - name: openstack/keystone
+      override-checkout: stable/zed
     timeout: 3600
     vars:
       tox_envlist: py38
@@ -130,7 +150,9 @@
     name: cross-kuryr-py38
     parent: requirements-cross-test
     description: Run cross-project tests on kuryr-kubernetes with py38.
-    required-projects: openstack/kuryr-kubernetes
+    required-projects:
+    - name: openstack/kuryr-kubernetes
+      override-checkout: stable/zed
     vars:
       tox_envlist: py38
 
@@ -138,7 +160,9 @@
     name: cross-ironic-py38
     parent: requirements-cross-test
     description: Run cross-project tests on ironic with py38.
-    required-projects: openstack/ironic
+    required-projects:
+    - name: openstack/ironic
+      override-checkout: stable/zed
     nodeset: ubuntu-focal
     vars:
       tox_envlist: py38
@@ -147,7 +171,9 @@
     name: cross-manila-py38
     parent: requirements-cross-test
     description: Run cross-project tests on manila with py38.
-    required-projects: openstack/manila
+    required-projects:
+    - name: openstack/manila
+      override-checkout: stable/zed
     vars:
       tox_envlist: py38
 
@@ -155,7 +181,9 @@
     name: cross-masakari-py38
     parent: requirements-cross-test
     description: Run cross-project tests on masakari with py38.
-    required-projects: openstack/masakari
+    required-projects:
+    - name: openstack/masakari
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -163,7 +191,9 @@
     name: cross-mistral-py38
     parent: requirements-cross-test
     description: Run cross-project tests on mistral with py38.
-    required-projects: openstack/mistral
+    required-projects:
+    - name: openstack/mistral
+      override-checkout: stable/zed
     vars:
       tox_envlist: py38
 
@@ -171,7 +201,9 @@
     name: cross-neutron-py38
     parent: requirements-cross-test
     description: Run cross-project tests on neutron with py38.
-    required-projects: openstack/neutron
+    required-projects:
+    - name: openstack/neutron
+      override-checkout: unmaintained/zed
     timeout: 3600
     vars:
       tox_envlist: py38
@@ -180,7 +212,9 @@
     name: cross-nova-functional
     parent: requirements-cross-test
     description: Run cross-project functional tests on nova.
-    required-projects: openstack/nova
+    required-projects:
+    - name: openstack/nova
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: functional
 
@@ -188,7 +222,9 @@
     name: cross-placement-functional-py38
     parent: requirements-cross-test
     description: Run cross-project functional tests on placement with py38.
-    required-projects: openstack/placement
+    required-projects:
+    - name: openstack/placement
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: functional-py38
 
@@ -196,7 +232,9 @@
     name: cross-nova-py38
     parent: requirements-cross-test
     description: Run cross-project tests on nova with py38.
-    required-projects: openstack/nova
+    required-projects:
+    - name: openstack/nova
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -204,7 +242,9 @@
     name: cross-placement-py38
     parent: requirements-cross-test
     description: Run cross-project tests on placement with py38.
-    required-projects: openstack/placement
+    required-projects:
+    - name: openstack/placement
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -212,7 +252,9 @@
     name: cross-osvif-py3
     parent: requirements-cross-test
     description: Run cross-project tests on os-vif with py3.
-    required-projects: openstack/os-vif
+    required-projects:
+    - name: openstack/os-vif
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py3
 
@@ -220,7 +262,9 @@
     name: cross-octavia-py38
     parent: requirements-cross-test
     description: Run cross-project tests on octavia with py38.
-    required-projects: openstack/octavia
+    required-projects:
+    - name: openstack/octavia
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -228,7 +272,9 @@
     name: cross-swift-py38
     parent: requirements-cross-test
     description: Run cross-project tests on swift with py38.
-    required-projects: openstack/swift
+    required-projects:
+    - name: openstack/swift
+      override-checkout: unmaintained/zed
     vars:
       tox_envlist: py38
 
@@ -241,7 +287,8 @@
     vars:
       zuul_work_dir: src/opendev.org/openstack/python-openstackclient
     required-projects:
-      - openstack/python-openstackclient
+    - name: openstack/python-openstackclient
+      override-checkout: unmaintained/zed
     files:
-      - upper-constraints.txt
-      - .zuul.d/cross-jobs.yaml
+    - upper-constraints.txt
+    - .zuul.d/cross-jobs.yaml
