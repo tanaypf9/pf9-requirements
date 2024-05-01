@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e917d3f6_8b3d07c9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-05-01T14:29:53Z",
+      "side": 1,
+      "message": "Looks good to me.\n\nThere\u0027s a small chance this will break $stuff but it it does it should be easy to locate and fix.\n\nWe will need to update the proposal tooling in project-config but this is a solid step forward.",
+      "revId": "0c7c5eca24f612bfb453dc9dd3c81eb7337a1f32",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
