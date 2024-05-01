@@ -16,6 +16,23 @@
       "message": "I think I\u0027m a +2 on this but I see a few references in deployments tools.  Like Kolla and rpm-packaging that I want to think through.\n\nI should be okay to merge this first.  I\u0027ll upgrade to +2 or leave a comment with my thinking at some stage today.",
       "revId": "c5a08f5ca0f6cd9824d87e38ca1e78d5633ce735",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a6d85fb3_512f76bb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-05-01T17:54:16Z",
+      "side": 1,
+      "message": "I went ahead and published changes in: https://review.opendev.org/q/topic:drop-pyinotify",
+      "revId": "c5a08f5ca0f6cd9824d87e38ca1e78d5633ce735",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
