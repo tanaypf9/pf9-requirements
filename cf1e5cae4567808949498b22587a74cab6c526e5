@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "858e5392_231b26b6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-05-01T17:57:10Z",
+      "side": 1,
+      "message": "Single core approving to remove gate issues.\n\nI think overall the cleanup is a positive change.  We need to do it more carefully.",
+      "revId": "cf1e5cae4567808949498b22587a74cab6c526e5",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
