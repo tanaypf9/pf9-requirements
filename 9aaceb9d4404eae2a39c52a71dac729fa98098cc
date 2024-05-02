@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4c30e5c9_76fada00",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 12898
+      },
+      "writtenOn": "2024-05-02T15:33:10Z",
+      "side": 1,
+      "message": "Looks good to me, single core approving to fix the gate for, at least, Octavia",
+      "revId": "9aaceb9d4404eae2a39c52a71dac729fa98098cc",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
