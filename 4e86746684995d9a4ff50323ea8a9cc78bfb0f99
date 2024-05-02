@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "39bebdcf_137b363e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 17685
+      },
+      "writtenOn": "2024-05-02T14:54:19Z",
+      "side": 1,
+      "message": "I\u0027ve cherry picked this to unmaintained/zed as unfortunately we have tagged zed-eom and cut unmaintained/zed branch for openstack/requirements (in previous \u0027unmaintained\u0027 transitions we encountered broken gates due to \u0027requirements\u0027 repository\u0027s unmaintained/\u003cseries\u003e branch did not exist when projects did the transition. for that we merged the transition patch of \u0027requirements\u0027 as soon as possible. so we wanted to do the same here, but that means we should have waited for final stable zed releases before we start merging the \u0027transition patch series\u0027 :/ sorry for the confusion)\n\nAnyway, maybe the easiest fix of this situation that we abandon this patch (on stable/zed) and merge the cherry picked version of this (on unmaintained/zed). Let me know if this is OK to you.\n\nIn the future we have to take care that final stable releases happen BEFORE we cut unmaintained/* branch of openstack/requirements.",
+      "revId": "4e86746684995d9a4ff50323ea8a9cc78bfb0f99",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
