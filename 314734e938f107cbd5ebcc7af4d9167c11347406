@@ -35,6 +35,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "58b9b3fd_69e866fd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2024-05-03T21:36:01Z",
+      "side": 1,
+      "message": "A revert was proposed and merged: https://review.opendev.org/c/openstack/requirements/+/917869",
+      "revId": "314734e938f107cbd5ebcc7af4d9167c11347406",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fc3265d6_6efbaa92",
