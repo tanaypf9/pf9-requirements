@@ -16,6 +16,23 @@
       "message": "Why was this being held back?  Does the newest Sphinx introduce build failures in docs?",
       "revId": "2a48805ea8cb2b7b1c5f7c296b026b5e33486075",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ac0ff9db_27ca0bfe",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-05-06T06:23:39Z",
+      "side": 1,
+      "message": "My main concern is that this can impact a lot of projects, for which we don\u0027t have a wide test coverage, so better make it a dedicated patch for visibility and possibly manual testing. But not a reason not to proceed with this IMO.",
+      "revId": "2a48805ea8cb2b7b1c5f7c296b026b5e33486075",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
