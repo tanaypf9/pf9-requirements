@@ -16,6 +16,23 @@
       "message": "With it yanked, we may be able to just list gabbi without any extra version restrictions. But seems safe enough.",
       "revId": "d928c81e15dfe8b60c883b0b17fa39d7875db632",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b8530f7_cbd34aaf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-05-09T21:54:06Z",
+      "side": 1,
+      "message": "recheck ssh: connect to host 23.253.56.19 port 22: Connection timed out",
+      "revId": "d928c81e15dfe8b60c883b0b17fa39d7875db632",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
