@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9abe7e0b_d1fc8a9d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-05-09T11:02:43Z",
+      "side": 1,
+      "message": "With it yanked, we may be able to just list gabbi without any extra version restrictions. But seems safe enough.",
+      "revId": "d928c81e15dfe8b60c883b0b17fa39d7875db632",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
