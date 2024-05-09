@@ -142,6 +142,24 @@
       "parentUuid": "153b1e19_e0afb227",
       "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "465da47d_c31f7811",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 20
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2024-05-09T12:32:31Z",
+      "side": 1,
+      "message": "https://review.opendev.org/c/openstack/aodh/+/916382 has merged and https://review.opendev.org/c/openstack/aodh/+/915570, dependent on this, now passes, so marking this done",
+      "parentUuid": "fb751066_a56a74ab",
+      "revId": "a6a440c65d19ca57248e8d2f2f6c5f9b9e35cd23",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
