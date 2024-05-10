@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4fc79df6_1cfd66b1",
+        "filename": "openstack_requirements/tests/files/upper-constraints.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 320,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-05-10T19:48:09Z",
+      "side": 0,
+      "message": "This isn\u0027t strictly necessary since this is just a test file, but might as well.",
+      "revId": "091035a0319fbca632e5ae0fcc4f249fa6f5792f",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
