@@ -86,6 +86,24 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "280f9e0b_a90c3670",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 21
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 16643
+      },
+      "writtenOn": "2024-05-10T15:18:23Z",
+      "side": 1,
+      "message": "No deploy fridays :D",
+      "parentUuid": "a95f047b_5d622c7b",
+      "revId": "92c8b4c52b3160df1db1768e8891fc19eb704424",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f931ccc0_b28ff6b6",
