@@ -85,6 +85,23 @@
       "message": "You can see in [1] I tested the docs builds of 200+ projects, of which 7 failed most of which seem to be for reasons not related to the Sphinx bump.\n\nSo I think we\u0027re okay to merge this,  I\u0027ll leave those reviews around for 24 hours for interested parties to look at then if there are no issues we can +A this.\n\n\n[1] https://review.opendev.org/q/topic:%22bump_sphinx%22+owner:%22tonyb%22",
       "revId": "2a48805ea8cb2b7b1c5f7c296b026b5e33486075",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fdc7771_df47c4b7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13252
+      },
+      "writtenOn": "2024-05-13T17:23:19Z",
+      "side": 1,
+      "message": "ack, thx for the testing",
+      "revId": "2a48805ea8cb2b7b1c5f7c296b026b5e33486075",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
