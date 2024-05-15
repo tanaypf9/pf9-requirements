@@ -53,6 +53,23 @@
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5f68b39_80e70db0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 27615
+      },
+      "writtenOn": "2024-05-15T18:16:54Z",
+      "side": 1,
+      "message": "If we are sure this is not the path we need to take, can we abandon or put a WIP status to it.\nI\u0027m asking because we are planning to remove the job that tests these constraints in Cinder[1] and if this patch goes in for any reason, we will be left with no testing for sqlalchemy 2.0\n\n[1] https://review.opendev.org/c/openstack/cinder/+/915563",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "ae38a134_e139be53",
