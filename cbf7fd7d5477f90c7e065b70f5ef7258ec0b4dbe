@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "861c8275_0c932f01",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2024-05-15T13:48:07Z",
+      "side": 1,
+      "message": "there\u0027s a login error, so the issue here is likely this one:\n\nhttps://review.opendev.org/c/openstack/neutron/+/913911\n\nif you can get that merged into neutron that may very likely fix the issue",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
