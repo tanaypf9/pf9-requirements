@@ -16,6 +16,24 @@
       "message": "2024?",
       "revId": "622ab28cae3cdd6cf135f0bbd53fc58f70b2af8c",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4bca5a4b_c246304d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-05-15T14:20:34Z",
+      "side": 1,
+      "message": "Oops. Should be 2014 ...",
+      "parentUuid": "0fa366a8_2402c03b",
+      "revId": "622ab28cae3cdd6cf135f0bbd53fc58f70b2af8c",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
