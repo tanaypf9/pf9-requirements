@@ -90,6 +90,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "9ba3af15_5b0a3383",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2024-05-15T18:39:23Z",
+      "side": 1,
+      "message": "actully https://review.opendev.org/c/openstack/neutron/+/913911 was merged with incorperated the url fix so i think this revert patch can be abandoed now?",
+      "parentUuid": "1d666be3_b8f8476f",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ae38a134_e139be53",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
