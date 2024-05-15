@@ -72,6 +72,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "1d666be3_b8f8476f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11604
+      },
+      "writtenOn": "2024-05-15T18:38:04Z",
+      "side": 1,
+      "message": "we have removed the job that tests 2.0 in nova and placement based on the version bump to requriements.\n\nso I dont think we should be reverting this.\n\nsounds like this was intended a s test patch based on yatins last comment so\ni would assume the actula path forward for neutron is https://review.opendev.org/c/openstack/neutron/+/913911 which mike highligted in https://review.opendev.org/c/openstack/requirements/+/919648/comments/ea559010_7172137a",
+      "parentUuid": "e5f68b39_80e70db0",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "ae38a134_e139be53",
         "filename": "upper-constraints.txt",
         "patchSetId": 2
