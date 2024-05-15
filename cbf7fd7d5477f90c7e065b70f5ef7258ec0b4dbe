@@ -33,6 +33,24 @@
       "message": "looking at https://review.opendev.org/c/openstack/neutron/+/913911 this codepath is under \"neutron/tests/fullstack/\" and that str(url) is wrong.  I think merging that would fix this.",
       "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "012e9ade_01c4f5fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13861
+      },
+      "writtenOn": "2024-05-15T13:59:58Z",
+      "side": 1,
+      "message": "Thanks Mike, will take that over.",
+      "parentUuid": "861c8275_0c932f01",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
