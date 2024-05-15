@@ -16,6 +16,23 @@
       "message": "there\u0027s a login error, so the issue here is likely this one:\n\nhttps://review.opendev.org/c/openstack/neutron/+/913911\n\nif you can get that merged into neutron that may very likely fix the issue",
       "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ea559010_7172137a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11816
+      },
+      "writtenOn": "2024-05-15T13:51:06Z",
+      "side": 1,
+      "message": "looking at https://review.opendev.org/c/openstack/neutron/+/913911 this codepath is under \"neutron/tests/fullstack/\" and that str(url) is wrong.  I think merging that would fix this.",
+      "revId": "cbf7fd7d5477f90c7e065b70f5ef7258ec0b4dbe",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
