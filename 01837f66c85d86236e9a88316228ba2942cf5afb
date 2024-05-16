@@ -16,6 +16,23 @@
       "message": "Please wait until https://review.opendev.org/c/openstack/heat/+/904573 is merged",
       "revId": "01837f66c85d86236e9a88316228ba2942cf5afb",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "76e3feae_e9c4c28a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11904
+      },
+      "writtenOn": "2024-05-16T15:41:04Z",
+      "side": 1,
+      "message": "If we can add that as a \"Depends-on\" line, that will make sure this does not get merged until that one has gone through.",
+      "revId": "01837f66c85d86236e9a88316228ba2942cf5afb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
