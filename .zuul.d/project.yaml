@@ -54,10 +54,6 @@
         - cross-osc-tox-docs
         - cross-swift-py311
         - openstacksdk-functional-devstack
-        - tempest-full-py3:
-            irrelevant-files:
-              - ^(test-|)requirements.txt$
-              - ^setup.cfg$
     check-arm64:
       jobs:
         - build-wheel-cache-centos-8-stream-arm64:
