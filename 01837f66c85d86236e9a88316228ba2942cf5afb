@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cbebb333_e5315c70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-05-16T15:34:13Z",
+      "side": 1,
+      "message": "Please wait until https://review.opendev.org/c/openstack/heat/+/904573 is merged",
+      "revId": "01837f66c85d86236e9a88316228ba2942cf5afb",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
