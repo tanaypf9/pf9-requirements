@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b499da50_885853c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 9816
+      },
+      "writtenOn": "2024-05-16T15:26:37Z",
+      "side": 1,
+      "message": "recheck fixtures._fixtures.timeout.TimeoutException in cinder tests",
+      "revId": "fc53e2eedddf6a0ba3b861899935b9280f353bd4",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    }
+  ]
+}
