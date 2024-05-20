@@ -590,3 +590,19 @@ sysv-ipc===1.1.0
 sphinxcontrib-applehelp===1.0.2
 scikit-learn===1.1.2
 pytest-cov===4.0.0
+
+# PF9:
+oslo.vmware
+mysqlclient==2.0.1
+PyMySQL>=0.9.3
+pexpect
+python-memcached
+cython==0.29.15
+numpy==1.23.3
+
+# PF9: Ironic
+python-ironicclient
+
+# PF9: Placement
+openstack-placement==3.0.0
+uwsgi==2.0.23
