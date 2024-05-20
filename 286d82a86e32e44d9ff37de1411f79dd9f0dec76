@@ -16,6 +16,23 @@
       "message": "Odd it complains as 3.12.0 meets the requirements, and didn\u0027t see this for 3.11.0\n\nThe conflict is caused by:\n    kuryr-lib 3.0.0 depends on neutron-lib\u003e\u003d1.13.0\n    The user requested (constraint) neutron-lib\u003d\u003d\u003d3.12.0",
       "revId": "286d82a86e32e44d9ff37de1411f79dd9f0dec76",
       "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0681fe50_72e677b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1131
+      },
+      "writtenOn": "2024-05-20T18:57:04Z",
+      "side": 1,
+      "message": "recheck to see if random failure",
+      "revId": "286d82a86e32e44d9ff37de1411f79dd9f0dec76",
+      "serverId": "4a232e18-c5a9-48ee-94c0-e04e7cca6543"
     }
   ]
 }
