@@ -606,3 +606,4 @@ python-ironicclient
 # PF9: Placement
 openstack-placement==3.0.0
 uwsgi==2.0.23
+vmware-nsxlib==16.0.0
